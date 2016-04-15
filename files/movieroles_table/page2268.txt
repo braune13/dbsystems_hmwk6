@@ -1,0 +1,66 @@
+111438,,,3176246,[Girl Pupil]
+113778,,,3176246,[Old Lady Card Player]
+114876,,,3176246,[Pub Patron 2]
+119831,,,3176246,[Wanda]
+121606,,,3176246,[Jessica Wilhern]
+122328,,,3176246,[Max]
+122712,,,3176246,[Boy Pupil]
+122809,,,3176246,[Franklin Wilhern]
+136950,,,3176246,[Leonard Wilhern]
+142353,,,3176246,[Edward Vanderman]
+144651,,,3176246,[Larry]
+145459,,,3176246,[Floorman in Card Club]
+146508,(as Will Willoughby),,3176246,[Handsome Suitor]
+2752,(uncredited),,3177434,[Mortimer's Brother-in-Law]
+6105,(uncredited),,3177434,[White Rocks Sheriff]
+14317,(uncredited),,3177434,"[Chico, Member of Indio's Gang]"
+17003,,,3177434,[Monco]
+17754,(uncredited),,3177434,[Member of Indio's Gang]
+18607,,,3177434,[Train Conductor]
+20327,(uncredited),,3177434,[Tucumcari Saloon Keeper]
+22609,(uncredited),,3177434,[Sherrif of Tucumcari]
+22842,(uncredited),,3177434,[Carpetbagger on Train]
+23874,(uncredited),,3177434,"[Miguel, Member of Indio's Gang]"
+28457,,,3177434,[Callaway's beautiful girl in tub]
+32781,(voice),(uncredited),3177434,[The Balladeer]
+35297,(uncredited),,3177434,[Tomaso's Wife]
+36655,(as Luis Rodriguez),,3177434,"[Manuel, Member of Indio's Gang]"
+37712,(as Robert Camardiel),,3177434,[Tucumcari station clerk]
+40217,(uncredited),,3177434,[Half-Shaved Bounty Hunter]
+42336,(uncredited),,3177434,
+42526,(uncredited),,3177434,"[Slim, Member of Indio's Gang]"
+43857,(uncredited),,3177434,[Fernando]
+48199,,,3177434,[Juan Wild - The Hunchback]
+56701,(uncredited),,3177434,"[Frisco, Member of Indio's Gang]"
+59466,(uncredited),,3177434,"[Guy Calloway, Mortimer's 1st Criminal]"
+61644,,,3177434,[Luke 'Hughie']
+62981,(uncredited),,3177434,[Bartender]
+64614,(uncredited),,3177434,[Paco - Member of Indio's Gang]
+64657,(uncredited),,3177434,
+65030,(uncredited),,3177434,['Baby' Red Cavanaugh]
+72218,(as Panos Papadopoulos),,3177434,"[Sancho Perez, Member of Indio's Gang]"
+80609,(uncredited),,3177434,"[Blackie, Member of Indio's Gang]"
+84669,(uncredited),,3177434,
+87803,(uncredited),,3177434,[Mortimer's Sister]
+88991,(as Tomas Blanco),,3177434,[Tucumcari sheriff]
+90204,(as Mara Krup),,3177434,[Mary - Hotel Manager's Beautiful Wife]
+91153,(as Sergio Mendizabal),,3177434,[Tucumcari bank manager]
+91845,,,3177434,"[Tomaso, Indio's Traitor]"
+94320,(uncredited),,3177434,[Hotel Manager]
+98826,(uncredited),,3177434,[El Paso Bank Manager]
+100964,,,3177434,[Carpenter in cell with El Indio]
+113783,(uncredited),,3177434,[Tomaso's Baby]
+115091,,,3177434,[Cuchillio]
+117888,(as Josef Egger),,3177434,[Old Prophet]
+120235,,,3177434,[El Indio (The Indian)]
+122133,,,3177434,[Col. Douglas Mortimer]
+124405,,,3177434,[Santa Cruz telegraphist]
+129668,,,3177434,"[Groggy, Member of Indio's Gang]"
+130519,(voice),(uncredited),3177434,[Whistling Bounty Hunter]
+136790,,,3177434,"[Nino, Member of Indio's Gang]"
+768,,,3177670,[Son of Ares]
+1100,,,3177670,[Boyfriend]
+1470,,,3177670,[50's Tough]
+1525,,,3177670,[Sally Jackson]
+2421,(as Violet Irene Columbus),,3177670,[Nymph Warrior]
+2626,,,3177670,[Lotus Land Dancer]

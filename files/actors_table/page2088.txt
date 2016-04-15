@@ -1,0 +1,71 @@
+actor,109459,Ahmad,Newman
+actor,36574,David (VI),Sharp
+actress,73199,Nikki,Davis-Jones
+actor,124699,Jack,Faint
+actress,25627,Gesche,Picolin
+actress,15739,Victoria Reina,Sigloch
+actress,106981,Emma (II),Slater
+actor,142460,Gabriel,Byrne
+actress,147403,Rachel,O'Meara
+actress,88622,Cheryl,Tiegs
+actress,16484,Holly,Klein
+actor,29048,Joseph (I),Chapman
+actor,132442,Dee Austin,Robertson
+actor,81059,Mike (XIX),Lee
+actress,139986,Carolyn,Dorfman
+actress,121892,Jenny (I),Lang
+actor,136529,Daniel,Aiken
+actress,140881,Morayo,Akandé
+actor,46847,Kalani,Robb
+actor,144465,Vernon,Neilly
+actor,135675,Bud,Sabatino
+actor,100183,Chen (III),Tang
+actress,1671,Marcia,Koch
+actress,94489,Olivia,Culpo
+actress,96218,Elizabeth (III),Myers
+actor,101917,Marsad,Nikui
+actor,105458,Simon,Longmore
+actress,95546,Gena (II),West
+actor,125892,Fred (I),Salmon
+actress,15917,Brooke (II),Williams
+actress,28427,Amanda (I),Spencer
+actor,22391,Blake,Lange
+actor,139367,Simon J.,Smith
+actor,29028,Nicholas (I),Cooper
+actor,31900,Joseph,Shimada
+actor,129579,Mike,Kasiske
+actor,59765,Manish,Goyal
+actor,84171,Sunil,Hirani
+actor,62840,Ben (III),McKenzie
+actor,37670,Gerardo,Moscoso
+actor,2558,Laurent,Hazout
+actor,128052,Robert (I),Dunbar
+actor,45507,Collin,Thornton
+actor,44172,José Luis,de Vilallonga
+actor,18351,Michael,Dardant
+actor,49803,Ivor (I),James
+actor,133824,T.L.,Savage
+actor,54047,Phil,Goodbody
+actor,105092,Chad O.,Allen
+actor,34934,John,Eagown
+actor,43012,Adam,Gobble
+actor,91048,Allen,Altman
+actor,124501,Ryan,Goimarac
+actor,83062,Feng,Hsing
+actor,53793,I.,Bubenchikov
+actor,141450,Chris (VII),Abbott
+actress,91508,Natacha,Lindinger
+actor,102024,William,Litauer
+actor,2484,Peter,Fanene Maivia
+actor,122309,Damien,Fahey
+actor,59967,Tim,Dougherty
+actor,54394,Charles (XI),Williams
+actor,69066,Ippei,Kawagoe
+actor,75416,Gurjeet,Ahluwalia
+actor,144460,Branko,Smiljanic
+actress,68893,Lois,Barragán
+actor,146142,Delano J.,Palughi
+actress,114428,Lorraine,Evanoff
+actor,56155,Isiah,Adams
+actress,114177,Dionne (I),Gipson
+actor,46299,Sam (III),Clarke

@@ -1,0 +1,71 @@
+actor,50561,John,Gadsden
+actor,98027,James 'Scotty',Augare
+actor,58214,John D.,Bert
+actor,54031,Luke (I),Baxter
+actor,114122,Benjamin,Niedens
+actress,10464,Christine (II),Watson
+actor,14055,João (II),Braz
+actor,41139,Tenzin Yeshi,Paichang
+actor,40239,David (I),Compton
+actress,81661,Marilena,Nicolaou
+actor,98255,Matt (II),Riley
+actor,4922,Chris (III),Cartwright
+actor,77491,Jay,Wolpert
+actress,23627,Jamie,Lombardino
+actor,59721,Andrew,Bansemer
+actor,123789,George (IV),Anderson
+actor,93977,Markus,Näslund
+actor,52224,Christian I.,Noble
+actress,138447,Kimi,Laldawla
+actor,79687,Joel,Isaac
+actor,113902,George,Davanzo
+actor,133180,Guillaume,Lanson
+actor,134810,Brian (I),Ramage
+actor,140890,Thierry (I),Lemaire
+actress,99246,Karen,Hader
+actress,70565,Marta,Jarolimkova
+actor,89881,Reg,Evans
+actor,105340,Kevin (II),Brennan
+actor,105696,Bobby,Seale
+actress,120865,Lillian,Groag
+actor,54988,Julien,Carette
+actor,1824,Ki Hong,Lee
+actor,47491,Billy (II),Zhao
+actress,82780,Gabrielle,Burton
+actor,139040,Sal,Mineo
+actor,146431,Begni,Bok Dong
+actress,70694,Jamie Day,Price-Young
+actor,111808,Bill (IV),Barclay
+actor,131565,Richard,Stahl
+actor,140356,Ken (I),Baldwin
+actor,48358,Michael,Egerman
+actor,119100,Alec,McMahon
+actor,21825,Mark,Donnell
+actor,26050,Ryan (V),Peterson
+actor,45787,Barry L.,Looney
+actress,93142,Nan (I),Yu
+actress,35280,Violaine,Estérez
+actor,82832,Robert (V),Mason
+actress,130343,Jenny (I),Wright
+actor,36028,Kane,Picoy
+actress,54179,Sarah (XIII),Henderson
+actress,114962,Samantha,Parisi
+actor,131347,Peter (III),Sullivan
+actor,57531,Diego,Sieres
+actor,49277,Ron,Insana
+actor,103407,Kurt,Boesen
+actor,47634,László,Hágó
+actor,58692,J.R.M.,Chapman
+actress,25972,Eithne,McGuinness
+actor,10797,Johnny A.,Sanchez
+actress,90825,Elizabeth (I),Wilson
+actor,65490,Ben Abadi Mohammed,Fillali
+actor,20065,Calum,Aynsley
+actress,32922,Jennifer,Frappier
+actress,125657,Jennifer,Haworth
+actor,38485,Jonas,Heller
+actress,78738,Ludmila,Henry
+actor,41354,Mickey (I),Jones
+actor,7774,Jeffrey,Tambor
+actress,54244,Rebekkah,Sekyi
+actor,111411,Matt,Heron-Duranti

@@ -1,0 +1,71 @@
+actor,25481,Lew,Hopson
+actor,41037,K. (I),Smith
+actress,120001,Shelley,Michelle
+actor,71153,Robert (I),Wagner
+actor,18658,Chad,Connell
+actress,28863,Martha,Cousins
+actress,28792,Princess Diana,
+actress,52898,Morgana,Van Peebles
+actor,128951,Ted (I),Cooper
+actress,82476,Devora,Wilde
+actress,63405,Susan (IX),Moore
+actor,145788,Hayden,Oliver
+actor,58372,Phil (III),Murray
+actress,53667,Jane B.,Harris
+actor,121896,Aleister (III),
+actor,60618,Matt,Contreras
+actor,127933,Leonard Earl,Howze
+actress,10192,Andrea,Sisniega
+actor,106211,Sam (II),Blankenship
+actor,9445,Jean-Yves,Chatelais
+actor,83325,Ray (I),Oliver
+actor,65809,J. Craig,Sandy
+actress,109863,Sara,Peery
+actor,9878,Rick,Lite
+actress,26472,Nicola,Cavendish
+actress,99803,Jade,Grace
+actress,17854,Veronica,Ferres
+actor,50935,Jack,Massey
+actress,12856,Carol,DePasquale
+actor,32278,Bernard,Bresslaw
+actor,12412,Steven (I),Beard
+actor,149307,James (I),Clark
+actor,67197,Ifeanyi,Obanye
+actor,117204,Jeff (I),Gibbs
+actor,58222,Justin,Ocksrider
+actress,89094,Kimberly,Whitfield
+actor,8035,Troy Michael,Simeon
+actress,34280,Janet (I),Wright
+actor,1045,Sam,Tsoutsouvas
+actor,146417,Richard D.,Sharp
+actress,142910,Nozomi,Ôhashi
+actor,56023,John,Jellison
+actor,85424,Brett (V),Brown
+actor,141038,Yan,Feldman
+actor,9218,Guy,Shahar
+actor,24934,Jeffery,Baker
+actor,15245,Gary (I),Grossman
+actor,129519,Ludek,Eliás
+actor,98163,Don (XII),Davis
+actress,148022,Carrie,Frymer
+actress,115331,Patricia (I),Potter
+actress,31136,Derya,Flechtner
+actor,49112,Angelo,Andreou
+actor,54598,Arif (II),Khan
+actress,12060,Christine,Pollon
+actor,24088,Richard,Cocchiaro
+actress,132219,Susan,Mellinger
+actress,29648,Lynne,Lerner
+actor,61747,Ya Hi,Cui
+actress,142915,Muzci,Taylor
+actress,37300,Priscilla,Lane
+actress,114373,Michelle,Stacy
+actor,71626,Chad Z.,King
+actor,51280,Bizeki,Magwanda
+actress,36771,Conchata,Ferrell
+actor,39677,William T.,Lewis
+actress,29813,Loyda,Ramos
+actor,103560,Rolf,Saxon
+actor,35432,Dwayne,Dahl
+actress,11447,Tracy (I),Wells
+actor,51435,Gary,Leffew

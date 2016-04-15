@@ -1,0 +1,71 @@
+actor,97898,George,Georgiadis
+actor,127459,Adam,Driggs
+actress,65694,Linda,Kanyarusoke
+actress,126829,Trish,Coren
+actress,19944,Heather (II),Simmons
+actress,84373,Kathleen (IV),O'Connor
+actor,132627,Murray,Salem
+actress,38882,Chelsea (I),Hayes
+actor,27946,George (I),Clinton
+actor,133682,Tommy,Groth
+actor,78517,Brian (I),George
+actor,49374,Angelo (II),Lopez
+actress,80197,Sabrina,Scharf
+actor,110623,David,Ahdar
+actor,58351,Galen,Hutchison
+actress,109690,Ayaka,Onoue
+actor,40127,Massimo,Vanni
+actor,126304,Ray (I),Elder
+actress,140382,Giovanna,Fletcher
+actress,3726,Carol (III),Cummings
+actor,143541,Jarreau,Williams
+actor,9834,Taurus,Davis
+actress,22793,Tiny,Doll
+actress,9983,Christina,Bobrowsky
+actor,38761,Alec,Vigil
+actor,125494,Brent,Kinsman
+actress,108837,Shane,Fitzpatrick
+actor,46473,Andrew (II),Jackson
+actor,104306,Eric,Hampton
+actor,29636,Gorô,Amano
+actress,148265,Harriet,Medin
+actress,58460,Blaine,Stevens
+actor,18431,Joe (I),Santos
+actor,19118,Michael (XII),Maguire
+actor,6545,Michael J.,Tomaso
+actor,78700,Trey (II),Taylor
+actor,42643,John (I),Alston
+actress,88818,Mercedes,Bailey
+actor,75578,Robert Nathan,Gleason
+actress,24748,Zoya (III),
+actor,95099,Henry,Barnard
+actress,140237,Robyn,Arthur
+actor,101647,Cody,Cover
+actress,125872,Jean,Carnt
+actor,93685,Sandy,Ward
+actor,20701,Hakuryû,
+actor,415,Kenneth,Siddons
+actor,135606,Markus,Flanagan
+actor,20564,Albert,Owens
+actress,129477,Meredith Riley,Stewart
+actor,129985,Todd Charles,Mosher
+actor,11714,Harry,Eden
+actor,34068,Paul Maximilian,Schüller
+actress,80797,Beverly (I),Thompson
+actress,21985,Rhian,Sugden
+actor,31171,Kuma (II),
+actor,139393,Oleg,Rudnik
+actor,57137,Kamal (I),
+actress,39096,Aruna,Shields
+actress,36194,Morgan,Wolk
+actor,137680,Joseph (I),Tornatore
+actress,80202,Eva,Ruzicka
+actor,148003,Cyrus,Newitt
+actress,51894,LaRain,Ring
+actor,66695,Edward,Zinoviev
+actor,139530,Peter,Rommely
+actor,122173,Adnan,Siddiqui
+actor,117179,Jon (II),Shannon
+actress,76560,Liza J.,Bennett
+actor,145581,Roddy,Adair
+actress,34895,The,Three Degrees

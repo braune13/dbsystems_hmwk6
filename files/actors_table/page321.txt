@@ -1,0 +1,71 @@
+actress,122642,Emmanuelle,Vaugier
+actor,86120,Adam,Tetzloff
+actor,130827,Howard,Starr
+actor,128654,Antony,Bunsee
+actor,133004,Carlos (I),Rivero
+actor,111167,Ichirô,Nagai
+actor,145898,Dion B.,Vines
+actress,139311,Stephanie,Janusauskas
+actor,234,Merrill,Reese
+actress,94966,Jacqueline,Obradors
+actress,84140,Shannon,Jobe
+actor,73986,Bud,Mathis
+actress,6490,Christine,D'Ercole
+actress,53935,Sonje,Fortag
+actress,13679,Angela (I),Lee
+actor,125396,Mario,De Grenet
+actor,69480,Dominic,Keating
+actor,90136,James,Yi
+actress,76002,Sarah (II),Power
+actress,139827,Andrea,Fellers
+actor,72929,Anthony (IV),Lewis
+actor,4235,Jan,Pohan
+actor,104601,Prasanna,Ketkar
+actress,22882,Mari,Morrow
+actress,101825,Nicolette,Scorsese
+actress,44724,Heather (I),Antonio
+actor,93601,Kairon,John
+actor,111094,Sam,Namatiti
+actress,100333,Jane,Birkin
+actress,27216,Tanya,Blount
+actor,26897,Jean-Claude,Adelin
+actor,143358,Allen,Sutherland
+actor,81999,Bruce,Boudreau
+actor,92235,Carl,Grose
+actor,133656,Todd,Rheingold
+actor,71801,Van (I),Hughes
+actor,36480,Teco,Celio
+actor,56535,Alban,Casterman
+actor,66748,Luis (I),Guzmán
+actor,78138,Oliver,Pierpaoli
+actress,43549,Karen,Shallo
+actress,125127,Sophia (I),Santi
+actor,54009,Paul,Mochnick
+actor,73289,Rob,Gasbarro
+actor,134122,James,Carville
+actor,83519,Bobby,Bojorklund
+actress,46584,Farris,Boyd
+actor,108208,Troy,Ward
+actor,93868,Richard (I),Jutras
+actor,50632,Noah (I),Radcliffe
+actress,37113,Stéphanie,Renouvin
+actor,81228,Dave (I),Dunlap
+actress,133177,Susan,Dalian
+actor,33678,Patrick,Sarniak
+actress,67736,Jennifer,Levey
+actress,90120,Simone,Cappotto
+actor,51331,Chris,Massoglia
+actor,73458,Richard,Kelton
+actress,80033,Julie (I),Payne
+actor,143621,Richard (I),McKenzie
+actor,29804,Scott (I),Means
+actor,74595,Dillon (I),Casey
+actor,74785,Eduardo N.,Martinez
+actor,60753,Johnny (I),Vaughan
+actor,120818,Bryan,Cranston
+actor,133846,Jack,Germond
+actor,53994,Richard (I),Benjamin
+actress,132608,Jessica,Lussier
+actor,4713,Anthony (III),Gilbert
+actress,22786,Karen,Alston
+actor,134817,Ed (I),Munro

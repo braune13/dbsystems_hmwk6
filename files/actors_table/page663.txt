@@ -1,0 +1,71 @@
+actor,96118,Allan,Pinsker
+actor,47450,Renaud,Alcalde
+actress,118021,Barbara June,Patterson
+actor,124904,Gunnar,Winbergh
+actor,61810,Eddie,Cahill
+actor,86024,Jack (I),Truman
+actor,70241,Frank (I),Medrano
+actor,57792,John,Maumau
+actor,62079,Darren (I),Harris
+actor,69918,Kenny (I),Kaiser
+actor,85214,Charles,Sammut
+actor,100953,Miodrag,Milovanov
+actor,5631,Rod,Steiger
+actor,11228,Spencer (II),Hill
+actress,12350,Sally,Phipps
+actress,143313,Talia,O'Neal
+actress,118112,Jessica (I),Martins
+actor,125676,Fred,Schrader
+actress,27167,Rosie (II),Stewart
+actor,144968,Jin-ho (II),Choi
+actress,99838,Caroline,Kava
+actress,105363,Sarah,Tippett
+actor,118992,Manuel,Poncelis
+actor,97864,Antonio (XIX),García
+actor,88978,Shihan,Cheng
+actress,51869,Janel,Parrish
+actor,17478,Robert Michael,Anderson
+actor,70154,David (I),Brunt
+actress,90480,Maria,Chiara
+actress,111656,Rosalinde,Mynster
+actress,149205,Libby,Titus
+actor,27640,Michael (XIII),Fraser
+actor,21019,Dawa,Norbu
+actor,141122,Deacon John,Moore
+actor,52094,László (I),Szabó
+actor,55930,Nazareth,Agopian
+actor,139793,Stewart (VI),Brown
+actor,43692,Sam,Hargrave
+actor,142911,Jeff (III),Schmidt
+actor,61937,Tateo,Takahashi
+actor,96111,Prianga,Pieris
+actor,29380,Alphorngruppe Flims Mobbing,Group
+actor,63518,Vjay,
+actor,129111,David (V),Sutherland
+actor,14575,Robert (IV),Harper
+actor,127068,Kristofer,Connor
+actor,116763,Louis,O'Donoghue
+actor,37811,Wally (I),Brown
+actress,100315,Nicole (II),Burch
+actor,24942,Brian (XXIV),Jones
+actor,142846,Andy (I),Gill
+actor,79988,Hugh,Elton
+actress,79217,Isabel,McCann
+actor,24604,Jeremy (II),McGuire
+actor,103133,Kevin (I),Monteiro
+actress,61707,Ali (I),MacLean
+actor,13366,Edmund,Joyce
+actress,133185,Olivia (V),Jones
+actor,132489,Mario,Moise Fontaine
+actor,8091,Jeffrey (I),Anderson
+actor,12294,Clint (I),Smith
+actor,32806,Artie,Pasquale
+actor,3110,Kieran,Gallant
+actress,8142,Stefanie Nicole,Minter
+actress,100520,Wendy,Bones
+actress,89737,Michelle,Sritenko Africano
+actor,29835,Mário,Aguilar
+actress,70022,Sabrina (I),Carpenter
+actress,33045,Marina,Moncade
+actor,38870,Ivan,Rueda
+actress,139006,Pauline,Moore

@@ -1,0 +1,71 @@
+actress,68962,Karen (I),Black
+actor,38705,Tristan,Heanue
+actor,51703,Russell,Hodgkinson
+actor,5201,Javier Ortiz,Cortés
+actor,74,Roy,Kinnear
+actress,107444,Biliana,Petrinska
+actress,96597,Jessica,Melkersson
+actor,148408,Terry,Coogan
+actress,74649,Brooke,Wendle
+actor,127692,Gustav (II),Roth
+actress,65312,Lidia,Porto
+actress,57885,Crystal (I),Michelle
+actress,86445,Denise,McSweeney
+actor,135530,Sam,Kinison
+actress,132882,Marilyn,Kim
+actor,28363,John,Brooks Jr.
+actress,884,Helen,Vita
+actor,111000,Matthew (I),Barry
+actor,115554,Kevin,Duda
+actor,92614,Charles,Berling
+actor,135463,Michael,Vardian
+actor,100562,Jerry,Perna
+actor,67026,Matt,Swick
+actor,114357,Alain,Goulem
+actor,26191,Oskar,Rodriguez
+actor,93897,Bill (II),Bailey
+actor,3412,Francesc,Garrido
+actor,65009,Geoff,Wayne
+actor,44764,Sean (I),Barrett
+actor,139126,Yetkin,Dikinciler
+actor,43634,Johann (I),St-Louis
+actor,98976,Charles,de Gaulle
+actor,68750,Onbou,Miura
+actor,80607,John,Sarbutt
+actor,106084,Brandon,Boyce
+actor,57140,Vitaliy,Versace
+actor,34722,Kevin,Wommack
+actor,126716,Bo,Greigh
+actor,142647,Efrem P.,Towns
+actor,133692,Yuri,Kolokolnikov
+actor,57346,Naoki,Tatsuta
+actress,24799,Eileen,Pedde
+actor,15696,Zachary S.,Pete
+actress,84885,Genny,Wilson
+actor,39040,Paul,Reubens
+actress,6571,Susana,Goulart
+actor,40887,Zsolt,Vadaszffy
+actress,47536,Diana,Spaulding
+actor,21881,Lee,Broker
+actor,724,John (I),Eaves
+actor,118890,Hollis,Jewell
+actor,139785,Denis,Ischenko
+actor,88035,Ben (I),Jones
+actor,91910,Chris (II),Pappas
+actress,56168,Carla,Barnett
+actress,13389,Zoe,Saldana
+actor,11881,Jack Jekeon,Cha
+actor,78137,Ron,De Roxtra
+actress,141695,Janette,Santos
+actor,18548,William,Bourdon
+actor,138449,Rowland S.,Howard
+actor,104826,Jordan (I),Hess
+actor,36423,James,Edlin
+actor,95430,Roy (I),Evans
+actress,116873,Edy,Vessel
+actor,74250,David (I),Fraser
+actor,46677,Peter R.V.,Bowleg Jr.
+actor,130551,M.C.,Gainey
+actress,844,Melissa (I),Gallagher
+actor,73544,Jon C.,Brown
+actor,8246,Milan,Bahúl

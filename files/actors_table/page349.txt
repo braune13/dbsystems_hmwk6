@@ -1,0 +1,71 @@
+actor,106621,Carlos (II),Moyá
+actor,77513,Curtis (I),Lindersmith
+actor,111227,Larry (II),Parker
+actor,89691,Christian,Tassou
+actress,51239,Beatrice,Da Yarr
+actress,75248,Anne,LaGrange
+actress,101068,Denesa,Chan
+actor,119997,Mike (VII),Roberts
+actor,95124,J. Emerson,McGowan
+actress,90293,Antonia (I),Christy
+actor,129657,Tony,Dario
+actress,117747,Patricia,Bethune
+actress,123724,Sofia,Wennberg
+actor,112339,Jonathan,Avildsen
+actress,99865,Tania,Cabrera
+actor,9898,Frank (II),Orsatti
+actor,8115,Andrew,Kavadas
+actress,73389,Joy,Ehrlich
+actor,72114,Bob,Kelliher
+actress,103448,Lauren,Bonetti
+actor,100196,George (II),Reid
+actor,39234,Roland,Matthews
+actor,78121,Ala (I),
+actor,30796,Trevor,Brunsink
+actor,18633,Meshach,Taylor
+actor,139812,Colin (I),Irving
+actress,20425,Renata,Becker
+actor,121336,Jim,Hild
+actor,2656,Robert (II),Denton
+actor,126131,Vic,Cuccia
+actor,41811,Douglas,Gillison
+actress,37743,Susan (I),Kitchen
+actress,28252,Maria (II),Bergman
+actress,97797,Rorelee,Tio
+actress,53775,Flaminia,Fegarotti
+actress,60554,Linda (I),Wang
+actor,18233,Michael (II),Byrnes
+actor,42766,Johnny,Otto
+actress,305,Isabelle,Merey
+actor,18576,David,Hernández Silva
+actor,90096,Robert,Miano
+actor,56803,Sidney,Dawson
+actor,27993,Joshua,Grannell
+actor,61060,Eddie (I),Griffin
+actor,36222,Eric,Ditman
+actor,23809,Warren,Berlinger
+actress,74968,Lisa,Colquhoun
+actor,79036,Ryan,McCraw
+actor,63907,Matthew Antonio Grillo,Russell
+actor,117176,Hal,Olofsson Sr.
+actress,5338,Katie,Schaar
+actor,69945,Randell,Haynes
+actor,98187,Garrett (II),Ryan
+actress,129762,Takako,Fuji
+actor,123599,Nick,Massi Jr.
+actress,116967,Adrienne,Campbell
+actor,131846,Crackhead,Bob
+actor,125151,Charles (I),Dumas
+actress,16203,Amy,Landecker
+actor,53041,Mark (IV),Ryder
+actor,31954,Brian,Gaugan
+actor,71383,Laxmi,Baveja
+actor,75300,Kejon,Kesse
+actress,115920,Paola,Pieracci
+actress,58774,Jami,Owen
+actress,8757,Shauna,Kae Lauritzen
+actor,68127,Richard (I),McMillan
+actor,116421,Steve (II),Sweeney
+actress,114580,Jaymee,Ong
+actor,41225,David,Auker
+actor,28873,Kevin,Dorff

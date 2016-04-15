@@ -1,0 +1,71 @@
+actor,39827,Kazuko (I),Shibata
+actor,92417,David Wilson,Barnes
+actor,26448,Michael,Balcar
+actress,34053,Naomi,Frenette
+actress,112003,Lena,Friedrich
+actress,118339,Sharon,Lubin
+actor,54509,Jordan,Potter
+actress,10759,Danielle,Adé
+actress,64775,Saoirse,Bowen
+actress,2415,Isabella,Gielniak
+actor,143424,Edward (II),Stanley
+actress,125573,Angela,Desario
+actress,90011,Juliet,Brett
+actor,34668,Sean (I),Curley
+actress,67680,Asami,Kanai
+actress,116335,Claudia,Crespin
+actor,49383,Lonny,Chapman
+actor,101341,David Nathie,Barnes
+actress,110950,Janie,Kells
+actor,104381,Joel (I),Elliott
+actress,127854,Clodagh,Conroy
+actress,65549,Christine,Byron-Steen
+actor,46722,Don,LaDaga
+actress,2256,Rachel (II),McGinnis
+actor,106785,Kevin (I),Kline
+actress,47652,Misty,Dickinson
+actor,125312,Arndt,Schwering-Sohnrey
+actor,103477,Troy,LoCoco
+actress,138608,Natalie,Wells
+actress,126301,Petrea,Burchard
+actress,102566,Cathy (II),Irons
+actor,102953,Chris,Ausnit
+actress,59099,Mindie,McCullum
+actress,49950,Lavonne,Nichols
+actor,17357,Yann,Marequa
+actress,59619,Danielle,Tabor
+actor,126914,David,Footsman
+actor,118716,Peter (I),Bull
+actor,114792,Keenan,Leung
+actress,26500,Karine,Stoffer
+actress,15406,Marijeta,Goc
+actor,69015,Jeff,Aaron
+actor,138836,Nicholas,Kaegi
+actor,94058,William J.,Klish
+actress,46227,Anne Marie,Scheffler
+actor,25768,Manolo,Gonzales-Vergara
+actor,71688,Randall,Dudley
+actor,93870,Aron,Paramor
+actor,120713,Robin,Kermode
+actor,46622,Cody,Lowe
+actor,79284,Burt,Bacharach
+actor,27409,Misha,Kleider
+actor,64948,Gavin (I),Rothery
+actor,65781,Rajan,Kapoor
+actress,127645,Priscilla,Poland
+actress,90996,Sol Crystal,Santos
+actress,21427,Anne,Dore
+actor,147713,Bill,Gratton
+actor,77915,James,Tall
+actress,50078,Nadine,Isenegger
+actress,79052,Amy,Moy
+actor,147612,John (XXVI),Foster
+actress,104685,Melissa (I),Martin
+actor,26180,Joseph (I),Petrucci
+actress,1680,Elayn J.,Taylor
+actor,40776,Christian (I),Stokes
+actor,148028,Eldridge,Hyndman
+actress,55847,Bonnie Joy,Ashley
+actor,92006,Paul (I),Freeman
+actor,58469,Mark,Morettini
+actor,96423,Jason (I),Biggs

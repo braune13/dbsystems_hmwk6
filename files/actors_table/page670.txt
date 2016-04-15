@@ -1,0 +1,71 @@
+actor,73192,Nikita,Knatz
+actor,76601,Peter,Bensted
+actor,102851,Patric,Knowles
+actor,57770,Mark (I),Todd
+actress,5438,Stephanie (II),Miller
+actor,85409,Thierry,Redler
+actress,148810,Jessica (I),Steen
+actress,58511,Clara,Creantor
+actor,16601,Jun (I),He
+actor,45954,Douglas,Walton
+actor,43422,Mark (II),Cameron
+actor,61720,Toshio,Takahara
+actor,59684,William S.E.,Coleman
+actor,2469,A.D.,Miles
+actress,148907,Natsuko,Ohama
+actor,104127,Henry Max,Nelson
+actress,145072,Brittany (I),Rogers
+actor,60616,Berhane,Woldegabriel
+actor,48084,David,Niven Jr.
+actor,127678,Shannon (I),Shea
+actress,99959,Madelyn,Darrow
+actor,117598,Sunil (I),Shetty
+actress,105313,Sandy,Rovetta
+actress,127264,Mary Ann,Fleras
+actor,90994,Ted (II),Otis
+actor,76988,Gérard,Lepennec
+actress,87518,Elaine,Ives-Cameron
+actor,93000,Jordan,Paley
+actor,28312,Bart,Patton
+actor,1851,Drewe,Henley
+actor,28025,David,Gragg
+actor,76951,Carlos Alberto,Vavassori
+actor,85734,Michael (VI),Hall
+actress,101459,Joanna,Frank
+actor,94601,Tony M.,Conde
+actor,8175,Larry (I),Richards
+actress,84505,Geralynn,Garrick
+actor,121886,Dylan Gray,Woodley
+actor,87204,Byron,Webster
+actor,115320,Steven J.,Jobes
+actor,66624,John (I),Bliss
+actor,147192,David,Sirois
+actor,128550,Deshun (I),Wang
+actor,125843,Saurabh (I),Shukla
+actress,37487,Maureen,Keiller
+actress,24019,Constance Barnes,McCansh
+actor,950,Lamont,Arnold
+actress,988,Eva,Minemar
+actress,23048,Elizabeth,Sjoli
+actor,129302,Noah (I),Jacobs
+actor,44804,Dennis,Vehlen
+actor,108736,Ryun,Yu
+actor,110542,Orson,Welles
+actor,4240,Josh,Shipley
+actor,140085,Diggy,Dre
+actor,110357,Johnny,Turner
+actress,47581,Natalie,Stultz
+actor,30532,Peyton,Kirkpatrick
+actor,24156,Stan,Ellsworth
+actress,2935,Claudia,Gates
+actor,26503,Timothy Daniel,Furst
+actor,109989,Will (I),Irvine
+actor,125476,Kai,Atô
+actor,107893,Chris,Gailus
+actor,72711,Joe (X),Sullivan
+actress,70425,Lisa,Nathans
+actor,50608,Clarence,Hoof
+actor,142803,Roberto,Earlywine
+actor,118343,Armin Chaim,Kornfeld
+actor,65812,Homan,Tapsell
+actor,688,George,Ives

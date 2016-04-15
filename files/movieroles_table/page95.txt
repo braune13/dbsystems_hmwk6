@@ -1,0 +1,66 @@
+74597,,,2449125,[English Couple #2]
+74632,,,2449125,[Hip Hopper #1]
+75623,,,2449125,[Broker #1]
+77451,(voice),,2449125,
+80077,,,2449125,[Rental Car Employee]
+80373,(voice),,2449125,
+83424,,,2449125,[English Couple #1]
+85133,,,2449125,[Russian Couple #1]
+87780,,,2449125,[Newscaster #2]
+89126,(voice),,2449125,
+90525,,,2449125,[Amis]
+91507,,,2449125,[Hip Hopper #2]
+94915,,,2449125,[Bert the Doorman]
+100789,,,2449125,[Papa Duflot]
+102541,(voice),,2449125,
+103557,,,2449125,[Charlie Willis]
+105572,(voice),,2449125,
+106034,,,2449125,[Ludivine Duflot]
+114448,(voice),,2449125,
+114455,,,2449125,[Chateau Buyer]
+117553,,,2449125,[Secretary]
+119187,(voice),,2449125,
+121913,(voice),,2449125,
+123525,,,2449125,[Fanny's Mother]
+125098,(voice),,2449125,
+131036,,,2449125,[Young Fanny]
+131084,,,2449125,[Hostess]
+131868,(voice),,2449125,
+131901,,,2449125,[20-Something Beauty]
+137777,(voice),(as Caitlin McKenna-Wilkinson),2449125,
+143052,(voice),(as Samantha Jane Robson),2449125,
+146360,,,2449125,[Christie Roberts]
+2721,,,2449338,[Antonio]
+4117,,,2449338,[Reaper]
+7130,,,2449338,[Young Dito]
+8559,,,2449338,[Young Laurie]
+9775,,,2449338,[Laurie's Son]
+12870,,,2449338,[Puerto Rican Van Driver]
+16550,(uncredited),,2449338,[Prison Visitor]
+19175,,,2449338,[Old Woman]
+20620,,,2449338,[Prison Guard]
+21931,(as Scott Campbell),,2449338,[Nerf]
+33802,,,2449338,[Teacher]
+35761,,,2449338,[Dito]
+38075,,,2449338,[Jenny]
+42966,,,2449338,[Guiseppe]
+47481,,,2449338,[Aunt Mary]
+49306,(uncredited),,2449338,[Very young Dito]
+55925,(credit only),,2449338,[Street Corner Puerto Rican]
+60988,(as Stephen Randazzo),,2449338,[Token Clerk]
+65598,,,2449338,[Korean Shop Owner]
+66465,(as Peter Tambakis),,2449338,[Young Nerf]
+67594,,,2449338,[Laurie]
+68481,(as Anthony de Sando),,2449338,[Frank the Dog Walker]
+69079,(as George Di Cenzo),,2449338,[Uncle George]
+71139,,,2449338,[Mike O'Shea]
+77136,(uncredited),,2449338,[Bookstore Clerk]
+77946,(uncredited),,2449338,[Woman in Subway Station]
+84676,,,2449338,[Reaper's Little Brother]
+90553,(as Julia Garro),,2449338,[Diane]
+93405,,,2449338,[Queensbridge Bodega Man]
+97640,,,2449338,[Flori]
+97809,,,2449338,[Antonio's Father]
+99663,,,2449338,[Drunken Man in Subway]
+109577,,,2449338,[Monty]
+112450,(uncredited),,2449338,[Street Corner Puerto Rican]

@@ -1,0 +1,71 @@
+actor,79254,David,Hagar
+actor,108664,Shane (I),Thompson
+actress,5335,Julianna,Damm
+actor,77801,Lou Diamond,Phillips
+actor,106860,Wenbo,Li
+actress,37513,Simonetta (I),Bortolozzi
+actor,3408,Guy,Petersen
+actor,87353,Marcelo,Pozzi
+actor,104373,Selva,Rasalingam
+actor,131578,Gautham,Ghattamaneni
+actor,86340,Dean (VI),Chapman
+actor,115769,John (I),Waugh
+actress,21561,Nancy (II),Roberts
+actress,4600,Kenyetta,Lethridge
+actress,52385,Nina,Kunzendorf
+actor,10248,Eric,Edelstein
+actress,82334,Randy (I),Stuart
+actor,34496,Richard (VII),Kerr
+actress,28705,Harriet,Ketchum
+actor,118643,Rafael (I),Valdez
+actress,113078,Marie-Hélène,Chartrand
+actor,122395,John (I),Walters
+actor,32270,Bill,Plaschke
+actor,39361,Kristen (II),Augenfeld
+actor,141821,David Harland,Rousseau
+actor,132101,Royale,Watkins
+actor,72990,Amaurys,Rodriguez
+actress,9356,Anne (I),Jackson
+actor,135183,John Munro,Cameron
+actor,87118,Jay,Hilliker
+actor,25217,Shawn,Hollinger
+actor,130801,Joe (I),Bosma
+actress,124871,Samantha,Berry
+actress,113924,Michelle (II),Li
+actor,25979,Surachaijunthimatorn,
+actor,48507,Matthew M.,Haugh
+actress,131516,Sasapin,Siriwanji
+actor,113070,Oscar,Hsu
+actor,66174,Kelly,Dorji
+actress,54351,Ingrid (I),Hart
+actor,129072,Chan,Creswell
+actor,60521,Yuri,Gagarin
+actor,125458,Ross,Blakeman
+actor,98308,Shawn,Dando
+actor,42646,Faustino,Suco
+actor,125689,Tom (I),Faulkner
+actor,90949,Charles (III),Bernard
+actor,125726,Andrew (II),Gorman
+actress,112882,Elda,Maida
+actress,129612,Courtney (V),Powell
+actor,108232,Presley,Chweneyagae
+actress,189,Cynyon Dawn,Rodriguez
+actor,27303,Nathan,Rutherford
+actress,97875,Valerie,Gitter
+actor,16825,Karl,Bruckschwaiger
+actor,73124,Zabit,Memedov
+actor,62462,Stephen (I),Fuller
+actress,113708,Sheridan,Forbes
+actress,93841,Sandra,Linz
+actor,72541,Craig,Walsh-Wrightson
+actress,103822,Lynsey Taylor,Mackay
+actor,35714,Thierry,Pietra
+actor,108064,Andrea,Bertone
+actor,23708,Ryan (I),Patrick
+actor,29599,Jonathan (I),Peck
+actor,116183,Cliford,Johnson
+actor,149019,Edward (I),Finlay
+actress,17430,Tusse,Silberg
+actor,18389,Victor (I),Banerjee
+actor,40030,Michihiro,Ikemizu
+actor,17549,Peter,Salett

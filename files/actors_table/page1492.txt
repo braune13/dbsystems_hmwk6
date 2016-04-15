@@ -1,0 +1,71 @@
+actor,113717,Conan,Lee
+actor,128876,Sean,Pypers
+actor,69226,Carlo Azeglio,Ciampi
+actress,74615,Olivia (I),Ward
+actress,52010,Aimee,Torriani
+actor,123268,Ken,Bhan
+actress,58072,Jo (II),Allen
+actor,138153,Leigh,Steinberg
+actor,26288,Marcus (I),Graham
+actress,88052,Lynn Dolin,Mann
+actress,29205,Leigh,Daniels
+actress,84674,Caroline,Van Vlaardingen
+actress,89148,Helen,Ingebritsen
+actress,132136,Haruko,Sugimura
+actor,88700,Masayuki,Deai
+actor,64175,George (I),Bush
+actor,109574,James (I),Binns
+actor,57364,John (I),Eddings
+actor,36548,Antonio,Pierfederici
+actor,148432,Sid,McGinnis
+actress,91879,Carla,Bennett
+actor,72820,Larry,Bullock
+actress,56004,Mugi,Lhagvadorj
+actress,107552,Aseneth,Jurgenson
+actor,130234,Ludwig,Stössel
+actor,105987,Charles (I),White
+actress,17940,Melissa (I),Todd
+actor,128826,Paul,Hychko
+actor,118746,Tim,Kiriluk
+actor,112710,Lyle R.,Guidroz
+actor,119712,Carl,Price
+actor,7270,Roberto (II),Moreno
+actor,102706,Robert,Shulman
+actress,58259,Gabriela,Bertante
+actor,137978,Treat,Williams
+actor,43352,Othello,Rensoli
+actor,77782,Joseph,Zinsman
+actress,62745,Nicola,Conlon
+actor,11506,Edmond,O'Brien
+actor,12215,Rob,Marrocco Jr.
+actor,60652,Zander,Schloss
+actor,53748,David (I),Cowen
+actor,34393,Robert (I),O'Reilly
+actress,126826,Karen (I),Fullerton
+actor,39704,Stuart (I),Nisbet
+actor,41224,Adam,Thomasson
+actor,69118,Lennie,Loftin
+actor,73387,Shane (I),Black
+actress,4462,Victoria L.,Turner
+actor,26867,Alexandre,Tharaud
+actor,89143,Dirk,Zeelenberg
+actor,86804,Brian,Gehl
+actor,84806,Fredrick,Patacchia Jr.
+actress,41612,Alexandra,Deary
+actor,43722,Richard,Ehrlich
+actor,107501,Jimmy (I),Walker
+actor,119028,Giordano,Formenti
+actress,58301,Bitsie,Tulloch
+actor,88130,Chris (II),Jarman
+actor,120482,Scott,Patey
+actor,90873,Dale,Tarrant
+actor,29131,Adam,Leong
+actor,26651,Robert (II),Moore
+actor,120013,Benjamin A.,van der Veen
+actress,14909,Janice,Karman
+actress,26915,Leona,Toppel
+actress,101594,Paula,Plum
+actor,62881,Adam (I),Cohen
+actor,29612,Aaron,McGregor
+actress,89347,Whitney,Wellner
+actor,122196,Estevan,Lucero

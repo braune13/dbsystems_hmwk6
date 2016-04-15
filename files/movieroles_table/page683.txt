@@ -1,0 +1,66 @@
+32135,,,2624709,[Security Guard]
+36658,,,2624709,[Reporter #1]
+45243,,,2624709,[Reporter #2]
+46980,,,2624709,[Murdered Waitress]
+48494,(as Gregory Norman Cruz),,2624709,[Janitor]
+49110,,,2624709,[Nurse #2]
+58655,,,2624709,[Ingrid]
+65576,,,2624709,[Reporter #3]
+65871,,,2624709,[Prodski]
+70013,,,2624709,[Low Rider]
+70148,,,2624709,[Supermarket Kid]
+71518,,,2624709,[Reporter #4]
+73078,(uncredited),,2624709,[Hospital Visitor #1]
+73484,,,2624709,[TV News Reporter]
+75316,,,2624709,[Apartment Killer #2]
+76445,,,2624709,[Father of Blonde Girl]
+82448,(as Bradley Bovee),,2624709,[Innocent Bystander]
+84773,(as Art La Fleur),,2624709,[Captain Sears]
+87296,(as Harry B. Demopoulos),,2624709,[Dr. Demopoulos]
+89145,,,2624709,[Chief Halliwell]
+90000,,,2624709,[Nurse]
+90335,(uncredited),,2624709,[Suspect in Custody]
+93882,,,2624709,[Garage Bystander]
+96601,(uncredited),,2624709,[Policewoman]
+97732,(as Marco Rodriguez),,2624709,[Supermarket Killer]
+99131,,,2624709,[Lieutenant Marion 'Cobra' Cobretti]
+101093,,,2624709,[Policeman #2]
+109281,,,2624709,[Commissioner Reddesdale]
+109804,,,2624709,[Waitress]
+114021,,,2624709,[Killer #1]
+117710,,,2624709,[Night Slasher]
+119277,(uncredited),,2624709,[Extra]
+119782,,,2624709,[Sketch Artist]
+121664,,,2624709,[Night Guard]
+121814,,,2624709,[Woman in Car]
+123834,,,2624709,[Reporter #6]
+126055,,,2624709,[Detective Monte]
+128022,,,2624709,[Policeman #1]
+132371,,,2624709,[Sergeant Gonzales]
+145562,,,2624709,[Nancy Stalk]
+146477,,,2624709,[Reporter #5]
+3877,,,2625765,"[Waiter (segment ""Cousins"")]"
+7282,,,2625765,"[Alfred (segment ""Cousins?"")]"
+8276,(as Bill Rice),,2625765,"[Bill (segment ""Champagne"")]"
+25842,,,2625765,"[Meg (segment ""Jack Shows Meg His Tesla Coil"")]"
+32926,,,2625765,"[Isaach (segment ""No Problem"")]"
+39150,,,2625765,"[Steven (segment ""Strange to Meet You"")]"
+40891,,,2625765,"[Bill Murray (segment ""Delirium"")]"
+54555,,,2625765,"[Vinny Jr. (segment ""Those Things'll Kill Ya"")]"
+65822,,,2625765,"[Katy (segment ""Cousins?"")]"
+67378,(as Joe Rigano),,2625765,"[Joe (segment ""Those Things'll Kill Ya"")]"
+68960,,,2625765,"[Steve (segment ""Cousins?"")]"
+69827,(as GZA),,2625765,"[GZA (segment ""Delirium"")]"
+76194,,,2625765,"[Waiter (segment ""Renée"")]"
+77776,(as Renée French),,2625765,"[Renée (segment ""Renée"")]"
+77884,(voice),,2625765,"[Taylor (segment ""Champagne"")]"
+88418,,,2625765,"[Alex (segment ""No Problem"")]"
+90933,,,2625765,"[Tom (segment ""Somewhere in California"")]"
+92870,,,2625765,"[Iggy (segment ""Somewhere in California"")]"
+97407,,,2625765,"[Cate/Shelly (segment ""Cousins"")]"
+106629,,,2625765,"[Vinny (segment ""Those Things'll Kill Ya"")]"
+111842,,,2625765,"[RZA (segment ""Delirium"")]"
+117788,,,2625765,"[Jack (segment ""Jack Shows Meg His Tesla Coil"")]"
+128115,,,2625765,"[Good Twin (segment ""Twins"")]"
+128829,,,2625765,"[Roberto (segment ""Strange to Meet You"")]"
+137407,,,2625765,"[Danny (segment ""Twins"")]"

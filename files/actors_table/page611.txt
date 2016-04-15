@@ -1,0 +1,71 @@
+actor,129225,Franklin,Dam
+actor,140914,Laury,Marker
+actress,50438,Gilda Estelle,Chestney
+actor,62309,Rafael,Brown
+actress,68080,Sakiko,Fukuhara
+actress,14993,Elisabetta,Cini
+actor,80485,Peter,DeSève
+actor,6978,Terry (I),Chen
+actress,102624,Rosalba,Grottesi
+actress,105739,Ran (V),Wei
+actor,44338,Darren (VIII),Wilson
+actor,116553,Vinod,Negi
+actor,53906,Joe (II),Pace
+actor,77226,Norbert,Schiller
+actress,56626,Halley,Wegryn Gross
+actor,80122,Tim,Gage
+actor,107116,Jonathan (II),Palmer
+actor,134340,Johnny,Cheek
+actor,29643,Douglas,Wilcox II
+actor,129827,Duncan,Lam
+actor,102306,Noa,De Costanzo
+actress,3792,Elizabeth,Westwood
+actor,11130,Abhijit,Buddhisagar
+actor,16713,James Patrick,Dunne
+actress,82886,Apara,Mehta
+actor,102862,Joshua (I),Oppenheimer
+actor,146858,Marcus,Flores-Sedillo
+actor,57555,Lee (II),Fanning
+actor,127176,John (I),Braden
+actress,9616,Arielle,Dombasle
+actor,41649,Pascual,Montaño
+actress,7797,Mallory (II),Thompson
+actress,90918,Marva,Alexander
+actor,112421,István (II),Kocsis
+actor,59517,Darryl (I),Tucker
+actor,746,Omari,Hardwick
+actress,115143,Michelle,Alegria
+actor,92518,Jay (I),Pearson
+actor,67358,Bob,Mazurki
+actor,48241,Stan,Carp
+actress,53493,Marni,Nixon
+actor,148973,Alex,Mandelberg
+actor,86555,Tai (V),
+actor,34606,Keith (II),Powell
+actor,144213,Harj,Rai
+actor,60784,Jordan (I),Ashton
+actor,105207,Michael (I),Aquino
+actress,27278,Giusi,Merli
+actress,43784,Shenae,Grimes-Beech
+actor,113970,Don,Ambabo
+actor,109616,Alpha Osman,Davis
+actress,28854,Petra,Siniawski
+actor,72669,Henry,Strzalkowski
+actress,114456,Anna,Colwell
+actor,142368,Robert,Ricards
+actress,60207,Irene (I),Lopez
+actor,44974,Thomas Eddy,Moran
+actor,55032,Christopher (I),Brown
+actor,50775,Richard,Lothian
+actress,43285,JaQuinley,Kerr
+actress,6928,Tracey Lynne,Miller
+actress,131863,Robyn Miranda,Simpson
+actor,103074,Govind,Khatri
+actor,138735,Ernesto,Griffith
+actor,24298,Clint Glenn,Hummel
+actor,78066,Eric (I),Betts
+actor,82658,Arthur,Grosser
+actress,134892,Elke,Ritschel
+actor,131099,Mario,Cantone
+actor,91289,Nestor,Eristoff
+actor,104815,Chi-Wah,Tse

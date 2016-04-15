@@ -1,0 +1,71 @@
+actress,41248,Prudence (I),Oliver
+actor,89417,Tibor,Dahlenburg
+actor,30558,I. Wayan,Suwita
+actor,23955,Sabera,Wise
+actress,106001,Jennifer (I),Bassey
+actor,31208,Stephen,Croce
+actress,12377,Carrie (I),Preston
+actress,84256,Courtney (II),Hart
+actor,62737,David T.,Mabowe
+actor,91037,Nikas,Safronov
+actress,49207,Markéta,Tanner
+actor,22542,Perry,Millward
+actor,119031,Sergei (I),Nazarenko
+actress,133553,Devon,Dear
+actor,46629,Calvin (I),Jones
+actor,24751,Kunal (II),Kapoor
+actor,129140,Héctor,Claramunt
+actor,18180,Stephen,Wehmeyer
+actor,8349,Dominic,Delesilva
+actor,52804,William (I),English
+actress,71089,Mona (I),Singh
+actress,75400,Celina,Nessa
+actor,111564,Colin,Gilder
+actress,124692,Ruth,Rudnick
+actor,21670,Rémy,Roubakha
+actor,30305,Dirk Wayne,Summers
+actor,118761,Daniel Lee,Smith
+actress,109544,Karolina,Muller
+actor,137053,Al,Rodrigo
+actress,35246,Jessica,Wesson
+actor,46215,Richard (I),Rossi
+actor,38956,Dorian (III),Logan
+actor,144735,Masahiro,Asano
+actor,110512,Jim,McLarty
+actress,49540,Rebecca (III),Brady
+actor,69059,Roy T. (I),Anderson
+actress,88675,Rae Dawn,Chong
+actress,140573,Anny,Hintze
+actor,139206,Bob,Smit
+actor,137825,Andrew,Dallmeyer
+actor,24134,Thomas (II),Morrison
+actor,107394,Jesse (II),Morris
+actor,104319,Mbongeni,Nomkonwana
+actor,63389,Daniel H.,Friedman
+actress,5173,Paola,Pace
+actor,126718,Frederic,Forrest
+actor,16909,John (IV),Gross
+actor,67470,Tony (III),Hunter
+actor,29837,Tetsu (I),Watanabe
+actress,25088,Kelly,Briter
+actor,106019,John,Lamond Jr.
+actor,55114,Manuel,Corrado
+actor,89267,Olaf,Wijnants
+actress,141239,Debbie (II),Vogel
+actor,138348,Norman (III),Jones
+actress,143629,Xenia,Kalogeropoulou
+actor,109717,Sonny,Shroyer
+actress,75150,Brenda,Braxton
+actor,126164,Robin (II),Watts
+actress,43119,Mary Ann,Lamb
+actor,90733,Frank,Causey
+actor,38577,Gary (I),Parker
+actor,122705,Edward (I),Kramer
+actor,90757,Darren,Marsman
+actress,56196,Mary,Khal
+actress,66529,Hyacinth,Nier
+actor,96662,Marc,Mazza
+actress,20954,Jani,Vorwerk
+actor,83676,Tsui (I),Siu Hung
+actress,7559,Kate,Capshaw
+actor,112259,Jon (I),McBride

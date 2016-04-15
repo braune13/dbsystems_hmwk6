@@ -1,0 +1,71 @@
+actress,71211,Hope,Garber
+actress,101382,Dolina,MacLennan
+actor,107031,Bravo (II),
+actor,2188,Nakia (I),Dillard
+actress,8545,Lisa,Lovbrand
+actor,5957,Paul (VIII),Campbell
+actress,39863,Donna Sue,Jahier
+actor,63416,Martin,Sheen
+actress,131460,Sister Rosetta,Tharpe
+actress,119464,Charlotte (III),Carpenter
+actress,12966,Ann,Baggley
+actor,41841,James (II),Davison
+actress,55630,Vanessa,Trezise
+actor,21714,Damien,Escobar
+actor,109339,Nick (I),Mazzola
+actor,14,Howard,Velasco
+actress,61867,Moira,Brooker
+actress,45910,Amy,Schapel
+actor,31019,Brian (I),Davies
+actress,17588,Marsha,Andrews
+actor,71903,A. Michael,Baldwin
+actress,70162,Casey,MacLaren
+actor,34075,Jeff (I),Price
+actor,77472,Howard A.,Rodman
+actor,111572,Wayne Douglas,Morgan
+actor,35442,Jesus,Puchol
+actor,130988,Jim (II),Hager
+actor,44204,Benjamin,Hendrickson
+actor,33814,Matt (I),Holly
+actor,79789,Michael,Lepre
+actor,27785,Stewart,Lew
+actor,78676,Elliott,Larson
+actress,7847,Kathleen (I),Chalfant
+actor,106821,Richard,Yearwood
+actress,146636,Joan,Campion
+actor,526,Myles,Crowder
+actor,56987,Cody,Kurz
+actress,99500,Tenaj L.,Jackson
+actress,20831,Sandra,Ives
+actor,585,Manuel,Depta
+actor,3324,Takahiro (II),Fujiwara
+actress,76780,Lidia,Onufrei
+actress,25273,Geum-seok,Yang
+actor,36661,Remone,Bradley
+actor,135165,Giorgio,Gobbi
+actor,36416,Art,Lyle
+actor,65465,JR,Bourne
+actress,40000,Kay,Cannon
+actress,120652,Yvette,Rachelle
+actress,90811,Jessica (II),Lee
+actress,40710,Denece,Ryland
+actor,82329,Ray,Greenhalge
+actress,120584,Vanessa,Mikowsky
+actor,121663,Sang-gyu,Son
+actor,90717,Wayne,Kingi
+actress,23154,Wendy,Melvoin
+actor,85131,Lamar Darnell,Fields
+actor,15124,David (VIII),Ogden
+actor,115281,Jerry,Biggs
+actor,115412,The,Richardson Family
+actress,28529,Sharon K.,Brecke
+actor,135070,Joey,Starr
+actor,148593,Luc,Merenda
+actress,89847,Candy,Bonstein
+actor,82936,Stephen,Rue
+actor,79487,Mike,Tirico
+actress,77370,Emily (II),Stewart
+actor,141324,Amir,K
+actress,98418,Beverly (III),Johnson
+actor,142519,Vincenzo,Caso
+actor,91184,Kouji (I),Toyota

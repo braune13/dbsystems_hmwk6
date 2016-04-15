@@ -1,0 +1,71 @@
+actress,7880,Adelaide,Wilder
+actress,74441,Fiona (I),Reid
+actor,39397,Jeff,Foxworthy
+actor,138475,Dick Anthony,Williams
+actor,32942,Mario,Aguilar Jr.
+actor,76346,Robert,Karn
+actor,110180,Dominic,Rains
+actress,59056,Judith Kathryn,Hart
+actress,86812,Darlene,Benigno
+actress,61378,Deborah S. (I),Craig
+actor,144417,Hyggins,Sansa
+actor,74183,Chris (I),Anderson
+actor,56454,Gary,Mancini
+actor,129183,Ariel (II),James
+actor,42941,Stephen,Dorff
+actor,80196,Arlindo,Lopes
+actor,129504,Guglielmo,Spoletini
+actor,23680,Mario (I),Avila
+actor,17193,Jirí,Krytinár
+actress,65977,Desiree,Markella
+actress,11947,Michele,Longenbach
+actress,31011,Mary Stuart,Masterson
+actor,31871,Tetsuo (III),Yamashita
+actor,116012,Craig,Crosbie
+actor,36264,Richard (I),Herd
+actor,40913,Binda,Paaji
+actor,116813,Paul (XIV),Johnson
+actress,118246,Alice,Kirwan Murray
+actress,96094,Blanche Irwin,Stuart
+actress,11465,Amanda (I),Chan
+actress,79803,Yasmine,Bleeth
+actress,95330,Mary,Michael
+actress,116806,Melanie,Chandra
+actor,109353,Ryan (X),Curtis
+actor,55712,Louis,Mansi
+actor,120525,Abdoul Drahamane,Sissoko
+actor,19656,Michael C.,Vara
+actress,96432,Soma,Bhatia
+actor,119821,Hendrik,Holler
+actor,139249,John (I),Heffernan
+actor,95309,Grant (I),White
+actor,16947,Anthony L.,Fernandez
+actress,26817,Lisa (I),Burns
+actor,18662,Robert (II),Dukes
+actor,146265,Thure,Riefenstein
+actor,88053,Conte Brunoro Serego,Aligheri
+actor,148232,Emerson,Treacy
+actor,38839,Douglas,Shamburger
+actor,126972,Eric,Hack
+actor,3693,William Will,Simm
+actress,31325,Linda (I),Carol
+actor,102132,Arno,Frisch
+actor,11125,Tyler,Strother
+actor,38769,Mohammad,K.
+actress,9813,Mia,Kirshner
+actor,148153,Chaz,Conner
+actor,122704,Marc,Hertsens
+actor,22551,Karl,Shiels
+actor,85344,Rich (I),Bryant
+actor,42835,Derek,Graf
+actor,111125,Anthony,Narvaez
+actress,117290,Evelyn,Gutierrez
+actor,102819,Jacob G.,Akins
+actress,133617,Ysabel Leoncia,Seltzer
+actress,132434,Auriol (I),Lee
+actor,140398,Mogens,Eckert
+actor,72834,Frederick,Nah IV
+actress,8381,Valentina,Giron
+actress,92163,Lidija,Cvitanovic
+actor,5126,Joey,Plewa
+actor,79493,Don,Franklin

@@ -1,0 +1,71 @@
+actor,45640,Jason James,Richter
+actor,137036,Kamayuki,Tsubono
+actor,130015,Kevin (I),Williamson
+actor,39149,Alex,Boling
+actress,132165,Leah,Morelli
+actor,2431,Jesse (III),Miller
+actor,120322,Charles,Gemmill
+actor,135854,Russell,Ferrier
+actress,36204,Britt,Sanborn
+actor,8404,Joseph,Mosso
+actor,99123,Shawn,Gonzalez
+actor,91499,Jack (I),Esformes
+actress,5837,Joyce,Raie
+actor,59019,Patrick,Harpin
+actor,51440,Quang,Huynh
+actor,67964,Jerry,Azzopardi
+actor,73814,Gustavo (I),Bonfigli
+actor,8197,Ryan (I),Whitney
+actress,59475,Teresa (I),Celentano
+actor,54685,Jim,Moll
+actor,22636,Judas (I),
+actor,134707,George R.,Parsons
+actor,124793,John (VII),Bentley
+actor,43212,Brian (I),Thomas
+actor,76638,Christopher (VIII),Glenn
+actress,147544,Lainie,Kazan
+actress,51202,Krysten,Jackson
+actor,109165,Per,Leth
+actress,44154,Emi (I),Shinohara
+actor,105936,Paul (I),Ford
+actor,116792,Thomas J. (II),McCarthy
+actor,12327,Jonathan,Rau
+actor,120804,John,Thornhill
+actress,85870,Karina,Deyko
+actor,90566,Dave (I),Hager
+actor,114501,Jophi,Ries
+actor,27392,Amadou,Traore
+actor,95155,Graeme,Goodhall
+actress,35836,Cameron Brooke,Stanley
+actor,50845,Roe-ha,Kim
+actress,141352,Tabitha,Grayston
+actor,96102,Bernardino,Terracciano
+actor,90014,Mark,Lawyer
+actor,84000,Akshay,Patel
+actress,113904,Imelda,Staunton
+actor,85166,Lombardo,Boyar
+actress,149051,Rose (I),Allen
+actor,62845,Gary,Gloeckler
+actor,81901,Mzwandile,Nqoba
+actor,126419,Robert (II),Rowland
+actress,61681,Sonia,Grande
+actor,1268,Eric (II),Mason
+actor,77317,Byron P.,Cavnar
+actor,9879,John J.,Encinio
+actor,40945,George (I),Cole
+actor,144290,Carlos (II),Sanz
+actress,148557,Olivia Rosemarie,Barham
+actress,90977,Aimee,Denaro
+actor,17386,David (I),Phillips
+actress,118707,Gayathri,Kasupathipillai
+actress,7268,Kres,Mersky
+actor,148582,John (I),Bellucci
+actress,24047,Julie (I),Pearl
+actress,55787,Jennifer,Ferrin
+actress,133407,Sally,Clelford
+actor,42967,Victor,Yerrid
+actor,100641,Scott (I),Henderson
+actor,78599,Forrest,Fountain
+actor,10058,Anthony,Burrell
+actor,53644,Richard,Mullally
+actor,128808,Joey,Gaydos Jr.

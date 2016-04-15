@@ -1,0 +1,71 @@
+actress,137177,Mercy Fiennes,Tiffin
+actor,15974,Johnny (I),Walter
+actress,60905,Leslie Ann,Lizarde
+actor,84429,Gavin,MacLeod
+actor,131459,Harley,Brown Sr.
+actress,146085,Susan (I),Wilder
+actress,70710,Jeanne,Orr
+actor,114397,Seyyed Jamshid,Hosseini
+actor,88753,Casey,Unterman
+actor,16966,James (I),O'Rear
+actor,118080,Victor,Alfieri
+actor,57060,Michel,Qissi
+actor,73349,Seth,Coltan
+actress,141963,Dorothy,Deavers
+actor,122888,Paul,McCarthy-Boyington
+actor,61450,Brent L.,Boxberger
+actor,115997,Shannon (I),Williams
+actor,63748,Glen,Cavender
+actor,84015,Franco,Diogene
+actor,132723,Alex,Timmer
+actress,4785,Catherine,Schreiber
+actress,100942,Cindy (I),Weber
+actor,63180,João,Velho
+actor,120301,Timothy,Busfield
+actor,112048,Jan,Coster
+actor,38492,Hamilton,Camp
+actor,3831,George (I),Newton
+actor,117211,Edward,Peil Sr.
+actress,102704,Beth,Chamberlin
+actor,80426,Michael,Molthen
+actor,96392,Teodor,Yordanov
+actor,80127,Al,Carmichael
+actor,35336,Sean (I),Croft
+actor,49235,Ronald,Steppe
+actor,128593,George,Hambach
+actress,32716,Georgie,Donovan
+actor,114413,Richard,Bakalyan
+actor,53879,Ian (II),Houghton
+actor,135138,Tôru,Furusawa
+actress,99072,Zsuzsanna,Cseh
+actor,25812,Jack (I),Shepherd
+actor,17702,Jeff,Wynne
+actress,33612,Elizabeth (II),Kennedy
+actor,113956,James,Dreussi
+actor,15703,Michael (II),Zacharski
+actor,120826,Sami,Tesfay
+actor,111082,David (I),Sawyer
+actress,93593,Alexandrina,Vladova
+actor,121310,Srdjan Rale,Jovanovic
+actress,88242,Jackie,Sawiris
+actress,21600,Mikayla,Park
+actress,94297,Alisha,Mullally
+actor,74612,John E. (II),Smith
+actor,2185,Ramon,Calzada
+actor,30448,Nicolas,Cade
+actress,102656,Arletta,Duncan
+actor,26694,Alex (I),Hobbs
+actor,1751,Jai Prakash,Sharma
+actor,90182,Reed,Howes
+actor,85858,Brian,Lester
+actress,84812,Yumi,Tamai
+actor,120319,Houston,Tumlin
+actor,71622,Christian (II),Smith
+actress,136672,Emanuela,Villagrossi
+actor,66360,Eloy,Lara
+actress,80287,Barbara,Dziekan
+actress,133638,Anne,Prager
+actress,46108,Elsie,Thomas
+actor,20661,Clayton James,Mackay
+actress,109355,Waltrudis,Buck
+actor,17179,Joe,Mantegna

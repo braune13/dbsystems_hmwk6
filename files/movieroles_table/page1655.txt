@@ -1,0 +1,66 @@
+35986,(voice),,2937084,[Teto/Girl C]
+36393,(voice),,2937084,[Goru]
+37960,(voice: English version),,2937084,
+38253,(voice),,2937084,[Mayor of Pejite]
+38359,(voice),(uncredited),2937084,[King Jihl]
+39425,(voice: English version),,2937084,[Mito]
+42944,(voice: English version),,2937084,[Lastelle]
+45975,(voice: English version),,2937084,
+48491,(voice),(uncredited),2937084,[Child]
+49739,(voice),(uncredited),2937084,[Unidentified Character]
+50052,(voice),,2937084,[Niga]
+52464,(voice),,2937084,[Pejite Girl]
+52670,(voice),,2937084,[Torumekia Soldier]
+54002,(voice),,2937084,[Boy]
+54859,(voice),(uncredited),2937084,[Unidentified Character]
+57933,(voice: English version),,2937084,[Child]
+60312,(voice: English version),,2937084,[Narrator]
+61552,(voice: English version),,2937084,[Muzu]
+62498,(voice: English version),(as Steve Apostolina),2937084,
+65393,(voice),(uncredited),2937084,[Lastelle's Mother]
+66160,(voice: English version),,2937084,[Child]
+66759,(voice),,2937084,[Rastel]
+70768,(voice),(uncredited),2937084,[General]
+70846,(voice),,2937084,[Nausicaä]
+73181,(voice: English version),,2937084,
+73473,(voice),,2937084,[Kushana]
+73729,(voice),,2937084,[Boy B]
+73852,(voice: English version),,2937084,[Child]
+74700,(voice: English version),(uncredited),2937084,[Prince Milo ('Warriors of the Wind' dub)]
+75656,(voice),,2937084,[Pejite Citizen]
+77632,(voice),,2937084,[Girl B]
+78646,(voice: English version),,2937084,[Lord Yupa]
+78673,(voice),(uncredited),2937084,[Princess Zandra ('Warriors of the Wind' dub)]
+80854,(voice),,2937084,[Boy A]
+83398,(voice),(uncredited),2937084,[Peijte Peasent Girl]
+84048,(voice),,2937084,[Commando]
+85860,(voice: English version),,2937084,[Mayor of Pejite]
+87514,(voice),(uncredited),2937084,[Unidentified Character]
+87703,(voice),(uncredited),2937084,[Unidentified Character ('Warriors of the Wind' dub)]
+88444,(voice),(uncredited),2937084,[Queen Salena/Old Lady]
+89888,(voice: English version),,2937084,[Gikuri]
+99195,(voice),(uncredited),2937084,[Unidentified Character]
+103235,(voice: English version),(as Riff Hutton),2937084,
+103616,(voice),,2937084,[Pejite Citizen]
+104203,(voice),,2937084,[Yupa]
+105317,(voice: English version),,2937084,
+106887,(voice: English version),,2937084,
+107367,(voice),,2937084,[Girl A]
+111167,(voice),,2937084,[Mito]
+113687,(voice: English version),,2937084,
+116203,(voice: English version),,2937084,
+119186,(voice: English version),,2937084,[Nausicaä]
+123715,(voice: English version),(as Molly Keck),2937084,
+126526,(voice: English version),,2937084,
+127443,(voice: English version),,2937084,[King Jihl/Niga]
+128125,(voice: English version),,2937084,[Child]
+137598,(voice: English version),,2937084,[Kushana]
+137755,(voice),,2937084,[Torumekia Soldier]
+139212,(voice),,2937084,[Kurotowa]
+141971,(voice),,2937084,[Rastel's Mother]
+143554,(voice),,2937084,[Oh-Baba]
+144867,(voice),,2937084,[Asbel]
+145169,(voice: English version),,2937084,
+145182,(voice: English version),(as Ruby Marlowe),2937084,
+145779,(voice: English version),,2937084,[Child]
+146139,(voice),(uncredited),2937084,[Unidentified Character]

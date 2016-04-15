@@ -1,0 +1,71 @@
+actor,54224,Bob,Kenaston
+actor,87952,Vince,Howard
+actor,133573,Burtt,Harris
+actor,90187,Pasquale (I),Esposito
+actor,138442,Angel,Cortes
+actress,45829,Gwendolyn,Briley-Strand
+actress,10282,Elly,Kaye
+actor,80907,James Michael,Kaura
+actor,83075,L. Derek,Leonidoff
+actor,136371,Valerio,Isidori
+actress,33736,Jolene,Blalock
+actress,90631,Carol,Coombs
+actor,132456,François,Chau
+actor,25678,Carmen,DiStefano
+actor,46233,Francis,Maikai
+actress,13277,Marzena,Trybala
+actor,52026,Gabriel (I),Alexander
+actress,3625,Cristina,Latini
+actress,121412,Via,Van Ness
+actress,52022,Ryôko (I),Mizuki
+actress,141659,Siham,Rida
+actor,21078,John (II),Francis
+actor,136721,Dax,McKeever
+actor,22764,Derek (I),Morrison
+actor,98680,Dr.,Dave
+actor,95891,Jesse (I),Dufault
+actress,133046,Jezabel,Montero
+actor,50336,Zachary (I),Infante
+actress,29697,Cailey,Fleming
+actor,16072,Duff,MacDonald
+actor,29059,Junix,Inocian
+actor,88032,Andre,Givogue
+actor,1423,Adam,Robitel
+actor,87149,Jared,Minns
+actor,98234,Richard C.,Bailey
+actor,35790,Gavin,Fink
+actor,69133,Ramesh (IV),Singh
+actor,34817,Timothy A.,Zimmerman
+actor,11436,Ailei,Yu
+actress,123917,Elan,Oberon
+actor,114128,Jake (III),Morgan
+actor,12153,Robert (III),Whaley
+actor,2121,Steve,Howey
+actor,19889,Brian,Scheu
+actor,11372,James (I),Gosnell
+actress,50137,Linda (I),Hamil
+actor,31264,Millie,Torchetti
+actress,109231,Katherine M.,O'Neill
+actor,123794,Ismael Garcia y Su Trio,
+actor,85060,Trace,Cheramie
+actress,61952,Marissa,Ghavami
+actress,82809,Catherine,Shaffner
+actor,139543,Steven,Sparrow
+actress,1826,Kate (I),Elliott
+actress,123808,Geneen,Georgiev
+actor,114125,John (I),Berry
+actress,130891,Kimberly (I),Bailey
+actor,96814,Joseph,Attanasio
+actress,32459,Geralyn,Clark
+actor,138584,Charles (II),Issacs
+actor,21872,Tassa,Loncarevic
+actress,123811,Aaliyah (I),
+actor,64623,Giovanni,Giarratana
+actress,135751,Georgia (I),Cook
+actor,75660,Steve,Torgerson
+actor,110814,Samuel,Murkofsky
+actor,135646,Seiji,Rokkaku
+actress,67454,Sophia,Takal
+actor,96093,Jack (I),Williams
+actress,69865,Irene,Kamsler
+actor,42368,Traian Tudorica,State

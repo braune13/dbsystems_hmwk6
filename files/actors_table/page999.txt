@@ -1,0 +1,71 @@
+actress,138655,Cary,Christiansen
+actor,45878,Tom (I),Alley
+actor,126109,Tony (I),Noble
+actress,112506,Juno,Ruddell
+actor,126040,Conrad,Veidt
+actor,88794,Matteo,Carlomagno
+actor,74503,Wang,Xiuze
+actor,35605,Oddie,Braddell
+actor,128282,Ian (I),MacDonald
+actor,68717,Watchachai,Phumiree
+actress,54313,Kimberly,Velez
+actress,97447,Hideaki,Kunieda
+actress,79361,Kate,McGregor-Stewart
+actor,3647,Iván,Kamarás
+actor,89678,Jason (I),Andrews
+actor,137416,Bill (III),Grund
+actress,28741,Paula,Cross
+actor,3364,Igor,Juric
+actress,5987,Diana,Hardcastle
+actor,22573,Neil,Koppel
+actress,19113,Clementine (I),Heath
+actor,72947,Mathew,Greer
+actress,66697,Justine (II),Barker
+actress,96686,Marcy,McGuigan
+actor,15581,Antoine,Safi
+actor,14237,Karl T.,Wright
+actress,64753,April,Deoria
+actor,73498,Thomas K.,Belgrey
+actor,144996,Takaya,Hashi
+actress,38889,Anusha,Prakash
+actor,89208,Bill,Burr
+actress,18721,Anna,Ladner
+actress,88286,Sandrine,Marlier
+actor,49015,Elcim,Eroglu
+actress,97449,Reba,Tarjick
+actor,148217,Stefano,Serboli
+actor,64215,Christian (I),Maguire
+actor,31586,Martin (II),Donovan
+actor,11440,Jason,Robards
+actor,138997,Nick (II),Bass
+actress,127010,Beth,Bemis
+actress,145872,Hillari,Fowlkes
+actress,129521,Patti (I),James
+actor,57372,Christian J.,Fletcher
+actor,9860,Alex,Bao
+actor,64864,Keram,Malicki-Sánchez
+actress,117539,Quita,Culpepper
+actor,6472,Todd,Field
+actor,6453,Ryûnosuke,Kamiki
+actor,18818,Stephen (I),Caudill
+actor,31495,Marc,Kittay
+actor,86172,Sir,Maejor
+actor,10357,James,Lithgow
+actor,39270,Ty,Upshaw
+actor,122891,Marvin,Schecter
+actor,70594,Robin (I),Brenner
+actor,24213,Selim,Boukerfat
+actor,118592,Les,Ballets Africains
+actor,94857,Allan,Lay
+actor,126615,Masayoshi,Nagashima
+actress,82803,Gabriela (III),Garcia
+actor,92745,Barry (I),Nolan
+actor,22325,Yassine,Mamadou
+actress,26497,Keisha,Ramdhanie
+actor,7717,Earl,Barnsley
+actress,96310,Chloe,Russell
+actor,77735,Sebastiano,De Leandro
+actor,86417,Arnold,Weglorz
+actor,1513,Malte,Petzel
+actress,20746,Lorna R.,Millen
+actor,120575,Andrés (I),Herrera

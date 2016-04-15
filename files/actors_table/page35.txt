@@ -1,0 +1,71 @@
+actor,137930,Hassan,Joundi
+actress,105702,Vicky,Reineger
+actor,33633,Jukka (I),Hiltunen
+actor,139351,Robert,Baglia
+actor,64277,Jeroen,Krabbé
+actress,16604,Sahabanu,Zolghadr
+actor,38008,Benjamin (I),King
+actress,51794,Miyuki (I),Komatsu
+actor,94545,Sergio (I),Gonzalez
+actress,122095,Caroline,Gelabert
+actor,1377,John Lisbon (I),Wood
+actor,120362,Frankie (I),Ray
+actor,28974,Michel,Aymard
+actor,59872,Rob (I),Hunt
+actress,121063,Gabriela,Lewis
+actor,12158,Goodwill,Ngwane
+actor,50573,Martin,Skrtel
+actor,13344,James,Lentzsch
+actor,98224,Charan,Saluja
+actor,34165,Tony (I),Pierce
+actress,96018,Pat,Cortland
+actor,132426,Zuli,Silawanto
+actor,80352,Angelo,Sudano
+actor,26190,Patrick (I),Dempsey
+actor,137676,Shammi,Aulakh
+actress,47780,Michele (I),Lee
+actor,139537,Mohammad Hossein,Mortavazi
+actor,136356,Michael,Coons
+actress,7940,Erica,Carroll
+actor,66286,Robert (III),Reid
+actress,44821,Fern,Formica
+actor,31500,Gideon,Singer
+actor,5023,Bill,Ensley
+actress,56907,Elizabeth,Pollard
+actor,41024,Peter,Bucossi
+actor,135442,Spyder,O'Cleary
+actor,80498,Daniel,Farfán
+actor,117475,Sean,Goodearl
+actor,142113,Harry,Holman
+actor,119470,Victor Angulo,Villacis
+actor,131175,John,Nicola
+actress,141940,Yôko,Narahashi
+actor,30417,Richard (VI),Smith
+actor,69657,Michael (I),Stein
+actress,117048,Ailing,Xu
+actor,63171,Thomas,Bornt
+actress,38185,Yvonne,Ocampo
+actor,74788,Rakeysh Omprakash,Mehra
+actress,42235,Rebecca,Gooden
+actress,43622,Jennifer (I),Nelson
+actress,49510,Bronwyn,Pearson
+actor,82834,Mike J.,Regan
+actress,98790,Françoise (I),Hardy
+actor,21408,Mairtin,O'Carrigan
+actress,51322,Ashley,Van-Skyhawk
+actress,141,Sammi,Yorn
+actor,65783,Keith,Jochim
+actor,64914,Del,Synnott
+actress,149372,Sahar,Simmons
+actor,30916,Ralph W.,Odum
+actress,141543,Brianna,Colette
+actress,79549,Amy (IX),Fox
+actor,11251,Rolf,von Goth
+actress,27497,Carrie,Nygren
+actor,98375,Richard (I),O'Sullivan
+actress,107949,Victoria,Vodar
+actor,70758,Sam the,Dog
+actor,133855,Paul Hansen,Kim
+actor,109258,Leonard L.,Thomas
+actor,122262,Brock Andrew,Gillespie
+actor,7936,Byoung-Soon,Kim

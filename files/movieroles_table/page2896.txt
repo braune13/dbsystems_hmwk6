@@ -1,0 +1,66 @@
+127208,(voice),,3359136,[Short Thug]
+130551,(voice),,3359136,[Captain of the Guard]
+133598,(voice),,3359136,[Rapunzel]
+139874,(voice),,3359136,[Stabbington Brother]
+143043,(voice),,3359136,[Additional Voices]
+143538,(voice),,3359136,[Additional Voices]
+145182,(voice),,3359136,[Additional Voices]
+5880,(voice),,3360802,
+10605,(voice),,3360802,
+12845,(voice),,3360802,[Kala]
+13431,(voice),,3360802,[Clayton]
+15754,(voice),,3360802,[Kerchak]
+19133,(voice),,3360802,
+20322,(voice),,3360802,
+23376,(voice),,3360802,
+28406,(voice),,3360802,
+30636,(voice),(as Billy Warden Bodine),3360802,
+33745,(voice),,3360802,[Professor Porter]
+34097,(voice),,3360802,
+41469,(voice),,3360802,
+42659,(voice),,3360802,
+44147,(voice),,3360802,[Young Tarzan]
+45197,(voice),(uncredited),3360802,
+48091,(voice),,3360802,
+49524,(voice),(as Blake Ewing),3360802,
+52963,(voice),,3360802,
+59143,(voice),,3360802,
+59229,(voice),,3360802,
+60835,(voice),(as Brianne Siddall),3360802,
+65427,(voice),,3360802,
+66300,(voice),,3360802,
+67248,(voice),(as Roger Bumpass),3360802,
+68413,(voice),,3360802,
+68849,(voice),(as Scott Gershin),3360802,
+73126,(voice),,3360802,[Jane]
+74173,(voice),,3360802,
+77255,(voice),,3360802,
+83161,(voice),,3360802,
+85568,(voice),(uncredited),3360802,
+87160,(voice),,3360802,[Terk]
+91402,(voice),,3360802,
+94449,(voice),,3360802,
+109875,(voice),,3360802,
+113513,(voice),(as Jonnie Hall),3360802,
+113665,(voice),,3360802,
+115087,(voice),,3360802,
+117278,(voice),,3360802,[Tantor]
+118851,(voice),,3360802,
+120090,(voice),,3360802,
+121731,(voice),,3360802,
+124860,(voice),,3360802,[Tarzan]
+130755,(voice),,3360802,
+136191,(voice),,3360802,
+137710,(voice),,3360802,
+139602,(voice),,3360802,
+143538,(voice),(as Robert Bergen),3360802,
+147760,(voice),,3360802,
+147846,(voice),(as Aria Curzon),3360802,
+1589,,,3361795,[The John]
+7518,(uncredited),,3361795,[Campaign Worker]
+13964,(uncredited),,3361795,[Clerk at Sam Goody Store]
+16005,(as Diahnne Abbot),,3361795,[Concession Girl]
+18121,,,3361795,[Tall Secret Service Man]
+21374,(uncredited),,3361795,[CIA Agent]
+22934,,,3361795,[Charlie T]
+23198,,,3361795,[Betsy]

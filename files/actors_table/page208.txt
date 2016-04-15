@@ -1,0 +1,71 @@
+actor,105564,Carlos (I),Gallardo
+actor,66919,Christopher Alex,Maragakis
+actor,40503,Jack,Paxman
+actor,126411,Balázs,Tardy
+actor,96359,King George VI,
+actor,101240,Monty L.,Simons
+actor,132924,Emilio (II),Martínez
+actor,131582,Deezer,D
+actor,13020,George E. (I),Stone
+actress,12221,Dawn,Brancheau
+actress,17029,E. Jean,Carroll
+actor,15526,Trevor,Loomis
+actor,114948,Jerry,Masan
+actor,109175,Ray,Monge
+actor,123846,Roger C.,Carmel
+actress,15534,Nikol,Vasileva
+actor,113112,Wolfgang (X),Weber
+actress,119804,Bertha,Mann
+actor,70463,Chris,Manor
+actor,134070,Mattie,Liptak
+actor,83306,Edward,Le Beau
+actress,120677,Heather,Juergensen
+actress,125117,Phyllis,Coghlan
+actor,12472,Jitendra,Kumar
+actress,20925,Cheryl (I),Hunter
+actress,47577,Gishel,Rafael
+actor,28270,Cash,Spadard
+actress,21026,Randi,Cole
+actor,67574,Ben (II),Salter
+actress,110821,Amanda,Melby
+actor,4893,Peter (I),Caton
+actress,131078,Lette,Webb
+actor,112517,Jaime 'Jimmy',Navarro
+actor,141857,Baylen,Thomas
+actress,71201,Patricia (I),Allison
+actor,32265,Frank,Dardis
+actor,91560,Christian (II),Simpson
+actor,9175,Nate (III),Smith
+actor,58531,Chris (II),Jameson
+actor,106310,Logan,Pithyou
+actor,78400,JR,Hatchett
+actor,87689,Justin,Revoner
+actor,12614,Donald,Maclennan
+actor,142115,Michael,Klenfner
+actor,71681,Bruce,Giles
+actor,136694,Irwin,Dillion
+actor,26697,Jeremy,Kocal
+actress,133784,Courtney Shay,Young
+actor,5389,Franz,Poland
+actor,21024,Todd (V),Williams
+actress,105452,Alice,Papineau
+actor,45924,Jimmy,Palumbo
+actress,80596,Linda E.,Williams
+actress,67362,Jessica (II),Mckee
+actor,44542,Larry,Merchant
+actress,47387,Darlynne,Reyes Menkin
+actor,147654,Chad,Haywood
+actor,104856,Seth (I),Gordon
+actor,42764,Robert (I),Pall
+actor,74076,Ethan (I),Cohn
+actress,133955,Dolores,del Rio
+actor,138290,John (I),Larkin
+actor,85241,Larry,Cahn
+actor,25334,Berton,Churchill
+actress,141650,Laura,Gronewold
+actor,54532,Will (III),Bradley
+actress,60201,Jen,Curci
+actress,16897,Maxie,Pontius
+actress,30900,Barbara (II),Howitt
+actor,90202,Bernard (II),Johnson
+actor,25284,Stuart (VI),Ross

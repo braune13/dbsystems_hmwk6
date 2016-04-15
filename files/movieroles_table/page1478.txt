@@ -1,0 +1,66 @@
+42272,,,2881561,[Ohara]
+43662,,,2881561,[City Assemblyman]
+49062,,,2881561,
+52991,,,2881561,
+58567,,,2881561,[Dancer]
+66903,,,2881561,[Patient]
+74325,,,2881561,
+79544,,,2881561,[Bar Owner]
+81475,,,2881561,[Kanji Watanabe]
+86502,,,2881561,[Worker in General Affairs]
+86585,,,2881561,[Policeman]
+88180,,,2881561,[Doctor]
+93791,,,2881561,[Novelist]
+99638,(uncredited),,2881561,[Hand-Washing Cancer Patient]
+101510,,,2881561,[Housewife]
+102617,,,2881561,[Newspaperman]
+107066,,,2881561,[Housewife]
+107878,,,2881561,[Yakuza]
+108903,,,2881561,[Stripper]
+113725,,,2881561,
+114941,,,2881561,"[Mitsuo Watanabe, Kanji's son]"
+115788,,,2881561,[Housewife]
+116839,,,2881561,[Subordinate Clerk Saito]
+135151,,,2881561,[Newspaperman]
+137364,,,2881561,
+140133,,,2881561,"[Tatsu Watanabe, Kiichi's Wife]"
+140678,,,2881561,"[Kiichi Watanabe, Kanji's Brother]"
+143839,,,2881561,[Intern]
+146393,,,2881561,[Sub-Section Chief Ono]
+13945,,,2883996,[Pablo Neruda]
+17108,,,2883996,[Matilde]
+36793,,,2883996,[Beatrice Russo]
+37342,,,2883996,
+44117,,,2883996,[Di Cosimo]
+63477,,,2883996,[Mario Ruoppolo]
+64016,,,2883996,
+80673,,,2883996,[Telegrapher]
+85277,,,2883996,
+101481,,,2883996,
+104034,,,2883996,
+121654,(uncredited),,2883996,[Elsa Morante]
+130030,,,2883996,[Donna Rosa]
+144223,,,2883996,
+4356,,,2885846,[L'enfant]
+7067,,,2885846,[Adolescent n°2]
+11776,,,2885846,[Adolescent n°1]
+23640,,,2885846,[Maria]
+70237,,,2885846,[Sanda]
+74602,,,2885846,[Adolescent n°4]
+108591,,,2885846,[Adolescent n°3]
+114215,,,2885846,[Clémentine]
+118187,(as Adriana Moca),,2885846,[Ilona]
+142486,,,2885846,[Lucas]
+1604,,,2886734,[Mr. Cornell]
+5940,,,2886734,[Natesh]
+15152,,,2886734,[Ned]
+24476,,,2886734,[Priest]
+28382,,,2886734,[Tessa]
+33959,,,2886734,[Gordon]
+37619,,,2886734,[Rachel]
+38613,,,2886734,[Ms. Fosley]
+43509,,,2886734,[Michael 2]
+53873,,,2886734,[Trevor]
+55739,,,2886734,[Rob]
+58783,,,2886734,[David Steele]
+62248,,,2886734,[Heck]

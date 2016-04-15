@@ -1,0 +1,71 @@
+actress,42460,Ann,Travolta
+actor,133508,Richard,Edge
+actor,114549,Ramon,Moses
+actor,56900,Meldrick,Raguirag
+actor,91849,Telly,Liu
+actress,12163,Lana,Palmer
+actress,99707,Margaret (I),Livingston
+actor,80997,Ethan,Rains
+actor,87164,Jay (I),Gordon
+actress,66982,Isa Carol,Horio
+actor,113800,Brian,Borcherdt
+actor,3666,Michael,Mundra
+actor,29493,Andrew Martin,Priestman
+actor,26387,John (I),Hide
+actress,127226,Courtney (II),Jackson
+actor,124684,Ray (I),Thomas
+actor,101334,Buzz,Covington
+actor,90292,Scott (I),Wolf
+actor,46614,Zack (VI),Clark
+actress,1161,LaJuan,Carter
+actor,48396,Brett (I),Quinn
+actress,128765,Jackie,Ahdout
+actor,129290,Jean-François,Regazzi
+actor,123602,Seth,D'Antuono
+actor,124461,Anton,Monsted
+actor,31629,Mario (II),Torres
+actress,104974,Keana,Texeira
+actor,87073,Sean A.,Tate
+actress,125840,Sonya,Willman
+actor,44229,Joseph V.,Perry
+actor,58965,Daniel,Ssettaba
+actor,104143,Phil (IV),Arnold
+actress,136618,Faye,Sewell
+actor,4424,Herman,Santiesteban
+actor,98196,Michael (II),Prather
+actor,74373,Gino,Borri
+actor,77973,Jerry Poe,McClinton
+actress,104391,Julia M.,Ebner
+actor,65917,Brad,Mavis
+actor,75763,Steve (I),Chappell
+actor,82084,Hector,Lincoln
+actor,98364,Luke,Norcross-Webb
+actor,122933,Curtis (II),Harris
+actor,138090,Matt,Trbovich
+actress,45251,Kelly (I),Lynch
+actor,20192,Sidney,Ganis
+actor,64377,Haile,Yeates
+actress,93677,Deborah,Mullins
+actress,81870,Erinn,Bartlett
+actor,97417,Curd,Jürgens
+actor,69598,Irving,Howe
+actor,98064,Paul (I),McGann
+actress,30990,Sezer,Özyilmaz
+actor,27858,Philip,Kamhi
+actress,145762,Liza,Louszko
+actor,41812,Navarre (II),
+actress,112050,Anna,Bugarin
+actor,45335,Steven,Alford
+actress,23343,Judith (I),Robinson
+actor,15439,Nic (II),Christie
+actress,21540,Isys,McKoy
+actress,52580,Rita,Mercier
+actor,96986,Arnab,Mukherjee
+actress,70624,Idalis,DeLeon
+actor,8797,David,Huang
+actress,10848,Pearl,Tan
+actress,17955,Julia (I),Fisher
+actress,131102,Gillian,Goldstein
+actor,1281,Dai (I),Smith
+actress,96383,Michèle,Lituac
+actor,15355,Tony Ray,Rossi

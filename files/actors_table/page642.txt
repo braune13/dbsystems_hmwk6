@@ -1,0 +1,71 @@
+actor,130195,Alfred (I),Liu
+actor,96097,Roger,Huerta
+actress,59773,Misty L.,Oppenheim
+actor,97594,Roger (III),Neal
+actor,26386,Daniel,Einzig
+actor,25543,Glenn,Howerton
+actress,81561,Julia (III),Gibson
+actor,124111,Stuart,Mower
+actress,33663,Babs,Chula
+actor,146843,James P.,Rice
+actor,18434,Justin (I),Chartier
+actor,131618,Dave,McElhaney
+actress,89681,Raissa,Fleming
+actress,64153,Jamie (XVIII),Lee
+actor,147521,Robert,LuPone
+actor,21343,Peter (L),Anderson
+actress,75015,Thomas,Hong-Maï
+actor,27363,Dan (I),Gillies
+actress,149049,Eva,Henger
+actress,87088,Amie (I),James
+actor,117227,Nick,Postle
+actress,59488,Kori,Ferro
+actress,54309,Charissa,Shearer
+actress,127565,Ana Marie,Calise
+actor,144059,Ramón (IV),Menéndez
+actress,76084,Annie (IV),Hall
+actor,146526,Louai,Mardini
+actor,92556,Gonzalo (I),Menendez
+actor,142051,Art K.,Koustik
+actor,76617,Mark (I),Grant
+actor,131908,Simon,DeSilva
+actor,123071,Michael (II),Trnka
+actress,99894,Nicole,Pulliam
+actress,59394,Kathryn,Mullen
+actor,7117,Les,Gunn
+actor,31242,Aaron,Tosti
+actor,149320,Rodney 'Bear',Jackson
+actor,91700,Douglas W.,Iles
+actress,23349,María (I),Castillo
+actress,122276,Amy,Seimetz
+actor,22179,Trevor,Steedman
+actor,106591,Michael,Szuslik
+actress,127289,Darianna,Krasteva
+actress,67486,Jeanne,Raimbault
+actor,117078,Keith,MacKechnie
+actress,59392,Alison (I),Bruce
+actress,106472,Annie,McNamara
+actress,145054,Brittany (I),Christine
+actor,124742,David (VI),Stiff
+actress,81691,Bette,Croissant
+actress,62537,Daiva,Jovaisiene
+actor,19443,José Carlos (I),Rodríguez
+actor,120657,Robbie,Shakespeare
+actor,117790,Hyman,Fishman
+actor,48987,Jacobo,Arbenz
+actor,6596,Mike (I),Parker
+actress,81509,Fiona,Bell
+actor,97929,Terry (I),Camilleri
+actor,116297,Hermann,Eppert
+actress,60901,Cindy,Michelle
+actor,78903,Issak Farah,Samatar
+actress,37249,Kristy,Pace
+actor,46008,J. Gunnis,Davis
+actor,9155,Guy,Thauvette
+actor,55042,Geoffrey,Rude
+actress,84049,Kathleen M.,Darcy
+actor,48722,Richard (I),Garrick
+actor,67836,Matt,Frieden
+actor,49874,Lance (II),Winters
+actress,113880,Natasha,Wieland
+actor,18582,Ramzi,Chaabane

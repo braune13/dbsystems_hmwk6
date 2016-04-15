@@ -1,0 +1,71 @@
+actor,114516,Tulé,Peak
+actress,34620,Daisy,Prince
+actress,62828,Yvonne,Sanson
+actress,123313,Katharine,Mehrling
+actor,103156,Jody,Rossi
+actor,45978,Burke,Armstrong
+actress,117786,Lauren (V),Baker
+actress,40002,Twapa,Kapote
+actor,92302,Hans Peter,Kortenbruck
+actress,106537,Yurie,Okada
+actor,40687,Russell (II),Frost
+actor,48608,Jason G.,Sarris
+actor,111709,Ben Hon,Sun
+actress,62321,Elizabeth (I),Friedman
+actress,98727,Julie Ann,Emery
+actor,67588,William A. (II),Johnson
+actor,2689,Clint (I),Black
+actress,130879,Nicole (I),Brooks
+actress,73490,Kelly,Bacon
+actress,64028,Angela,Goethals
+actress,56964,Denise,Sweet
+actress,141208,Vanessa,Vaylord
+actress,104372,Bella,Reid
+actor,3448,Pat (III),Fisher
+actress,99506,Kelly,Aluise
+actor,139569,David,Ury
+actor,15067,Roderick (I),Hart
+actor,136126,David (II),Whiteley
+actress,30310,Lynne,Matthew
+actor,127307,King,Kedar
+actress,38853,Carol,Duboc
+actress,42970,Holly,Cofield
+actress,146743,Philomena,Kavanagh
+actor,94122,Nick,Chantara
+actor,116294,David,Berni
+actor,98773,Jeremy (II),Hudson
+actor,56993,Sean (IX),O'Reilly
+actor,119652,Andrew,McNee
+actor,128847,André,Santinho
+actor,92730,Taigtus,Woods
+actor,37458,Jason (II),Hood
+actor,85932,Young,Maylay
+actor,122762,Michael Shamus,Wiles
+actor,83711,Justin,Brennan
+actor,26480,Jeff,Shay
+actor,95427,Tyler,Labine
+actor,115250,Mike (II),White
+actor,127510,John,Azevedo Jr.
+actor,35051,Warren,Kliewer
+actress,58861,Mariella,Frostrup
+actor,24849,Henry (I),Gibson
+actress,141892,Mackenzie,Aladjem
+actor,103527,Lawrence A.,Bonney
+actor,14759,Meg,Irsay
+actress,81199,Susan (III),Chambers
+actress,135105,Lauren,Messervey
+actor,54809,Jeff,Jimerson
+actor,143382,Giò,Stajano
+actress,110498,Salma,Hayek
+actor,32785,Shigeru,Tsuyuguchi
+actor,95898,Daniel,Cerqueira
+actor,73254,Charles,Brehm
+actress,149241,Cheryl,McClurkin
+actress,8282,Ann (I),Rutherford
+actor,104027,Peter (I),Crombie
+actor,18074,Craig (V),Cole
+actor,5864,Blake,Ball
+actor,87006,Edgaras,Cerniauskas
+actor,13631,Denny,Ferguson
+actor,108615,Ian (VII),Wallace
+actress,24534,Ava Ryen,Plumb

@@ -1,0 +1,71 @@
+actor,31602,Lionel,Jospin
+actor,37192,Eric,Aguilera
+actress,113925,Krissy,Korn
+actor,57277,Chuck,Pacheco
+actor,48301,Tony,Azito
+actor,126195,Andrew (XVI),Miller
+actor,46772,Wayne,Tippit
+actor,102998,Craig (XVI),Hall
+actor,87848,Sidney,Blackmer
+actor,59090,Douglas,Gallagher
+actress,57052,Claudia,Verela
+actor,108458,Hiroshi Tom,Tanaka
+actor,127621,Akshaye,Khanna
+actor,118389,Jimmy (III),Campbell
+actor,20063,J.D.,DeKranis
+actor,100803,French,Stewart
+actor,112274,Andrew (I),Corbett
+actor,74810,Robert,Reitano
+actress,62148,Erin,Sharkey
+actor,135728,Edwin,Finn
+actor,32038,Kevin,Bucceroni
+actor,32002,Gary,Sievers
+actor,29262,Michael,DiMente
+actor,143531,Sam,Maccarone
+actress,147120,Sharyn,Wynters
+actress,47217,Ingrid,Fermandois
+actor,17928,Cris,Welti
+actress,26409,Vera,Miles
+actor,79705,Art T.,Yago
+actor,53087,Robert,Sauvayre-Tarlow
+actor,63127,Sean (III),Nelson
+actor,4855,Ernest Curt,Bach
+actress,52121,Ally (I),Carlson
+actor,114370,Robert,Pastoriza
+actress,879,Tiny,Jones
+actor,143351,John (I),Savage
+actor,94872,Brian (I),Herring
+actor,133096,Michael,Maccarone
+actor,26347,Jonas,Baeck
+actress,124514,Elizabeth McCarthy,Meek
+actor,79645,Abdallah,Mtulu
+actress,126237,Carolyn,Lowery
+actress,104580,Arissa,Hill
+actor,139338,Nicola,Di Pinto
+actress,28571,Naomi,Frigo
+actress,100309,Kathryn (I),Bates
+actor,33425,Emmary,Brown
+actor,31199,E.Y.,Coley
+actress,111360,Ann (I),McDonough
+actress,78570,Sam,Lohan
+actor,112316,Alan R.,Kessler
+actor,17691,Michael,Zovistoski
+actor,68572,Richard,Quinnell
+actress,88022,Sue,Costello
+actor,40275,Shin,Koyamada
+actor,15315,John (I),Sampson
+actor,41692,J.D.,McElroy
+actor,4992,Austin,Ward
+actress,139013,Rachel,Kempson
+actress,106402,Jeff,Feringa
+actor,21940,Leor Livneh,Hackel
+actor,74409,E. Andrea,Klann
+actor,115490,Terry-Thomas,
+actor,129461,James (X),Kim
+actor,104435,Kyle (XVII),Morgan
+actor,71242,Tony,Jeeves
+actress,20727,Asabi,Goodman
+actress,78997,Lillian,O'Malley
+actor,132469,Alexander,Marques
+actress,120922,Haruka,Yamano
+actor,4018,R.J.,Adams

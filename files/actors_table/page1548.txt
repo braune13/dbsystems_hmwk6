@@ -1,0 +1,71 @@
+actress,75530,Wendy,Goldman
+actor,27871,Mac,Andrews
+actor,45017,Ed,Crick
+actor,102852,Colin (I),Blakely
+actress,118038,Samantha (II),Larsen
+actor,28626,Joe,Langer
+actor,147389,Jeff (I),Richmond
+actor,68748,Andrew,Shue
+actress,50473,Cheryl,Wills
+actor,97515,Jim,Codrington
+actress,89484,Masami (I),Okada
+actor,63147,John,Merolla
+actor,143494,Wyatt (II),Smith
+actor,101208,Greg (I),Lewis
+actress,21551,Cherie (I),Foster
+actress,110144,Karin,Kriström
+actor,128557,Dan (IV),Braun
+actor,20676,Allen,Gebhardt
+actress,109506,Margaret (I),Carlson
+actress,72648,Diona,Robinson
+actor,127242,Perry,Pirkanen
+actor,34624,Blake,Willett
+actor,114781,Neil,Claxton
+actor,13984,Mo,Zinal
+actor,41890,Sammee,Tong
+actor,48270,Thomas (I),Lake
+actor,18304,Christopher,Frechette
+actor,107363,Gerardo (I),Martínez
+actor,101317,John,McColgam
+actor,8212,Mike (XXXIII),Murphy
+actor,4410,Dillon W.,Rasmussen
+actor,102122,Jeff,Leibow
+actress,124078,Maya,McClean
+actress,15538,Selim Sesler und Orchester,
+actor,103020,Rohan,Gotobed
+actress,56286,Gabi,Ford
+actress,144359,Hilary,Haag
+actor,60262,Sanjay,Batra
+actor,136912,Dicky,Eklund
+actor,147823,Brent,Skagford
+actor,90555,Rhett J.,Brandt
+actor,102319,Saif Ali,Khan
+actor,21860,John (I),Snyder
+actress,93840,Isabelle,Fuhrman
+actor,134859,Tim,Soronen
+actor,138794,Glenn,Withrow
+actor,85329,Greg,Salvato Jr.
+actor,15013,John,Woehrle
+actor,41755,Joseph (I),Franklin
+actress,138381,Molly,Wasserman
+actor,7014,Cade,Frankson
+actor,45882,Po,Powpi
+actor,64675,Dick,Jerardi
+actress,63865,Ilyse,Mimoun
+actor,53182,Nate,Jacobson
+actress,6935,Melinda,Farrelly
+actor,58782,Timothy,Cornelius
+actress,93280,Alison (II),Downs
+actor,45459,John (I),D'Alonzo
+actress,122097,Haylee Detroit,Dewar
+actor,73368,Brendan,Wayne
+actress,11424,June,Letourneau
+actor,115341,Brent,Donnelly
+actor,131711,Kurt,Capalbo
+actor,68102,Paul,Harrington Jr.
+actor,133135,Burgess,Meredith
+actress,1372,Pamela,Reiter
+actress,73978,Janina,Vilsmaier
+actor,10150,Andy (I),Scott
+actor,85741,Yonel,Dorelis
+actor,87571,Robert (I),Jago

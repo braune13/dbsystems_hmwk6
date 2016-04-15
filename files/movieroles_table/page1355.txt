@@ -1,0 +1,66 @@
+86856,,,2839976,[Children's Hospital Nurse]
+87212,,,2839976,[Alphonse]
+90607,,,2839976,[Hugh Benny]
+92972,,,2839976,[Lt. Vincent Hanna]
+95387,,,2839976,[Roger Van Zant]
+95447,,,2839976,[News Anchorwoman]
+99544,,,2839976,[Bank Guard]
+100092,,,2839976,[Michael Cheritto]
+105395,,,2839976,[Rachel]
+106027,,,2839976,[Desk Clerk Cop]
+109210,,,2839976,[Harry Dieter]
+113103,,,2839976,[Neil McCauley]
+113871,,,2839976,[Chris Shiherlis]
+118214,,,2839976,[Casals]
+118280,,,2839976,[Dead Hooker]
+121387,(uncredited),,2839976,[Waitress]
+121684,(uncredited),,2839976,[Marciano's Secretary]
+123504,,,2839976,[Children's Hospital Doctor]
+123807,(uncredited),,2839976,[Nurse]
+124124,(uncredited),,2839976,[Dobie Rush]
+125511,,,2839976,[Hostage Girl]
+125551,,,2839976,[Nate]
+125552,,,2839976,[Alan Marciano]
+126765,,,2839976,[Cop]
+128265,(as Begoña Plaza),,2839976,[Anna Trejo]
+130017,,,2839976,[Captain Jackson]
+130029,,,2839976,[Timmons]
+131900,,,2839976,[Prostitute]
+134997,,,2839976,[Charlene Shiherlis]
+135628,,,2839976,[Donald Breedan]
+144663,,,2839976,[Sergeant Heinz]
+147484,,,2839976,[Driver at Drive-in]
+148517,,,2839976,[Richard Torena]
+13485,(voice),(uncredited),2840479,[Loknar]
+26015,(voice),,2840479,"[Norl (segment ""Den"")/Taarak (segment ""Taarna"")]"
+29925,(voice),,2840479,"[Pilot (segment ""B-17"")/Barbarian (segment ""Taarna"")]"
+31009,(voice),,2840479,"[Boy (segment ""Taarna"")]"
+35099,(voice),,2840479,"[Councilman (segment ""Taarna"")]"
+42958,(voice),(as Charles Joliffe),2840479,"[Councilman (segment ""Taarna"")]"
+45499,(voice),,2840479,"[Lawyer (segment ""Captain Sternn"")/General (segment ""So Beautiful and So Dangerous"")]"
+47897,(voice),,2840479,"[Ard (segment ""Den"")]"
+47982,(voice),,2840479,"[Desk Sergeant (segment ""Harry Canyon"")/Dan (segment ""Den"")/Den (segment ""Den"")/Robot (segment ""So Beautiful and So Dangerous"")]"
+49513,(voice),,2840479,"[Rudnick (segment ""Harry Canyon"")]"
+50079,(voice),,2840479,"[Whore (segment ""Harry Canyon"")/Queen (segment ""Den"")]"
+51380,(voice),,2840479,"[Bartender (segment ""Taarna"")]"
+67248,(voice),(as Roger Bumpass),2840479,"[Hanover Fiste (segment ""Captain Sternn"")/Dr. Anrak (segment ""So Beautiful and So Dangerous"")]"
+70302,(voice),,2840479,"[Elder (segment ""Taarna"")]"
+79733,(voice),,2840479,"[Zeke (segment ""So Beautiful and So Dangerous"")]"
+84636,(voice),,2840479,"[Sternn (segment ""Captain Sternn"")/Male Reporter (segment ""So Beautiful and So Dangerous"")/Edsel (segment ""So Beautiful and So Dangerous"")]"
+88365,(voice),,2840479,"[Harry Canyon (segment ""Harry Canyon"")]"
+96212,(voice),,2840479,"[Prosecutor (segment ""Captain Sternn"")]"
+100907,(voice),,2840479,"[Senator (segment ""So Beautiful and So Dangerous"")]"
+103898,(voice),,2840479,"[Girl (segment ""Harry Canyon"")/Satellite (segment ""Harry Canyon"")]"
+108569,(voice),,2840479,"[Barbarian Leader (segment ""Taarna"")]"
+113176,(voice),,2840479,"[Grimaldi (segment ""Grimaldi"")/Co-Pilot (segment ""B-17"")/Barbarian (segment ""Taarna"")]"
+116511,(voice),,2840479,"[Girl (segment ""Grimaldi"")]"
+120858,(voice),,2840479,"[Alien (segment ""Harry Canyon"")/Henchman (segment ""Harry Canyon"")]"
+130385,(voice),,2840479,"[Whore (segment ""Harry Canyon"")]"
+131477,(voice),,2840479,"[Councilman (segment ""Taarna"")]"
+134116,(voice),,2840479,"[Woman Reporter (segment ""So Beautiful and So Dangerous"")]"
+138175,(voice),,2840479,"[Navigator (segment ""B-17"")/Barbarian (segment ""Taarna"")]"
+138303,(voice),,2840479,"[Gloria (segment ""So Beautiful and So Dangerous"")]"
+139616,(voice),,2840479,"[Katherine (segment ""Den"")]"
+143265,(voice),,2840479,"[Barbarian (segment ""Taarna"")]"
+144426,(voice),,2840479,"[Regolian (segment ""Captain Sternn"")]"
+2279,(uncredited),,2840772,[Patron at restaurant]

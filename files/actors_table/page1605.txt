@@ -1,0 +1,71 @@
+actor,122436,Bernd,Kostrau
+actor,101637,Vinny,Costa
+actress,39688,Niesha,de Jong
+actor,7528,Jonathan (XVI),Bell
+actress,132541,Amanda (I),Warnock
+actor,31885,William,Crowe
+actor,54114,Jaume,Najarro
+actress,17237,Jane (I),Connelly
+actress,124789,Nancy,Reagan
+actress,80711,Jenna,Saras
+actor,129854,Milton (I),Reid
+actress,85930,Gina (II),Alexander
+actor,146794,Danny (I),Mann
+actor,30321,Dambuza,Mdledle
+actress,17320,Elaine,Klimaszewski
+actor,125953,Daniel (I),Pollock
+actress,14078,Ryan Michelle,Bathe
+actor,44034,Lee,Sollenberger
+actor,30218,Robby,Krieger
+actor,27221,François,Truffaut
+actor,1635,Haruo (I),Tanaka
+actress,147707,Lindsay,Mills
+actor,140169,Jimmie,Booth
+actress,19747,Priya (I),Swaminathan
+actor,18573,Peter (XIII),Ho
+actor,54448,Alain,Grellier
+actress,35394,Lily Tiger,McEnerney
+actress,89634,Phyllis (II),Sutton
+actress,48730,Larissa,Jones
+actor,117557,Nik,Pjeternikaj
+actor,34885,Tadashi (I),Nakamura
+actor,90095,Franz,Hartwig
+actor,309,Jacques,Dacqmine
+actor,126986,Michael (L),Martin
+actor,90144,Bradley,Coryell
+actor,128350,Peter,Chudyba
+actor,130832,Marcus (I),Johns
+actor,20885,Herzl,Tobey
+actor,133752,Mikhail,Gomorov
+actress,97786,Cecile,Cristobal
+actress,70942,Jules,Asner
+actress,74453,Ashlee,Vingle
+actor,51494,Josuah,Chavez
+actor,68972,Alex (II),Aguilera
+actor,35366,Roger,Adler
+actress,101063,Sharon (I),Hart
+actor,177,Buck (X),
+actor,2520,Bryce,Hurless
+actor,12888,Frank,Coghlan Jr.
+actor,83085,Joe (VI),Anderson
+actress,134083,Silvana,Venturelli
+actor,57247,Oskar,Mahler
+actress,111649,Gwen,Yeager
+actress,76747,Ciera,Payton
+actor,93620,Robert (II),Schultz
+actor,145878,Franklin,Graham
+actor,144300,Daniel,DeMiller Jr.
+actress,30775,Anneli,Muller
+actress,59071,Steffi,Sattler
+actor,63368,Sam,Child
+actor,9601,James,Ralston
+actor,139489,Graham,McGrath
+actress,80838,Abigail,Lowe
+actress,143092,Jennifer (I),Sciole
+actor,131383,Justin,Sundquist
+actress,105184,Cheryl,Penland
+actor,25309,Ronn,Carroll
+actor,66910,Al,Goto
+actor,14117,Victor,Holstein
+actress,124781,Rhoda,Williams
+actor,74065,Wally,Engelhardt

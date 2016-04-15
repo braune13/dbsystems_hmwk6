@@ -1,0 +1,71 @@
+actor,106658,Ken,Merckx
+actor,104154,Radu,Iacoban
+actor,11390,Jean-Charles,Rousseau
+actor,14970,Raymond,Griffiths
+actress,29793,Elizabeth Jayne,Hong
+actress,135479,Sylvia,Lewis
+actress,156,Deborah,Manning Thomas
+actor,59860,Jordan,Metcalfe
+actor,54686,Geoffrey (I),Norman
+actress,31343,Francesca (I),Lancini
+actress,120629,Lisa,Tarulli
+actress,40353,Maruja,Aguillar
+actor,30012,Brennan,Crewe
+actress,114624,Rae Sunshine,Lee
+actor,145265,Walter,Long
+actor,57006,Tim (I),Hopper
+actress,138659,Grace,Newcombe
+actress,125659,Lilia,Skala
+actress,111390,Olatz,López Garmendia
+actress,129056,Melissa,Deles
+actor,7916,Barclay (I),Wright
+actor,142929,Jack (III),Davidson
+actor,17674,Shawn (I),Bradley
+actress,71417,Romonda,Shaver
+actress,16695,Cassandra Rachel,Friel
+actor,47516,Joey,Figueroa
+actor,50208,Cody,Laudan
+actress,46639,Claudia,Londoño
+actress,100541,Patricia (II),Gannon
+actress,122922,Brooke,Bezick
+actor,126784,Richard,Fagon
+actor,115107,Jeffrey,Braer
+actor,130126,Silvian,Duica
+actor,25465,Thanh,Trinh
+actor,65436,Robert,Benirschke
+actress,38460,Carla,Nascimento
+actor,68807,Stéphane,Ferrara
+actress,147230,Lori,Prince
+actress,8910,Alexis,Smart
+actor,63709,Darren,Collison
+actor,45374,Larry (I),Drake
+actor,54445,Mitch,Randjelovic
+actress,72661,Tamzin,Griffin
+actor,120610,Tristan,Gemmill
+actress,44662,Candice,Hotchkiss
+actor,34260,Michael (III),Karman
+actor,121587,P.J. (I),Morrison
+actress,7777,Joy,Jolise
+actor,11024,George (I),Hamlin
+actor,51871,David (VII),Martínez
+actor,79492,Hsia,Hsu
+actor,110902,Doruk,Sengezer
+actor,142216,Jonathan (III),Waite
+actor,110230,Edward (I),Hong
+actress,137529,Emily,O'Day
+actress,138595,Alison,Cramer
+actress,82961,Tatyana,Yassukovich
+actress,108086,Rozie,Bacchi
+actor,144715,Mohit (I),
+actor,74610,Colby,Ryan
+actor,18717,Darren,Dowlut
+actor,128685,Rod,Man
+actress,95519,Samantha,Cutaran
+actress,100863,Dale F.,Appel
+actor,118867,Jeremy,Cartee
+actor,7963,Layton,Morrison
+actor,75887,Jeffrey,LaBerdia
+actress,76319,Soraya,Djafri
+actress,101477,Lori,Dungey
+actor,74020,Chris,Marroy
+actor,83484,Aysel,Iscan

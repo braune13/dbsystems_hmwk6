@@ -1,0 +1,71 @@
+actress,8970,McCall,Clark
+actor,16654,Troy,Grant
+actor,123669,Giacinto,Ferro
+actress,10813,Ricki,Lander
+actor,118162,Richard (XXII),Morris
+actor,113450,Dwight,Koss
+actor,67752,Paul (III),Daniel
+actor,12202,Don (I),Blackman
+actress,97308,Carol (II),Hall
+actress,48045,Maggie,Siff
+actor,142804,Alain,Lathière
+actor,9139,Tim,Faraday
+actor,124771,Andrew,Hillmedo Jr.
+actor,103767,Bobby,Plump
+actor,6800,Rajendra,Patwardhan
+actor,48645,Ron (I),Soble
+actress,128241,Victoria (I),Gray
+actress,101146,Kimberly,Howe
+actor,56432,Richie,Fearn
+actor,6215,Juan (I),Jiménez
+actor,138615,Álvaro,de Luna
+actor,34605,Don,Kirby
+actor,30857,Larry (I),Fisher
+actor,70858,Steve M.,Davison
+actress,119814,Kia,Zulo
+actress,30736,Alisa,Shamrow
+actor,35883,Pete,Docter
+actor,101323,Peter (XVII),Wong
+actor,108126,Teddy (III),Wilson
+actress,61002,Alma S.,Grey
+actor,7887,Charles,Chiquette
+actor,16692,Doug,Payton
+actor,131644,Darren (V),Mitchell
+actor,15234,Michael (I),Beasley
+actor,30905,Serhat,Metin
+actor,81946,Nelson,Piquet
+actor,103719,Anthony T.,Pennello
+actor,46130,Taki,Abe
+actress,78213,Mary (II),Cummins
+actor,119378,Geoffrey,Beevers
+actor,56276,Gregg,Romeo
+actress,22595,Grace,Zabriskie
+actor,113707,Brad,Everett
+actor,132883,Tong (I),Jiang
+actor,21631,Elester,Latham
+actor,15849,Scott (VI),McCulloch
+actor,108751,Ettore,Martini
+actress,65278,Penny Johnson,Jerald
+actor,44757,Frank,Jaquet
+actor,84297,Candide,Sanchez
+actress,118810,Tawny,Andersen
+actor,30820,Frank,Fanning
+actor,113375,Howard,Goorney
+actor,109369,Daniel John,Chase
+actress,50341,Erin Shae,Bryan
+actor,44437,Steve,Springer
+actor,72384,George,Foreman
+actor,56334,Simon (I),Harrison
+actor,53966,Isaac,Kappy
+actress,77158,Melissa,Knatchbull
+actor,88562,David (I),Barrera
+actress,73072,Irina,Vilkova
+actor,121543,Phil (I),Kelly
+actor,10918,Emanuele,Carucci Viterbi
+actress,111039,Stacey,Moseley
+actor,103292,Alex,Neuberger
+actor,34363,Marc (I),Silk
+actor,84126,Guy,Cusson
+actress,148760,Emerald,Schreier
+actress,119698,Alexandra,Creteau
+actress,85115,Puja (II),Gupta

@@ -1,0 +1,71 @@
+actor,125410,Samuel (I),Tyson
+actor,40331,Michael (III),Cunningham
+actor,96777,David (I),Garry
+actor,115540,Theo,Barklem-Biggs
+actor,11077,Chaz,Moneypenny
+actress,24569,Maia,Brewton
+actor,51349,Kiyoshi,Yamasaki
+actor,100027,Edison (I),Chen
+actor,147917,David,Crome
+actress,17772,Danielle Rose,Solano
+actress,28304,Narendra,Singh Bhati
+actor,104419,Brian,Copeland
+actor,21802,James B.,Harris
+actress,56883,Mari,Fromstein
+actress,121705,Jessica,Seaton
+actor,35948,Johnny (III),Lee
+actor,9715,Jonathan,Dugan
+actress,133816,Stacey (III),Clark
+actor,33170,Ronald (I),Betts
+actress,120625,Chelsey,Donn
+actor,62039,Frederick,Keeve
+actor,3138,Konishiki,
+actress,24770,Hiromi,Toshikawa
+actress,73378,Sue,Jones-Davies
+actress,91328,Marisa,Petroro
+actor,48879,Scott (II),Perry
+actor,34442,Jadran,Malkovich
+actor,8932,Cade,Bittner
+actor,135445,Yue,Fei
+actor,103090,Dixon,White
+actress,56674,Grace (I),Welch
+actor,128840,Joseph Frances,Filipowski
+actress,93696,Stacy Rae,Toyon
+actor,148053,Nicholas,DeLaurentis
+actor,38999,Johnson (I),Chong
+actor,74394,Christopher M.,Russo
+actress,38525,Kate,Sissons
+actress,106256,Diane,Rinaldi
+actor,59907,Nils Gunnar,Lie
+actor,108649,Richard,Eastham
+actor,31463,Jaime,O'Brien
+actress,108992,Camilla,Scott
+actor,97262,Bernie,Pollack
+actress,56676,Margaret,Brewster
+actor,73095,Richard (VIII),Grant
+actress,58571,Evgenia,Bakopoulou
+actor,77866,Alfredo,Martín
+actor,129080,Jesse,Scheirer
+actor,82097,Stanislav,Majer
+actor,42373,Akop,Manoukian
+actor,68519,Frank P.,Ryan
+actor,49004,Taylor (I),Doherty
+actor,64979,Scott (VI),Norman
+actor,86673,Rogan,Wilde
+actress,81418,Kim (I),Delaney
+actress,67914,Daniela (I),Barbosa
+actress,131030,Jennifer,Gouveia
+actor,9462,Akihiro,Shimomura
+actress,42250,Blanche,Rose
+actor,117729,Masuo (I),Amada
+actor,5282,Jonathan (I),Tucker
+actor,15216,Ned,Gill
+actor,84935,Leonard,Ongaya
+actress,36674,Amie,Barsky
+actor,33369,Georges,Claisse
+actor,78563,Calvin,Remsberg
+actress,56579,Mia (XVIII),
+actress,122333,Megan,Hiratzka
+actor,35957,Alexander,Schwan
+actor,4507,Ronaldo,Eknal
+actor,132079,Joseph G.,Quinn

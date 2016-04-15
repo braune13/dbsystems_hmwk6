@@ -1,0 +1,71 @@
+actor,88452,Jamie,McShane
+actor,11493,Rafael (I),de Souza
+actress,106703,Kathleen,Mocklin
+actor,92582,Mark,Morrell
+actor,45271,William,Lapp
+actor,148051,Ali,Elayan
+actor,1012,Devon,Bostick
+actor,42805,Michael (I),Rosenbaum
+actress,7944,Nancy (VIII),Fisher
+actor,112894,Alejandro,Repullés
+actor,13880,Mark (I),Chamberlin
+actress,113502,Meg (I),Foster
+actor,109851,Tristan (I),Oliver
+actress,65509,Gabriela (I),Cerecero
+actor,84729,John (I),Merton
+actor,48620,Charles (I),Parks
+actress,71149,Kimberly (I),Schwartz
+actor,138979,Jan,Cornet
+actor,12515,Michael P.,Sullivan
+actor,73572,Donncha,O'Dea
+actor,103616,Bin,Shimada
+actress,121137,Fatima,Ptacek
+actor,100796,Alberto (I),Jiménez
+actor,81328,William,Stine
+actor,6280,Nick,Farnell
+actor,82976,Darryl Reuben,Hall
+actor,32987,Brooklyn,Beral
+actor,86505,Jules,Douglas
+actor,140515,Guy,Norris
+actor,141546,Cosme,Urquiola
+actor,121728,Chris,Ragland
+actress,25596,Zineb,Oukach
+actor,43676,Roger,Lodge
+actor,31920,Douglas (I),Henderson
+actor,135017,Steven (I),Hill
+actor,75384,Kenneth,Tsang
+actor,15349,Ethan,Wolvek
+actor,36315,D.J.,Silver
+actress,30597,Aimee,Nash
+actor,82395,Haruo,Nakajima
+actor,40735,Sam,Stefanski
+actress,22638,Janine,Horsburgh
+actor,94627,Diego de,Paz
+actor,48978,Tyrone,Power
+actor,85953,Vishnudutt,Gaur
+actress,43344,Maha (I),Chehlaoui
+actor,6257,Pale,Olofsson
+actor,147671,Victor,Harrington
+actor,95871,Rudi,Zandberg
+actress,92928,Babbie,Green
+actor,2013,Sebastiano,Fisichella
+actor,34102,William (VIII),Cole
+actor,88745,Dave,Rickley
+actor,148375,Fernand,Ledoux
+actor,43523,Kaj (I),Rasmussen
+actor,107926,Stan (I),Brooks
+actor,41442,Noble 'Kid',Chissell
+actor,108938,Bridger,Zadina
+actor,140207,Wolfgang,Hillinger
+actor,53094,Caleb (I),Kurowski
+actress,106896,Denise,Gough
+actress,736,Bonnie,Piesse
+actor,16447,Lynden,Edwards
+actress,146255,Ellen,Gamble
+actress,67711,Leigh,Spofford
+actress,78542,Shary,Guthrie
+actress,72684,Kelly,Roland Warren
+actress,102189,Caroline (I),Elliott
+actor,12322,F. Gary,Gray
+actor,10993,David (V),Barbour
+actress,67258,Klara,Smetanova

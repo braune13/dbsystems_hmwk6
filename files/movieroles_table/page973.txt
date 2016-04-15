@@ -1,0 +1,66 @@
+113764,(voice),,2742153,[Mary Katherine (M.K.)]
+115774,(voice),,2742153,[Roller Derby Girl]
+120558,(voice),,2742153,[Flower Kid]
+120827,(voice),,2742153,[Additional Voices]
+123200,(voice),,2742153,[Additional Voices]
+123533,(voice),,2742153,[Jinn Mom]
+126114,(voice),,2742153,[Fruit Fly (Old)]
+127458,(voice),,2742153,[Additional Voices]
+127731,(voice),,2742153,[Race Announcer/Additional Voices]
+129246,(voice),,2742153,[Dandelion Jinn]
+130690,(voice),,2742153,[Additional Voices]
+133465,(voice),,2742153,[Bomba]
+135468,(voice),,2742153,[Biker Dude]
+137896,(voice),,2742153,[Additional Voices]
+141109,(voice),,2742153,[Additional Voices]
+143998,(voice),,2742153,[Additional Voices]
+145182,(voice),,2742153,[Additional Voices]
+146616,(voice),,2742153,[Additional Voices]
+147230,(voice),,2742153,[Additional Voices]
+147668,(voice),,2742153,[Fruit Fly (Young)]
+20618,(voice),,2742885,[Saphira]
+21126,,,2742885,[Hrothgar]
+23344,,,2742885,[Villager #2]
+24968,(as Chris Egan),,2742885,[Roran]
+28924,(voice),(as Paula Jane Newman),2742885,
+30202,,,2742885,[Razac #1]
+32932,,,2742885,[Tall Soldier]
+36932,,,2742885,[Durza]
+37260,(voice),,2742885,
+37737,(voice),(as Anthony Armatrading),2742885,
+43141,(voice),,2742885,
+49893,(uncredited),,2742885,[Urgal Warrior]
+50691,(voice),,2742885,
+50693,,,2742885,[Varden Guard]
+51354,(voice),,2742885,
+52232,(voice),,2742885,
+56512,,,2742885,[Arya]
+58790,(as Michael A. Mehlmann),,2742885,[Villager #1]
+63383,,,2742885,[Sloan]
+63841,(voice),,2742885,
+64896,(voice),,2742885,
+65044,(voice),,2742885,
+68333,,,2742885,[Angela]
+69101,,,2742885,[Brom]
+73181,(voice),,2742885,
+77817,,,2742885,[Galbatorix]
+78347,(voice),,2742885,
+80373,(voice),,2742885,
+85473,,,2742885,[Horst]
+86133,(voice),(as John Gidcomb),2742885,
+89126,(voice),,2742885,
+94979,(voice),,2742885,
+96498,,,2742885,[Eragon]
+102541,(voice),,2742885,
+103267,,,2742885,[Horst's Wife]
+107755,,,2742885,[Varden Woman]
+108734,(uncredited),,2742885,[Katrina]
+114533,(voice),,2742885,
+114604,,,2742885,[Uncle Garrow]
+116547,(voice),,2742885,
+118634,,,2742885,[Murtagh]
+119121,,,2742885,[Sergeant]
+125146,,,2742885,[Ajihad]
+127443,(voice),,2742885,
+129810,(voice),,2742885,
+131802,,,2742885,[Nasuada]

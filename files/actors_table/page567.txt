@@ -1,0 +1,71 @@
+actor,13258,Ricky (I),Nelson
+actress,124821,Jan,Stratton
+actor,81845,Andrew,Furr
+actor,127125,Rod,DeOcera
+actress,124254,Shirley Anne,Field
+actress,27333,Teresa,Kadotani
+actress,25997,Beth,Sheather
+actor,102416,Bill (I),Dow
+actor,45872,Nathan,December
+actor,112791,Billy,Crystal
+actor,10934,Brandon,Borror-Chappel
+actor,112976,Hayes,Mercure
+actor,22583,Vic,Kleinman
+actor,142713,Matt,Daniel-Baker
+actor,117012,Michael,Harring
+actor,14170,Michael Isaac,Salman
+actor,92160,Johnny,Zander
+actress,49984,Gina,Bramhill
+actor,21875,Sam (I),Dalton
+actress,12026,Gillian (I),Evans
+actor,99952,Michael,Balzano III
+actor,82166,Steven,'Bear'Boyd
+actor,5560,Raimundas,Banionis
+actor,5600,Nils Allen,Stewart
+actor,131924,Henry (I),Marshall
+actor,35048,Dave (XXII),Davis
+actor,11341,Greg (V),Anthony
+actor,100964,Dante,Maggio
+actor,147116,Alfred,Hartung
+actress,143376,Hayden,Saunier
+actress,2954,Natalie,Ramsey
+actress,99411,Bridget,McGuinness
+actor,19974,Ricco,Ross
+actor,133029,Richard (II),Mulholland
+actor,30360,Wayne,Leya
+actor,65183,Don,Teems
+actor,35083,Randall,Wulff
+actress,119713,Anna,Nalepka
+actor,138446,Cedric,De Souza
+actress,22853,Brittany (I),McConnell
+actor,7399,Ryan,Wiebe
+actress,121443,Tsianina,Joelson
+actress,70816,Elizabeth,Mathis
+actress,19960,Rachel,Dickey
+actress,143226,Tara,Fynn
+actor,100043,James (III),Burrows
+actress,5129,Tina (IV),Wang
+actor,75363,Ashton Lee,Woolen
+actress,12231,Angelyn,Forbes
+actress,84920,C.J.,Fidler
+actor,2578,J,Barton
+actor,108480,Konstanty,Szwemberg
+actor,93160,Daniel (XIII),Kaufman
+actor,985,Richard,Epper
+actor,41237,Eric,VanArsdale
+actor,90191,Abram,Rooney
+actor,145173,Joe,De Nicola
+actor,69959,Greg (II),Graham
+actor,90730,Ozyer,Hüsinye
+actor,136062,Dick,Berggren
+actor,15560,Stuart (I),Blake
+actress,56510,Charlotte,Crome
+actor,102822,Robert M.,Clark
+actor,9741,Ivan,Vunich
+actress,99582,Marlene,Forte
+actor,32435,Dan (I),Daily
+actress,66817,Colleen,Werthmann
+actor,53645,Asim,Chaudhry
+actor,37117,Geoffrey B.,Nimmer
+actor,140622,Bennett,Yellin
+actor,93403,Charles 'Lew',Smith

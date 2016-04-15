@@ -1,0 +1,66 @@
+82377,,,3403131,[Fairy]
+86376,,,3403131,[Siamese Twin]
+86841,,,3403131,[Bytes' Boy]
+88419,,,3403131,[1st Fighting Woman]
+89665,,,3403131,[Distraught Woman]
+90547,,,3403131,[1st Whore]
+91916,,,3403131,[Midget]
+93422,,,3403131,[First Bobby]
+95430,,,3403131,[Cabman]
+95842,,,3403131,[Man With Whores]
+98307,,,3403131,[2nd Fighting Woman]
+99074,,,3403131,[Japanese Bleeder]
+99346,,,3403131,[Alderman]
+99422,,,3403131,[Fairground Bobby]
+99913,,,3403131,[Lady Waddington]
+104109,,,3403131,[Merrick's Mother]
+105519,,,3403131,[Milkman]
+106080,,,3403131,[Fat Lady]
+106430,(uncredited),,3403131,[Man in the Bowler Hat in the Mob Chasing Merrick]
+107047,,,3403131,[Young Porter]
+107056,,,3403131,[Broadneck]
+109158,,,3403131,[Fox]
+109340,,,3403131,[Mrs. Treves]
+109872,,,3403131,[Princess In Panto]
+110950,,,3403131,[Horse]
+113195,,,3403131,[Lion/Coachman]
+116013,,,3403131,[King In Panto]
+117460,,,3403131,[Nora]
+120034,(uncredited),,3403131,[Injured Man]
+123285,(uncredited),,3403131,[Man in crowd]
+124257,,,3403131,[2nd Whore]
+128509,,,3403131,[Frederick Treves]
+129641,(as Robert Bush),,3403131,[Messenger]
+130939,,,3403131,[John Merrick]
+133713,,,3403131,[Pierce]
+139901,,,3403131,[Horse]
+144830,,,3403131,[Principal Boy]
+146309,,,3403131,[Plumed Dwarf]
+148901,,,3403131,[Mrs. Kendal]
+7109,(voice),,3403406,"[Chicha, Pacha's Wife]"
+15102,(voice),(as Stephen Anderson),3403406,
+19814,(voice),,3403406,
+23546,(voice),,3403406,
+24953,(voice),,3403406,[Old Man]
+36641,(voice),,3403406,
+41469,(voice),,3403406,
+43151,(voice),,3403406,
+56836,(voice),,3403406,"[Kronk, Yzma's Sidekick]"
+58182,(voice),,3403406,"[Tipo, Pacha's Son]"
+66357,(voice),,3403406,
+67248,(voice),,3403406,
+73663,(voice),,3403406,"[Chaca, Pacha's Daughter]"
+77255,(voice),,3403406,[Waitress]
+78142,(voice),,3403406,[Pacha]
+81066,(voice),,3403406,[Guard]
+96394,(voice),,3403406,
+105380,(voice),,3403406,[Theme Song Guy]
+107054,(voice),,3403406,
+110765,(voice),,3403406,
+119205,(voice),,3403406,[Emperor Kuzco/Narrator]
+121731,(voice),,3403406,[Official]
+142449,(voice),,3403406,[Yzma]
+143538,(voice),,3403406,[Bucky the Squirrel]
+146794,(voice),,3403406,
+2043,,,3404807,[Fake Shemp]
+14091,,,3404807,[Fake Shemp]

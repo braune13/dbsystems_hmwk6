@@ -1,0 +1,71 @@
+actress,83463,Carla,Gordillo
+actress,122629,Paula (I),Kelly
+actor,36050,David (IV),Cameron
+actor,123108,John (III),McKay
+actor,48406,Odnyam,Odsuren
+actor,26183,Michael (VII),Humphrey
+actor,92240,Clayton,McGovern
+actor,35457,Josh (I),Mills
+actor,129687,Tyler Reid,West
+actress,129159,Cameron,Milzer
+actor,61146,Christopher (I),Leung
+actor,21316,Pat (I),Fry
+actor,21521,Poll,Moussoulides
+actor,81055,Kevin,Brathwaite
+actor,132994,Stojan,Sotirov
+actress,32008,Lucie,Phan
+actress,107226,Nicole,Vieira
+actor,60634,Roy (III),Metcalf
+actor,86196,Billy,Devlin
+actor,61504,Phil,Theis
+actor,138298,Gary (I),Farmer
+actor,17257,Ralph,Madlener
+actor,40308,Rick,Olmos
+actress,124727,Sydney,Orta
+actor,49760,Ralph (I),Rodriguez
+actor,28801,Thomas (IV),Kane
+actor,99793,Patrick Constantine,Bertagnolli Jr.
+actor,35191,Charles (I),Nicklin
+actor,10764,Boris,Ruiz
+actress,90016,Sandra,Tauro
+actor,17947,Charles (V),Moss
+actress,86632,Catherine,Schaub-Abkarian
+actress,98111,Lynne,McGhee
+actor,22291,Levi,Otis
+actress,117684,Patricia,Benedict
+actress,69723,Ofra,Haza
+actor,17892,Peter (VIII),King
+actor,104317,L.C.,Drane
+actress,66924,Dawn (I),Clark
+actor,121533,Leon,Lissek
+actor,145278,Greg,Prusiewicz
+actress,145079,Pam,Nielson
+actress,45489,Devon,Jencks
+actress,38689,Carrie,Aizley
+actor,75167,Shôichi,Hirose
+actress,37392,Belle,Angel
+actor,147130,Hugh,Berry
+actor,63423,Ben,Lloyd-Hughes
+actor,127640,Ronnie,Tisdale
+actor,122217,Steve (XXII),Williams
+actress,125712,Darlene,Vogel
+actress,116644,Samantha,Spiro
+actor,49284,Brad (II),Brewer
+actor,18826,Eric (I),Neumann
+actor,76989,Josh (XI),Baker
+actor,139782,Roy,Borrett
+actor,148641,Mark,Marking
+actor,142248,Charles D. (I),Brown
+actress,70788,Camilla,Arfwedson
+actress,119749,Elizabeth,Burville
+actor,69433,Alex,Kruz
+actor,99141,John,Moio
+actor,33855,Domenico,Fortunato
+actress,22224,Shonee,Alder
+actress,19041,Jeanne,Mockford
+actor,107928,Bob (III),Stevens
+actress,1303,Pamela,Gidley
+actor,8351,Ian,Robison
+actor,74471,Will (I),Moore
+actor,93855,Damien,Di Paola
+actress,11137,Patricia (I),Brown

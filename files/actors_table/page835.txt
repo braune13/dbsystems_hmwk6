@@ -1,0 +1,71 @@
+actor,46605,Doug,Barden
+actor,26618,William K.,McNeil
+actor,97251,Bob,Grundy
+actor,100593,Jimmy,Alioto
+actor,56089,Jesse,Ibarra
+actress,68608,Maura,Nielsen Kaplan
+actor,58828,Carson,Nicely
+actor,48531,Yotaka,Cheukaew
+actress,74713,Yasmina,Suhonen
+actor,111032,Bernard,Bourdeau
+actress,101019,Margaret,Wheldon
+actor,118172,Jeronimo,Spinx
+actor,108525,Richard (IV),Kelly
+actor,21200,Christophe,Perie
+actor,83675,Cleveland 'Chick',Harris
+actress,43955,Anne Kathryn,Parma
+actor,60786,Kota,Yui
+actor,119299,Tony,Onafesso
+actress,49031,Emma,Bolger
+actress,80027,Michelle,Hom
+actress,69198,Dianne B.,Manaster
+actress,110940,Cheryl,Henson
+actress,70105,Kathy Alzado,Murray
+actor,127474,Jordan (I),Garrett
+actor,74920,Peter,Benedek
+actor,114223,Sangad,Sangkao
+actor,34023,Charles (VI),Edwards
+actor,52223,Sam,Jaeger
+actress,147536,Zoe,Di Stefano
+actor,13376,Elijah Blue,Molina
+actor,130647,Reece,Beaumont
+actor,149330,Bill (I),Goodwin
+actor,49631,Ray,Browne
+actress,108555,José,Greci
+actor,78021,Zach,Weaver
+actor,126207,Ray,Huffman
+actor,3354,Ronit (I),Roy
+actor,45680,Joseph,Della Sorte
+actress,125011,Deborah Smith,Ford
+actor,13354,Chasen,Hampton
+actress,148721,Kellie,Aiken
+actor,76221,Rich,Habersham
+actor,43818,Devin,Brochu
+actor,141255,Gabriel (I),Castillo
+actress,132822,Belinda,Henley
+actor,119892,John (I),Spencer
+actress,43980,Irene,Montalà
+actress,83003,Beata,Rybotycka
+actor,52506,Steve J.,Termath
+actress,86337,Signy,Coleman
+actor,20228,James (II),St. James
+actor,146420,Michael,Ooms
+actress,82212,Keiko (III),Matsumoto
+actor,129158,Chris (I),Harley
+actor,5477,Gil,Lamb
+actor,17083,Alex,Taber
+actor,68427,Gérard,Vantaggioli
+actor,63108,David E.,Browning
+actor,77017,Emmett,Robin
+actor,74533,Michael (I),Maloney
+actress,94690,Sylvana,Simons
+actress,65991,Koda,
+actress,203,Stella (I),Steenkamp
+actor,89833,Matthew Rush,Sullivan
+actress,12528,Katherine,Andreassen
+actor,69776,Bruno,Flender
+actor,44670,Dmitri,Slepovitch
+actress,47744,Sara (I),Pelosi
+actress,145249,Renata,Kamara
+actor,14701,Matt,Hislope
+actor,94848,Joseph P.,Santillanes

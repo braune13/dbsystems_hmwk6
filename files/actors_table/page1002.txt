@@ -1,0 +1,71 @@
+actress,412,Rika,Hofmann
+actor,8908,Richard (III),Collier
+actress,7063,Amy (II),Quinn
+actor,17783,Ron,Leggett
+actress,3426,Adrienne,Mazeika
+actor,38518,Claude,Stuart
+actor,146619,Neill,Calabro
+actress,49310,Flavia,Brilli
+actor,7517,Mike,Sode
+actor,96279,Björn,Flor
+actor,37421,Ofield,Williams
+actor,34921,Paul (III),McGuire
+actor,4703,William,Throckmorton
+actress,49124,Mary (VII),Howard
+actor,133684,Sal,Mistretta
+actor,1357,Anthony J.,O'Donnell
+actor,96707,John (XIX),Baker
+actor,56322,George,Glynn
+actor,122779,Michael J. (II),Dwyer
+actor,62567,Miro,Polo
+actress,120321,Noreen,Nash
+actor,26836,Sergej,Oskin
+actor,139603,Elyes (I),Gabel
+actor,105957,Matt (I),Battaglia
+actor,147223,Paolo,Mazzarelli
+actress,134210,Tamara 'Gingir',Curry
+actor,141728,Bill,Rowell
+actress,101697,Elizabeth,Ward Land
+actor,124925,Jason,Raize
+actor,16217,Oliver (I),Kirk
+actress,60160,Nastassja,Kinski
+actor,130520,Michael (I),Murphy
+actor,144836,Curnal Achilles,Aulisio
+actress,56780,Diane,McGee
+actor,103232,Hans Thomas,Holm
+actress,9700,Jennifer,LaPlaca
+actor,82995,Philip,Spearing
+actor,38866,Robert (V),Thomas
+actor,25224,Jeffries,Simelane
+actress,100109,Heidi,Hetzel
+actor,9754,Randy W.,McCoy
+actor,46708,Paul,Hatter
+actress,102225,Pisamai,Pakdeevijit
+actor,118887,Vincent (I),Coppola
+actress,110687,Bruklin,Harris
+actress,110740,Gabriella,Sinclair
+actor,127948,Nick,Perri
+actor,140933,Tyler,Poelle
+actress,48097,Candy,Clark
+actor,42466,Tommaso,Accardo
+actor,19203,Gregory George,Frank
+actress,33942,Arielle,Campbell
+actor,77008,Rehan,Yadav
+actress,62621,Ivy,Austin
+actor,57464,Austin,Rosenberger
+actress,143561,Pam,Western
+actress,63167,Kelley,Harron
+actress,49350,Megan (I),Milner
+actor,98344,Nathan Dean,Snyder
+actor,66998,Jorge (II),Jurado
+actor,101734,Nick (II),Price
+actor,42791,Dalton,Trumbo
+actor,33591,Mi-nam,Jeong
+actor,106969,Roberto,Visconti
+actor,46364,Louis,Mahoney
+actress,76484,Ingrid (I),Johnson
+actor,113912,Robert,Helpmann
+actress,1232,Christi,Work
+actor,10821,Mike,Fujimoto
+actress,70281,Louise (I),Burns
+actor,97404,Michael George,Miller

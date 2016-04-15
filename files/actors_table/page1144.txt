@@ -1,0 +1,71 @@
+actor,42978,Colin (I),Powell
+actor,92411,Rick (I),Johnson
+actress,84464,Patricia,Keefer
+actress,24405,Perri (I),Lauren
+actor,90350,Ah,Yot
+actor,116444,Charles Anthony,Burks
+actor,36186,Aaron,Blakely
+actor,65678,Robert,Wilharm
+actor,37987,Daniel,Byington
+actor,70731,Dick,Van Dyke
+actor,19661,Sam,Scudder
+actor,133839,Jay,Munn
+actor,144397,Roman,Green
+actor,118089,Maurice,Sonnenberg
+actress,68683,Evanne,Drucker
+actor,26100,Tom,Oppenheim
+actress,116702,Danielle (II),Rizzo
+actor,87883,Dominick,Brascia
+actress,63162,Joanne,Brooks
+actor,75553,Ed,Kershen
+actor,77760,Anthony,Chrysostom
+actor,148859,Boyd,Holbrook
+actor,108491,Gonzo,Raymond
+actor,86306,Jim R. (I),Coleman
+actor,2147,Richard,Reitherman
+actor,149053,Stephen,Gartner
+actress,35888,Alaina,Whitney
+actor,79213,Benny,Burt
+actor,79277,J. Aaron,Stanley
+actor,136923,Tal,Kastoriano
+actor,146366,Marcello,Magni
+actor,125618,Jarred,Blakiston
+actress,28956,Amber (IV),Smith
+actor,84319,D. Anthony,Boone
+actor,15789,Nick,Teta
+actor,22342,Josh (I),Patton
+actress,6230,Judy,Langford
+actress,96401,Lynn-Holly,Johnson
+actor,129865,Jonathan,Guise
+actress,4685,Adrienne,Wilson
+actor,23989,Richard (II),Gamble
+actress,19116,Julanne Chidi,Hill
+actor,10721,Ryuta,Kimura
+actress,129366,Onye',Coleman
+actress,43027,Genevieve,Fisher
+actor,101478,Nikita,Khrushchev
+actor,62485,Jorge (II),Fernández
+actress,95107,Valentina,Sumenova
+actor,67216,Joseph,Gilgun
+actor,46877,Rick (III),Evans
+actor,17322,Alejandro,Casaseca
+actor,51230,Don,Ian
+actor,145900,Levi Mickael,de Ramon
+actress,113253,Amy,Weber
+actress,148373,Tara,Lipinski
+actor,88887,Terrance,Leigh
+actress,22005,Tania L.,Pearson
+actress,72636,Ashley,Lilley
+actress,36037,Lei,Hao
+actress,9769,Kathleen,Dobran
+actor,87860,Joseph (I),Ross
+actor,98315,Steven (II),Barry
+actor,14262,Eric (III),Cook
+actor,141959,Olivier,De Sagazan
+actor,2062,Chad,Zapfe
+actress,142890,Lindsay (II),MacDonald
+actress,29733,Amelda,Brown
+actor,76611,Cristián,Chaparro
+actor,40452,Frank J.,Adler
+actress,58958,Annie,Girardot
+actor,25277,Alex,Manugian

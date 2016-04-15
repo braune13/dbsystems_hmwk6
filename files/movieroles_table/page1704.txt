@@ -1,0 +1,66 @@
+48048,(voice),,2955065,[Bâ-chan]
+50052,(voice),,2955065,
+51307,(voice: English version),(as Greg Ellis),2955065,
+52983,(voice: English version),,2955065,[Mamma Aiuto Gang]
+53624,(voice: English version),,2955065,
+57292,(voice),(as Bunshi Katsura),2955065,[Pikkoro-oyaji]
+60678,(voice: English version),,2955065,[Porco Rosso]
+66160,(voice: English version),,2955065,
+67248,(voice: English version),,2955065,
+77595,(voice: English version),,2955065,
+78345,(voice: English version),,2955065,[Curtis]
+78517,(voice: English version),,2955065,
+79872,(voice: English version),,2955065,
+89610,(voice: English version),,2955065,
+89888,(voice: English version),,2955065,
+95036,(voice: English version),,2955065,
+96822,(voice: English version),,2955065,
+97882,(voice: English version),,2955065,
+107054,(voice: English version),,2955065,
+108234,(voice: English version),,2955065,
+111790,(voice: English version),,2955065,[Mamma Aiuto Boss]
+113665,(voice: English version),,2955065,
+113687,(voice: English version),,2955065,
+116322,(voice),,2955065,[Donarudo Kâchisu]
+120090,(voice: English version),,2955065,
+120184,(voice: English version),,2955065,
+127746,(voice),,2955065,[Fio Pikkoro]
+128602,(voice),,2955065,[Manmayuto no shachô]
+138002,(voice: English version),,2955065,
+140454,(voice: English version),,2955065,[Gina]
+142733,(voice: English version),,2955065,[Fio]
+146836,(voice: English version),,2955065,
+149044,(voice),,2955065,
+1063,,,2956177,[Younger Daughter]
+13816,,,2956177,[Mother]
+47854,(as Athanasia Petropoulou),,2956177,[Secretary]
+52599,,,2956177,[Son]
+70690,,,2956177,[Colleague]
+77140,,,2956177,[Dog trainer]
+104865,,,2956177,[Christina]
+116540,,,2956177,[Father]
+140195,(as Aggeliki Papoulia),,2956177,[Older Daughter]
+521,(voice),,2957173,[Kusanagi Girl]
+5267,(voice: English version),(as David Conrad),2957173,[Bad Guy in Getaway Car]
+8744,(voice: English version),(as Ben Isaacson),2957173,[Section 6 Department Chief Nakamura]
+10252,(voice: English version),,2957173,[Additional Voices]
+15362,(voice),,2957173,[Ishikawa]
+21860,(voice: English version),(uncredited),2957173,[Tsuan Gen Fang/Sniper Target Leader]
+24256,(voice),,2957173,[Director Nakamura]
+31512,(voice: English version),(as Hank Smith),2957173,[Minister]
+33351,(voice),(uncredited),2957173,[Minister]
+34264,(voice),,2957173,[Sniper]
+36334,(voice: English version),(as Tom Carlton),2957173,[Garbage Collector A]
+38117,(voice),,2957173,[Terrorist]
+39850,(voice: English version),,2957173,[Diplomat]
+39862,(voice: English version),,2957173,[Garbage Collector B]
+40585,(voice),,2957173,[Commander]
+41038,(voice),,2957173,[Old Man]
+42530,(voice),,2957173,[Driver]
+42682,(voice: English version),,2957173,[Additional Voices]
+43207,(voice: English version),(as Amy Wong),2957173,[Additional Voices]
+45826,(voice: English version),,2957173,[Additional Voices]
+47515,(voice),,2957173,[Diplomat]
+52158,(voice: English version),(as Joe Michaels),2957173,[Crass Truck Driver]
+53595,(voice: English version),,2957173,[Additional Voices]
+53932,(voice: English version),,2957173,[Additional Voices]

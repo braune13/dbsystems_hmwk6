@@ -1,0 +1,71 @@
+actor,81083,Ed (I),Morgan
+actor,33953,James (I),Gillis
+actor,123237,James (II),Root
+actress,90751,Laura,Harling
+actress,31582,Jackie (VII),Johnson
+actress,33598,Natalie,Lorence
+actress,64164,Brenda (I),Palmer
+actress,29517,Barbara (II),Singer
+actor,33051,Massimo,Girotti
+actress,130862,Tracey (II),Silver
+actress,100497,Lou Anne,Cooper
+actor,76180,Tomislav,English
+actor,124819,Paul,Van Der Heyden
+actress,139003,Ellie,Kendrick
+actor,123404,Nathan (I),Hill
+actress,37230,Lynn,Pendleton
+actor,58106,Michael,Dayspring
+actor,65399,Herbert,Goldstein
+actor,75927,Mark,Bryce
+actor,134673,Brian,Prizer
+actress,107883,Michelle,Turley
+actor,55550,Michael (XLIII),Campbell
+actress,66407,Carla (I),Renata
+actress,35711,Tina,Pituckul
+actress,113599,Melissa,Manchester
+actor,15328,James A.,Baffico
+actress,24242,Jacqueline,Barba
+actor,117631,Mark (I),Herron
+actress,99875,Meghan (I),McLeod
+actress,28243,Alexandra,Gizela
+actress,17785,Caymen,Kelly
+actor,129532,Michelle (III),Snyder
+actor,15207,Bob (III),Wilson
+actress,104493,Judy,Conrad
+actress,22994,Raquel,Toro
+actress,30853,Xiao Dong,Mei
+actress,124606,Rebecca,Toolan
+actress,85702,Laura,Avnaim
+actress,25641,Emily,Degrass
+actress,19450,Sincerely A.,Ward
+actor,85803,Kida Khodr,Ramadan
+actor,9525,Emil,Felski
+actress,42171,Catherine (II),Tate
+actor,143600,Ananda,Everingham
+actor,91470,Jack (III),Morton
+actor,58490,Billy (I),Hallowell
+actress,130314,Adelina,Poerio
+actress,148615,Jeana,Lowes
+actress,41662,Lara,Edmunds
+actress,94347,Kerry,Lambert
+actor,76957,Duang,Maidork
+actor,25921,Familie,Ayik
+actor,133102,Sylvesta,Stuart
+actor,37038,Robert,Addie
+actress,125268,Olivia (III),Quinn
+actor,70842,James,Cada
+actor,11531,Barry,Lee-Thomas
+actor,1323,Jose (XVI),Sanchez
+actress,118370,Wendy,Foxworth
+actress,134567,Ultra,Naté
+actor,107956,Robert (V),Armstrong
+actor,16904,Theodor,Hoffsten
+actor,55683,Leo,Ibanez
+actor,53202,Martin,Nyholm
+actor,123732,Cal,Hoffman
+actress,68460,Claudia,Wilkens
+actress,31575,Elena,Chernyakova
+actress,85550,Kirsten,Baker
+actor,35156,William Patrick,Brown
+actor,34227,Raúl,Otegui
+actor,67848,James D.,Turner

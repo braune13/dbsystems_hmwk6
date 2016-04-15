@@ -1,0 +1,71 @@
+actor,591,John Pierce,Jones
+actor,146841,Thierry,Maurio
+actor,109656,Richard (I),Simmons
+actor,70306,Doug,Dillard
+actress,69114,Haley,Urbanik
+actor,94284,Alex,Santoriello
+actor,34383,Chris (XII),Williams
+actor,29255,Kelly Michael,Stewart
+actress,25310,Jennifer (I),Seguin
+actor,38712,Julian (I),Gant
+actor,80952,Mark,Shrader
+actress,5248,Choua,Kue
+actress,121507,Joanna,Brookes
+actor,119509,Philip (I),Marshall
+actor,118008,Dan (II),Anders
+actress,81472,Gameela,Wright
+actor,41535,Jai,Courtney
+actor,22408,Michael Love,Toliver
+actor,143810,Ben (I),Mihm
+actor,103045,Matthew,Gauthier
+actress,148935,Vanessa,Cooke
+actress,39505,Linda (I),Kim
+actress,138653,Tiffany,Boysell
+actor,88779,George A.,Murphy
+actor,83927,Bailey (I),Bass
+actor,67483,Bodhi,Briggs
+actress,79093,Patty,Tobin
+actor,75857,Shaun,Wickers
+actor,144079,Mikaal,Zulfikar
+actor,140880,Nigam,Thakur
+actor,113273,Chuck,Kuespert
+actress,120088,Kim (I),Myers
+actor,22298,Tom,Keevers
+actress,60403,Svea,Timander
+actress,62625,Gayle (I),Vance
+actor,148900,Peter Allen,Vogt
+actor,20166,Sean,Kenin
+actor,14768,James Michael,Smith
+actor,81898,Ricardo,Darín
+actress,52895,Alisa,Fedele
+actor,98789,Shawn (I),Bryan
+actress,95284,Lynn,Farleigh
+actress,35544,Linda,Revelli
+actor,56490,Christian,Ferratti
+actress,71290,Linda,Lutz
+actor,149316,Peter,Brett
+actor,81704,Cayetano,Martínez de Irujo
+actress,74466,Susan,Tischler
+actor,47921,Maurice (I),Rice
+actress,105105,Juliet Reeves,London
+actor,36755,David 'Skippy',Malloy
+actress,106306,Fay,DeLaCruz
+actress,483,Tammy Monica,Gegamian
+actress,110089,Lynn Ann,Leveridge
+actress,88058,Christine (I),Devine
+actress,49073,Florence,Lake
+actress,72369,Bonnie,Afsary
+actor,146014,Joe,Brigham
+actress,39657,Louise,Siversen
+actor,34776,Humphrey,Bogart
+actor,13188,John T.,Wilson Jr.
+actor,40500,Al,Bandiero
+actor,56117,Mike (II),Nugent
+actor,75486,Drew Levi,Thomas
+actress,75611,Carol (I),Harrison
+actress,5681,Lisa (III),Love
+actor,126951,Stewart,Finlay-McLennan
+actress,122668,Phyllis,Gordon II
+actress,17536,Denicia Marie,Jefferson
+actor,104427,Giuseppe,Gandini
+actress,11305,Ruth (I),Flaherty

@@ -1,0 +1,66 @@
+102540,,,3071208,[Terry]
+109107,,,3071208,[Mrs. Caspar]
+110317,,,3071208,[Tad]
+118321,,,3071208,[Street Urchin]
+118764,,,3071208,[Cop with Bullhorn]
+118820,,,3071208,[Boxer]
+122584,,,3071208,[Screaming Lady]
+130275,,,3071208,[Bernie Bernbaum]
+133488,,,3071208,[Landlady]
+137407,,,3071208,[Mink]
+142012,,,3071208,[Rabbi]
+142460,,,3071208,[Tom Reagan]
+146735,,,3071208,"[Clarence ""Drop"" Johnson]"
+148451,(uncredited),,3071208,[Hitman #3]
+149280,,,3071208,[Gunman in Leo's House]
+1873,(voice: English version),,3071616,[High School Student]
+3551,(voice),,3071616,
+12387,(voice: English version),,3071616,[Kinuyo]
+12388,(voice),,3071616,[Seiya Tsukishima]
+12901,(voice: English version),,3071616,[Yuko Harada]
+25125,(voice: English version),,3071616,[Sugimura]
+28186,(voice),,3071616,
+32770,(voice),,3071616,
+32785,(voice),,3071616,[The Baron]
+34045,(voice: English version),,3071616,[Nao]
+35368,(voice),,3071616,[Shiho Tsukishima]
+35802,(voice: English version),,3071616,[Shiho Tsukishima]
+38283,(as James B. Sikking),,3071616,[Seiya Tsukishima]
+38993,(voice),,3071616,[Sugimura]
+40328,(voice),,3071616,[Shizuku Tsukishima]
+40803,(voice),,3071616,[Baseball Announcer]
+43257,(voice),,3071616,
+43736,(voice: English version),,3071616,
+43874,(voice),,3071616,[Asako Tsukishima]
+50627,(voice),,3071616,
+73286,(voice),,3071616,[Kinuyo]
+78345,(voice: English version),,3071616,[The Baron]
+82511,(voice),,3071616,[Seiji Amasawa]
+85106,(voice: English version),,3071616,
+86609,(voice: English version),,3071616,
+87217,(voice: English version),,3071616,[Seiji Amasawa]
+89269,(voice),,3071616,[Shiro Nishi]
+89888,(voice: English version),,3071616,
+90542,(voice: English version),,3071616,[Asako Tsukishima]
+90615,(voice),,3071616,[Kosaka-sensei]
+92252,(voice: English version),,3071616,[Shiro Nishi]
+104653,(voice),,3071616,
+110335,(voice: English version),,3071616,[Shizuku Tsukishima]
+111880,(voice),,3071616,[Tall Friend of Mr. Nishi]
+116358,(voice),,3071616,
+120248,(voice),,3071616,[Baseball Analyst]
+136780,(voice),,3071616,[Yuko Harada]
+141738,(voice),,3071616,
+146836,(voice: English version),,3071616,
+809,(uncredited),,3071250,[Body Guard]
+1486,,,3071250,[Choreographer]
+2399,(uncredited),,3071250,[PoPo's Entourage]
+4196,,,3071250,[Hotel Manager]
+4512,,,3071250,[Grumpy Guy]
+4615,(uncredited),,3071250,[Sports Agent]
+4848,,,3071250,[ESPN Reporter]
+5088,,,3071250,[Document Inspector]
+7508,,,3071250,[Chubby Kid]
+7960,(uncredited),,3071250,[Caterer]
+10570,,,3071250,[Walter (Pittsburgh Scout)]
+11966,,,3071250,[Julie]

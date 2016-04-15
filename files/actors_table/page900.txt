@@ -1,0 +1,71 @@
+actor,121079,Chris,Claremont
+actress,82758,Jill,Adler
+actress,109024,Betty Ann,Cain
+actor,144638,Charles,Dinsdale
+actor,65764,Twanta,Craig
+actor,22409,Erik,Gersovitz
+actress,128875,Bonnie (I),Gillespie
+actor,86389,Kevin M.,Simon
+actor,126042,Hideo,Ishikawa
+actor,13418,Tristan Lake,Leabu
+actor,22283,Mark,Zycon
+actress,71806,Amanda (II),Phillips
+actor,15308,Chris (I),Streeter
+actress,79316,Julie (I),Oppenheimer
+actor,13457,Jim,Cruz
+actor,108098,Dhaffer,L'Abidine
+actor,128920,Blake (I),Clark
+actor,111991,Bjørn Ove,Pedersen
+actress,129237,Milla,Simmonds
+actor,149015,Rayman,Jilani
+actor,121089,James,Stickel
+actor,567,Kevin,Jonas
+actor,82835,Dawid,Szatarski
+actor,22327,B.J.,Britt
+actor,146257,Steven (I),Goldstein
+actor,75518,Buzz,Dunn
+actor,85165,Jonathan,Forte
+actor,96716,Dillard,Brinson
+actor,144026,Nickolas,Wolf
+actor,132634,John,Ierardi
+actress,139551,Susham,Bedi
+actress,130334,Joreta,Nikolova
+actor,86851,Robert,Zimiga
+actor,127891,Gino Anthony,Pesi
+actor,132004,Dave (I),Brock
+actress,33647,Rebecca (I),Clarke
+actor,20091,Karel,Polisenský
+actor,114655,Bruce (I),Ornstein
+actress,38125,Bárbara,Palladino
+actor,100893,Chase,Krepp
+actor,68459,Johnny (I),Meyer
+actor,69192,Olivier,Pajot
+actress,58088,Eliana,Adise
+actor,1575,William,Heggs
+actor,12305,Stefan (I),Mehren
+actress,36402,Chus,Lampreave
+actress,41979,Bonnie,Siu
+actor,123535,Mulchand,Dedhia
+actress,82977,Astrid,Allwyn
+actor,66141,Dan,Irvine
+actor,47061,Joe,Guastaferro
+actor,143229,Stevie,Wonder
+actress,84902,Kitty (I),Riddell
+actor,126311,Jose,Portugal
+actor,98501,Chris,Majors
+actor,121636,Kriss,Dosanjh
+actress,140457,Gina (I),Moore
+actor,76184,Peter,Fontaine
+actor,61944,Robb,Gardner
+actress,143344,Candice,King
+actor,774,Jerome Preston,Bates
+actor,15265,Mo,Gallini
+actress,91829,Brandy,Grace
+actor,32621,Joe (I),Conley
+actress,124681,Maria,Marlene
+actress,10729,Hong,Chau
+actor,43121,Matheus,Nachtergaele
+actress,20852,Candice Love,Jameson
+actor,67045,Frederico,Lins
+actor,43768,Canon (I),Kuipers
+actor,8519,Gale,Hillman

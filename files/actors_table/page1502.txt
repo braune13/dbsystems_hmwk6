@@ -1,0 +1,71 @@
+actress,75219,Vene L.,Arcoraci
+actress,49546,Kate (I),O'Rourke
+actor,3095,Robert (IV),Colby
+actress,54499,Lindsey Whitney,Barry
+actor,55613,Gunther,von Hagens
+actor,126491,Trey,Ore
+actress,133495,Lenore,Pemberton
+actor,19825,Grady,Hutt
+actor,19797,Valerio,Bevilacqua
+actress,61436,Temi,Epstein
+actor,22328,Eugene C.,DePasquale
+actress,34890,Tara,Ochs
+actor,57607,Barnaby,Kay
+actor,103043,Bob (I),Weisz
+actress,45858,Steffanie,Siebrand
+actor,8899,Anton,Marco
+actor,47033,Mark,Sikes
+actor,102307,Steven (II),Roy
+actor,59873,Paul (XIV),King
+actor,23100,B.J.,Martin
+actress,56327,Christina,Azucena
+actress,24891,Linda (I),Smith
+actress,96179,Olga,Poznatov
+actress,13384,Shannen,Doherty
+actress,44186,Rosalind,Lipsett
+actress,5626,Gia,Mantegna
+actress,52395,Janet,Rotblatt
+actor,74455,Ray (I),Nicholson
+actor,47066,Steve (I),Reeves
+actress,133560,Amy,Levitan
+actor,144634,David (XXIX),Mitchell
+actress,123956,Kathrine,Herzer
+actor,13597,Michael F.,Stodden
+actor,32324,Konstantin (I),Telegin
+actor,45326,Danny,Huston
+actress,116332,Nannette,Rickert
+actor,45658,Pat (III),Collins
+actor,7119,Larry (IV),Greene
+actor,135137,Luther,Creek
+actress,12687,Marjorie,Bennett
+actor,48541,Steven,Ban
+actress,44899,Yvette,Mercedes
+actor,36967,Terry,Silk
+actress,224,Josie,Mercier
+actor,148191,David (II),Parkes
+actress,8329,Rossella,Como
+actress,93264,Silvia,de Litrán
+actress,109928,Melanie (V),Lewis
+actor,60432,Mike (IV),Hurley
+actress,117344,Hanna,Alström
+actress,81754,Sarah,Rivera-Scott
+actor,146385,Derek,Basco
+actress,63371,Cayman,Grant
+actor,13579,Conner,Bass
+actor,139495,Nick,Cordileone
+actor,76649,Asif (I),Ahmed
+actor,26703,Richard,Wattis
+actress,78326,Natasha,Slayton
+actor,99228,Ralph,Lawton
+actress,66453,Hannah (I),Sharp
+actor,138919,Jean-Pierre,Marielle
+actor,25150,Shawn,Frenté
+actress,108404,Nicole,Oliveros
+actor,123089,David (I),Quinlan
+actor,105886,Rodolfo,De Alexandre
+actor,10236,Erix,Infante
+actress,124217,Katherine (I),Reilly
+actor,53400,John,Eisenberg
+actress,7219,Lori Ann,Ferreri
+actor,51454,Vladimir,Kulikov
+actor,33981,Michael (I),Sheehan

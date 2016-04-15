@@ -1,0 +1,71 @@
+actor,53162,Mac,Greenstein
+actor,116943,Alfred,Dennis
+actor,126789,Ming (X),Li
+actor,108784,Yuri,Naumkin
+actor,119236,Shi Rui,Qing
+actor,64043,Laouni,Mouhid
+actor,79667,Scott Alan,Cambell
+actress,43928,Emma,Rander
+actress,10657,Edie,Lehmann
+actor,58451,George,Turman
+actor,9366,Brian Keith,Gamble
+actor,84236,Xiuqiang (I),Lin
+actor,80820,Peter (I),Turnbull
+actress,123281,Kimberly (I),Greene
+actor,23892,Stuart (III),Walker
+actor,112949,Claude,Rains
+actor,130098,Sam (I),Berry
+actress,2886,Judith,O'Dea
+actor,133405,Ken,Stott
+actress,73010,Patricia,Howson
+actor,128954,Lee (I),Stringer
+actor,146371,Sammy,Fattedad
+actor,36343,Shade,Rupe
+actor,109205,Ken,Kirzinger
+actor,16459,Bradley Steven,Perry
+actor,83190,Desmond,Reilly
+actor,68122,Nick (II),Kaiser
+actor,43861,Edgar,Letran
+actor,18401,Peter (I),Duncan
+actor,73179,Jefferson,Mappin
+actress,91611,Jill,St. Williams
+actor,119910,Conor (I),MacNeill
+actor,59558,Marc,Soper
+actor,115114,Kurt David,Anderson
+actor,19690,Neil,Kroetsch
+actress,145451,Amy (II),Fogerson
+actor,48367,Zoltan,Butuc
+actor,79300,Stephan,Jenkins
+actor,46453,Reese,Land
+actress,109798,Veleka,Gray
+actor,69296,James,Paparella
+actor,118345,Michael (I),Anthony
+actor,124012,Dorin,Grunwald
+actress,79984,Rhoda,Makoff
+actor,30832,John (I),Mullis
+actress,21055,Susan,Kiskis
+actor,146610,Branden Weslee,Kong
+actor,43661,Lama Thupten,Nugdup
+actor,37764,Ray (I),Park
+actress,43541,Nita,Rainwater
+actor,55132,Heidi K. (II),Eklund
+actor,65374,Jong-ho (II),Kim
+actor,132980,Ambrose,Schindler
+actor,18712,Yicong,Zhao
+actor,59348,Bryan,Deehring
+actor,126105,James,Chisem
+actor,120108,Cesar,Detres
+actress,21025,Kaily,Alissano
+actor,102504,Monty,Alexander
+actress,81122,J.J.,McColl
+actress,20306,Sarah-Jane,Dias
+actor,134692,Nicholas,Augusta
+actor,14741,Winston (I),Churchill
+actor,116141,Taylor,McCluskey
+actress,139348,Dora,Kanizsa
+actor,102833,You,Zhang
+actor,33121,John,Whiteley
+actress,1119,Colleen (I),Wheeler
+actress,75105,Rachel Black,Spaulding
+actor,64819,Rich,Petrillo
+actor,60411,Richard B.,Shull

@@ -1,0 +1,71 @@
+actor,36985,Ray,Marchica
+actor,65091,Georges,St-Pierre
+actor,87106,Pierre (I),Étaix
+actress,82696,Michelle (II),Hoffman
+actor,31706,Martin,Ewens
+actress,31944,Tara,Gano
+actress,11023,Adele,René
+actor,100860,Mouss,Diouf
+actress,49223,Victoria,Justice
+actor,67222,Peter (I),MacNeill
+actor,145649,Seung-min,Jo
+actor,68368,Harold (I),Lawrence
+actress,85921,Dori,Kancher
+actor,20936,Daniel,Breaker
+actor,1036,Thomas,Lehmkuhl
+actor,71497,Anson,Woods
+actor,17941,Ermanno,De Biagi
+actress,71896,Cristine,Rose
+actor,75099,Jocelyn,Blanchard
+actress,111484,Keeley,Hazell
+actor,137393,Dale,Shelton
+actor,21509,Sonny,Kirikiri
+actor,63028,Matt,Baylis
+actor,378,Gerry,Swallow
+actor,26102,Leon,Schneiderman
+actor,142196,James (X),White
+actress,27081,Sonya (II),Rome
+actor,20416,Erin (I),Michael
+actress,103310,Takara,Clark
+actor,134528,Scott,Nunnally
+actress,116350,Sarah (I),Pass
+actor,129866,Yefim,Bronfman
+actor,31149,Nathan,McMichael
+actor,26853,Emmanuel,Daries
+actress,44565,Mara,Hobel
+actor,27161,John E.,Blazier
+actor,96665,Sebastian,Roché
+actor,9541,Troy Lindsay,Brown
+actor,112890,Alvaro Diniz,Viegas
+actress,134723,Sharon,Sheehan
+actor,1816,Walter (I),Carr
+actress,32678,Lacy,Dmitriew
+actor,66054,Jeff (I),Gordon
+actress,147430,Breanna,Startzel
+actress,87678,Stephanie Elizabeth,Martinez
+actor,120775,Logan (II),James
+actor,59973,Egon,Krenz
+actor,123701,Carl 'Alfalfa',Switzer
+actress,148938,Dorit,Henke
+actress,82188,Pamela,Jordan
+actor,58740,Chandelee,Mandakini
+actor,38857,Declan (I),Simpson
+actor,114459,Robert,Hommet
+actress,5540,Alexia,Pearl
+actor,70411,Frank,Criniti
+actor,94161,David (I),Ellzey
+actor,110182,George,Exelby
+actress,14214,Annabella,Soong
+actor,82699,Peter,Rosenfeld
+actor,112363,Joe,La Due
+actress,71270,Danielle,Dominguez
+actor,62889,Bruce,McKinnon
+actor,86065,Erik-Anders (I),Nilsson
+actor,129664,Hariom,Kalra
+actor,15451,Liam,Waite
+actor,132100,Neion,George
+actor,135878,Heinz,Kreitzen
+actor,127695,Hugh,Pryor
+actress,145707,Rachael,Kasner
+actor,1747,John (I),Hadfield
+actor,18766,Leonardo (I),Melo

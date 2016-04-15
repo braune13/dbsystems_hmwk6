@@ -1,0 +1,71 @@
+actor,86708,John (I),Dugan
+actor,47398,David (I),Maier
+actor,15422,Nicolas,le Guern
+actor,107540,Luiz,Garcia Jr.
+actor,111423,Peter (I),White
+actress,55007,Paulette (I),Sinclair
+actor,24192,Jason (I),Stevens
+actor,33237,Oliver,Jackson-Cohen
+actor,12793,Richard P.,Rubinstein
+actor,105218,Juan G.,Sanchez
+actor,47276,Hudson,Thames
+actor,9236,Hans,Buhringer
+actor,122607,Allen,Bestwick
+actor,61486,Bryan,McCoy
+actress,36466,Shawnette,Heard
+actor,126374,Harlan Cary,Poe
+actor,135932,Corey,Mills
+actress,10433,Kira,Smidt
+actor,54460,Paul J.,Porter
+actor,115778,Joe (I),Hart
+actor,149032,Antony,Acker
+actor,22604,Zack,Wall
+actor,57564,Tobin,Miller
+actor,35054,Damian (I),Jones
+actor,4759,Pablo,Leder
+actor,79572,Hervé,Desbois
+actress,6618,Diane (V),Young
+actor,123797,Peter (I),Donaldson
+actor,36398,Rocky (II),Ciarrocchi
+actress,107658,Brie,Beckman
+actor,32545,Danny,Weissfeld
+actor,88920,Jeremy,Rishe
+actress,52102,Megan,Abubo
+actress,83522,Jennifer,Enskat
+actor,115400,Jesse,Malin
+actress,73262,Ruthelma,Stevens
+actor,18000,Kenneth Ian,Davis
+actress,133907,Rudi,Lee
+actress,24060,Lita,Grey
+actor,35122,Tom (II),Kane
+actor,70688,Yoshiaki,Kobayashi
+actor,107804,Jamie,Murdaugh
+actor,136081,Sebastian,Sarkissian
+actor,47114,John (I),Cullum
+actor,23143,John,Zenda
+actor,8,Robert,Smigel
+actor,141162,Alexis,Pivot
+actor,91792,Cleon,Jones
+actor,2356,Fredrik,Arrelid
+actor,94924,Lee,Callahan
+actor,6389,Matt,Champagne
+actor,65734,Jirí (I),Kout
+actor,23935,Steve,Ubels
+actor,2538,Ted,Atherton
+actor,58240,Paul (I),Thornton
+actress,49907,Corinne,Blum
+actor,27050,Franco,Caracciolo
+actor,76200,Steve (II),Lacy
+actress,46952,Marguerite,Mastromatto
+actor,13785,Paul,Cloud
+actor,12827,Gary,Agid
+actor,49577,Lonnie 'Lono',Woodley
+actor,12076,Steve,Sleap
+actor,6014,Erl,Van Douglas
+actor,35123,Frankie,Howerd
+actor,70496,Joe,Tarabelli
+actor,132958,Gray,Frederickson
+actor,130229,Mike (VI),Larson
+actor,124772,Angel Luis,Hernández
+actress,46480,Leslie,Denniston
+actor,126867,Boris,Saran

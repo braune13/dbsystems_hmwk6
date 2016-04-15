@@ -1,0 +1,71 @@
+actress,116366,Sandra,Rosko
+actor,56487,Miko (I),Hughes
+actor,66800,Luka,Peros
+actor,130953,Uriel,Chávez
+actor,107624,Dwyght,Bryan
+actor,145266,Jorge,Rado
+actress,63197,Alice,Braga
+actress,84784,Shôko,Nakagawa
+actor,74951,Dennis,Kleinsmith
+actor,42426,Ron (I),Lawrence
+actor,125270,Beverly,Peer
+actor,28092,Ben (II),Levin
+actress,91115,Susan,Laine
+actor,31385,Larry (I),Murphy
+actor,92877,James,Tappan
+actress,103585,Sonoko,Soeda
+actress,144227,Pamela (VI),Martin
+actress,100857,Michele,Burger
+actor,88877,John,Hedloe
+actor,14257,Mahmoud,Said
+actor,141494,Farroukh,Mehta
+actor,58587,Sanford,Jensen
+actor,25822,Mitch,Christen
+actress,61880,Mary R.,Hughes
+actress,68358,Amber (I),Collins
+actor,12898,Bob,Fisler
+actor,4470,Daryn,Pancer
+actor,96337,Adrian,Talinga
+actress,33950,Dena,Martinez
+actor,78245,Christopher James,Anderson
+actress,107043,Kath,Reiter
+actor,85838,Jason,Hellmann
+actor,74472,Andrew,Lo
+actor,11463,William,Challee
+actress,6283,Redouane,Farhane
+actor,145092,Leandro,Gonçalves
+actress,144486,Dana,Freitag
+actor,51223,Tom,Whitkin
+actor,17670,Andrew (VII),Wong
+actress,62437,Liana,Mendoza
+actor,93497,Norbert,Rakowski
+actor,120435,Tyler (II),Sargent
+actor,125640,Michael Bryan,French
+actor,115133,AJ,Taylor
+actor,76893,David,Killick
+actor,90339,Peyton,Whitcomb
+actor,121567,Rod,Culbertson
+actress,51365,Lulie (I),Newcomb
+actress,139400,Karen,Mone
+actor,20532,Peter (II),Hardy
+actor,53426,R. Christopher,White
+actor,100225,Argos,MacCallum
+actor,2769,Pras,Michel
+actress,9226,Lori Jane,Lamb
+actor,8302,Devante,LeYeom
+actor,118227,Jim,Bartley
+actress,14046,Kierstin,Cunnington
+actress,61501,Cynthia (I),Mason
+actor,104126,Sébastien,Tavel
+actor,147316,Ronan,Collins
+actor,144554,Nick,Vitiello
+actor,138421,David,Mares
+actor,39537,Thomas,Gebbia
+actor,113334,Spencer (I),Longmore
+actor,140569,Jordan Christian,Hearn
+actress,89602,Erynn,Dickerson
+actor,65105,DJ,Green Lantern
+actor,121018,Taylor,Samuels
+actor,141880,Lou,Walker
+actress,79911,Robinne,Fanfair
+actor,71479,January,Adams

@@ -1,0 +1,66 @@
+137598,,,3003400,[Fantine]
+138976,,,3003400,[Carnot]
+141258,,,3003400,[Begger Child]
+143822,,,3003400,[Foreman]
+144893,,,3003400,[Gavroche]
+23550,(voice),,3004673,
+38789,(voice),,3004673,[Triplets]
+57419,(voice),,3004673,
+60126,(voice),,3004673,
+105706,(singing voice),(as Charles Prévost Linton),3004673,
+109987,(singing voice),,3004673,[Triplets]
+117873,(voice),,3004673,[Triplets]
+141405,(voice),,3004673,
+4700,,,3004260,[Rémy Caillois]
+11634,,,3004260,[Policeman in Station Wagon on Bridge]
+16004,,,3004260,[Philippe Sertys]
+20820,,,3004260,[Policeman with Theory]
+29716,,,3004260,[Pathologist]
+33015,,,3004260,[Sister Andrée]
+39186,,,3004260,[Skinhead Cafe Owner]
+41898,,,3004260,[Skinhead #1]
+47155,,,3004260,[Computer Technician]
+47310,,,3004260,[Blind Child with Dog]
+58236,,,3004260,[Man at Petrol Station]
+76417,,,3004260,[Nun in Convent]
+82280,,,3004260,[Cemetery Warden]
+91762,,,3004260,[Captain Dahmane]
+93134,(as Nadia Fares),,3004260,[Fanny Ferreira]
+100712,,,3004260,[Sarzac Policeman #1]
+100774,,,3004260,[The Dean]
+104999,(as Nicky Naude),,3004260,[Skinhead #2]
+108708,,,3004260,[Youth #2 on Sarzac Estate]
+109414,,,3004260,[Youth #1 on Sarzac Estate]
+110811,,,3004260,"[Hubert, the Dean's Son]"
+115992,(as Vincent Schimenti),,3004260,[Policeman]
+120638,,,3004260,[Sarzac Policeman #2]
+130316,,,3004260,[Max Kerkerian]
+141298,,,3004260,[Headmistress]
+141310,,,3004260,[Pierre Niemans]
+144652,,,3004260,[Dr. Bernard Chernezé]
+146536,,,3004260,[Computer Cop]
+7122,,,3004899,
+20849,,,3004899,[Edgar Bernay]
+22074,,,3004899,[Intern Beauvin]
+24401,,,3004899,[Chief Sgt. Morlet]
+29251,(uncredited),,3004899,[Infirmier]
+29644,,,3004899,
+30373,,,3004899,
+31944,,,3004899,[Witch]
+35496,,,3004899,[Restaurant's Cook]
+38178,,,3004899,"[Duc de Pouille, Frénégonde's Father]"
+41077,,,3004899,"[Henri 1st Beauclerc, King of UK]"
+45012,,,3004899,[Fabienne Morlot]
+50733,,,3004899,[Rejuvenate's Old Woman]
+53674,,,3004899,[Freddy]
+57176,,,3004899,[Ginette la clocharde]
+57428,,,3004899,[The Postman]
+59210,(uncredited),,3004899,[A villain]
+60104,,,3004899,[Le barman du bowling]
+69530,,,3004899,
+69993,(uncredited),,3004899,[Male nurse]
+76688,,,3004899,[Maître d'hôtel]
+77937,,,3004899,
+83074,,,3004899,[Ganelon]
+88836,,,3004899,[Restaurant's Boss]
+89332,,,3004899,[Frénégonde de Pouille/Béatrice de Montmirail]

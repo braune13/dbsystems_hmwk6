@@ -1,0 +1,66 @@
+91626,(as Ariel Séménoff),,3004899,[Jacqueline]
+107304,,,3004899,
+108419,,,3004899,[Wizard Eusebius/Monsieur Ferdinand]
+109674,,,3004899,[Marechal des Logis Gibon]
+114830,,,3004899,
+116498,,,3004899,
+120290,,,3004899,[Priest]
+121430,,,3004899,[Jacquouille la Fripouille/Jacquard]
+122041,,,3004899,[Jean-Pierre]
+123734,,,3004899,[Godfroid de Mont-Mirail's Mother]
+125050,,,3004899,[Brother Raoul]
+130339,,,3004899,
+132168,,,3004899,"[Princess Kathlyn, mistress of Louis VI]"
+136305,,,3004899,
+138363,,,3004899,[Edouard Bernay]
+138423,,,3004899,
+138682,,,3004899,
+140168,,,3004899,
+141310,,,3004899,"[Godefroy de Papincourt, Comte de Montmirail]"
+143540,,,3004899,[Louis VI le Gros]
+3713,,,3004167,[Un enfant / Child]
+4057,,,3004167,[Mr. Bigey]
+7607,,,3004167,[Antoine Doinel]
+8673,,,3004167,[Un enfant / Child]
+16125,,,3004167,
+18471,(uncredited),,3004167,[Policeman]
+19815,,,3004167,[The English Teacher]
+26577,(as Henry Moati),,3004167,[Un enfant/Child]
+27221,(uncredited),,3004167,[Man in Funfair]
+34291,(uncredited),,3004167,
+37491,(as Mademoiselle Jeanne Moreau),,3004167,[Woman with dog]
+42946,,,3004167,[Julien Doinel]
+44089,,,3004167,[Commissioner]
+50156,,,3004167,
+52235,,,3004167,[L'inspecteur Cabanel]
+63676,(uncredited),,3004167,[Man in Funfair]
+67878,,,3004167,[Un enfant / Child]
+74770,,,3004167,"['Petite Feuille', the French teacher]"
+76356,(as Henri Virlogeux),,3004167,[Night watchman]
+81205,,,3004167,[Mme Bigey]
+81218,(uncredited),,3004167,
+81966,,,3004167,[Un enfant / Child]
+86742,,,3004167,[René]
+87714,,,3004167,[Un enfant / Child]
+90228,,,3004167,[Gilberte Doinel - la mère d'Antoine]
+90273,,,3004167,[Man in Street]
+94005,,,3004167,[Un enfant / Child]
+98206,(uncredited),,3004167,[The Lover]
+101530,,,3004167,[Examining Magistrate]
+104478,,,3004167,[Betrand Mauricet]
+111275,,,3004167,[Director of the school]
+123718,,,3004167,[Le professeur de gym]
+139510,(uncredited),,3004167,
+143913,,,3004167,[Un enfant / Child]
+693,,,3006975,[Murtaugh Neighbor]
+1410,(as Edward Rosen),,3006975,[Hockey Spectator #1]
+2660,,,3006975,[Squad Member #3]
+3527,,,3006975,[Young Woman]
+4836,(uncredited),,3006975,[Fast Eddie]
+5593,,,3006975,[Movie Cop]
+14285,(uncredited),,3006975,[Extra]
+14634,,,3006975,[Harbormaster]
+18118,(as Ronnie Alicino),,3006975,[Squad Member #1]
+20553,,,3006975,[Doctor]
+20627,,,3006975,[Hershel]
+25733,,,3006975,[Roger Murtaugh]

@@ -1,0 +1,71 @@
+actor,140155,Blu,Lindsey
+actress,90413,Sarah,Karges
+actress,113017,Aline,Mowat
+actor,123449,Dennis (I),Price
+actor,16539,Arsenio,León
+actor,7635,Daniel (I),Boulanger
+actor,98669,Richard,Libertini
+actress,121937,Phoenix,Gonzales
+actress,71487,Lorrie,Pettit
+actress,38591,Peggy,Thorpe-Bates
+actor,20980,Salden,Kunga
+actor,26779,Philip (I),McGinley
+actress,43745,Jamie Sue,Sherrill
+actress,15184,Shanti,Lowry
+actress,31729,Bina,Sharif
+actor,134529,Adi,Handac
+actress,35941,Doris (I),Dean
+actor,86302,Buddy,Gilbert
+actor,55473,Ray (IX),Edwards
+actor,108431,Jesus Jr.,
+actor,103498,Loïc,Baylacq
+actor,44282,Mark,Heap
+actor,28008,Jamie,Lengyel
+actress,74734,Katee,Sackhoff
+actor,9710,Charles,Mendl
+actor,140536,Leander,Hagen
+actress,70719,Tara (V),Jackson
+actor,116317,William (I),Neely
+actress,47798,Brenda Isaacs,Booth
+actor,51986,Cowboy the,Dog
+actor,9688,Pepper,Martin
+actor,101743,Al,Ruscio
+actress,116761,Kayla,Barr
+actor,120894,Michael,Altoft
+actor,117923,Steve (I),Bassett
+actor,95693,Langley,Kirkwood
+actor,146583,Dean (III),Bennett
+actress,114404,Mary (I),Norman
+actor,105123,Charles,Fetzer
+actor,85616,Cameron,Zandkarimi
+actress,70774,Roylance,Williams
+actress,60305,Kim,Stengel
+actor,57301,Victor,Vejan
+actor,73142,Tommy,Farrell
+actor,39063,Nick,Smallman
+actress,122489,April,Nixon
+actor,48927,Andrew,Henson
+actor,76232,Danny,Salomon
+actor,53381,Tamás,Balázs
+actor,7424,Kevin (I),Godfrey
+actor,32928,Bob (II),Wells
+actor,115886,Andy (I),Lucas
+actress,49012,Tricia,Paoluccio
+actor,49767,Domingo,de Luis
+actor,28809,Milko Marinov,Milanov
+actor,114249,Wayne,Fontes
+actor,51022,Jerry,Quinn
+actor,144061,M. James,Arnett
+actor,112331,Jesse,Eisenberg
+actress,118879,Charlotte,Comer
+actor,27828,John (VII),Macdonald
+actor,139188,Keenen Ivory,Wayans
+actor,48827,Pete (II),Duffy
+actor,93276,David (I),Melville
+actor,137849,Fernando,Fernán Gómez
+actress,41177,Natasha,Wightman
+actor,44415,Jack (I),Walsh
+actor,66380,Jack (II),Kenny
+actress,9201,Eve,Hannifer
+actor,140662,Maurice,Ballard
+actor,41985,Neal,Hemphill

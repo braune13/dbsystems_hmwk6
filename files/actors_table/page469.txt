@@ -1,0 +1,71 @@
+actress,89955,Nancy,Kulp
+actor,50542,Dante,Spinotti
+actor,23000,Alex,Poch-Goldin
+actor,36643,Francesc,Mestre
+actor,138944,Vic,Mata
+actor,70329,Brian C.,Hirono
+actor,76215,Terry (I),Kerr
+actor,90669,David,Arey
+actor,55070,Rafael,Gaucin
+actress,148988,Molly,Dodd
+actress,76036,Margaret,Travolta
+actor,125468,Anatoliy,Gorin
+actress,46556,Jan,Tice
+actor,31368,Marcus Allen,Cooper
+actor,33729,David (VI),James
+actor,31473,Toochukwu T.C.,Anyachonkeya
+actor,53758,Georges,Chamarat
+actor,85325,Garret,Caillouet
+actor,99576,Rob,Kunkel
+actor,17421,Phil (XVI),Taylor
+actor,25886,Carlos (XXXIX),Sanchez
+actress,139789,Michelle,Yeoh
+actor,24054,William (I),Stout
+actor,117568,Donnie,Saylor
+actor,99112,Saat,Arrohim
+actress,29979,Violet,Gaynor
+actress,116001,Brittany,Payer
+actor,24488,Joe (I),Locarro
+actor,64051,Carlos Enrique,Ramos Xalcut
+actor,57910,Trey,Owens
+actor,34488,Anders T.,Peedu
+actor,115723,Chuck,Lippman
+actor,22874,Daisuke 'Dice',Tsutsumi
+actor,84701,Charles,Van Eman
+actor,23924,Stig Henrik,Hoff
+actress,141292,Eve,Loseth
+actor,112081,Sergey (I),Kalashnikov
+actress,145432,Sara,Underwood
+actress,1776,Jacqueline (II),Cannon
+actor,119853,Laurence,Rupp
+actor,62634,Kenneth,Becker
+actress,9329,Atsuko,Yuya
+actor,95869,Murray,Davies
+actor,141512,Adam,Celentano
+actress,71020,Melanie (I),Hill
+actor,34590,'Trader Fred',Mascolo
+actor,5122,Claude,Oatts
+actor,102443,Marshon,Thomas
+actor,121227,Stephen,Ghazi
+actress,95083,Pearl,Shear
+actress,148842,Carole (II),Holland
+actor,123228,Hout Ming,Tran
+actor,120411,Richard,Belzer
+actor,82670,Fat (I),Jack
+actor,50891,Brandon (I),Hunter
+actress,127215,Smilja,Mihailovitch
+actor,60974,Bun,Yuen
+actor,56675,Vic,Trevino
+actress,19526,Elizabeth,Kinnear
+actor,146828,Sid,Caesar
+actress,1922,Julieta,Zylberberg
+actor,50956,Mehdi,Dehbi
+actor,130763,Laurent,Desponds
+actor,52933,Conrad (I),Garcia
+actor,10303,Mark (IV),Farmer
+actress,59256,Jinbo,Wang
+actress,72024,Martina,Smuková
+actor,37306,Larry,Gamell Jr.
+actress,60260,Alexondra,Lee
+actress,56064,Mirai,Yamamoto
+actor,2599,Sol (II),Rosenthal

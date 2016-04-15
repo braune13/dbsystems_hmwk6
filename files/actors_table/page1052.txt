@@ -1,0 +1,71 @@
+actor,104385,Bob,Gladman
+actor,147795,James R. (I),Scott
+actor,141974,Benoît,Régent
+actor,104957,David (I),Tran
+actor,44737,David Michael,O'Donnell
+actress,9969,Ines,Pellegrini
+actress,31476,Stefanie,Eulinberg
+actor,9059,Loretta,Burnette
+actor,90516,Scott,McLelland
+actress,132556,Stephanie (I),Campbell
+actor,55129,Dario (I),Deak
+actress,82653,Marisia,Moreno
+actor,139001,Andrew (II),Fitch
+actor,80750,Biski,Gugushe
+actor,113895,Derek (VII),Baker
+actor,133392,Richard,Angarola
+actress,112968,Valorie,Armstrong
+actor,110945,Michael Ray,Fox
+actor,87462,Nick,Longland
+actress,252,Monique,Dupree
+actor,138255,Tim,Talman
+actor,142301,Jerry,Hauck
+actor,78639,Michael (XLIV),Davis
+actor,85327,Erik,Mort
+actor,42137,Steven,Littles
+actor,74502,Phillip A.,Ranallo
+actress,43709,Alice,Pye
+actor,108524,Richard,Chaim
+actress,25320,Jean (I),Southern
+actor,1979,Justin (I),Pierce
+actress,65719,Ali,Raymer
+actress,137809,Brocade,Exclamation
+actor,52353,Dick,Rush
+actor,53457,Daniel (II),Newman
+actor,137767,Ray (II),Randall
+actor,117052,Christian (I),Hagen
+actress,49595,Ashley,Grover
+actor,87253,Jordan (I),Tolchin
+actress,135730,Nayli,Russo
+actor,48924,David,Bilson
+actor,62168,Will,Dragan
+actress,138707,Arthi,Sambasivan
+actress,60261,Natalie,Reis
+actor,19377,John (I),Crow
+actor,28584,Jason,Waugh
+actress,34362,Regina,Roe
+actress,11076,Charlene (I),Williams
+actor,91495,Aubrey,Morris
+actor,1227,Robert,St. Angelo
+actress,47501,Sulinh,Lafontaine
+actor,41515,Bodhi,Elfman
+actor,142878,Matthew,Stonewall
+actor,107834,Bradley James,Metcalf
+actor,52854,Frank,Stack
+actress,142798,Ruby (I),Turner
+actor,124516,Cotton (I),Mather
+actor,91042,Dee Man,Kole
+actor,124290,Shaun P.,O'Hagan
+actress,102198,Emily Sarah,Stikeman
+actress,13928,Peg,Sheldrick
+actor,130636,Wolfe,Barzell
+actress,88574,Marcoreta,Starr
+actor,99138,J. Christoffer,Slotte
+actress,56055,Lalitha,Lajmi
+actress,8544,Marsha,Lewis
+actor,134248,Shane T.,Anderson
+actress,9649,Suzanne,Freeman
+actor,145473,Jordan,Kirkwood
+actress,43806,Meaghan,Butler
+actor,61573,Leopold,Hornung
+actor,19614,Chris,Gatdula

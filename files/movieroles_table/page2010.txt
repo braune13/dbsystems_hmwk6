@@ -1,0 +1,66 @@
+49739,(voice),,3082545,
+52156,(voice),,3082545,
+53385,(voice),,3082545,
+58388,(voice),(as Katie Evans),3082545,
+64458,(voice),,3082545,
+65681,(voice),,3082545,[Celia]
+66146,(voice),(as Sam Black),3082545,[George Sanderson]
+66540,(voice),,3082545,
+67248,(voice),,3082545,
+71575,(voice),,3082545,[Needleman/Smitty]
+75995,(voice),,3082545,[Boo]
+77255,(voice),,3082545,
+78142,(voice),,3082545,"[James P. ""Sulley"" Sullivan]"
+81011,(voice),,3082545,[Fungus]
+83398,(voice),,3082545,
+83702,(voice),,3082545,
+89610,(voice),,3082545,
+96394,(voice),,3082545,[Floor Manager]
+97689,(voice),,3082545,[The Abominable Snowman]
+97882,(voice),,3082545,
+99145,(voice),,3082545,
+103558,(voice),,3082545,
+107054,(voice),,3082545,
+109062,(voice),,3082545,
+109691,(voice),,3082545,
+112791,(voice),,3082545,[Mike Wazowski]
+113509,(voice),,3082545,
+113687,(voice),,3082545,
+118075,(voice),,3082545,
+120090,(voice),,3082545,
+120184,(voice),,3082545,
+137407,(voice),,3082545,[Randall Boggs]
+142923,(voice),,3082545,
+143538,(voice),,3082545,
+144965,(voice),(as Bret Parker),3082545,[Trailer Mom]
+146469,(voice),,3082545,
+146638,(voice),(as Terese Ganzel),3082545,
+146794,(voice),,3082545,
+2213,(voice),,3082263,[Zee]
+4036,(voice),,3082263,[Paramedic #2]
+14623,(voice),,3082263,[Chowder]
+32638,(voice),,3082263,[Bones]
+55459,(voice),,3082263,[Constance]
+55765,(voice),,3082263,[Officer Landers]
+55950,(voice),,3082263,[Dad]
+68012,(voice),,3082263,[DJ]
+76973,(voice),,3082263,[Paramedic #1]
+79447,(voice),(uncredited),3082263,[Jenny]
+99052,(voice),,3082263,[Officer Lister]
+100951,(voice),,3082263,[Bully #1]
+112309,(voice),,3082263,[Reginald 'Skull' Skulinski]
+121606,(voice),,3082263,[Mom]
+122924,(voice),,3082263,[Bully #2]
+132425,(voice),(uncredited),3082263,[Additional Voices]
+137261,(voice),,3082263,[Little Girl]
+137407,(voice),,3082263,[Nebbercracker]
+139807,(voice),,3082263,[Jenny]
+6659,(voice),,3082536,[Wilson]
+7774,(voice),,3082536,[Carl Murphy]
+9458,(voice),,3082536,[Wendy Murphy]
+16898,(voice),,3082536,[Dr. Cockroach Ph.D.]
+17927,(voice),,3082536,[Private Bullhorn/Helicopter Pilot/Advisor Ortega]
+34225,(voice),,3082536,[Cuthbert]
+34530,(voice),,3082536,[Katie]
+38699,(voice),,3082536,[Technician Ben]
+41661,(voice),,3082536,[President Hathaway]

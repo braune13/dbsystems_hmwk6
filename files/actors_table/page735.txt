@@ -1,0 +1,71 @@
+actor,75324,Bruce,Mercury
+actor,8671,Jonathan,Winters
+actor,125807,Grant,Reschke
+actress,64476,Evelina,Meghnagi
+actor,114605,Bernard,Serrano
+actor,9523,James (I),Downing
+actor,15475,Jeremy (II),Costello
+actress,60589,Betsy,Ames
+actor,22167,Jiam,Gongtongsmoot
+actor,109675,Darius (I),Rose
+actor,130989,Victor,Borge
+actress,62597,JoAnn,Merkle
+actor,108949,Topper,Lilien
+actor,111077,Gatsby,Coram
+actor,40814,Peter,Bromilow
+actor,32775,Barry (I),Kelley
+actress,43296,Eren,Ozker
+actor,32843,Gilbert B.,Combs
+actress,18692,Amy (V),Gardner
+actor,56628,Robert V.,Girolami
+actress,112202,Lisa (I),Purcell
+actor,11155,William,Palin
+actor,89080,Gary (I),Brennan
+actress,29213,Patricia (I),Forte
+actor,80712,Miguel,Pedregosa
+actress,19221,Marie,Conmee
+actor,20402,Butch (III),Williams
+actor,31079,Thang-Long,
+actor,134042,Corey,Craig
+actor,26107,Ralph,Saenz
+actress,30756,Dana (II),Goodman
+actress,46662,Patricia,Whymark
+actor,101580,Bill,Franz
+actor,2010,Jordan,Gardiner
+actor,43471,Don,Fischer
+actress,110747,Keira,Knightley
+actor,149199,Cheng Wing,Yee
+actress,78247,Barbara (I),Gannen
+actress,119549,Rachel,True
+actor,103731,Ken Hudson,Campbell
+actor,6792,Nick (I),Metropolis
+actor,34009,Johnie,Chase
+actress,12940,Yusra,Warsama
+actress,124070,Diana (III),Hunter
+actor,125443,Bastien,Ughetto
+actor,95331,William 'Wee Willie',Davis
+actor,19743,W. Douglas,Waterfield
+actor,407,Eugene F.,Crededio
+actor,85668,Glenn Soo,Hoo
+actor,108492,Friedrich,Gnaß
+actor,118090,Barry G.,Thomas
+actor,1969,William,Healy
+actress,137776,Elva,Branson
+actor,23886,Brendan (II),Murray
+actress,101072,Dendrie,Taylor
+actress,31630,Ruchika,Roy
+actress,62239,Christina July,Kim
+actor,25229,Jose L.,Vasquez
+actor,86132,Austin,Singley
+actor,54252,Joe (I),McCall
+actor,62668,István,Betz
+actor,127320,Ching-Ying,Lam
+actor,142681,Eric (I),Paulsen
+actor,34585,Tony,Mamet
+actress,32893,Sandra (LVII),
+actress,95843,Tera,Tabrizi
+actor,112293,Lucius Wyatt,Cherokee
+actor,142850,Jean-Michel (I),Henry
+actor,50197,Andre G.,Ellingson
+actress,2595,Noriko,Aida
+actor,75908,Yehuda,Levi

@@ -1,0 +1,71 @@
+actor,21657,Slobodan,Ninkovic
+actor,89278,Robert (VI),Nelson
+actor,498,José Luis (IX),Rodríguez
+actress,9079,Kathe,Green
+actor,126375,John,Ferus
+actor,15176,Clyde,McLeod
+actor,84448,Hamburglar,
+actress,19647,Angelica,Lee
+actor,7085,Alberto (V),Costa
+actress,67903,Dolores,Sutton
+actor,20674,Ray (II),Chambers
+actress,23369,Mercedes,Ngoh
+actor,93589,Kevin,De Simone
+actor,115201,Michael (VII),Barry
+actor,145039,Gerritt,Vandermeer
+actress,73127,Debra,Pralle
+actor,28098,Lyman,Chen
+actress,136720,Leah,Lofton
+actor,101723,Robert (I),Ball
+actor,106124,Bob,McAdams
+actor,94724,Eduardo,Karam
+actress,93047,Monika,Kramlik
+actor,149004,Giuseppe,Tosi
+actress,124792,Natalia,Rook
+actor,13988,Mario (I),Siletti
+actor,51212,Joan,Pera
+actor,49638,William,Magerman
+actor,140032,Glen,Kilburn
+actor,65924,Paul (I),Tracy
+actor,84005,Daniel,Studi
+actress,149331,Anita (II),Morales
+actor,40665,Taylor (IX),Young
+actor,120364,Jeff,DePaoli
+actor,14479,Federico,Pérez Rey
+actress,96771,D. Taylor,Loeb
+actress,22826,Gail Ann,Lewis
+actor,93106,Akiff,Premjee
+actor,80150,Robbie (I),Mann
+actress,79303,Margaret (V),Moore
+actor,125979,Jeff,Hoferer
+actress,135930,Kristen Lee,Smith
+actor,115637,Danny,Romo
+actress,104353,Barbara (I),Harrison
+actress,5597,Sonja,Kinski
+actor,2790,Jamal,Weathers
+actor,10462,Carsten H.W.,Lorenz
+actress,10284,Shelley,Lang
+actor,74097,Moshe (I),Ivgy
+actress,93609,Zdena,Herfortová
+actress,134297,Flo,Weiershausen
+actor,126560,Anthony (II),Jennings
+actress,115889,Mélanie (I),St-Pierre
+actor,25290,Daryl,Satcher
+actor,102215,Daniel,Cech
+actress,28463,Lena,Cardwell
+actor,48857,Warren,Tabata
+actress,71656,Florence,Pernel
+actress,127542,Winnie,Hammer
+actor,31591,Jim (I),Jenkins
+actor,125341,Michael (IX),Rowe
+actress,11432,Betty,Farrington
+actor,9382,Abishake,Sanqar
+actor,76950,Colin (I),Bannon
+actor,135107,Scott (I),Moran
+actor,142341,Mark,McConchie
+actor,7443,John Calvin,McCann
+actress,77632,Takako,Sasuga
+actor,128853,David (I),Escobedo
+actor,50769,Charles (II),Bartlett
+actor,136262,Glen,Powell Sr.
+actor,2345,Luis,Alday

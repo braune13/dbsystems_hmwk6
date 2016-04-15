@@ -1,0 +1,71 @@
+actor,118817,Dennis,Radesky
+actor,106450,Gokor,Chivichyan
+actor,113073,Monty (I),Montgomery
+actress,16742,Amy,Halloran
+actor,127485,Felipe,Luciano
+actor,100655,Billy (I),Mayo
+actress,78460,Marti,Webb
+actress,65887,Kirstyn,Konig
+actor,46047,Paul Bruno,Grenier
+actor,139259,Jeff (I),Healey
+actor,52597,César,Bordón
+actress,23388,Heighlen,Boyd
+actor,23374,Vuksan,Rovcanin
+actress,4789,Laura,Christensen
+actor,127170,Lawrence (IV),Lau
+actress,42753,Brett Allison,Panzik
+actor,24632,Santino,Garang
+actor,33488,Joyeeta,Chatterjee
+actress,131183,Madeline,Sprung-Keyser
+actress,85971,Harmony,Rousseau
+actor,37411,Jesse G.,Louis
+actor,118954,Robert (I),Nichols
+actor,45422,Wendall Wayne,Stewart
+actor,85274,Richard,Bekins
+actor,79350,Ralph,Nossek
+actor,104125,Luis,Fernandez-Gil
+actor,60278,Michael St,Omer
+actor,60094,Dick (I),Johnstone
+actress,97811,Kay,Hanley
+actress,106267,Alli,Danziger
+actress,59468,Lucy,La Vey
+actor,40552,Ron,Li-Paz
+actor,10128,Anthony (II),Hamilton
+actress,732,Splash (I),
+actress,41531,Maria,Frangos
+actor,137255,Haruya,Sakamoto
+actress,26444,Mary Ann,Tanedo
+actor,90297,Stephen,Bellot
+actor,14380,Danny (V),Webb
+actress,93253,Tanya (I),Sharma
+actor,89576,Tab,Baker
+actor,113814,Walt,Hollis
+actor,133018,Dickon,Leigh-Wood
+actress,35077,Lila,Duffy
+actor,56692,Will,Bakey
+actor,103397,Victor,Eadie
+actor,57122,Joe (I),Goossen
+actor,5348,Christopher,Clubb
+actor,112066,Sandee,Marriott
+actress,101411,Dana,Power
+actor,64971,Steve (III),Morris
+actor,83586,Jimmy (I),Flynn
+actress,73597,Michaela (I),Dietz
+actress,59674,Michelle,Pinkham
+actor,5935,Chung-Hsin,Huang
+actor,65850,Kevin,Strom
+actress,11167,Nelly,Castillo
+actor,13534,Henry 'Chopper',Platt
+actor,27193,Johnny (I),McGovern
+actor,116995,Patrick (II),Tierney
+actor,122613,Seyed Karym,Alikhani
+actor,98430,Ian (I),Warner
+actor,147925,Jack,Berard
+actor,56285,Mitsuo,Iwata
+actor,99397,Kenyon,McMichael
+actress,17290,Marie (I),Matiko
+actress,128581,Elena,Lyons
+actor,19694,Leonard,Parker
+actress,93946,Eve,Best
+actor,110644,Andy,Kidd
+actor,69618,Jon-Paul,Mateo

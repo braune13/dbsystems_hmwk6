@@ -1,0 +1,71 @@
+actor,124971,Bryan,Massey
+actor,33102,Alfred Tiaki,Hotu
+actor,66406,Josh (III),Pierce
+actor,76242,James (XLIII),Baker
+actress,62439,Allison (I),Smith
+actor,51980,Reese,Alexander
+actress,142518,Teresa Anne,Volgenau
+actor,40405,James,Remar
+actress,41075,Stacey,Queripel
+actress,33977,Autumn,Lucas
+actor,80523,John Brian,Rogers
+actor,49307,James 'Ike',Eichling
+actor,22857,Will (I),Patton
+actress,7404,Julie (I),Walters
+actor,18492,Hichem,Rostom
+actress,58261,Judith,Huertas
+actor,15689,Simon (III),Baker
+actor,132394,Tommy (III),Lynch
+actor,111231,Cyril,Bernicot
+actor,8383,Windrim,Smith
+actor,71974,Richard (I),Whiting
+actor,148188,Jacob 'Stitch',Duran
+actor,49057,Steven,Crease
+actress,464,Virginia,Pereira
+actor,28281,Zé Mário,Farias
+actress,122254,Marissa,Raisor
+actress,63947,Lisa,Hochstein
+actor,83662,L. Warren,Young
+actor,134801,Fuad Rolando Soto,Frech
+actor,104597,Jesus,Nevarez-Castillo
+actor,80294,Satoshi,Kon
+actress,39707,Kacy,Brooks
+actor,80800,Hsin Nan,Hung
+actor,105638,Brian,Ligthart
+actor,21635,Hendrix,Franken
+actor,89052,Ferdy,Mayne
+actor,55285,Robert,Pulcini
+actor,86115,Claude-Oliver,Rudolph
+actor,57477,Thor,Kjartansson
+actress,139053,Roxanne,Bush
+actor,9071,W.S.,Dobson
+actor,77922,William (I),Wagner
+actor,138002,Tom (I),Kenny
+actress,105794,Kate,Jason-Smith
+actor,136458,Mohan (XXX),
+actress,23746,Jelena (I),Gavrilovic
+actor,63424,Brance H.,Beamon
+actor,80791,Christopher (I),Biggins
+actor,116002,Major,Halley Jr.
+actor,6806,Chris (I),Pine
+actor,105539,Shirô,Saitô
+actor,13508,Morten (II),Holst
+actor,51084,Raymond,Henders
+actress,112292,Nadja,Pionilla
+actor,54142,Gérard (I),Pereira
+actress,41065,Colette,Hiller
+actor,98698,Samuel,Nims
+actress,1471,Michelle,Celestino
+actor,25340,Nathan,Mostow
+actor,104263,Christopher,Lortie
+actress,129433,Itatí,Cantoral
+actress,70931,Nathena,Lewis
+actor,108655,Stephen,Stanton
+actress,148725,Lauren,Womack
+actor,82051,Rodney,Beddal
+actor,89976,David,See
+actor,149214,A.,Haverstock
+actress,40476,Margaret (I),Mann
+actor,38455,Dan,Fahey
+actress,119,Marie-Josée,Croze
+actress,46830,Giorgia,Ferrero

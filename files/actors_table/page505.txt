@@ -1,0 +1,71 @@
+actor,148756,Richie,Allan
+actress,143305,Katya,Kerro
+actor,129049,Doug,Belkofer
+actor,77961,Michel,Flasch
+actress,107983,Yvonne,Vera
+actor,39495,Dave,Galasso
+actress,95571,Marie 'Pandora',Medina
+actress,132811,Aurelia,Radulescu
+actor,126818,Beau,Brasseaux
+actress,106804,Yolanda (I),Vazquez
+actor,62086,Charlie (I),Webb
+actor,107273,Frédéric,Bourdin
+actress,33381,Amelia,Broome
+actor,114020,Dean,Biasucci
+actor,10021,Robb (III),Webb
+actor,85955,Tim,Koetting
+actor,135302,Matt (I),Doran
+actor,93791,Yûnosuke (I),Itô
+actress,99324,Sally,Pierce
+actor,88689,Hunter,Baxley
+actor,93758,Alfred,Strejcek
+actor,84143,Willoughby Charles (I),Jenett
+actor,92314,John (V),Nolan
+actress,135910,Kathy,Hubble
+actor,41260,Clarence,Perry
+actor,145286,Gavin,Rossdale
+actor,33545,Alper,Akcay
+actor,147486,Robert,LuJane
+actress,134545,Sonja,Magdevski
+actor,70991,Joey Lamar,Ashley
+actor,84625,Michael Charles,Roman
+actress,83015,Natasha (I),Ryan
+actor,13108,Hal,Scardino
+actress,37900,Vylette,Fagerholm
+actress,88299,Ann,Cole
+actor,124832,Paul (I),Igoe
+actor,73585,Jesse,Benoit
+actor,23224,Fred (I),Cox
+actor,116348,Joseph,Riccobene
+actress,31467,Kelly (VII),Harris
+actress,35976,Hope,North
+actor,18066,Connor,Byrne
+actor,101083,Julian,Stanishkov
+actress,3597,Mika,Kinose
+actor,16571,Sean (I),Corrigan
+actor,90273,Jean-Claude,Brialy
+actor,146873,Sunarto,
+actor,3193,Terence,Dament
+actor,93461,John (I),Short
+actor,104324,Joe (II),Perrino
+actress,41130,Gena,Bravos
+actor,6926,Ratko,Mladic
+actress,56755,Cosima,Shaw
+actor,47649,Leeon,Jones
+actor,92416,Hal (I),Sherman
+actor,136400,R.F.,Daley
+actress,21448,Evelyn,Hurley
+actor,113600,Jordan,Dawe
+actor,39266,Robert (I),Ashby
+actor,15289,Nick,Garfinkle
+actor,125158,Gerardo,Lo Dico
+actor,6001,Ryan (II),Groves
+actress,147413,Cécile,Dury
+actor,57492,Anthony (I),Pittman
+actor,106956,Callum,Keith-King
+actor,112404,Linas,Lobeckis
+actress,87506,Taylor,Wayne
+actor,57,Lorenzo,Ausilia-Foret
+actress,66031,Matsue,Ono
+actress,148673,Victoria (I),Hester
+actress,72124,Mariana,Tosca

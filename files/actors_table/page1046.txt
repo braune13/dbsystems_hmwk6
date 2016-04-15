@@ -1,0 +1,71 @@
+actor,46742,Dan (I),Etheridge
+actor,87327,Geoffrey,Freedman
+actress,55043,Georgie-May,Tearle
+actor,82693,Jamie,Uys
+actor,97576,Guillermo,Capetillo
+actress,123612,Katie,Boland
+actor,7980,Thomas (I),Martin
+actor,80578,Tom,Zurhellen
+actress,19502,Phedra,Syndelle
+actress,37354,Susan (IV),Sandberg
+actor,84093,Kato,Ådland
+actress,41842,Elena,Patten
+actor,101793,John (VIII),Morrison
+actor,82005,Ezio,Greggio
+actor,141362,Trip,Roby
+actor,31818,Salvatore (I),Santone
+actor,127392,Erik,Erotas
+actress,30086,Nikki,Benz
+actor,130479,Jason,Gondek
+actor,130729,Marcus,Burrowes
+actor,26499,Shuhei,Sugimori
+actress,11777,Christine,Card
+actor,79319,Sean P.,Gorecki
+actor,13350,Craig,Narona
+actor,137981,Michael (II),Owen
+actress,77053,Jaya (I),Bhattacharya
+actor,35115,Charles,Hegji
+actor,129387,Windy,Wenderlich
+actor,88251,Carlos (I),Rivas
+actor,15728,Andrew (II),Martin
+actress,20516,Tiffany,Rodriguez
+actor,53037,Joseph (I),Sun
+actor,3318,Hatsuo,Uda
+actress,41947,Katharine,Houghton
+actress,36172,Fiona,Hampton
+actor,137564,Patrick (II),McCullough
+actor,124423,Henry,Meyers
+actress,37650,Eleanor,David
+actress,26095,Alexandra (I),Roach
+actor,26389,Todd,Rippon
+actor,31265,Jean-Pierre,Mas
+actor,44359,Yakima,Canutt
+actor,16630,Lou,Duello
+actor,87250,Alan (I),Grice
+actress,36682,Genevieve,Levin
+actress,114072,Meryl,Streep
+actress,55345,Joan,Kindred
+actor,82028,Andy (II),Taylor
+actor,920,Ray (I),Weaver
+actor,7578,Stu,Silver
+actor,19529,John,Breckinridge
+actor,98674,Tim (I),Barlow
+actor,31214,Eric Bryan,Stone
+actor,92608,Kevin (I),Conroy
+actress,120753,Maria Celeste,Genitempo
+actor,142192,Steven,Maye
+actress,81148,Miyu,Natsuki
+actor,98007,Tae-wan,Kim
+actor,95395,Horace (II),Grant
+actor,26792,Adam,Larrabee
+actor,78250,Dominique,Strauss-Kahn
+actor,53285,Grant (I),Wheeler
+actor,126752,Ray,Lui
+actor,5729,Gabriel,Tigerman
+actress,90579,Courtney (I),Curtis
+actress,68125,Conny,Poppe
+actress,35142,Marcella,DeTineo
+actor,48079,Mike,Rad
+actor,14292,Erik,Wedersøe
+actor,130858,Jesse,Cadotte
+actor,139204,Clifton (I),Powell

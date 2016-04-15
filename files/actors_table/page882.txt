@@ -1,0 +1,71 @@
+actor,11250,Dick,Sasso
+actor,145403,Frédéric,Smith
+actor,20501,Christopher (I),Halliday
+actor,82628,Peter (I),Maloney
+actor,46276,Utawaka,Katsura
+actor,144559,Richard (I),Joel
+actor,93466,Scott (I),McNeil
+actor,105680,Dominick,Howe
+actor,5327,Jacob (I),Newton
+actress,31472,Vanessa (I),Muoio
+actor,58672,Gaston,Willig
+actress,33965,Margo,Castor
+actress,42573,Teresa,Denton
+actor,55162,Turtle (I),
+actor,87355,Rusty,Goffe
+actor,118215,Oliviero,Prunas
+actor,127862,Erik,Salmonson
+actor,129165,Patrick (III),Noonan
+actor,140025,Milan,Cimfe
+actress,90442,Melinda,Neyman
+actress,33135,Janet,Margolin
+actor,121448,Chase,Jazzborne
+actress,32880,Jill,Voight
+actor,34223,Halldór,Magnússon
+actor,11416,Jeffrey T,Ferguson
+actress,122609,Dorothy (I),Andre
+actor,113071,Michael (I),Ikeda
+actress,142201,Adrian (II),Scott
+actor,83938,Mark,Chiriboga
+actor,57879,Scott (I),Taylor
+actress,21708,Sarah Jane,Morris
+actor,43677,Casey,Garven
+actor,40636,Ken (II),Clark
+actress,52633,Allison,Leo
+actor,109188,David (I),Tennant
+actress,13717,Deborah,Derecktor
+actor,142402,Alan D.,Purwin
+actress,23107,Kamalika,Banerjee
+actress,106992,Caryle,Seim
+actor,121856,Dickson,Shaw
+actor,30348,Florian,Seiffge
+actor,31694,Kay Kay,Menon
+actor,119412,Abdelaziz,Merzoug
+actress,141593,Kathryn (I),Grant
+actor,78304,Joel (I),Schmidt
+actor,139306,Larry Flash,Jenkins
+actor,31059,Steve,Shill
+actor,12383,Ed (I),Sullivan
+actress,106299,Framboise,Gommendy
+actor,87395,Lucius,Falick
+actress,70790,Clare,Sera
+actor,45263,Kids Of Widney High,
+actress,121352,Nita,Krebs
+actress,31352,Fjoralba,Cuni
+actress,87669,Teya,Wild
+actress,137308,Fran,Gellatly
+actor,145577,Frank (V),McCabe
+actress,54032,Natalia,Magni
+actor,23362,Jesse (I),Flanagan
+actress,10280,Sandy (I),Scott
+actress,71052,Jessica (I),Kelly
+actress,3489,Rachel (I),Hunter
+actress,149139,Alicia,Woodhouse
+actor,14566,Miles,Jupp
+actress,60078,Corinne,Yam
+actor,120755,Ben,Cardinal
+actor,111994,Nicolas,Mize
+actor,127954,Wayne,Shannon
+actor,136232,Gary,Shorelle
+actor,130283,Mohan,Banerji
+actor,82389,Taylor,Beacom

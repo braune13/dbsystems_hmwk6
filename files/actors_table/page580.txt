@@ -1,0 +1,71 @@
+actor,56379,Herman,Poppe
+actress,143926,Jacklyn,Hernandez
+actress,142280,Mary Beth,Peil
+actor,88133,Hideo,Sakaki
+actress,70857,Cassandra,Hepburn
+actor,147679,Conor (II),Healy
+actress,12065,Yattee,Brown
+actor,22402,John (II),Madden
+actress,137993,Shar,Washington
+actor,86045,Rade,Serbedzija
+actor,111160,Duane,Cothren
+actor,115139,Jeff (VII),Andrews
+actress,61614,Lossen,Chambers
+actor,147635,Peter,Wight
+actor,33292,Armand (I),Aucamp
+actor,136841,Brian (III),Matthews
+actress,90228,Claire,Maurier
+actress,129148,Jordy,Benattar
+actor,132984,Jonathan,Eusebio
+actor,112389,Ted (I),Ross
+actress,114199,Kate,Peckham
+actor,85085,Tomu,Asakawa
+actor,91914,Frederick (I),Harris Jr.
+actor,63515,Joseph,Filasky
+actress,86751,Pearl,Carpenter
+actress,70853,Jeannette,Sousa
+actor,30653,Mlungisi,Hlophe
+actor,114893,Philip,O'Brien
+actor,34841,Fran,Dorsey
+actor,24367,David,Vitt
+actor,105713,Eric (I),Sharp
+actor,57376,Bro,Gilbert
+actress,19444,Kim,Cattrall
+actor,118914,Dan,Burch
+actor,113767,George,Colangelo
+actor,57933,Paul,Butcher
+actor,134757,Daniel (II),Nascimento
+actor,115745,James (I),Donnelly
+actor,14756,Kirk,Bair
+actress,77329,Lisa,Gumora
+actor,62499,Claudio,Castagnoli
+actor,146798,Michael,Gover
+actor,87562,Alex,Revan
+actor,37283,Joseph R.,Ryan
+actor,30243,Simon van,Collem
+actress,81682,Tanya,Champoux
+actor,68812,Manuel,Ruffini
+actor,56842,Silkk,
+actor,100605,Benjamin,Ocaranza
+actor,121206,David (I),Mucci
+actress,114697,Lyne (I),Tremblay
+actor,26764,Jonny Lee,Miller
+actor,71961,Norm,Buerklin
+actress,86980,Josiane,Lévêque
+actor,52637,Walter (I),Sparrow
+actress,6563,Jill,DeVries
+actor,135200,Rolf,Gray
+actor,16591,Adam,Kalesperis
+actor,2113,Gopal,Bhardwaj
+actor,85120,Kai,Nuuhiwa
+actress,30127,Nondas,Metcalf
+actor,74944,Robert (I),Berger
+actress,72708,Marianna,Panunzio
+actress,71591,Linda (I),Hunt
+actor,109898,Shamil,Galeev
+actor,794,Chauljihn,Cho
+actor,36484,Al,Snow
+actress,103251,Carmen,Pelaez
+actor,131009,Henning,Fischer
+actor,39031,Phillipe,Simon
+actor,24868,Peter,Kybart

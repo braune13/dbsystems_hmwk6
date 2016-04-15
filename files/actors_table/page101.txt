@@ -1,0 +1,71 @@
+actor,95946,Lee,Squire
+actor,15563,Milton,Royce
+actor,1588,Jerry D.,Medina
+actor,53237,David,Arakelyan
+actor,124537,Sean (I),Pratt
+actor,84566,Carlos (VI),Rodriguez
+actress,107319,Vivien,Jane
+actor,63812,Archie,Van Beuren
+actress,4585,Dahn,Ballard
+actor,49386,David,Rickabaugh
+actor,5649,Robert L.,Keane
+actress,18637,Dina,De Laurentiis
+actor,18338,Casey,Sander
+actor,142198,Mark (II),Hyland
+actor,103943,Ken (II),Adams
+actress,57285,Sheri (I),Cohen
+actress,34721,Kristina,Malota
+actor,123473,Malcolm,McDowell
+actor,110427,David (I),Zucker
+actress,88702,Sarah Ellen,Wright
+actor,137284,Tao,Leung
+actor,63832,Joe,Cobden
+actress,123298,Tatiana,Paris
+actor,5216,Francisco,Nápoli
+actor,524,François Xavier,Tilmant
+actor,74138,Tony,Torn
+actress,82818,Lola,Dueñas
+actor,63578,Nathan,Jung
+actor,48603,Bill (I),Paterson
+actor,34373,Steve (I),Pierson
+actress,134786,Olympia,Dukakis
+actress,14924,Alexandra,Lucchesi
+actress,51981,Lourdes,Nadres
+actor,50408,Margaret M.,Owens
+actress,69585,Christina,Orchid
+actor,44150,Péter,Vida
+actress,54125,Shirley (I),Knight
+actress,85270,Skylar,Duhe
+actor,116764,Richard,Restivo
+actress,122163,Eilis,Cahill
+actor,110779,Lucy (VI),Smith
+actress,86813,Marlene,Lyden
+actor,109331,Bob (I),Rodgers
+actor,18236,Will,Deters
+actor,46331,John,Salvitti
+actress,119681,Namrata,Shirodkar
+actor,6589,Pascal,Rivet
+actor,88910,David A.,Mullins
+actor,4656,Charles,Shaughnessy
+actor,63680,Tim (I),O'Neill
+actor,46806,Chris (IV),Low
+actress,134048,Mariah,Milner
+actor,24382,Peter (I),Koch
+actor,145097,Tom,Adcock
+actor,132307,Matt,De Matt
+actor,51279,Gary (V),Goldman
+actress,63041,Sheila,Hymans
+actor,66716,Steffen,Scheumann
+actor,88958,Cory (I),Edwards
+actor,142526,Michael S.,Nunez
+actress,24462,Karen (V),Kennedy
+actor,66217,Liam,Hemsworth
+actor,21892,Butch,Luick
+actor,55335,Lane,Nishikawa
+actress,131229,Hua (VII),Zhang
+actor,47234,Claude,Sesé
+actress,67805,Gina Marie,Knowles
+actor,48461,Bruce (I),Murray
+actor,116737,Fred,Lunt
+actor,137879,Meysam,Soltani
+actor,33334,Jamie (I),Harris

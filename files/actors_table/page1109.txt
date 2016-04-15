@@ -1,0 +1,71 @@
+actress,117214,Lucy Ella,von Scheele
+actress,147102,Barbara,O'Neil
+actor,77950,David (I),Roper
+actor,143013,Zachariah (II),Jensen
+actor,17571,Sonny,Gill Dulay
+actor,115830,Don,Carrara
+actress,133768,April,Maxey
+actress,138250,Lesley,Manville
+actor,102604,Rusty,Hendrickson
+actress,103696,Sally (I),Bowman
+actor,41929,Andrei,Mignea
+actor,113682,Gaetano,LoGiudice
+actor,20912,Jean-Pierre,Posier
+actor,8900,Peter,Windrem
+actor,46379,Siso,Kamburov
+actress,124136,Patricia E.,Harrington
+actor,4885,Billy,Fitzpatrick Jr.
+actor,72525,Bruce,Claggett
+actress,115829,Julia,Yon
+actress,13328,Julie (I),McLeod
+actress,34052,Carin,Abnathy
+actor,136460,Matthew,Beisner
+actor,67874,Fabian,von Klitzing
+actor,133587,Roberto,Kawata
+actor,118745,Michael,Baczor
+actor,50720,Turan,Bagci
+actor,54516,Wolfgang,Grossmann
+actress,114008,Barbara,Rafferty
+actor,142957,Roy (I),Garcia
+actress,42997,Emily,Church
+actress,21867,Bridget,Moynahan
+actress,15055,Dody,Goodman
+actor,9570,Yuji,Okumoto
+actor,145938,Dan,Paragon
+actress,60813,Gwen,Seliger
+actor,146205,Ben L.,Mitchell
+actress,123153,Lauren,Shiohama
+actor,104426,Zach,Clairville
+actor,129529,Dick,Sollenberger
+actor,91625,Nicholas A.,Newman
+actor,93545,Caden,Gaskins
+actor,49228,Manolo,Tenes
+actor,135661,Bob,Barran
+actress,141191,Margery,Daley
+actor,83947,Paddy,O'Byrne
+actress,118387,Margaret,Pomeranz
+actor,42644,Jason,Roehm
+actor,39577,Kevin,Deon
+actor,6709,Rocco,Passafaro
+actor,63289,Lee,Shumway
+actress,67194,Dion,Howell
+actor,125801,Takeshi,Kurokawa
+actor,19223,Noah,Gumbert
+actor,14396,Simon (I),Sherwood
+actor,42364,Joe (II),Garvey
+actor,19084,Franky (I),
+actor,119137,Billy Hank,Hooker
+actor,135208,Evan (VI),Jones
+actress,29040,Tatiana,Abbey
+actor,102482,Edward (I),Earle
+actress,61758,Jacintha,Wesselingh
+actor,95707,David (VI),Broughton
+actor,62815,Toney,Watkins
+actor,33093,Tuc,Watkins
+actor,97348,J.J.,Holiday
+actor,139202,Marc,Caro
+actress,37322,Erika,Okada
+actor,95045,Clarence,Mobley
+actor,83367,Tristan (I),Tait
+actor,85682,Steven (II),Scott
+actress,86472,Fu Suk,Han

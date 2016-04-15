@@ -1,0 +1,71 @@
+actor,124377,David (II),Latham
+actor,78679,The,Flying Cherokees
+actress,101283,Cynthia,Szigeti
+actor,23026,Sándor,Svigelj
+actor,99878,Mike (II),Vardy
+actor,25054,Neil (I),Wilson
+actor,14085,Tenzin,Topjar
+actor,148843,Gustavo I.,Ortiz
+actor,124942,Mindaugas,Capas
+actor,42377,Sicelo,Sithole
+actor,46981,Douglas,Caldwell
+actor,117703,Chiwetel,Ejiofor
+actor,119860,Bernard,Farcy
+actor,84880,Guillaume,Verdier
+actor,109263,Neil Malik,Abdullah
+actress,71942,Jen (I),McPherson
+actor,85147,Tom (I),Dreesen
+actor,140545,Carlos (I),Lozano
+actress,51153,Amy,Leasca
+actor,147350,Herbert,Siguenza
+actor,138798,Richard (I),Petty
+actress,22954,Jade,Chynoweth
+actor,58054,Cameron,Pearson
+actor,70972,Wash,Westmoreland
+actress,17701,Martha (I),Elliott
+actor,48948,Jean-Luc,Russier
+actress,100192,Jane,Hogarth
+actor,96433,Yoshiki,Arizono
+actor,72197,Tzahi,Moskovitz
+actor,34278,Barrett,McMillin
+actor,30523,Tony (II),Bustamante
+actor,148607,Minnow,Moskowitz
+actor,126277,David (I),Hayter
+actress,136731,Victoria Paige,Meyerink
+actor,118064,Billy (II),Hendrickson
+actress,102128,Dame May,Whitty
+actor,102979,Ben,Easter
+actor,83559,Edgar J.,Scherick
+actor,132462,Lee (I),Dalton
+actor,141635,Mwako,Cumbuka
+actor,67870,Mike (IV),Nelson
+actor,6448,Thomas E.,Bentley
+actor,146426,Richard J.,Stahl III
+actress,77779,Angela,Amato
+actor,3649,Tracy,Lockridge
+actor,65208,Larry,Joshua
+actor,127110,Jellybean,Benítez
+actress,29811,Myriam,Ojedo
+actress,116469,Paula,Shreve
+actor,129453,Leo,Wright
+actress,131778,Diane (I),Henderson
+actor,123010,Stephen (I),Rowe
+actor,100373,Jeff (I),Irvine
+actress,67250,Sarah,Murphy-Dyson
+actor,88832,Cody,Block
+actor,121648,Paul D.,Roberts
+actor,75845,Asuka,Tovazzi
+actor,60899,Dean Lennox,Kelly
+actor,71090,Takashi,Kora
+actor,82609,Jason Micheal,Hackney
+actor,100186,Shimmy,Silverman
+actress,20880,Vicky (I),Evans
+actor,120096,Yusuf,Hussain
+actor,29265,Martin (X),Roach
+actor,18810,Daniel,Trimble
+actor,53055,Stu (I),Smith
+actor,9495,Manu,Narayan
+actor,76732,Dante,Alridge
+actor,136431,Pete (I),Burris
+actress,77822,Jennifer (V),Bradley
+actor,49769,Antonio (I),Moreno

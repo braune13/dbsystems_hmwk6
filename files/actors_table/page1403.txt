@@ -1,0 +1,71 @@
+actor,117896,Robbie,Vinton
+actor,80370,Brian,Van Kay
+actress,47469,Susan,Hampshire
+actor,118213,Ronn,Riser
+actor,129793,Milda Jedi,Havlas
+actor,79345,Brook Edward,Penca
+actor,97249,Jeff,Frankenstein
+actor,31085,Coburn,Goss
+actor,69302,Michael F.,Keenan
+actress,66838,Adrienne (II),Lewis
+actor,34384,Joe (IV),Fraley
+actor,108337,Keith,MacWhorter
+actor,63864,Daniel,Landroche
+actor,30209,David Choi,Chao
+actress,130350,Diane,Palmer
+actress,7516,Evanna,Lynch
+actor,54953,Nicolas (II),Read
+actor,129585,John (IV),Farrell
+actress,142980,Monicah,Owino
+actor,9720,Hamish,Roxburgh
+actress,104430,Anita,Durst
+actor,104769,Vladislav,Koulikov
+actor,80778,Jason 'Doc',Young
+actor,14650,Leung Hoi,Lun
+actor,51918,Aries Dolor,Ilagon
+actress,19175,Iraida,Polanco
+actor,95653,Ronaldo,Vasconcellos
+actress,125462,Rose,Stockton
+actor,76932,Denis,Forest
+actress,12751,Gracie Marie,Bradley
+actor,19692,Juan (VI),Pacheco
+actress,92300,Ann,Neville
+actor,13625,Brad (III),Turner
+actor,108484,Freddie-Joe,Twine
+actor,18706,Shmuel,Strauss
+actor,100513,Willie,Lucas
+actress,87672,Sadie May,Beebe
+actor,91426,Sam,Franke
+actress,71629,Stuart,Brazell
+actor,133723,Mark,Vandermeulen
+actor,121723,Brad (I),Hartliep
+actor,86104,Rafael,Feldman
+actress,719,Michaela,Bercu
+actress,65570,Kerstin,Schröder
+actor,128013,Richard (V),Thomson
+actor,128541,Justin,Tade
+actor,95602,Jack,Lomas
+actor,31189,Huey,Redwine
+actor,127690,Ralph,Pruitt Vaughn
+actor,123279,Nick,Donalies
+actor,52384,Barney,Capehart
+actor,87058,Jamison,Yang
+actor,5134,Terrance (I),Stewart
+actor,71576,Bill,Champion
+actor,29525,Sixto,Joost
+actor,43914,Rommel,Hyacinth
+actress,85745,Tabrett,Bethell
+actor,372,Ramón,Langa
+actor,57598,Andrew,Gelles
+actor,88074,Tim (II),Stevenson
+actor,49291,Charles,Force
+actor,54709,Jack (I),McCormack
+actress,59575,Eileen,Seeley
+actor,26890,Jessie (I),Ferguson
+actor,34401,Christopher (I),Knight
+actress,51071,Aiko,Cunanan
+actor,51351,Evan,Sabara
+actor,111154,Steve,Garti
+actor,93056,David,Roker
+actress,130356,Shanna,Vincent
+actor,60879,Juan-Carlos,Guzman

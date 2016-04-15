@@ -1,0 +1,71 @@
+actor,19267,Jeffrey Thomas,Nemit III
+actor,3099,Pemba Norbu,Sherpa
+actress,29904,Penny (I),Marshall
+actor,24170,Louis (II),Bernstein
+actor,85573,Eric,Tonken
+actor,14541,Sotiri,Georgas
+actor,31478,Lou (II),Morgan
+actress,72982,Mina,Kolb
+actor,74405,Jean,Brochard
+actress,98148,Sarai,Givaty
+actor,114041,Jack (I),Forbes
+actress,77326,Betty,Blythe
+actor,50579,Robert,Strandgård
+actress,18555,Elizabeth (III),Pennington
+actor,77333,Peter,LaRussa
+actor,90784,Ronny,Graham
+actor,134863,Zach,Appelman
+actress,97113,Yûko,Mizutani
+actor,138538,Aldo,Giuffrè
+actor,110273,Tucker,Maloney
+actor,63261,John,Teal Jr.
+actor,10597,John R,Mangus
+actor,58746,Larry,Clardy
+actor,28929,Hunter (III),Jackson
+actress,198,Renee,Cherrier
+actor,48938,Sean,Faris
+actor,54513,Gavin,Heffernan
+actor,133994,Charley,Broderick
+actress,67980,Bronwyn,Hardy
+actor,115672,Michael (XLI),Fisher
+actress,54898,Edith (II),Wilson
+actor,107819,Harry (I),Carey
+actor,5709,Toshonnie,Touchin
+actress,35800,Tia (I),Lee
+actor,125153,Paul (I),Grenier
+actor,14494,Johnny (II),White
+actress,66906,Sherri,Villanueva
+actor,116245,Keith,Reddin
+actress,128792,Melissa,Marsala
+actor,38846,William t.,McGregor
+actor,103387,David Scott,Klein
+actor,35015,Casey,Hampton
+actor,144256,Fabrizio,Moresco
+actor,7079,Robert (I),Dix
+actor,94741,Graham,Hornsby
+actress,133515,Lisa,Arning
+actor,52598,David,Hausen
+actor,145013,Leonhard,Walenta
+actress,53956,Catherine (I),Black
+actor,29838,Harper (I),Simon
+actor,42617,Mark,Byatt
+actor,83383,John (XLV),Collins
+actor,96525,Willie,Collins
+actor,43474,Haryadi,Anwar
+actor,97261,Borys,Szyc
+actor,66813,Og,Blood
+actress,87898,Kira,Buckland
+actor,87490,Chance,Beam
+actress,66126,Kimmie,Johnson
+actor,136701,Pierre,Franckh
+actor,87739,Zouheir,Mohamed
+actor,101619,David (VIII),Foster
+actor,44941,Brennan James,Callan
+actress,84934,Grace,LaRocca
+actress,83545,Krista,Buonauro
+actor,8395,Paolo,Mastropietro
+actress,144618,Marion (I),Ross
+actor,142875,Levis,Francis
+actor,124783,Craig,Cackowski
+actor,29993,Joseph P.,Barrett
+actress,5588,Louise,Lorimer

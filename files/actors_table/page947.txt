@@ -1,0 +1,71 @@
+actor,118430,Arturo (I),Ríos
+actor,60371,Kerry (II),Lee
+actor,124048,Sam,Karas
+actress,12952,Juanita,Billue
+actor,63715,Aaron (I),Franklin
+actor,9235,Charlie Edward,Alston
+actress,63022,Lola (II),García
+actress,5983,Rina,Fernandez
+actor,110864,Ayush Mahesh,Khedekar
+actor,27905,Roger (XI),Wright
+actor,131959,Michael D.,Roberts
+actor,13610,Joseph A.,Bove
+actor,16540,Andy,Jasmin
+actress,80392,Rosa,Molloy
+actress,147982,Alison (I),Moir
+actor,142345,John Emmet,Tracy
+actress,2136,Samii,Ryan
+actress,106153,Suzy,Amis
+actor,67473,Patrick,Wetzel
+actor,36918,Martin (I),Gordon
+actor,139938,James (III),Hebert
+actor,69240,Mustafa,Akin
+actor,96312,Leo (II),Rossi
+actor,143859,Faseegh,Mallick
+actor,65685,Ralph (I),Nader
+actor,118014,Trystan,Gravelle
+actor,34647,Glen (II),Kerr
+actress,19062,April,Gilbert
+actor,116920,Simon (I),Crane
+actor,91884,Bjorn,Yearwood
+actor,142149,C.A.,Collier
+actor,18987,Lindsay,Kough
+actress,129066,Vanessa,Marquez
+actor,116879,Dan,McPeake
+actor,84095,Thalmus,Rasulala
+actor,115716,Jimmy,Lee Jr.
+actor,105884,Sharaud,Moore
+actor,8043,Bernard,Behrens
+actress,47755,Megan Peta,Hill
+actress,140808,Jillian,Crane
+actor,101556,Gabriel (I),Correa
+actress,131205,Julia,Pearlstein
+actor,122996,Michael (XIV),Mahoney
+actor,106294,Dane (I),Carson
+actress,139109,Laura (III),Mitchell
+actor,96314,Ciaran,O'Driscoll
+actor,56793,Ray,D'Amore
+actor,71273,Howard,Lockser
+actor,103236,Jim,Boeheim
+actor,109674,Jean-Paul,Muel
+actor,87854,Kenneth,Causey
+actor,73100,Roger,Hanin
+actress,147625,Rachel (I),Wagner
+actress,122993,Carol,Farabee
+actor,82608,J. Wesley,Huston
+actress,135182,Saadet,Aksoy
+actor,75179,Edward,Atterton
+actress,12072,Tasha (I),Smith
+actor,61934,W. Dee,Kutach
+actor,11646,Todd (I),Lewis
+actor,111371,Mike,Tsar
+actor,2498,Tangi,Colombel
+actor,104705,Joe,Son
+actor,129437,James,Durbin
+actor,73726,Wesley,Lloyd
+actress,22230,Erin (X),O'Connor
+actor,70211,Mark,Rudge
+actor,7668,David (I),Sibley
+actress,144124,Jana Lynn,Schoep
+actress,49070,Julie,Clemmons
+actress,10385,Jocelyne,Sand

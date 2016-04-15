@@ -1,0 +1,66 @@
+145275,,,3040786,[Shastri]
+1937,(voice: English version),,3041231,
+5562,(voice: English version),,3041231,[Bertha]
+6131,(voice),,3041231,[Tombo]
+7384,(voice: English version),,3041231,[Madame]
+11670,(voice),,3041231,[Ketto]
+15516,(voice: English version),,3041231,[Jiji]
+18845,(voice: English version),,3041231,
+19140,(voice),,3041231,[Osono]
+23346,(voice),,3041231,[Rô-fujin]
+27764,(voice: English version),,3041231,[Tombo]
+32842,(voice),,3041231,
+33164,(voice: English version),,3041231,[Osono]
+38543,(voice: English version),,3041231,
+41469,(voice: English version),,3041231,
+43011,(voice),(as Masa Saitô),3041231,
+46451,(voice),,3041231,"[Kokiri, Kiki no haha]"
+48048,(voice),,3041231,[Barsa]
+51059,(voice: English version),,3041231,[Tombo (Streamline dub)/Additional Voices]
+52977,(voice),,3041231,
+58121,(voice: English version),,3041231,
+59794,(voice),,3041231,[Jiji]
+63705,(voice: English version),(as Julia DeMita),3041231,"[Ket's Aunt, Ket's Mother]"
+77750,(voice),,3041231,
+78946,(voice),,3041231,
+80854,(voice),,3041231,[Baby]
+85854,(voice: English version),,3041231,
+88073,(voice: English version),,3041231,[Jiji/Driver 2 (Streamline dub)]
+89888,(voice: English version),,3041231,[Kiki's Father]
+90615,(voice),,3041231,[Kiki/Ursula]
+93543,(voice: English version),,3041231,[Ursula]
+97776,(voice),,3041231,
+102479,(voice: English version),,3041231,[Osono (Streamline dub)]
+107996,(voice),,3041231,"[Okino, Kiki no chichi]"
+111877,(voice),,3041231,[Beautiful designer girl]
+112955,(voice),,3041231,[Ketto's mother]
+113665,(voice: English version),,3041231,[Young Senior Witch]
+115550,(voice: English version),(as Pamela Segall),3041231,[Ket]
+116322,(voice),,3041231,
+129819,(voice: English version),,3041231,[Dirigible Captain]
+132623,(voice: English version),,3041231,[Kiki]
+135749,(voice: English version),,3041231,[Kiki (Streamline dub)]
+136809,(voice),,3041231,[Young sempai witch]
+139758,(voice),,3041231,"[Bakery worker, policeman]"
+140606,(voice: English version),,3041231,
+141339,(voice: English version),,3041231,[Kiki's Mother]
+143669,(voice: English version),,3041231,
+144996,(voice),,3041231,[Ketto's father]
+145595,(voice),,3041231,
+146836,(voice: English version),,3041231,[Radio Announcer]
+147512,(voice),,3041231,
+5245,,,3041311,[Emily Walburn]
+10308,,,3041311,[Col. Braggart]
+13294,,,3041311,[MP]
+16055,,,3041311,[Terrorist]
+24260,(uncredited),,3041311,[Sports Fan]
+24614,,,3041311,[Cadet Alex Stone]
+27838,,,3041311,[Miss Goodman]
+31087,(uncredited),,3041311,[Soldier]
+34383,,,3041311,[Marksman]
+58518,,,3041311,[Cadet Sgt. Johnson]
+59096,,,3041311,[Dr. Phillips]
+62406,,,3041311,[Huge Biker]
+69474,,,3041311,[Wellington Cadet Captain]
+73467,(uncredited),,3041311,[Academy Cadet Lt. Col]
+75187,,,3041311,[Cadet]

@@ -1,0 +1,71 @@
+actor,29851,Michael (II),Corcoran
+actress,79631,Caroline,Haigh
+actor,129343,Greg Matthew,Anderson
+actress,66387,Jeannie (I),Perrin
+actor,133640,Frank (I),Conniff
+actor,87685,Kester,Lovelace
+actor,54996,Richard (I),Irving
+actor,105656,Jonathon,Groves
+actress,752,Terese,Del Piero
+actress,60237,Tressana,Alouane
+actor,29267,Richard G.,Batista
+actor,131732,Bernie,Styles
+actor,79987,Geoff,Pierson
+actor,84870,Brad,Birkedahl
+actor,16723,Andy (V),Hayes
+actress,118813,Maureen,Lipman
+actress,46098,Thea,Nielsen Disney
+actress,122980,Kathleen (I),Fletcher
+actress,86776,Maria,Semple
+actress,78673,Susan (II),Davis
+actress,73738,Fiona (III),Jones
+actress,58566,Tracy,Vilar
+actor,44083,John (II),Curtis
+actor,6815,Donald G.,Asher
+actor,62580,Vittorio,Zarfati
+actress,95110,Teal,Roberts
+actor,69284,Alex,Dowding
+actor,118298,David,Macniven
+actor,111738,Stephen,Quadros
+actor,22554,Dennis M.,Keating
+actress,114807,Rachel,de la Torre
+actress,99924,Monica,Alexandrescu
+actor,90214,Kevin,Lacz
+actor,44041,Pascal,Roubinet
+actor,131592,Maurey,Marston
+actor,140122,James (I),Fierro
+actor,136011,Paul (II),Desmond
+actor,120307,Peter,Radon
+actor,116156,Dan (I),Stanton
+actress,91702,Tedde,Moore
+actor,54721,Stan,Collymore
+actress,40385,Lisa,Maris
+actor,119563,Ted,Oliver
+actor,27083,Dale,Winton
+actress,46308,Kelsey,Matheson
+actor,75455,Patch 'The Wonder',Dog
+actor,3824,Alex (I),Nixon
+actor,97582,Mark,Schlereth
+actress,10088,Yani,Soto
+actor,140766,Manuel,Mawele
+actor,145271,Sylvia Lucia,Tauro
+actor,102661,Chuck,Courtney
+actor,73604,Joe,Gantos
+actress,71012,Ashleigh,Hubbard
+actress,118477,Hilary,Mason
+actor,132800,Toby,Meuli
+actor,139372,Brian (I),Wilde
+actor,78902,Ray,Hodge
+actor,52286,Mark,Ballou
+actor,141663,Paw,Henriksen
+actress,114573,Dragana,Atlija
+actress,96366,Jaleh,Modjallal
+actor,7201,Nat,DeWolf
+actor,3122,Sergio,Torrado
+actress,64130,Judith,Nathan
+actor,97865,Wesley (I),Murphy
+actor,13348,Steve (I),Agnew
+actress,58948,Colette,O'Connell
+actress,44993,Susan,Yeagley
+actress,25240,Rebecca,Haarlow
+actor,48197,Peter (I),Cranwell

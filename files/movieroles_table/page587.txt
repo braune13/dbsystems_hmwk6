@@ -1,0 +1,66 @@
+94717,(voice),(uncredited),2599010,[Additional Voices]
+94832,(voice: Spanish release),,2599010,[Fernando Alonso]
+96453,(voice),,2599010,[Van]
+97689,(voice),,2599010,[Mack]
+98696,(voice),,2599010,[Acer]
+99242,(voice: French release),,2599010,[Jacques Villeneuve]
+100996,(voice),,2599010,[Additional Voices]
+101071,(voice),,2599010,[Alexander Hugo]
+104526,(voice),,2599010,[Tomber]
+104647,(voice),(uncredited),2599010,[Additional Voices]
+106666,(voice),,2599010,[The Queen/Mama Topolino]
+109582,(voice),,2599010,[Mater]
+111131,(voice),,2599010,[Lizzie]
+112777,(voice),,2599010,[Victor Hugo/Vladimir Trunkov/Ivan the Tow Truck]
+120038,(voice),,2599010,[Ramone]
+123465,(voice: Swedish release),,2599010,[Flash]
+128822,(voice),,2599010,[Additional Voices]
+130275,(voice),,2599010,[Francesco Bernoulli]
+131546,(voice),,2599010,[Siddeley/Leland Turbo]
+131660,(voice),(uncredited),2599010,[Additional Voices]
+145959,(voice),,2599010,[Holley Shiftwell]
+3966,(voice),,2599007,[Doc Hudson]
+5239,(voice),(version) (uncredited),2599007,[Luigi]
+5562,(voice),,2599007,[Minny]
+6503,(voice),,2599007,[Sally Carrera]
+7084,(voice),,2599007,[Buzz Lightyear Car]
+7645,(voice: US Version),,2599007,[Harv]
+8123,(voice),,2599007,
+8178,(voice),,2599007,
+8960,(voice),,2599007,[Wingo]
+10469,(voice),,2599007,
+11515,(voice),,2599007,[Guido]
+13415,(voice),,2599007,
+14732,(uncredited),,2599007,[Sports commentator]
+16756,(voice),,2599007,[Flo]
+17603,(voice),,2599007,[Mrs. The King]
+28406,(voice),,2599007,
+29191,(voice),,2599007,
+29538,(voice),,2599007,
+30106,(voice),,2599007,
+32424,(voice),,2599007,
+36801,(voice),,2599007,
+39809,(voice),(uncredited),2599007,[Elvis]
+41469,(voice),,2599007,
+42522,(voice),,2599007,
+43151,(voice),(as Mickie T. McGowan),2599007,
+43194,(voice),,2599007,
+43854,(voice),,2599007,[Fillmore]
+43976,(voice),,2599007,[Sheriff]
+45223,(voice),,2599007,[Boost]
+49739,(voice),,2599007,
+51747,(voice),,2599007,[Snotrod]
+51943,(voice),,2599007,[Luigi]
+53312,(voice),,2599007,
+60678,(voice),,2599007,[Chick Hicks]
+60867,(voice),,2599007,[Sarge]
+61480,(voice),,2599007,
+65690,(voice),,2599007,[Lightning McQueen]
+66089,(voice),,2599007,[Darrell Cartrip]
+66878,(voice),,2599007,[Fred]
+67176,(voice),,2599007,
+67248,(voice),,2599007,[Wide Chick Pitty]
+67870,(voice),(as Mike 'No Name' Nelson),2599007,[Not Chuck]
+69483,(voice),,2599007,[Kori Turbowitz]
+69561,(voice),,2599007,[Dusty Rust-eze]
+75507,(voice),,2599007,[Jay Limo]

@@ -1,0 +1,71 @@
+actor,40107,Chick,Fowles
+actor,117934,Josean,Bengoetxea
+actor,65115,Ramses,Barden
+actor,52344,Bob,Mone
+actor,10507,Owen,Kavanagh
+actor,125104,Logan,Bull
+actor,107566,Branden,Williams
+actress,105822,Martine,Chevallier
+actor,99748,Akbar,Kurtha
+actor,81139,Laz,Alonso
+actress,11230,Marina,Hirschfeld
+actor,34128,Zhong,Zhou
+actor,92016,Anas,El Baz
+actor,58030,Hasan,Kalci
+actress,102364,Paityn,James
+actor,129842,Alan,Chimes
+actor,87865,Ray,Grey
+actress,6742,Dana (I),Moore
+actress,121766,Adile,Nasit
+actor,114024,Christopher J.,Worret
+actor,87197,Antony (I),Brown
+actor,90940,Patrice (II),Martinez
+actress,7863,Valerie (VII),Parker
+actor,60854,Robert (I),Alexander
+actor,43132,Alec (II),Cawthorne
+actress,28283,Janet,Pinnick
+actor,93430,Ben (XV),Knight
+actor,133823,Taylor (III),Hanson
+actor,94437,Toby,Philpott
+actor,117155,Phil,Van Tee
+actor,18197,Paul (IV),Abraham
+actress,141767,Penny,Crone
+actress,115051,Janessa,Olsen
+actor,97189,Harry,Kirkham
+actor,54729,Steve (XV),Murphy
+actress,114811,Betty,Shabazz
+actor,122227,Brian P.,Kennedy
+actor,38993,Yoshimi (II),Nakajima
+actress,64546,Lindsay-Elizabeth,Hand
+actor,83333,Márcio (II),Costa
+actress,106326,Freda Nelson,Evans
+actor,35846,Mike,Agresta
+actress,5848,Penny (II),Gibbs
+actress,29581,Michelle,Holdsworth
+actress,62595,Nora,Cecil
+actor,88050,Hany Said,El Deen
+actor,11859,Chet,Vimol
+actor,104916,Ioan,Cortea
+actress,46874,Victoria,Goulet
+actress,108582,Sofia,Ledarp
+actor,104746,Bradley E.,Smith Jr.
+actor,123670,Charley,Morgan
+actor,27155,John (I),Lennon
+actress,42724,Nicola (I),Anderson
+actress,95379,Elizabeth (II),Small
+actress,47206,Joleigh (I),Fioravanti
+actor,14205,Ignasi,Abadal
+actor,74790,Charles 'Honi',Coles
+actor,30330,Bob,Corff
+actor,127504,Harrison,Moccio
+actor,100598,Guillermo,Estrella
+actress,71288,Arwen,Del Vecchio
+actor,89471,Kevin C.,White
+actress,123262,Kelly,McGillis
+actor,111680,Anthony,Barrineau
+actor,6214,John (I),Brent
+actor,134966,Ozan,Guven
+actor,122059,Kevin (I),Grady
+actress,80698,Tanya,Anthony
+actor,103891,Damon,Caro
+actor,106281,Ross,Lombardo

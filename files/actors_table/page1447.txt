@@ -1,0 +1,71 @@
+actor,119327,Murray R.,Croft
+actor,24428,Nathan,Pitkanen
+actress,10070,Daisy,Tahan
+actress,54291,Kelly (II),Oxford
+actor,43226,Christopher Lee,Lopez
+actress,137941,Barbara,Kelsch
+actor,54175,Joe,Molinaro
+actor,71445,Vincenzo,Nicoli
+actor,33910,Dominic,Preece
+actress,147522,Lucia,Cerullo
+actress,54680,Sophya,Gudelman
+actor,108467,Caley (I),Bisson
+actor,78729,John (I),McKinnon
+actor,104937,Jamie (III),Buchan
+actor,6685,John,Pedrick
+actress,89784,Marsha,Graham
+actress,98799,Terry (I),Murphy
+actor,133467,Adam (VI),Green
+actor,17748,Pasquale Enrico,Cangro
+actor,78231,Scott,Silveira
+actress,77500,Tandy,Cronyn
+actor,90610,Kevin (XVI),O'Brien
+actor,35771,David,Ursin
+actor,40993,Joaquin,Phoenix
+actor,123026,Ronald,Rusinick
+actress,29381,Courtney,Cooper
+actor,111470,Greg (I),Poland
+actor,2880,Vincent,McCurdy-Clark
+actress,72776,Veronique,Ory
+actor,42140,Mike (III),Christopher
+actor,86463,Lambert,Wilson
+actor,65309,Philip,Odango
+actor,48447,Robert (II),Orr
+actor,106698,Jasonn,Gonzalez
+actress,105752,Catlyn,Day
+actor,130733,Lynn,Swann
+actor,36994,Dan (II),Unger
+actor,132384,John,Cena
+actress,20546,Megan,Guidarelli
+actress,87809,Lauren,Valencia
+actor,50510,Danny,Castle
+actor,24223,Tacuma,Vanterpool
+actress,98487,Heather (VII),O'Neill
+actress,17997,Victoria (II),Jones
+actress,10020,Puti,Sri Candra Dewi
+actor,59481,Greg (I),O'Neill
+actor,15584,Maarten,Olaya
+actor,104587,Nick,13
+actress,6683,Joanne,Petitt
+actor,14074,Brian (IX),Bell
+actress,5964,Sandra (I),Caldwell
+actor,94114,Ryan Daniel,Rodriguez
+actor,68861,Linal,Haft
+actress,40981,Alexandra (II),Damiani
+actress,132719,Simone,Singh
+actress,121127,Kayla,Ruhl
+actor,21836,John,DeLouis
+actor,140628,Edmund,Villa
+actor,71307,Nick (I),Stewart
+actor,129782,Drew,Palajsa
+actor,25129,Leo,Quinones
+actress,26993,Dana (III),Klein
+actor,137908,Evgeniy,Lazarev
+actor,77873,Victor (III),Wong
+actor,99388,Boyd,Kestner
+actress,158,Janani,Saara
+actress,20549,Julie,Pepin
+actor,122739,Chris,Steinbrunner
+actor,67082,Casson,Rugen
+actor,148400,Ikhatar,Singh
+actress,125237,Judith,Teruel

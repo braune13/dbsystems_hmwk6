@@ -1,0 +1,71 @@
+actor,32740,Stephen R.,Hart
+actress,111393,Kara,Rastrelli
+actor,105360,Herb (I),Smith
+actor,103968,Mark Anthony (II),Lopez
+actor,110053,Hugh (VI),Douglas
+actor,142779,Ken,Koc
+actress,133017,Patricia (I),Neal
+actor,13314,Mark (II),Peplow
+actor,45706,John (IV),Hughes
+actor,66916,Emmanuel,LeMire
+actress,53156,Marina,Lutz
+actress,38027,Teresa,Tsao
+actress,88231,Arlene,Santana
+actress,64380,Helen,Clitherow
+actor,121458,Kevin (I),Carroll
+actor,37819,Steve,Burg
+actress,110398,Kimmary,Williams
+actor,19424,George,Koutros
+actress,2810,Magali,Widmer
+actor,42869,Alvin,Ing
+actor,118691,Michael (II),Webber
+actor,146408,Neil Brooks,Cunningham
+actor,148162,Liam (I),Ahern
+actress,133233,Tessa,Vale
+actor,14483,Keith,Fleming
+actor,129118,Yuji (II),Tanaka
+actor,60734,Brandon,Lafourche
+actress,92694,Sayuri,Gutierrez
+actress,87976,Suzanne,Shepherd
+actor,9010,Andrew,Tamez-Hull
+actor,70586,Darell,Grant
+actress,2245,Kairen,Waloch
+actor,113363,Billy,Idol
+actress,136365,Maria Conchita,Alonso
+actor,116338,Larry,Attile
+actor,68472,Lloyd,Bochner
+actor,9602,Butchie (I),
+actress,18218,Liliane,Briand
+actor,88781,Fausto,Guerzoni
+actress,125993,Cathryn,de Prume
+actor,97244,Rabah,Khalfa
+actor,81600,Marc A.,Hutchins
+actor,100530,Herb,Edelman
+actor,44257,Max,Arciniega
+actress,131134,Kimberly (I),Robin
+actor,31510,Ellsworth 'Cisco',Davis
+actor,58982,Nabi,Tanha
+actor,86680,Forrest,Griffin
+actress,22832,Stacie A.,Blaut
+actress,108330,Alicia,Vikander
+actress,42195,Ni,Made Megahadi Pratiwi
+actor,17600,Thomas R.,Wallek
+actor,104278,Dennis,Gomez
+actor,114525,Erwin,Leder
+actor,83514,Ernst,Umhauer
+actor,135295,Bonz,Malone
+actress,17062,Xuxa,Meneghel
+actor,76954,Joe (I),Ayer
+actress,124996,Rebecca (II),Reid
+actress,139406,Kathryn,Talbot
+actress,128648,Jacqui,Landrum
+actor,115882,Eric,Hofer
+actor,44684,Robert (II),Arevalo
+actor,29917,Gary,Bland
+actress,55971,Lynn Ann,Castle
+actor,35911,Tom,Arey
+actress,84809,Allegra,Carpenter
+actor,37759,Jean-Francois,Lachapelle
+actor,137719,Califf,Guzman
+actor,117959,Teddy,Richardson
+actor,85116,Axel,Prahl

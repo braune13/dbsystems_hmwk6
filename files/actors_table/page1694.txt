@@ -1,0 +1,71 @@
+actress,48275,Atka,Janousková
+actor,4581,Zilvinas,Svitojus
+actress,115620,Jacqueline,Emerson
+actress,35862,Lindsay (III),Thompson
+actor,36497,Joan Seuora,Morales
+actress,46516,Mary Tyler,Moore
+actress,3141,Darby,Dougherty
+actor,18747,Joe,Bordeaux
+actor,74688,Richie,Dye
+actor,28987,James (III),Crompton
+actress,44379,Kerri,Daube
+actor,101861,Robert A.,Villanueva
+actor,102678,Yoshimasa,Kondô
+actor,69460,Rick,Shapiro
+actress,12545,Wendee,Lee
+actor,18465,Kurt,Pecher
+actress,62530,Eve,Brenner
+actress,142235,Marieve,Herington
+actor,77903,Doug (XV),Price
+actor,67897,Michel,Aumont
+actress,99309,Bess,Meyer
+actress,45686,Michele,Durrett
+actor,145797,Michael,St. Angel
+actor,139225,André,Dietz
+actor,43495,Michael,La Grange
+actress,15760,Cassandra,Braden
+actor,81596,Ziad,Abaza
+actor,73693,Paul (I),Crawford
+actress,52470,Malina,Weissman
+actor,9224,Timothy A.,Slater
+actor,123578,Paul (I),Walker
+actor,140791,Richard,Hawley
+actor,124336,Terry (I),Kelleher
+actor,132890,Ronnie,Li
+actor,58878,Leandro,Palme
+actor,36665,Chieh Chiang,Wu
+actor,25450,Rodney J.,Hobbs
+actor,148141,Robby,Murakami
+actress,49555,Amina,Julianna
+actor,76887,Mike (XIX),Schmidt
+actress,66951,Chie,Kôjiro
+actor,20568,J. Patrick,George
+actor,92821,Gábor,Nagypál
+actor,71833,Eric,Redgate
+actor,44567,Joe (I),Kaye
+actress,11501,Francesca,Edgerton
+actress,116159,Nancy,Grace
+actor,127572,Ruben Angel,Pinon
+actor,140026,Matthew (I),Kasten
+actress,133172,Katie (I),Jackson
+actor,147932,Allen,Lidkey
+actor,75568,Rob,Scebelo
+actress,110849,Lori (I),Graham
+actor,79113,Angelo,Soteriou
+actress,69837,Aviva,Yael
+actor,13402,Aaron (III),Alexander
+actor,119075,Steve,Boomer
+actor,139458,Jerzy,Sagan
+actor,102339,Momo,Casablanca
+actor,25353,Vito,Chirco
+actress,88,Ulrike,Schirm
+actor,11188,Gerald (I),Ford
+actress,140286,Elizabeth,Stocks
+actor,25638,Joseph,Gostanian
+actor,16,Evan (I),Mann
+actor,110782,Anthony,Binford
+actor,60678,Michael,Keaton
+actress,87663,Bethany,Leo
+actor,21628,Danny,Mummert
+actress,23571,Kelly (II),Piper
+actor,35089,Kevin (II),Ingram

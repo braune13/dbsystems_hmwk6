@@ -1,0 +1,66 @@
+61916,,,3493981,[Himself - Director of 'Where the Truth lies']
+64749,,,3493981,[Himself - Author of 'Media Ratings']
+65677,,,3493981,[Herself - Private Investigator]
+67997,,,3493981,[Herself - Junior Private Investigator]
+71627,,,3493981,[Himself - Head of U.S. Theatrical Thinkfilm]
+72490,(archive footage),(as Jay Parnell Thomas),3493981,[Himself - Chairman of House Un-American Activities Committee]
+73514,,,3493981,[Himself - Producer of 'South Park' and 'Team America']
+74963,,,3493981,[Herself - Actress in 'The Cooler']
+77845,(as Michael Mcclellan),,3493981,[Himself - Appeals Board Member]
+79045,,,3493981,[Himself - Filmmaker and Interviewer]
+80799,,,3493981,[Herself - Actress in 'Where the Truth Lies']
+81070,,,3493981,[Herself - Director of 'Boys Don't Cry']
+81584,,,3493981,[Herself - MPAA Rater]
+83748,(as Dottie Hamilton Phd),,3493981,[Herself - Author of 'Hollywood's Silent Partner]
+84318,,,3493981,[Himself - Box Office Analyst]
+87547,,,3493981,[Himself - MPAA Rater]
+89692,,,3493981,[Herself - Director of 'But I'm a Cheerleader']
+92660,(voice),,3493981,[Himself - Interviewer]
+94129,,,3493981,[Herself - Director of 'American Psycho']
+97034,,,3493981,[Himself - Former MPAA Rater]
+116722,(voice),,3493981,[Herself - Interviewer]
+117677,,,3493981,[Himself - Co-Founder of October Films]
+119848,(archive footage),,3493981,[Himself - Member of House Un-American Activities Committee]
+121442,,,3493981,[Himself - Author of 'Hollywood v. Hardcore']
+123151,(uncredited),,3493981,[Himself]
+123312,(as Cookie),,3493981,[Herself - Private Investigator]
+124151,,,3493981,[Himself - Former MPAA Rater]
+124756,(archive footage),(uncredited),3493981,[Himself - 1968 TV Newscaster]
+126684,(archive footage),(as SPC Javorn Drummond),3493981,[Himself - From Fayetteville N. Carolina]
+126868,,,3493981,[Herself - MPAA Rater]
+135218,(voice),,3493981,[Herself - Rating Board Chairperson]
+138373,(as Clark),,3493981,[Himself - Private Investigator]
+144387,,,3493981,[Himself - Co-Director of 'Gunner Palace']
+147475,,,3493981,[Himself - Film Critic at 'Newsweek']
+148678,,,3493981,[Himself - Copyright Attorney and Author]
+148811,(as Paul),,3493981,[Himself - Private Investigator]
+799,,,3493410,[Kathy Kriticos]
+1210,,,3493410,[Kalina Oretzia]
+1984,,,3493410,[Cyrus Kriticos]
+14610,,,3493410,"[Jimmy 'The Gambler' Gambino, The Torso]"
+20799,,,3493410,"[Billy Michaels, The First Born Son]"
+28146,,,3493410,"[Harold Shelburne, The Great Child]"
+33672,,,3493410,[Cyrus' Assistant]
+35788,,,3493410,"[Jean Kriticos, The Withered Lover]"
+44387,,,3493410,"[Susan LeGrow, The Bound Woman]"
+51943,,,3493410,[Arthur Kriticos]
+53288,,,3493410,[Robert 'Bobby' Kriticos]
+65465,,,3493410,[Benjamin Moss]
+79157,,,3493410,"[Dana Newman, The Angry Princess]"
+80417,,,3493410,"[Ryan Kuhn, The Jackal]"
+88409,,,3493410,[Team Member]
+92767,,,3493410,"[Isabella Smith, The Pilgrimess]"
+93701,,,3493410,[Dennis Rafkin]
+100466,,,3493410,"[George Markley, The Hammer]"
+104532,(as Craig Olejnik),,3493410,"[Royce Clayton, The Torn Prince]"
+111481,,,3493410,"[Margaret Shelburne, The Dire Mother]"
+118017,(as John De Santis),,3493410,"[Breaker Mahoney, The Juggernaut]"
+123773,,,3493410,[Damon]
+128567,,,3493410,[Maggie Bess]
+133297,,,3493410,[Team Member]
+138709,,,3493410,[Team Member]
+1745,,,3493627,[Astrid]
+1779,,,3493627,[Brady]
+7369,(as Sarah Blakely-Cartwright),,3493627,[Medina]
+7523,,,3493627,[Melanie Freeland]
+8928,,,3493627,[Himself]

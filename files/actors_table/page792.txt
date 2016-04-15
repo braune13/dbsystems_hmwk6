@@ -1,0 +1,71 @@
+actor,57988,Charles (I),Oakley
+actor,74346,Pascal,Mottier
+actress,82612,Naoko (I),Mori
+actor,147309,Dean,England
+actress,99683,Henriette (I),Mantel
+actor,132189,Heinz,Hoenig
+actor,25735,Mike (XXIX),Clark
+actor,57896,Heland,Lee
+actor,135883,Yutthana,Mueanwacha
+actress,137482,Ina,Lereine
+actor,67778,Svatopluk,Ricánek
+actress,9195,Charlie,Griffiths
+actress,75535,Victoria,Arbiter
+actor,113119,Ivan (I),Salazar
+actress,45116,Patricia (I),Higgins
+actor,107662,Kevin (I),O'Neal
+actress,48538,Amanda,Godinez
+actor,121049,Kosuke,Masano
+actor,21726,Peter (I),Stone
+actor,131465,Mateo,Suarez
+actor,85720,David Lain,Baker
+actor,22777,Angus (I),Wright
+actress,74197,Kleo,Skouloudi
+actor,19754,Nathan (I),Cook
+actor,108961,Paul,Fortune
+actor,46587,Bruce (II),Gregory
+actor,57780,Robert David,Armstrong
+actress,43571,Nancy,O'Dell
+actress,38652,Katarina,Gellin
+actor,25567,Ernie (I),Anderson
+actor,21597,Paul (I),Montgomery
+actress,98235,Hotomi,Nakajima
+actor,74797,Dan,Rebett
+actor,53128,J. Alan,Thomas
+actor,64280,Jeff,Witzke
+actor,52230,Peter,Glassberg
+actor,39211,Josh,Peine
+actor,104633,John Emil,D'Angelo
+actor,91845,Lorenzo,Robledo
+actor,55652,Dustin,Fleetwood
+actress,114585,Rori,Cannon
+actor,1459,Tex,Driscoll
+actor,11236,Edward,Carisbrooke
+actor,92924,Connor (I),Lynch
+actress,94464,Sarah,Moyle
+actor,133418,Connell,Maynor
+actor,91953,Dane A.,Davis
+actor,2142,Aaron,Russo
+actor,136111,Luis (II),Rosado
+actress,16701,Jessica,Belkin
+actor,77099,Daniel T.,Healy
+actor,84330,Mark (I),Arneson
+actor,95353,Fronzi,Thornton
+actress,64981,Kate,Harcourt
+actress,4832,Pamela,Finley
+actor,18472,Michael (III),Snow
+actress,64637,Mary,Stieffel
+actress,106233,Liz,Daniels
+actor,64248,Mauricio,Del Monte
+actor,69377,Justin,Tinucci
+actress,48064,Petra,Martínez
+actor,18156,Stephen (III),Russell
+actress,130614,Melanie,Henderson
+actor,23361,Richard,Russo
+actor,68716,Kevin,Le Roy
+actor,3053,Fima,Noveck
+actor,74403,Hans-Peter,Sussner
+actor,121904,Tom (III),Brady
+actress,23590,Brenda,Bruce
+actor,33655,Gene,Barry
+actor,134950,Chuck,Zito

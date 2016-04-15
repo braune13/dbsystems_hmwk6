@@ -1,0 +1,71 @@
+actor,44098,Tanner,Priest
+actress,70389,Ling Hsueh,Tang
+actor,56885,Pietro,Sarubbi
+actor,126066,Miles (I),Thompson
+actor,61799,Brian E.,Jay
+actor,72823,David Shawn,Michaels
+actor,146081,Casper (I),Brindle
+actress,42374,Hilda (I),González
+actor,75904,D.J.,Kelly
+actor,131973,Ricky (XXII),
+actor,37472,The,Zipper Family
+actor,129119,Harry (II),Reardon
+actor,134583,Marcos 'Kikito',Junqueira
+actress,95676,Warona,Setshwaelo
+actress,114657,Andrea,Zonn
+actor,139638,Peter (I),Reeves
+actor,103816,Elliot,Lawless
+actor,116236,Malcolm (I),Jolly
+actress,101496,Angela (III),Lewis
+actress,86938,Autum,Perry
+actor,82723,Kevin (VII),Collins
+actor,14106,Weston,Gavin
+actor,148018,Pat (II),
+actor,32788,Steven,Gerrard
+actress,121002,Prunella,Gee
+actor,131920,John (I),Kish
+actor,74175,Coy,DeLuca
+actor,145942,Lee,Hardee
+actor,49007,Guy Kingsley,Poynter
+actress,44153,Renée (I),Lee
+actor,67942,Cooper,Thornton
+actor,92927,Mark (VI),Jarvis
+actress,80261,Jennifer (I),Buchanan
+actress,1793,Kristen,Rutherford
+actress,51935,Iphigenie,Castiglioni
+actor,46496,Julian,Such
+actress,78363,Candace,Blanchard
+actor,90238,Tsuyoshi (I),Abe
+actor,124994,Steven Anthony,Jones
+actress,91640,Meagen,Fay
+actor,96738,Chazz,Dominguez
+actor,123630,Christopher,Cartmill
+actress,21560,Isobel,Buchanan
+actress,96451,Kathryn,Arnett
+actor,128603,Richie,LaMontagne
+actor,120484,Ray,Starmann
+actress,36096,Sarah Méndez,García
+actor,104020,Jeffrey (I),Stephan
+actress,24533,Emma,Fuhrmann
+actress,50187,Teresa (I),Chapman
+actress,145635,Tanya,Beverly
+actor,380,Jack K.,Tsirakis
+actor,78756,J.P.,Gillain
+actor,104846,Billy W.,Blackwell
+actress,126415,Ren,Trostle
+actress,61976,Julie (I),Ho
+actor,147540,Rusty,Wescoatt
+actor,8890,Usman,Habib
+actor,4905,Rainer (I),Sellien
+actor,91654,Shane,Nilsson
+actor,21075,Jonross,Fong
+actor,23538,Mitsu (I),
+actress,54074,Christina,Blizzard
+actress,52232,Diz,White
+actor,124931,Edward (II),Cox
+actor,121992,Aditya (V),Kumar
+actor,23834,David (I),Stott
+actor,91127,Dion,Anders
+actor,36557,Richard (III),Owens
+actor,31213,Mario (II),Morales
+actor,18173,Montgomery,Clift

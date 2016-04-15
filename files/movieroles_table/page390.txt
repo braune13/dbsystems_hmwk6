@@ -1,0 +1,66 @@
+36320,(voice),,2540066,
+41469,(voice),,2540066,
+41835,(voice),,2540066,
+43151,(voice),,2540066,
+47424,(voice),,2540066,
+47900,(voice),,2540066,
+50420,(voice),,2540066,
+56767,(voice),,2540066,[Featherduster]
+57650,(voice),,2540066,
+60312,(voice),,2540066,[Monsieur D'Arque]
+61445,(voice),,2540066,[Bookseller]
+69262,(voice),,2540066,[Baker]
+71598,(voice),,2540066,
+76160,(voice),,2540066,[Lefou]
+84771,(voice),,2540066,
+87733,(voice),,2540066,[Beast]
+93560,(voice),,2540066,[Wardrobe]
+95344,(voice),,2540066,
+95696,(voice),,2540066,[Maurice]
+99342,(voice),,2540066,
+107054,(voice),,2540066,
+113824,(voice),,2540066,[Lumiere]
+116901,(voice),,2540066,[Bimbette]
+120090,(voice),,2540066,
+120184,(voice),,2540066,
+124137,(voice),,2540066,[Gaston]
+124839,(voice),,2540066,
+125170,(voice),,2540066,
+128129,(voice),,2540066,
+133263,(voice),(as Philip Clarke),2540066,
+135659,,,2540066,[Bela]
+140074,(voice),,2540066,
+140198,(voice),,2540066,
+141191,(voice),,2540066,
+141339,(voice),,2540066,[Bimbette]
+149247,(voice),,2540066,
+112,(uncredited),,2540911,[Old Home Guardsman]
+1785,,,2540911,[Miss Price]
+5093,,,2540911,[Bookman]
+8005,,,2540911,[Gen. Teagler]
+8570,(uncredited),,2540911,
+12968,(uncredited),,2540911,[Soldier]
+14907,(uncredited),,2540911,[Old Home Guardsman]
+17354,,,2540911,[German Sergeant]
+22951,(uncredited),,2540911,[Spectator at Emelius' Failed Magic Performance]
+26902,,,2540911,[Vendor]
+29453,(uncredited),,2540911,[Newspaper Vendor]
+32929,(uncredited),,2540911,[Mrs. Mason]
+33082,(uncredited),,2540911,[Old Home Guardsman]
+36169,(uncredited),,2540911,[Portobello Dancer]
+38655,(uncredited),,2540911,[Old Home Guardsman]
+40577,(uncredited),,2540911,[German Soldier]
+45381,(uncredited),,2540911,[Spectator at Emelius' Failed Magic Performance]
+49411,,,2540911,[Mrs. Hobday]
+51069,(uncredited),,2540911,[Spectator at Emelius' Failed Magic Performance]
+54415,(uncredited),,2540911,[Old Home Guardsman]
+65317,(uncredited),,2540911,[Portobello Road Passerby]
+66756,(as Arthur E. Gould-Porter),,2540911,[Capt. Greer]
+76912,(uncredited),,2540911,[Old Piano Player]
+78657,,,2540911,[Swinburne]
+79627,,,2540911,[Emelius]
+79974,,,2540911,[Elderly Farmer]
+82180,,,2540911,[German Sergeant]
+83162,,,2540911,[Carrie]
+87017,(voice),,2540911,[Bear]
+88441,(uncredited),,2540911,[Vendor with Hat and Boa]

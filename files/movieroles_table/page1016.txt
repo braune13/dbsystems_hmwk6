@@ -1,0 +1,66 @@
+128517,(archive sound),(uncredited),2758913,[Mario]
+128928,,,2758913,[Guy at gas station]
+128976,,,2758913,[Hutch]
+135493,,,2758913,[Eric]
+140513,,,2758913,[Boba Fett #1]
+143077,,,2758913,[Boba Fett #2]
+143828,(uncredited),,2758913,[Admiral Seasholtz Posse Member]
+1785,,,2759270,"[Angela Lansbury (segment ""Firebird Suite - 1919 Version"")]"
+10799,,,2759270,"[Himself - Host (segment ""The Sorcerer's Apprentice"")]"
+40628,(singing voice),,2759270,"[Herself - Featured Soprano (segment ""Pomp and Circumstance"")]"
+44707,,,2759270,[Himself - Introductory Host]
+46909,,,2759270,"[Himself - Host (segment ""Pines of Rome"")]"
+53652,(uncredited),,2759270,[Himself - Animator]
+68467,,,2759270,"[Himself - Host (segment ""Carnival of the Animals"")]"
+68687,(archive footage),,2759270,"[Himself - Conductor (segment ""The Sorcerer's Apprentice"")]"
+75523,,,2759270,[Himself - Violinist]
+75841,,,2759270,"[Himself - Host (segment ""Rhapsody in Blue"")]"
+80249,(voice),,2759270,"[Donald Duck (segment ""Pomp and Circumstance"")]"
+82287,(archive footage),,2759270,"[Himself - Host (segment ""Fantasia Introduction"")]"
+83211,,,2759270,"[Himself - Pianist (segment ""Rhapsody in Blue"")]"
+86861,,,2759270,"[Himself - Host (segment ""Pomp and Circumstance""), Conductor (Chicago Symphony Orchestra)]"
+88169,(as Penn),,2759270,"[Himself - Host (segment ""The Sorcerer's Apprentice"")]"
+93649,(uncredited),,2759270,[Himself - Animator]
+105907,(uncredited),,2759270,[Himself - Animator]
+109477,(voice),,2759270,"[Mickey Mouse (segment ""Pomp and Circumstance"")]"
+113124,,,2759270,[Himself - Violinist]
+128649,(voice),,2759270,"[Daisy Duck (segment ""Pomp and Circumstance"")]"
+129866,(uncredited),,2759270,"[Himself - Pianist (segment ""Piano Concerto No. 2, Allegro, Opus 102"")]"
+132769,,,2759270,"[Bette Midler (segment ""Piano Concerto No. 2, Allegro, Opus 102"")]"
+133943,,,2759270,"[Himself - Animator (segment ""Carnival of the Animals"")]"
+2262,(uncredited),,2759735,[Horserider]
+6219,,,2759735,[McGuire]
+6895,,,2759735,[Olive]
+9193,,,2759735,[Boston Maid]
+9787,,,2759735,[Kelly]
+10524,,,2759735,[Immigrant #1]
+11009,,,2759735,[Tomlin]
+12306,,,2759735,[Peasant #2]
+16977,,,2759735,[Daniel Christie]
+18091,,,2759735,[Priest]
+19658,(uncredited),,2759735,[Dancing Girl]
+19893,,,2759735,[Matthew]
+21521,(as Poll Moussilides),,2759735,[Hat Vendor]
+21703,,,2759735,[Fruit Vendor]
+22112,,,2759735,[Villager #2]
+27382,(uncredited),,2759735,[Farmer]
+28032,,,2759735,[Stephen Chase]
+33995,,,2759735,[Old Man]
+36079,,,2759735,[Thug #1]
+37804,,,2759735,[Piano Player Prostitute]
+41811,,,2759735,[Dermody]
+47029,,,2759735,[Farmer]
+47813,,,2759735,[Coniff]
+48172,,,2759735,[Bigoted Man]
+50609,,,2759735,[Peter]
+51278,,,2759735,[Irish Vendor]
+51600,,,2759735,[Prostitute]
+52302,,,2759735,[Social Club Woman #2]
+54724,,,2759735,[Glenna]
+56635,,,2759735,[Molly Kay]
+59627,,,2759735,[Villager #1]
+60511,(as Cole McKay),,2759735,[Boxer]
+61354,(as Macdara O'Fatharta),,2759735,[John]
+62644,,,2759735,[Rebel Leader]
+63089,,,2759735,[Nora Christie]
+64291,(as Carl N. Ciarfalio),,2759735,[Italian Boxer]

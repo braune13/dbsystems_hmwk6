@@ -1,0 +1,71 @@
+actor,103111,Steven,Lisberger
+actor,43492,Johnny,Brink
+actor,43489,Art,Rimdzius
+actress,101386,Delka,Nenkova
+actor,122028,Rick,Benjamin
+actor,47884,Khigh,Dhiegh
+actor,81784,Majid,Nameni
+actress,138187,Arti,Shah
+actor,108768,Bidkar,Ramos
+actor,48836,Simon,Krel
+actor,79452,Bill (III),Craig
+actress,109495,Leslie,Parrish
+actress,67124,Katie,Dunnigan
+actor,79478,Allan (I),Sharpe
+actor,138985,Scott (XVII),Bradley
+actress,6761,Destiny,Brownridge
+actress,11380,Margaret (I),Thomson
+actress,12301,Juanita (I),Wilson
+actor,110022,Kôji,Yakusho
+actor,143776,Mike (IV),White
+actress,100493,Jody (I),Wilson
+actress,123086,Eve (I),Smith
+actress,98447,Lauren,Demetriou
+actor,91608,Martin (I),Amor
+actor,104471,Kei-Yung,Ho
+actress,134126,Julie (VII),Nelson
+actress,101455,Felicity,Andersen
+actor,14618,Nigel Martin,Davey
+actor,74177,Ádám,Földi
+actress,113783,Francesca,Leone
+actor,149097,Brian,Diederich
+actor,88969,Stevie Ray,Dallimore
+actor,19391,Ernie,Stanton
+actor,91576,Erick Reihs,Jackson
+actress,61373,Stephanie,Elstob
+actor,62726,Mancheng (I),Wang
+actress,26519,Rachel,Clentworth
+actor,38589,Kamel,Krifa
+actor,43289,Billy J.,Mitchell
+actor,89641,Jack (I),Purvis
+actor,77833,Murray,Lachlan Young
+actor,134073,George,Kapp
+actress,221,Jan,Adair
+actor,145288,Jeff,Rossen
+actor,113944,Del,Anderson
+actor,143594,Michael (XXIII),Kelly
+actor,116729,Frank (II),Cox
+actor,5722,Tommy (I),James
+actor,139549,Michael,Ford-FitzGerald
+actor,127823,Luc,Roderique
+actress,40997,Kylea,Beil
+actress,94309,Elina,Wells
+actress,103087,Ina,Haybaeck-Rogers
+actor,94001,Antonio,Cupo
+actor,9840,Buddy,Bryant
+actress,32035,Bonnie,Simon
+actor,132952,Jim,Gaffigan
+actor,143845,Rowan,Witt
+actor,4383,John Davis,Chandler
+actress,11498,LaGaylia,Frazier
+actor,28513,Gil,Borgos
+actor,48463,Basil,Pao
+actress,23583,Kara,Hess
+actor,136776,James,Rajotte
+actress,47267,Laura,Vietzen
+actor,107588,Ben (I),Derrick
+actor,121277,Dennis,Hopper
+actor,16876,Andy,Ostroy
+actor,115447,Judson (I),Scott
+actress,13483,Daliah,Lavi
+actress,32735,Xaleese,

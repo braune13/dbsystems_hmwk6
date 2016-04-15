@@ -1,0 +1,71 @@
+actor,15541,Amos,Levkovitch
+actor,37501,Aubert,Pallascio
+actor,104752,Michael,Morana
+actor,84175,Chris (I),Wilding
+actor,25386,Joe (III),Walsh
+actor,1765,Özgür,Teke
+actor,128869,Evangelo (I),Bousis
+actor,37359,Emile,Abossolo M'bo
+actor,87387,Srecko,Franovic
+actress,9215,Sandi,Higgins
+actor,62255,Steve,Nessel
+actor,12829,Mike (I),Weatherford
+actress,141177,Juliet,Alderice
+actor,33709,Ted,Detwiler
+actress,135823,Izabel,Pearce
+actor,145467,Peter,Cicale
+actor,120461,Brian,Seeman
+actress,13122,Daisy,Villa
+actor,49958,Ronald,Armbrust
+actor,19030,Bubba (I),
+actress,34873,Pam,Grier
+actor,88240,Laksh,Singh
+actor,93147,Robert (I),Rodriguez
+actor,44550,Deke,Sharon
+actor,106142,Sawyer (II),Pierce
+actress,18140,Jake-Ann,Jones
+actor,81037,Andreas,Borcherding
+actor,4207,Harold,Blizzard
+actress,126034,Maya N.,Blake
+actor,13307,John (III),Moore
+actress,124490,Elizabeth,Pistolis
+actress,20177,Kieri,Kennedy
+actor,71837,William,Luduena
+actor,110332,J.P.,De La San Pedro
+actor,48996,Jerry L.,Quinn
+actor,30162,Patrick (I),O'Neal
+actor,20675,Georgiy,Dronov
+actor,25836,Derek,Boyer
+actress,11340,Janine (II),Craig
+actor,109144,C. Lindsay,Workman
+actor,9628,Hugo,Codaro
+actor,22449,Joe,Basquez
+actor,89510,Dudley Field,Malone
+actress,40947,Stacey (II),Walker
+actor,139217,Bowd (II),Beal
+actor,75023,Dan (I),Walters
+actor,119854,Paul,Etheredge
+actor,91900,Yang (I),Wen
+actress,61718,Pamela (I),Green
+actor,36393,Kôhei,Miyauchi
+actor,63311,Tookie (II),
+actor,99379,Furuo,Geiri
+actress,64839,Julie Ariane,Russell
+actor,58913,Harry Jay,Knowles
+actress,63035,Nancy,Monsarat
+actor,140749,David,de Vos
+actress,124334,Bridget (I),Tobin
+actor,132653,Stan (I),Miller
+actor,62055,Jack,Tarlton
+actress,140061,Kelly,Spring
+actor,15403,Bert,Puckett
+actor,67713,Walter,McGrail
+actor,11803,Paul W,Wilson
+actor,104077,David (XIV),Hughes
+actress,63390,Martina (I),Kreidl
+actor,117293,Maciej (I),Kozlowski
+actor,51771,Adrian,Drake
+actor,105973,William Henderson,White
+actress,58348,Jill,Quigg
+actress,75010,Sterling,Jerins
+actress,46011,Christy,Greene

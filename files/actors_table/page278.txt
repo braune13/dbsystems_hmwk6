@@ -1,0 +1,71 @@
+actress,115511,Debbie,De Coudreaux
+actor,91997,Ron,Pucillo
+actor,86161,Guido,Mannari
+actor,45992,Richard,Mileham
+actor,118938,Mark (I),Wilson
+actress,101567,Sydney,Rawson
+actress,47412,Sarah (I),Francis
+actress,91594,Sally,Dryer
+actor,42880,Eli,Goree
+actor,67672,Christopher (IV),Stephens
+actress,72498,Bridget,Fonda
+actor,147597,Chad,Chenouga
+actress,1754,Helen E.,Floyd
+actress,83698,Amanda (V),George
+actress,73694,Tracy (I),Newman
+actor,100026,Ang Phula,Sherpa
+actor,104454,Jose Jesus,Garcia
+actress,23751,Almeria,Campbell
+actor,92498,Seth (II),Allen
+actor,91822,Scott,Steward
+actor,8865,Alex,Jaep
+actor,18160,Ed,Call
+actor,64364,Billy (I),House
+actor,25087,Leslie (I),Rogers
+actor,67256,Brendan,Maclean
+actress,47664,Melinda,Harambasic
+actor,17653,Eric (II),Floyd
+actress,39343,Genevieve,Weiss
+actress,121845,Gloria (I),O'Brien
+actor,122362,Garret (I),Davis
+actor,5496,Crahan,Denton
+actress,44898,Susan,Gordon-Clark
+actor,51060,Mark A.,Langston
+actress,120367,Heather,Edelman
+actor,41931,Robert Stuart,Reed
+actor,131617,Alan,Home
+actor,70740,Scott (IV),Sheldon
+actor,26020,Antoine (I),Williams
+actor,19222,Jekyns,Pelaez
+actor,145828,Thomas (I),Dolby
+actress,36735,Doreen (I),Sloane
+actor,76561,Marc,Vos
+actor,118856,Vincent,Martella
+actor,39937,Terry David,Mulligan
+actor,106398,John (IX),Gibson
+actor,123885,Daniel,Kaz
+actress,42365,Mary Jo,Todaro
+actor,39385,Joel,Brady
+actor,39081,Vincent,Bersoulle
+actor,62893,Rob (I),Daly
+actor,44543,David K.,Schroeder
+actor,85034,Charles Edward,Townsend
+actress,77601,Josanne,Hutchinson
+actor,67257,John,Vosper
+actress,141322,Katia,Tchenko
+actress,77473,Christi,Barlow
+actor,139420,Kenny (VI),Jackson
+actress,81348,Nicola,Crosbie
+actress,106864,Georgina,Bryce
+actor,59700,David G.,Knappe
+actor,126726,Popeck (I),
+actress,123863,Amy,Sakasitz
+actress,6782,Sheree,Winton
+actor,27727,Sigur Rós,
+actor,55973,Josh (I),Hartnett
+actor,63781,Tim,Nordquist
+actor,145035,Steven,Griffith
+actor,96762,Jean-Pierre,Amiel
+actor,67506,Behrooz,Afrakhan
+actor,50243,Seth (II),Stewart
+actress,138109,Amy Beth,Bennett

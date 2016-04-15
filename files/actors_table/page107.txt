@@ -1,0 +1,71 @@
+actor,111625,Joe,Petcka
+actress,70653,Rochelle,Douglas
+actor,31314,George F. (I),Watson
+actor,99109,Blake,Nickle
+actor,127666,Charlie,Welch
+actor,83036,Thomas E.,Camuti
+actor,43921,Udo,Kier
+actress,86711,Erin Cressida,Wilson
+actress,142134,Choice,Plasencia
+actor,111812,Liam (VI),Higgins
+actor,74291,Kyle,Switzer
+actor,22491,Keith J.,Haar
+actor,138126,Gianfilippo,Carcano
+actor,142228,Bruce (I),Byron
+actor,87762,Brandon (I),Ostler
+actress,85460,Elise,Main
+actor,8723,John (I),Hannah
+actor,88645,Dave (XXVII),Johnson
+actress,132629,Kathryn,McCormick
+actor,139166,George C.,Scott
+actor,44913,Richie (I),Rich
+actress,131830,Colleen (II),Moore
+actor,10332,Georges (I),Thibaut
+actor,58344,Domenico,Caruso
+actor,127711,Franklyn,Farnum
+actor,26130,Jonas Till (I),Hoffmann
+actor,8322,William L.,Chandler
+actor,134823,Peter,Mehtab
+actor,55202,Attila,Lovaghy
+actress,130147,Maria (I),Snow
+actor,149076,Matthew (I),Bennett
+actor,70474,Michael,Peña
+actor,61459,James,Cosmo
+actor,3620,David,Pridemore
+actor,132894,Masahiro (II),Ohta
+actor,106286,Paul (IV),Rogers
+actress,29757,Patricia (I),Parris
+actress,112573,Joanna (I),Adler
+actress,41789,Leah,Cairns
+actress,33599,Diana (I),Rossi
+actor,120606,James (I),Isaac
+actor,100011,Chow Kwok,Po
+actor,64564,Raliegh,Wilson
+actor,26846,Tom,Redfern
+actress,67330,Jennifer (I),Douglas
+actor,63415,Wilder,Salinas
+actor,808,Scott,Chait
+actor,71834,Peter (XXV),Robinson
+actress,109670,Karen Jean,Wu
+actress,90346,Tanya,Abrol
+actor,113173,James A. (III),Howard
+actor,31716,Bryan,Reents
+actor,106606,Ken (I),Haines
+actress,119077,Rona Chavez,Leon
+actor,48105,Colin (I),Goodwin
+actress,100909,Georgia,Van Newkirk
+actor,80499,Dagbeh,Tweh
+actress,137129,Alice,Sapritch
+actor,20520,Jull,Weber
+actress,34777,Dorothea,Senz
+actor,78848,Martin,McGlade
+actor,53190,Jacques,Frantz
+actor,83008,Yûki,Takahata
+actress,69988,Grace Meurisse,Francis
+actor,85016,Petr,Skarke
+actor,35815,Michael,Gladis
+actress,130378,Dereque,Whithurs
+actor,146701,Daniel (I),Russo
+actor,92584,Kevin (III),O'Malley
+actor,88340,Morgan Jaye,Williams
+actress,28868,Marie-Louise,Charlier

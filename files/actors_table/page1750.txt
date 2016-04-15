@@ -1,0 +1,71 @@
+actor,81338,Salman,Kurtulan
+actress,86331,Judy (II),Reyes
+actor,107392,Free,Sol
+actress,103538,Carol-Renee,Modrall
+actor,93594,Desiderio,Nobile
+actor,66996,Kenn,Ashe
+actress,134770,Jessie,Lanoue
+actor,44776,James Andrew,O'Connor
+actress,117152,Emilia,Jones
+actress,101158,María,Calazza
+actor,40614,Van (I),Johnson
+actress,952,Gusti,Bogok
+actress,122297,Flora (I),Huang
+actor,132179,Gilbert,Navarro
+actor,54263,Craig,Henne
+actor,114424,Ruben,Studdard
+actor,21871,Anthony T.,Paige
+actor,68614,Leon,Rolfe
+actor,129276,Brender,Jackson
+actor,55214,John Charles,Morris
+actor,82068,Shûji,Ôtsuki
+actor,50485,George (XI),Robertson
+actress,18019,Sheena,Alonzo
+actor,111137,Mike (II),Handy
+actor,77487,George,Vranau
+actress,123233,Jaclyn,Hanson
+actor,98701,Michael,Petrillo
+actress,28349,Yôko (I),Maki
+actress,43987,Kris (I),Deskins
+actor,76781,Nathan (I),Clarkson
+actor,79343,Tashi,Sangpo Murik
+actor,116872,Joseph (XXI),Perez
+actor,148786,Pete (I),Duggan
+actress,126656,Harriet,Rosenthal
+actress,93814,Inka,Malovic
+actor,117254,Alex,Kozushin
+actor,17686,Stephen C.,Kerr
+actor,117203,A. Michael,Lerner
+actress,63057,Carolyn Renee,Smith
+actress,4416,Faith,Elizabeth
+actor,131470,Nate (I),Lang
+actor,89082,Kaja,Hermanek
+actor,136009,Teddy (VII),
+actress,99303,Sophie,von Haselberg
+actor,106301,JR,Reed
+actress,73086,Daphne,Darling
+actor,147554,Kennith,Overbey
+actor,41298,Stany,Coppet
+actor,41236,Patrick (I),Whitney
+actor,47321,Stu,Nahan
+actress,76909,Amanda (I),Graves
+actor,118680,Jon Michael,Davis
+actor,139361,Knut,Joner
+actor,131370,Till,Lindemann
+actress,76397,Molly,Hickok
+actress,127064,Sara (I),Moon
+actor,137259,Wayne,Taranto
+actress,57426,Lisa,Sohm
+actor,71032,Eliel Levi,Estanga
+actress,26582,Kari,Wahlgren
+actress,136015,Faith,Wladyka
+actress,113797,Jillian (I),Marie
+actress,62990,Sarah (I),Kane
+actress,20461,Tamika,Katon-Donegal
+actor,26705,Henry,Marder
+actor,139035,Pierre,Alloggia
+actor,40457,Cooper,Murray
+actor,28005,David (II),Corcoran
+actor,137472,Michael,Neeley
+actor,112896,Krishna Singh,Bisht
+actor,81107,Wantland,Sandel

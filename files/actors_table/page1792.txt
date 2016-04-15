@@ -1,0 +1,71 @@
+actress,122020,Sole,Alberti
+actor,120886,Gregory,Adair
+actor,131981,Clayton,Evertson
+actress,125608,Eva,Ford
+actor,88147,Joachim,Höppner
+actress,6627,Linda,Wise
+actor,68008,Maurice,Herschtal
+actor,112240,Kyle (I),Jacobson
+actress,28175,Helen,Hayward
+actor,83258,Ken (XXXVI),Smith
+actor,115563,Gary (II),McNulty
+actress,72477,Carolyn R.,Feltner
+actress,89159,Bleuette,Bernon
+actress,93358,Lauren Starkey,Ward
+actress,116833,Gail,Farrell
+actor,64784,Peter (II),Mayhew
+actor,38115,Efren (I),Ramirez
+actor,108438,Kayhan,Yildizoglu
+actress,89259,Nino (I),Kirtadze
+actor,36662,Ja,Rule
+actress,130787,Nicole,Blaszczyk
+actress,139992,Sandra,Vidal
+actor,51391,William Paul,Clark
+actor,143474,Pasquale,Pugliese
+actor,32027,Zack,Phifer
+actress,112986,Megan (I),Baker
+actor,6429,William,Swinton
+actor,102420,Sam,Veraldi
+actor,21395,Big Daddy,Wayne
+actress,54242,Kim,Mendez
+actress,67140,Earlene M.,Vaughn
+actress,8856,LaToya,McGee-Willis
+actor,58274,David (II),Sontag
+actress,97663,Sue,Follansbee
+actor,80256,Barry (I),Jaggers
+actress,148401,Brooke,Hamlin
+actor,147393,Brian,Swibel
+actor,108117,Jim,Coope
+actress,137491,Rosemary,Sangster
+actress,44499,Allyson (I),Bradford
+actor,64350,Scott,Weinger
+actor,11277,Stephen,Kolokouris
+actor,47846,Dean,Clifford
+actress,105094,Stefanie,Mason
+actress,65138,Adriene,Couvillion
+actor,94923,Michael,Biggam
+actress,52392,Hope (I),Davis
+actor,108820,Tanz,Watson
+actress,123154,Casey,Simmons
+actor,142082,Davis,Ballard
+actor,42943,Ben (I),Hines
+actor,11583,Roger,Watton
+actress,55442,Harriet,Minto-Day
+actress,117665,Pepita,Emmerichs
+actor,98705,Awino,Gam
+actor,20711,Rolan,Bykov
+actor,107584,Stanislav,Ondricek
+actor,1939,Arrazolo,
+actor,106913,Zhong Han,Hao
+actor,7170,Shan,Elliot
+actor,73246,Allen (I),Evangelista
+actor,115050,Alex (I),Sharp
+actress,96321,Rachel,Izen
+actress,97524,Roxanne,Benseman
+actor,100801,John,McTavish
+actress,137175,Megan (I),Udall
+actress,107960,Natalia (I),Sokolova
+actor,6687,Thomas (II),Wayne
+actor,39881,Vi-Hung,Luv
+actor,114462,Dominic 'Taz',Alexander
+actor,31371,Tony (I),Wheeler

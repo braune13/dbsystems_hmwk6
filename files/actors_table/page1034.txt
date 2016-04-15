@@ -1,0 +1,71 @@
+actor,18878,David (I),Anderson
+actress,58768,Anna (II),Bryant
+actor,69876,Nick,Brandon
+actress,147638,Alexa,Jago
+actor,134728,Dan (XI),Clarke
+actor,63830,Jesper,Lohmann
+actor,43349,Jonathan (I),Gordon
+actor,37182,R. Michael,Givens
+actress,104982,Bree,Waldie
+actress,39992,Allison,Caine
+actress,142098,Georgina (I),Rawlings
+actor,58159,Christopher,Swank
+actress,148767,Tina (I),Chen
+actor,50446,Cervantes,Reck
+actor,135112,Tony (IX),Davis
+actor,32451,Merlyn,Sexton
+actor,127095,Rhett,Creighton
+actor,32558,Philip,Dunbar
+actress,128531,Meg,Swecker
+actor,116973,Nurcan,Esmertürk
+actress,77464,Suzanne,Ellers
+actor,20036,Oscar,Torre
+actor,120873,Steve (V),Hicks
+actress,61702,Kim,Taschereau
+actor,6933,Terence Bernie,Hines
+actress,128940,Hayley,Bowen
+actor,91741,Tim (VIII),Harvey
+actor,57284,Jeffrey,Lurie
+actor,27149,Birol Tarkan,Yildiz
+actress,13986,Mariya,Poroshina
+actor,70911,Charles,Luu
+actor,23014,David (I),Seaman
+actress,136324,Josie,Trinidad
+actor,127498,Matthew (III),Flynn
+actor,113926,Dharrol,Alves
+actor,50849,Jon Ted,Wynne
+actor,69746,Rizi,Timane
+actor,39701,Dick,Bradsell
+actor,137316,Richard (I),Todd
+actor,36441,Hellal,
+actor,75117,Gabriel 'Bam Bam',Merendon
+actor,105964,Aoi,Minato
+actor,32354,Chris (III),Conroy
+actress,3399,Kay,McLaren
+actor,105829,Nando,Orfei
+actor,86425,Khalipa,Oldjohn
+actor,139036,Tyler (I),Watts
+actress,93244,Madeleine,Stowe
+actor,23557,Simon,Lockwood
+actor,142463,Jaime P.,Ford
+actor,60627,Mark (II),O'Neal
+actress,85388,Tamara,Zhukova
+actor,38739,Marc,Busey
+actor,51375,Kevin (I),Thompson
+actor,119215,Brann,Dailor
+actor,71771,Shin'ichirô,Miki
+actor,91937,Graham (IX),Johnston
+actress,122451,Janus,Blythe
+actor,97701,Jonathan,Trevor
+actor,80880,Michael 'D.O.C.',Porter
+actor,6681,Kimani Ray,Smith
+actor,139580,Noel,Trevarthen
+actor,45359,Edward (II),Black
+actor,21084,Ripper,Brown
+actor,127810,Martín,Chertudi
+actress,126881,Jazzy,Ellis
+actor,17511,Braca,Teofilovici
+actress,109805,Elzbieta,Jasinska
+actor,109971,Rex,Reed
+actress,15133,Tristin,Mays
+actor,129309,Ellis,Crewe-Candy

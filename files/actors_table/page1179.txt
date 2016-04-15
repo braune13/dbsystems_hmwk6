@@ -1,0 +1,71 @@
+actress,14250,Laurie,Curtis
+actor,102478,Travis (II),Oliver
+actor,9106,Andrew (XII),Jacobs
+actor,147877,Dave (I),Allen
+actor,120469,Jerry,Barrish
+actor,64048,Niki,Lauda
+actor,760,Hawthorne,James
+actress,19075,Della,McCrae
+actor,91831,Sully,Cortez
+actress,125957,Eve,Sigall
+actor,94822,Parker,Stalford
+actor,23957,Del,Goss
+actor,45315,Ryan (I),Prescott
+actor,91341,David,Doersch
+actor,66795,Caleb Daniel,Noal
+actor,72610,Clark,Birchmeier
+actor,76760,Peter,Maturino
+actress,87293,Carmen,Hanlon
+actor,109649,Dusan,Hyska
+actress,114282,Nellie V.,Nichols
+actor,28091,Dave (II),Chapman
+actor,7707,Rudy Valentino,Grant
+actor,18164,Andrew,Stelmack
+actress,34859,Ruby (II),Evans
+actor,92096,Monte,Bezell
+actress,82221,Melanie,Stephens
+actress,114365,Aleksandra,Andjelkovic
+actor,120795,Jean-Claude,Lecas
+actor,114142,John (II),Beckman
+actor,35092,Russell,Hines
+actor,7846,Hugh,Starkey
+actor,139403,James,Ryland
+actor,133054,Jerry (I),Goldman
+actress,57636,Annabel (I),Porter
+actor,123671,John,Palladino
+actor,60613,Fredrik,Ramel
+actor,10511,Carlo,Mestroni
+actor,92312,Su-hyeon (II),Kim
+actress,131278,Sheri (I),Hagen
+actress,18143,Nia,Peeples
+actor,82432,Henri,Falconi
+actor,80323,Scott (I),Thomson
+actor,80273,Steve,Alvarez-Forbess
+actress,28302,Stef (I),Dawson
+actor,23128,Michael (I),McAdam
+actress,51522,Nicole (I),Segal
+actress,56791,Suzanna,Stover
+actress,142413,Kellie,Bright
+actor,144937,Eric,Attio
+actor,113829,Justin,Goncalves
+actor,93311,Dan,Blitzarian
+actor,77709,Alfred,Sauchelli Jr.
+actor,30325,George,Hackathorne
+actor,48054,David (I),Newsom
+actor,52577,Aaron Parker,Mouser
+actor,20067,Adi,Zulkadry
+actor,140741,Xavier,Samuel
+actor,7837,Brian (I),Hawley
+actor,30963,K.K.,Raina
+actress,35594,Gina,Mari
+actor,91422,Tigre,Pérez
+actor,57375,Senol,Ugurlu
+actor,22150,John (I),Doty
+actress,19745,Pratima (II),Kulkarni
+actor,57549,Alexander,Narizni
+actress,91457,Jovonie,Leonard
+actor,120006,Jay,Chandrasekhar
+actor,131888,William (II),Beck
+actor,119231,Joshua,Burge
+actor,117884,Helmut,Dantine
+actor,113630,Kenny,Grimm

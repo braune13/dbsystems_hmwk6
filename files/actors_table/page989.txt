@@ -1,0 +1,71 @@
+actor,18549,Jay,Jacobus
+actor,135027,Mark (I),Nelson
+actor,107973,Flynn,Matthews
+actor,21490,Leeroy,Waltan
+actor,137665,Grant (IX),Taylor
+actor,89809,Motomu,Azaki
+actress,12165,Nicolina,Greenaway
+actor,42107,Jeff,Applegate
+actor,18675,Roger,Parrott
+actor,128812,Pierre-Quentin,Faesch
+actor,128773,Lukas,DiSparrow
+actor,95851,Sean,Colgan
+actor,102018,Robb (II),McCleary
+actor,97009,Paul (XIX),Thompson
+actor,65564,Thomas Michael,Ventimiglio
+actor,110966,Marco,Ciarlitto
+actor,3958,Allen,Maldonado
+actor,97709,Ethan F.,Hamburg
+actress,10987,Ashley,Moran
+actor,68483,Bernard,Kates
+actress,69410,Kathleen,Keane
+actress,100987,Danielle (I),Rodas
+actress,4874,Stephanie Maura,Sanchez
+actor,14805,Sam (IX),Cohen
+actress,64324,Myriam,Roustan
+actress,49298,Vibeke,Dalset
+actor,4077,Ryter Shay,Cannon
+actor,88063,David (I),Paul
+actor,110690,Andrew (I),Daly
+actress,25741,Kweli,Leapart
+actor,53942,Ken,Rosier
+actor,4065,David (X),Mott
+actor,36333,Emile,Rivard
+actress,99528,Andrea (I),Gabriel
+actor,114382,Israel,Sáez de Miguel
+actor,96110,Paul,Fitchford
+actress,105145,Debra,Niewald
+actor,25051,Chadwick (I),Brown
+actress,56843,Paulina,Boneva
+actress,89001,Jamie (I),Mayo
+actress,132397,Aslihan (I),Gulen
+actor,15880,G. Douglas,Griset
+actor,37988,Steve (I),Coats
+actor,134179,Ronald,Krut
+actor,12373,Songsak,Sampanpim
+actor,119071,Phillippe,Moon
+actor,7267,Sam (I),Steele
+actor,120752,Guy,Kibbee
+actor,125095,David H. 'Dutch',Van Dalsem
+actor,1287,Todd,Woodcroft
+actor,77512,Janick,Arseneau
+actor,118796,Stefano,Scherini
+actor,13029,Ben,Niems
+actress,143017,Jovina Riveros,Padilla
+actor,107103,Oliver,Szerkus
+actress,48565,Lea,Jerova
+actress,77381,Barbara Alyn,Woods
+actress,116302,Shayne,Kohout
+actor,89265,Liam (I),Thomas
+actor,2472,Donald L.,Banks
+actress,4802,Erika,Leslie
+actress,35944,Donna Haynes,Crehan
+actor,39378,Peter (I),Strong
+actress,134080,Laura,Baquela
+actor,119576,Ian,Fleetwood
+actor,35960,Harold,Diamond
+actor,91425,Francis,Chouler
+actor,143413,Terence,Cooper
+actor,75494,James,Belyeu
+actress,75600,Shannon,Mahussier
+actor,126556,Chris (I),Torres

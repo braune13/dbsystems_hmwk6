@@ -1,0 +1,66 @@
+13209,,,3022358,"[Captain Benson, the Pilot]"
+13856,,,3022358,[The Twins]
+14130,,,3022358,[Andy]
+18778,,,3022358,[Greg]
+21702,,,3022358,[Ralph]
+38679,,,3022358,[John]
+42923,(as Badgett Dale),,3022358,[Simon]
+45525,,,3022358,[Jack Merridew]
+47353,,,3022358,[Sheraton]
+50636,,,3022358,[Pablo]
+58659,,,3022358,[Rusty]
+73589,,,3022358,[Mikey]
+77521,,,3022358,[Marine Petty Officer]
+80846,,,3022358,[The Twins]
+88166,,,3022358,[Rapper]
+94266,,,3022358,[Larry]
+96866,,,3022358,[Luke]
+98933,,,3022358,[Piggy]
+101671,,,3022358,[Will]
+106577,,,3022358,[Steve]
+118933,,,3022358,[Tex]
+127563,(uncredited),,3022358,[Drowning Boy]
+127655,,,3022358,[Roger]
+128715,,,3022358,[Marine Officer]
+136841,,,3022358,[Tony]
+138457,,,3022358,[Peter]
+140412,,,3022358,[Billy]
+2965,,,3022669,
+6732,,,3022669,[Judit García]
+12540,,,3022669,
+17902,,,3022669,[Madame Mylene]
+18387,,,3022669,[Julieta]
+23172,,,3022669,
+25472,,,3022669,[Chon]
+29099,(uncredited),,3022669,[Recepcionista Cinearte]
+33297,(uncredited),,3022669,[Camarero]
+36402,,,3022669,[Portera]
+39555,(as Javier Coll),,3022669,[Luis]
+40255,(uncredited),,3022669,[Ayudante de dirección]
+41659,(as Carlos Sanpedro),,3022669,
+45661,,,3022669,
+52036,(as Viviana Espinosa),,3022669,
+60975,,,3022669,[Ayudante de producción]
+61400,(uncredited),,3022669,[Vecino enrollado bar]
+66281,,,3022669,[Lena]
+66890,,,3022669,[Modelo]
+69374,,,3022669,[Mateo Blanco / Harry Caine]
+70359,,,3022669,
+76826,,,3022669,
+79468,,,3022669,
+79692,,,3022669,[Ernesto Martel]
+79833,,,3022669,[Ray X]
+82818,,,3022669,[Lectora de labios]
+84895,,,3022669,[Álex]
+85781,,,3022669,
+87407,,,3022669,
+97748,,,3022669,[Maribel]
+98432,,,3022669,[Diego]
+104751,,,3022669,[Madre de Lena]
+112708,,,3022669,
+114542,,,3022669,
+115461,,,3022669,
+124764,,,3022669,[Dr. Blasco]
+124842,,,3022669,[Montador de Avid]
+127964,(uncredited),,3022669,[Ice-cream dealer]
+130910,,,3022669,[Edurne]

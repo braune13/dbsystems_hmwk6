@@ -1,0 +1,66 @@
+78142,(voice),,2599007,[Sullivan Truck]
+79872,(voice),,2599007,
+80194,(voice),,2599007,[Motorhome Race Fan #1]
+81066,(voice),,2599007,[Sven 'The Governator']
+81225,(voice),,2599007,[Rusty Rust-eze]
+84128,(voice),,2599007,
+84871,(voice: UK version),,2599007,[Harv]
+85500,(voice),,2599007,
+87419,(voice),,2599007,
+89610,(voice),,2599007,
+90882,(voice),,2599007,[Mario Andretti]
+91189,(voice),,2599007,
+91909,(voice),,2599007,
+96453,(voice),,2599007,[Van]
+97689,(voice),,2599007,[Mack/Hamm Truck/Abominable Snow Plow/P.T. Flea Car]
+98913,(voice),,2599007,[DJ]
+99145,(voice),,2599007,[Red/Jerry Recycled Batteries/Peterbilt]
+102254,(voice),,2599007,
+103474,(voice),,2599007,[Michael Schumacher Ferrari]
+103999,(voice),,2599007,
+107054,(voice),,2599007,
+108234,(voice),,2599007,
+108440,(voice),,2599007,[Junior]
+109582,(voice),,2599007,[Mater]
+111131,(voice),,2599007,[Lizzie]
+112791,(voice),,2599007,[Mike Car]
+114358,(voice),(as Douglas 'Mater' Keener),2599007,[Motorhome Race Fan #2]
+120038,(voice),,2599007,[Ramone]
+120090,(voice),,2599007,
+120184,(voice),,2599007,
+123919,(voice),,2599007,[Tia]
+124307,(voice),,2599007,[Mia]
+127122,(voice),,2599007,[Flik Car]
+128822,(voice),,2599007,[Chuki]
+130279,(voice),,2599007,[Bob Cutlass]
+131660,(voice),,2599007,
+137686,(voice),,2599007,[Kathy Copter]
+138798,(voice),,2599007,[The King]
+139629,(voice),,2599007,[Woody Car]
+140801,(voice),,2599007,
+141869,(voice),,2599007,[Tex]
+143538,(voice),,2599007,
+143812,(voice),,2599007,
+146638,(voice),,2599007,
+146794,(voice),,2599007,
+21,,,2599982,[Lip Reader]
+987,(as Robert Sidell),,2599982,[Control Board Member]
+2096,(uncredited),,2599982,
+3139,,,2599982,[Chastised Gambler]
+4127,,,2599982,[Americo Capelli]
+7807,,,2599982,[Jayne Meadows (achive footage)]
+8497,,,2599982,[Counter]
+9527,,,2599982,[Cop in Restaurant]
+9745,,,2599982,[Senator]
+9765,,,2599982,[Maitre d' at Disco]
+10698,,,2599982,[TV Newsman]
+12829,,,2599982,[Reporter at Airport]
+13247,,,2599982,[Jonathan]
+13978,,,2599982,[Wiseguy Jerry]
+14450,,,2599982,[Flirting Executive]
+15260,,,2599982,[Piscano's Brother-in-Law]
+16586,,,2599982,[Jack Hardy]
+17565,,,2599982,[Moosh]
+18857,,,2599982,[Frank Marino]
+19331,,,2599982,[Lucky Larry]
+19873,,,2599982,[Ichikawa's Associate]

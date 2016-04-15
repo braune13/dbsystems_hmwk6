@@ -1,0 +1,71 @@
+actress,137946,Janette,Andrade
+actress,92806,Joyce,Kurtz
+actor,17787,Ian,Novick
+actress,89363,Cozette,McNeely
+actor,83127,Michael S.,Weir
+actor,143127,Robbie,Parkin
+actor,96345,Jay,Aaseng
+actor,127453,Christopher,Bello
+actor,75273,Thomas (I),Quinn
+actress,85341,Jayne,Levy
+actor,93443,Steve (I),Connolly
+actor,32018,John (III),Moon
+actor,38253,Mugihito,
+actress,41133,Hyowon K.,Yoo
+actress,13229,Carol,Russell-Woloshin
+actor,47315,Shammi,Kapoor
+actor,87423,Stephen,Nalewicki
+actress,145143,Anna (I),Björk
+actor,87585,Alex (VIII),Gregory
+actor,136235,Tian (I),Wang
+actor,51542,Roger D.,Smith
+actor,83028,Brigham,Wilcox
+actress,1869,Monica,Steuer
+actor,124352,Christopher,Shyer
+actress,84573,Minda,Burr
+actor,147700,Ethan,Shankaruk
+actor,34883,Howard,Leader
+actor,4501,Denis (I),Gilmore
+actor,143841,Mose,Allison
+actor,16828,Mario,Mata
+actor,35209,Bruce (I),Macintosh
+actor,132010,Andy (II),Cheung
+actor,123586,Andrew (I),Paris
+actress,10535,Courtney,Henggeler
+actor,139343,Tony (I),Cowan
+actor,13792,Ron,Chartier
+actress,1517,Sol E.,Romero
+actress,95901,Amye,Wilmes
+actress,28202,Minami,
+actor,121522,John,Heawood
+actress,4692,Nina,Boyer
+actor,94127,Nathan O'Neil (I),Smith
+actor,71777,Dudley,Jones
+actor,34801,Paul (V),Terry
+actor,121876,Mikkel,Jacobsen
+actor,67554,Jeff,Hephner
+actress,90246,Jennifer (II),Woods
+actor,80223,Gio (I),Perez
+actress,63335,Cynthia,Riser
+actor,111980,Pok Fu,Chow
+actor,147398,Terence,Keeley
+actor,97856,Cody,Lightning
+actress,39258,Monique,Chantal
+actor,81222,Jeff,Bullock
+actor,108022,Ottaviano,Dell'Acqua
+actor,61955,Lenny (XI),
+actor,146424,Tai,Thai
+actor,59149,Duane R.,Shepard Sr.
+actor,49568,Keene,McRae
+actress,133862,Stefania,Rocca
+actor,49144,Michael (CVII),Johnson
+actor,51683,Glade,Quinn
+actor,147405,Ian,Pickus
+actress,103920,Karen,Kaster
+actress,143507,Julia (III),Lee
+actress,18198,Princess,Beatrice
+actor,129038,Sean (XXXV),Murphy
+actor,124426,Bill (I),Love
+actor,90789,Takumi,Kamiyama
+actor,103899,Dario,Franchitti
+actor,46989,Asher (I),Muldoon

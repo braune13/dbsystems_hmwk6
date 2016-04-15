@@ -1,0 +1,66 @@
+121309,,,2442820,[Soldier]
+123462,,,2442820,[Chez Bippy Customer]
+123572,,,2442820,[Jockey]
+129065,,,2442820,[Louie Dumps]
+129070,,,2442820,[Fish Store Owner]
+129908,,,2442820,[Detective Vella]
+131695,,,2442820,[Driver (Hey Marie!)]
+136002,,,2442820,[Doo Wop Group (Street)]
+140178,,,2442820,[Coffeemaker]
+143651,,,2442820,[Chez Bippy Customer]
+145437,,,2442820,[Jimmy Whispers]
+147117,(uncredited),,2442820,[Teen in Crowd]
+148219,,,2442820,[Frankie Coffeecake]
+4441,(voice),,2442888,[Thorny]
+5562,(voice),,2442888,[Dr. Flora]
+6503,(voice),,2442888,[Rosie]
+8644,(voice),,2442888,
+9849,(voice),,2442888,[Slim]
+12318,(voice),,2442888,
+12730,(voice),,2442888,[Queen]
+12901,(voice),,2442888,[Lead Blueberry Scout]
+13937,(voice),,2442888,
+14851,(voice),,2442888,
+19133,(voice),,2442888,
+21006,(voice),,2442888,[Bug Zapper Bug #1]
+22780,(voice),,2442888,[Tuck/Roll]
+27552,(voice),,2442888,
+28406,(voice),,2442888,
+29316,(voice),,2442888,
+30161,(voice),,2442888,[Atta]
+38194,(voice),,2442888,
+41469,(voice),,2442888,
+42435,(voice),,2442888,
+43151,(voice),(as Mickie T. McGowan),2442888,[Cockroach Waitress]
+43218,(voice),,2442888,
+46103,(voice),,2442888,
+49739,(voice),,2442888,
+51548,(voice),,2442888,[Thumper]
+51930,(voice),,2442888,
+57504,(voice),,2442888,
+66878,(voice),,2442888,[Bug Zapper Bug #2]
+67248,(voice),,2442888,[Harry Mosquito]
+73115,(voice),,2442888,[Manny]
+75654,(voice),,2442888,
+77772,(voice),,2442888,[Gypsy Moth]
+81004,(voice),(as Kate Hodges),2442888,
+81066,(voice),,2442888,
+81607,(voice),,2442888,
+96453,(voice),,2442888,[Molt]
+97689,(voice),,2442888,[P.T. Flea]
+99145,(voice),,2442888,[Heimlich]
+100616,(voice),,2442888,[Mr. Soil]
+101617,(voice),,2442888,[Dot]
+105403,(voice),,2442888,
+107054,(voice),,2442888,
+109062,(voice),,2442888,
+111790,(voice),,2442888,[Dim]
+113665,(voice),,2442888,[Baby Maggots]
+117505,(voice),(as Franchesca Smith),2442888,
+118171,(voice),,2442888,
+120090,(voice),,2442888,[Thud]
+120184,(voice),,2442888,
+124349,(voice),,2442888,
+127122,(voice),,2442888,[Flik]
+127772,(voice),,2442888,
+128152,(voice),,2442888,[Cornelius]

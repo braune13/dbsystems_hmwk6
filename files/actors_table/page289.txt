@@ -1,0 +1,71 @@
+actor,128981,Rusty,Mewha
+actress,18666,Minna,Phillips
+actor,65425,Robert,Dalban
+actress,101570,Catiria,Reyes
+actress,58189,Paula (I),Christensen
+actor,97614,Nicolas,Herault
+actor,12463,Steffan,Rhodri
+actress,34130,Madeleine Taylor,Holmes
+actor,95836,Joe,Guarneri
+actor,130890,Helder,Seabra
+actress,119559,Fabienne,Chaudat
+actor,141907,Jason,Pickar
+actor,91986,Juan,Simmons
+actress,74555,Carol,Ratcliffe
+actress,55770,Seema (I),Azmi
+actor,82641,Abebe,Bikila
+actress,27700,Alexis,Boyd
+actor,73627,Ira,Berkowitz
+actor,107882,Bruce,Quist
+actor,77643,Nicolás,Fernández Luna
+actor,68679,James (I),Cromwell
+actor,10302,Maurice,Tyson
+actor,26579,Eric (IV),Bergman
+actress,60393,Jacqueline,Brogan
+actress,113987,Lisa,McRee
+actor,132148,Albert,Paulsen
+actress,1153,Leslie,McGuier
+actor,122334,Mark (II),Sullo
+actor,49373,Will (II),Wood
+actress,19276,Christie (II),Herring
+actor,138879,Bertell,Lawrence
+actor,91491,George,Fowler Jr.
+actress,12733,Simone,Lahbib
+actress,126001,Danice,Cabanela
+actor,116546,Karim,Leklou
+actor,101934,Erik,Grostic
+actress,66643,Gargi,Patel
+actress,33363,Lillibet,Langley
+actor,50781,Marcus (VI),Lewis
+actress,27158,Varley,Thomas
+actress,56101,Rebecca (I),Walker
+actress,120952,Leasen Beth,Almquist
+actor,24996,Chris,McDevitt
+actress,127044,Misha,Whalen
+actor,81626,Ralph,Coder
+actress,107418,Fabienne,Khaldi
+actress,6471,Shayna Nicole,E'Orio
+actress,61592,McKynleigh,Williams
+actor,121668,Konrad,Whitten
+actor,141057,Jim,Meisner Jr.
+actress,135523,Phoenix,Bird
+actor,85880,Johan,Widerberg
+actress,107760,Amanda R.,Phillips
+actor,87844,George,Akram
+actress,10256,Diann,Burns
+actor,23749,Harry,Antrim
+actor,4045,Ronald,Sylvers
+actor,49637,Barry (I),Watson
+actor,25011,Julian,Clayton
+actress,107423,Caitlin,Wachs
+actor,106081,Chris (VI),Harrison
+actor,93912,Mike,Pinfield
+actor,136363,Philippe (I),Bertrand
+actress,56625,Kristina,Hardee
+actor,109031,Sean,Bean
+actor,131314,Anders,Yates
+actress,148570,Vidya,Patwardhan
+actor,81679,Ian,Ziering
+actor,79590,Vincent,Riqueur
+actor,111478,Mike,Dopud
+actress,121776,Kim (X),Taylor

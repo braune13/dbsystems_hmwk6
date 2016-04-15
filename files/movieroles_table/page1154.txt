@@ -1,0 +1,66 @@
+93162,,,2794024,[Royce]
+93660,,,2794024,[Miller]
+94317,(uncredited),,2794024,[SEAL Instructor]
+94621,(uncredited),,2794024,[Bar Tender]
+94770,,,2794024,[Chief of Staff]
+95122,,,2794024,[Trainee]
+97230,(uncredited),,2794024,[Jane's Neighbor]
+99388,,,2794024,[Wickwire]
+101467,,,2794024,[Slovnik]
+104981,,,2794024,[J.A.G.]
+106593,,,2794024,[Commission Speaker]
+107541,(uncredited),,2794024,[DeHaven's Aide]
+110448,,,2794024,[McCool]
+110716,,,2794024,[Stamm]
+119199,,,2794024,[Instructor Johns]
+120690,,,2794024,[Trainee]
+120711,(uncredited),,2794024,[Commando]
+124017,(uncredited),,2794024,"[Specialty, pilot]"
+124737,,,2794024,[Barber]
+127751,(uncredited),,2794024,[C-SPAN Reporter]
+134155,(as Daniel Von Bargen),,2794024,[Theodore Hayes]
+135121,(uncredited),,2794024,[Senator]
+148514,,,2794024,[Hostile Rat]
+148901,,,2794024,[Lillian DeHaven]
+4082,(voice: English version),(as Noah Cyrus),2794824,[Ponyo]
+5092,(voice),,2794824,[The Newscaster]
+7608,(voice),,2794824,[Granmamare]
+13698,(voice: English Version),,2794824,[The Newscaster]
+14851,(voice: English version),,2794824,
+17741,(voice),,2794824,[Kayo]
+21587,(voice: English version),,2794824,[Additional Voices]
+23456,(voice: English version),,2794824,[Kayo]
+31494,(voice),,2794824,[Noriko]
+33749,(voice),,2794824,[Ponyo no imôto-tachi]
+36801,(voice: English version),,2794824,
+38742,(voice: English version),,2794824,[Fujimoto]
+41469,(voice: English version),,2794824,
+43151,(voice: English version),,2794824,
+44533,(voice: English version),,2794824,[Sôsuke]
+49739,(voice: English version),,2794824,
+51232,(voice),,2794824,
+52324,(voice: English version),,2794824,
+56974,(voice: English version),,2794824,
+58641,(voice),,2794824,
+60500,(voice),,2794824,
+64220,(voice),,2794824,[Risa]
+68056,(voice: English version),,2794824,[Noriko]
+68806,(voice),,2794824,[Ponyo]
+73213,(voice),,2794824,
+81066,(voice: English version),,2794824,
+82822,(voice),,2794824,[Yoshie]
+83398,(voice: English version),,2794824,
+89610,(voice: English version),,2794824,
+92999,(voice),,2794824,[Toki]
+95484,(voice),,2794824,[Kôichi]
+95647,(voice),,2794824,
+97407,(voice: English version),,2794824,[Granmamare]
+99394,(voice: English Version),,2794824,[Kumiko]
+100334,(voice: English version),,2794824,
+105539,(voice),,2794824,
+107054,(voice: English version),,2794824,
+107271,(voice: English version),,2794824,[Toki]
+111681,(voice: English version),,2794824,
+113095,(voice),,2794824,
+118506,(voice),,2794824,
+127788,(voice: English version),,2794824,[Kôichi]

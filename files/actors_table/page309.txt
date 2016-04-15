@@ -1,0 +1,71 @@
+actor,137504,Tandy,Arnold
+actress,121159,Valentina,Cardinalli
+actress,1822,Cerina,Vincent
+actor,7605,Jason Richard Allan,Foster
+actress,83942,Hattie,Morahan
+actor,144369,John,Thaw
+actor,85419,Nicola,Facondo
+actor,117401,Gualberto Del,Toro
+actor,143464,Katsumi (I),Suzuki
+actor,90956,Roger,Van Hool
+actress,3809,Denise,Vasi
+actor,118114,Fan Wei,Yee
+actor,40957,Yandi,
+actor,7094,Joe,Armeno
+actress,94469,Andrea (II),Wenzel
+actress,99775,Bianca,Bellange
+actor,63770,Gilberto Herrera,Chipiaje
+actor,95542,Jeremy,Goei
+actress,47365,China,Chow
+actor,94644,Mike (I),Anthony
+actor,22763,Jackson,Bubala
+actress,96842,Renee,Behan
+actor,116941,Bobby,McGriff
+actress,116498,Katia,Delagarde
+actor,104112,Stephen,Tako
+actor,98559,George,Guidall
+actress,118180,Marta,Renzi
+actor,102584,Kevin (I),Allen
+actor,111868,Brian,Bormet
+actor,71135,Thomas (III),Bradshaw
+actor,6853,Basil,Hoffman
+actress,46927,Lisa,Rotondi
+actor,23326,Alan,Charlesworth
+actor,125154,A.J.,Foyt IV
+actress,125041,Deborah (II),Moore
+actress,92266,Elizabeth,Flournoy
+actor,3048,Joshua,Brail
+actor,141155,Mike,Vallely
+actor,133835,Angus G.,Wynne III
+actress,60258,Yevgeniya,Polyakova
+actor,47372,Jeffrey (I),Walker
+actor,24812,Gary (I),Washington
+actress,65674,Chiara,Caselli
+actor,77541,George,Gerdes
+actor,46336,Giorgio,Pasotti
+actress,99215,Carina,Aviles
+actor,74123,Dave (V),Evans
+actor,78454,Yuval,Hod
+actor,84276,Setchin,Kawaya
+actor,38408,Anthony (II),Natale
+actor,131620,Jesse,Farrelly
+actor,126607,Marcello,Catalano
+actress,85028,Jacqueline,Poelvoorde-Pappaert
+actor,146643,Marvin,Foster
+actress,74819,Staci,Lawrence
+actor,44807,Giorgio,Lupano
+actor,132577,Matthew (I),Hooper
+actor,129786,Reno,Laquintano
+actor,35847,Wing-Fong,Ho
+actress,71728,Juliehera,Destefano
+actor,24031,Tim S.,Lang
+actor,97045,Austin B.,Church
+actress,106030,Lisa (II),Whittaker
+actor,95307,Christopher,Pelant
+actor,27909,Simón,Andreu
+actor,48826,Edward (III),Ashley
+actor,3825,Bobby,Boriello
+actress,132024,Candy (I),Carson
+actor,78704,Edward (VIII),McDonald
+actor,133119,Brent,Barry
+actor,70013,John,Hauk

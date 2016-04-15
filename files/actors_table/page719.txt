@@ -1,0 +1,71 @@
+actor,82065,Otto,Wernicke
+actress,145040,Ashlyn,Henson
+actress,138479,Madison (I),Hodges
+actor,3552,Régis,Wargnier
+actor,102913,Joel (II),Fry
+actor,111599,Jang Lee,Hwang
+actor,28881,Scott (I),Burn
+actor,80754,Bill (I),Hickman
+actress,90965,Andrea (I),Sanders
+actress,107158,Élizabeth,Adam
+actor,18601,Simon (II),Richmond
+actor,135875,Kahil (I),Dotay
+actor,136462,Jimmy,Groce
+actor,77989,Larry J.,Blake
+actor,36845,George,Peroulas
+actress,84447,Katarina,Zutic
+actor,11374,Seth (I),Smith
+actor,112545,Nick,Bosco
+actor,101290,Peter (I),Blok
+actor,79957,Brian (I),David
+actor,138954,Francesco,Zippel
+actor,45711,Alexandre,Bestavashvili
+actor,147453,Carlos Ramónne,Graham
+actress,27645,Melissa,Hollett
+actor,71493,Doug,Cooeyate
+actor,94380,Kapil,Dubey
+actor,129003,Rob (I),Crites
+actor,35998,Rick (I),McCallum
+actor,113192,Rachmat Maulana,Fajar
+actor,36141,Shawn (IV),Allen
+actor,147086,D.C.,Pierson
+actress,13588,Monika,Jolly
+actor,103852,Leonard,Gaines
+actor,39531,Bob (I),O'Donnell
+actress,18882,Eva,Link
+actor,87896,Bing,Crosby
+actor,142567,Emilio (IV),Rodríguez
+actor,105483,Lee,Smikle
+actor,109990,Dougald,Park
+actor,41955,Shaun,Patten
+actress,29758,April (I),Stewart
+actor,75632,Ralph B.,Meyer
+actor,77279,Brandon (I),Tyler
+actress,53582,Troi,Bechet
+actor,74857,Harvey,Soolman
+actor,29593,Neville,Chamberlain
+actor,139772,Charles,Seel
+actor,28614,Patrick,Sabongui
+actor,106178,Daniel,Espeseth
+actress,129028,Mia,Sara
+actor,100922,Samuel,Maas
+actor,93832,Christian,Baril
+actor,10785,Tony,Calvino
+actress,82399,Melissa Ann,Green
+actor,57810,P.J.,Sosko
+actor,39287,Peter (I),Samuel
+actor,132545,Tim (I),Chipping
+actor,119015,Christopher,Cordell
+actress,62473,Christiane,Conil
+actor,22076,Marcus,Unterweger
+actress,6776,Misty,Marshall
+actor,138066,Alan (IV),Greenspan
+actress,27926,Samantha,Cannon
+actor,83993,Norman (I),Stuart
+actress,110032,Dyanne,DiRosario
+actor,144064,Len,Huynh
+actress,79079,Mackenzie,Firgens
+actress,91868,Anne,Glasner
+actor,56074,Ari,Barkan
+actor,71059,Shawn (IV),Smith
+actress,18707,Joanna (II),Douglas

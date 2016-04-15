@@ -1,0 +1,71 @@
+actress,66219,Amanda (I),Walker
+actor,100069,Eric,Hissom
+actor,9109,Tucker,Sparkman
+actor,140077,Richard B.,Elmore
+actress,138061,Terri (III),Hughes
+actor,27697,Andrew (I),Scott
+actor,6422,Radoslav (I),Milenkovic
+actress,60366,Susan (I),Hauser
+actor,5222,Rodney,Lodge
+actor,68229,Graham,Butcher
+actor,39221,Adam,Horovitz
+actor,105233,Ken,Takakura
+actor,17479,Paul,Causton
+actress,40617,Kelsey (III),Talley
+actor,106499,Tony,Kirwood
+actress,70596,Jennifer,Lucero
+actress,9609,Libby,Mattern
+actor,111115,Finton,Reilly
+actor,106313,Floyd,Abrams
+actor,50593,Dave,Blant
+actress,68667,Lindsey,Alley
+actor,95125,Dick (I),York
+actor,82163,Harvey,Korman
+actress,101286,Teri,Polo
+actress,1416,Sarah Michelle,Gellar
+actress,126199,Kimberly Hester,Huffstetler
+actress,66635,Angela,Wesselman-Pierce
+actress,60358,Sarah (I),Greene
+actress,77550,Taryn,Wheeler
+actress,131212,Melissa,Calheno
+actor,82833,Vijay,Mehta
+actor,78182,Henry,Louie
+actor,142991,Emeson,Nwolie
+actor,85050,Tony (I),Pann
+actor,141010,Erick (II),Garza
+actress,134279,XiaoLi,Liu
+actor,132492,Julio,Herzer
+actor,148343,François,Hadji-Lazaro
+actor,95759,John,Weselcouch
+actress,64448,Amelia,Young
+actor,984,Michael (I),Beran
+actor,106492,Gordon,Neville
+actor,147172,Eli,Goodman
+actor,23025,James R.,Scribner
+actor,55935,Fabrice,Adde
+actor,37013,Luke,Hinksman
+actor,70516,David (I),Bond
+actor,43450,Coinneach,Alexander
+actress,23240,Annie,Del Moro
+actor,143898,Peter (I),Howell
+actor,48095,John D. (I),Craig
+actor,2332,Eric,Badoc
+actor,40690,Damon,Whitaker
+actor,140502,Fermon,Rowyne
+actor,27654,Christian,Challis
+actor,126480,Pentti (I),Halonen
+actress,146952,Akira,Kuzuki
+actor,8385,Raymond,Vaughan Jr.
+actor,64820,Todd,Sassano
+actor,86635,Stéphane,Fragili
+actor,143368,Roberto,Kwok
+actress,21925,Doreen,Ramus
+actress,146851,Jordan (IV),Hayes
+actress,134669,Carol (I),Mack
+actor,44266,Allan,Padelford
+actor,27971,Walter,Platz
+actor,102845,Jean-Luc,Julien
+actor,66883,John,Tanuzzo Jr.
+actor,18991,Jim,Cibak
+actor,114741,Roddy,Carter
+actress,88548,Grace (II),Garland

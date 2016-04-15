@@ -1,0 +1,71 @@
+actor,25388,Robert (I),Gustafsson
+actress,48261,Shelby,Fenner
+actor,246,Yaojun,Dai
+actor,44808,Daniel,Tusia
+actor,68997,Piotr,Papierz
+actor,38781,Kato (I),
+actor,76833,Piet,Hoogstraten
+actress,2921,Eleese,Lester
+actor,93368,Mario,Navarrette
+actor,36163,Stanley (I),Andrews
+actress,139058,Stephanie,Crique
+actress,122766,Melanie,Comarcho
+actress,74969,Lois,Dellar
+actor,56441,John,Deauville
+actor,34587,Steven,Derek
+actor,135696,Seishirô,Katô
+actor,29365,C. Denier,Warren
+actor,121698,Terry,Schappert
+actor,111639,Naga,Seversen
+actress,8058,Tammy,O'Rourke
+actor,105994,Al,Fann
+actor,125996,Merv (II),Smith
+actress,137893,Kelly S. (I),King
+actress,79136,Gina,Beretta
+actor,146264,Michael,Diesel
+actor,6664,Francis,Blanche
+actor,102468,Braden,Munafo
+actor,74680,Anthony (I),Wise
+actor,38771,Fernando,García Rimada
+actor,65459,François,Petit
+actor,30940,Gary,Hardt
+actress,143130,Andrea,Conrad
+actor,111015,Michael R.,Meredith
+actor,11545,Dalton,Baker
+actor,101896,Brian,Villarante
+actor,121829,Clint (I),Allen
+actress,66330,Debbie (IV),Wong
+actor,10170,Karlos,Walkes
+actor,65335,Robert (VIII),Lewis
+actress,15718,Cheri,Minns
+actress,139480,Trish,Egan
+actor,134748,Janos,Finfera
+actor,80483,J. Cortes,Cavanillas
+actor,47026,John (I),Rees
+actress,43600,Lynda,Millard
+actor,10994,Kristopher,Bos
+actor,56902,Piotre,Derus
+actress,141694,Rose (I),Chan
+actor,73873,Michael D.,Anglin
+actor,26430,Robert S.,Frank
+actor,109167,Don (II),Albert
+actor,21393,Des,Coroy
+actor,63500,Jeff (XI),Cooper
+actor,36378,Paul Stephen,Hubbard
+actress,125723,Agnes M.,Laan
+actor,64689,Gioacchino Jim,Cuffaro
+actress,17515,Dacia,James
+actor,77578,Armando (II),Fragna
+actor,87701,Valentin,Novopolskij
+actor,133703,Timothy,Raby
+actress,50829,Emily,Dahm
+actress,17301,Maryline,Moulard
+actress,59878,Rebecca 'Dasse Manitsa',Hawkins
+actor,127446,Julio (IV),Hernandez
+actor,124024,Alex Alessandro,Garcia
+actor,81092,Marwan,Dudin
+actress,108326,Deborah,Rees
+actress,148702,Ariel (I),Reid
+actress,109876,Junko,Iwao
+actress,77917,Kelly,LeBrock
+actor,136398,Eoin (II),O'Brien

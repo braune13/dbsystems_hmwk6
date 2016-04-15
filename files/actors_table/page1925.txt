@@ -1,0 +1,71 @@
+actor,138378,Terry,Sumter
+actor,54762,Robert (I),Graves
+actor,124735,Stefano,Imparato
+actor,148418,Malaika,Paul
+actor,86488,Vivek (VI),Sharma
+actor,13733,Antonio,Mitchell
+actor,96308,Martin (I),Robertson
+actor,148967,Brian,Gildea
+actor,121772,Scott,Randle
+actor,17050,Harrison,Munsch
+actress,48025,Gabrielle,Lazure
+actor,75051,Hardy,Jones
+actress,25976,Jeanette,Cronin
+actor,113822,Lawrence W.,Leach
+actor,19306,Tshamano,Sebe
+actress,107350,Claire,Du Brey
+actor,1907,Malte,Grohnert
+actor,5860,Vinicio,Cecere
+actress,8002,Elizabeth (I),Bond
+actress,33622,Erika,Guntherova
+actor,103085,Donald,Fullilove
+actor,126312,Jason (I),Strong
+actress,16920,Lily Virginia,Filson
+actress,23496,Chacha,Song
+actress,63809,Carla,Catherwood
+actor,40337,Marcel,Hillaire
+actress,68538,Michelle,Hutchison
+actor,64411,Peter,DuPont
+actor,12677,Nicholas Louis,Santoro
+actress,130386,Annabel,Kershaw
+actor,112071,Stephen P.,Dunn
+actor,76381,Chris (I),Ryan
+actor,35300,Gary,Lundy
+actor,38195,Warren,Barrington
+actor,57352,Jon,Donahue
+actress,35086,Gil (II),Torres
+actor,4177,Robert,Gooden
+actor,3884,Marcus,Edward
+actor,38401,Columbus,Short
+actor,55938,John (XXIII),Jensen
+actor,24987,Georg,Friedrich
+actor,72944,Allan,Graf
+actress,144687,Grace,Gaynor
+actor,146251,Elliot,Balis
+actor,101403,Shawn Michael (I),Perry
+actor,83244,Jason,Asuncion
+actor,136979,Brian (I),Huskey
+actor,1486,Robert,Royston
+actor,36672,Robert (VII),Davis
+actor,94465,Walter (I),Koenig
+actor,15452,Robert,Sedgwick
+actress,95813,Dolores E.,Sebrasky
+actor,68545,Robert (II),Hatch
+actor,126888,Noorin,Gulamgaus
+actor,131357,Jason,Winther
+actor,42274,Todd,Duffey
+actor,75999,Luis,Echegaray
+actor,4742,Cristhian (I),Andrews
+actor,89744,Julian,Vergov
+actor,122153,Sandi,Suandi
+actor,19300,Balázs,Koós
+actress,25351,Joni,Friedman
+actress,48035,S. Epatha,Merkerson
+actor,97801,Stéphane,Orsolani
+actress,114311,Ye (IV),Tian
+actor,92548,Tom (III),Fletcher
+actor,71515,Pat,DuVal
+actress,12139,Nancy Ann,Hibbs
+actor,139734,Nicholas,Martorell Jr.
+actor,74925,David,Koechner
+actor,3264,Nick (XVI),Clark

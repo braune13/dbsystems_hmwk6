@@ -1,0 +1,66 @@
+60777,(uncredited),,2924654,[Thug]
+60798,(voice),,2924654,
+60970,(as Tseung Chi Kwong),,2924654,[Tso]
+62498,(voice),,2924654,
+63840,(as Lau Kar-Leung),,2924654,[Master Fu Wen-Chi]
+63852,(as Hon Yee Sang),,2924654,[Uncle Hing]
+64191,(voice),(as Dan Lorge),2924654,
+66954,(voice),,2924654,
+69449,,,2924654,[Henry]
+70386,(as Chan Wai Yee),,2924654,[Lady in Coffee Shop #2]
+74487,(as Tai Bo),,2924654,[Moe]
+76995,,,2924654,[Chiu's Wife]
+79441,(uncredited),,2924654,
+79492,(uncredited),,2924654,[Axe Gang Leader]
+93491,(voice),,2924654,[Wong Kei-ying]
+95956,,,2924654,[Terese]
+98232,(uncredited),,2924654,[Thug]
+99229,(as Wah Lung Szema),,2924654,[Senior in Restaurant #2]
+102080,(voice),(uncredited),2924654,[General]
+102541,(voice),,2924654,
+103138,(voice),,2924654,
+105276,,,2924654,[Tsang]
+105704,,,2924654,[Larry]
+106640,,,2924654,[Smith]
+106774,(uncredited),,2924654,[Thug/Spectator]
+107307,(voice),,2924654,
+108137,(voice),,2924654,
+110411,(voice),,2924654,
+111764,(voice),,2924654,
+113143,,,2924654,[Mr. Chiu]
+119285,,,2924654,[Cook]
+119737,(uncredited),,2924654,[Mr. Swire]
+124758,(voice),,2924654,
+125005,(uncredited),,2924654,[Thug]
+125326,(uncredited),,2924654,[Thug]
+125647,(voice),(as Gracie Moore),2924654,
+132704,,,2924654,[Senior in Restaurant #1]
+135657,,,2924654,[Ling - Wong's Step-Mother]
+136680,(voice),,2924654,
+138124,(uncredited),,2924654,[Thief]
+140521,,,2924654,[Lily]
+143679,(uncredited),,2924654,[Thug]
+144196,(voice),,2924654,
+145102,(voice),,2924654,
+145182,(voice),,2924654,[Ling]
+146181,(uncredited),,2924654,[Thug]
+54,,,2924138,[Pohl]
+3886,(uncredited),,2924138,[Interpreter in Courtroom]
+10538,(uncredited),,2924138,[Courtroom Spectator]
+10581,(uncredited),,2924138,[Courtroom Spectator]
+11772,,,2924138,[Hans Rolfe]
+12800,(uncredited),,2924138,[Prison Guard]
+18173,,,2924138,[Rudolph Petersen]
+18329,(uncredited),,2924138,[Courtroom Spectator]
+19728,(uncredited),,2924138,[Courtroom Spectator]
+22895,,,2924138,[Werner Lampe]
+23226,(uncredited),,2924138,[Courtroom Spectator]
+24387,,,2924138,[Brig. Gen. Matt Merrin]
+27137,,,2924138,[Mrs. Elsa Lindnow]
+29453,(uncredited),,2924138,[Courtroom Spectator]
+33329,(uncredited),,2924138,[German Prisoner in Cafeteria]
+40048,,,2924138,[Halbestadt]
+41061,(uncredited),,2924138,[Captain at Nightclub Announcing Call-up of Officers]
+43354,(uncredited),,2924138,[German Counsel]
+45049,(uncredited),,2924138,[Waiter at Court Lounge]
+58833,(uncredited),,2924138,[Courtroom Spectator]

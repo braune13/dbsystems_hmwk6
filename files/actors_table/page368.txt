@@ -1,0 +1,71 @@
+actor,22847,Jack (I),White
+actor,88086,Sagar,Radia
+actress,938,Elmira,Zainabudinova
+actor,32894,David (I),Andrews
+actress,76410,Christina,Shaffer
+actress,127738,Olivia,Pigeot
+actor,77524,Stanton,Rutledge
+actress,115291,Eloise,DeJoria
+actress,97413,Belén,Rueda
+actor,30895,Virender (I),Kumar
+actress,79228,Gina,Warwick
+actor,56092,Brian (VI),Michael
+actress,91847,Scylla,Abarientos
+actress,67610,Helen (I),Hunt
+actor,107991,Chris (I),McQueen
+actor,82388,Wolfgang,Ceczor
+actress,94737,Frances,Conroy
+actor,134922,Phillip E.,Walker
+actor,43175,Jeffrey L.,Ward
+actor,104037,Sachin,Bhatt
+actor,21082,Hamish,MacDonald
+actor,104831,William (I),Boyd
+actor,19375,Ed,Connelly
+actress,66322,Danna,Dennis
+actress,63615,Leila,Shenna
+actor,13674,Ryan C.,Benson
+actress,137868,Bushra,Parwani
+actor,23533,Todd (III),Morgan
+actress,56594,Jill Melanie,Wirth
+actor,137148,Clive,Stace
+actor,27094,Kolton,Bosen
+actor,20052,Dale Richard,Howard
+actor,141005,Michel,Francini
+actor,118678,Roc,LaFortune
+actor,8467,Paul (I),Nye
+actress,32696,Vicki,Petite
+actor,133343,Jon,Lucero
+actor,35426,Zachary,Baharov
+actor,38694,Todd,Kimsey
+actress,143016,Nicole,Signore
+actor,37198,Bob 'Swanie',Swanson
+actor,24517,Glenn,Tannous
+actor,122220,Adam,Hardinger
+actress,112458,Letizia,Spadini
+actress,135036,Marion,Ramsey
+actor,92830,Ray (IV),Flynn
+actor,45714,Alan,Hale
+actor,122366,Luke,Massy
+actress,10885,Maureen (III),O'Connell
+actor,83776,Tom,Hulce
+actor,18833,Francis X.,Keefe
+actor,12904,Christopher,Kunzer
+actor,142375,Jason (I),Tatum
+actor,119465,Philip,Hackley
+actress,99996,Sophie,Sutton
+actor,21259,Giuseppe,Transocchi
+actor,86676,Jim (I),Clark
+actor,117423,Beefcake The,Mighty
+actress,142988,Megan (VI),Russell
+actor,92980,Laurie,Tallack
+actress,44433,Kristina,Mickel
+actor,54133,Nicholas,Farris
+actor,27895,Pete,Georgopoulos
+actor,128147,Matthew,Butler Hart
+actor,107121,Robert,Binford
+actor,64370,Mark,Hubley
+actor,13824,Roger (II),Novak
+actor,31096,Michael N.,Garcia
+actor,43336,Attila,Árpa
+actress,114975,Sophie,Goodchild
+actor,109078,Reed,Popovich

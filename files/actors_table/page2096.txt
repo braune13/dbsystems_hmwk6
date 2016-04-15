@@ -1,0 +1,71 @@
+actor,12234,Shane,Salter
+actor,54289,Joshua,Ormond
+actress,73911,Birgit (I),Stein
+actor,125809,Tilikum,
+actor,106601,Robert (I),Graf
+actress,92563,Caprice,Schmidt
+actor,126643,Cameron,McHarg
+actor,8443,Lucius,Hoyos
+actor,136442,Andrew,Kaempfer
+actor,35281,José,Feliciano
+actor,24962,Andre,Butler Jr.
+actor,23891,Andrew,Greenbury
+actor,73026,Mike (I),Coleman
+actor,113554,Yousuf,Azami
+actress,91976,Lisa,Masters
+actor,146168,Taylor (I),Williams
+actor,38085,Patrick,Monckeberg
+actor,84869,Oscar (II),Figueroa
+actor,56871,Jon,Tenney
+actor,116027,Gilles,Bellomi
+actress,410,Rachel (I),Willis
+actor,105526,Geoff,Double
+actor,147205,Gert,Jacoby
+actor,83864,Ryan,Bean
+actor,134436,Leonard,Boes
+actress,148021,Katrina (I),Smith
+actor,26538,Dennis (II),Baker
+actor,123542,Ed (I),Hinton
+actor,47535,Benjamin,Booker
+actor,131650,David D.,Platko
+actor,20818,Douglas W.,Randall
+actress,69635,Catherine (I),Porter
+actress,56190,Olivia,Hardt
+actor,78288,Cade,Rogers
+actor,54130,Matt,Legg
+actress,40656,Cassie,Djerf
+actress,44509,Francesca,Serrano
+actor,12903,Zedric,Harris
+actor,68930,Joe,Grossi
+actress,15049,Olivia,Steele Falconer
+actor,103697,Colin (II),Fitzpatrick
+actor,13447,Eduardo del,Río
+actor,97307,Richard (II),Boone
+actress,23904,Lidija,Zovkic
+actress,69263,Frankie,Rayder
+actor,117895,Ross,Gibby
+actor,140978,Pura,Tangira
+actor,59579,Leif,Anderson
+actress,142332,Cheryl (III),Ward
+actress,5257,Jody,Carter
+actor,35437,Mark (I),Ricci
+actor,5838,Reuben Larry,Elliot
+actor,56909,Dan (IX),King
+actress,47821,Gina,Gesamondo
+actor,117766,Ji-Tu,Cumbuka
+actor,93700,Walter (I),Jones
+actress,105463,Lauren,Shuler Donner
+actress,43404,Sigrid,Wurschmidt
+actor,86081,Carlos (I),Andrade
+actor,86691,Paul,LaQuerre
+actor,104938,Charles David,Richards
+actor,68188,Eugene (II),Kim
+actor,1427,Ralph A.,Villani
+actor,12371,Shirô,Ôsaka
+actor,22173,Maurice (I),Hart
+actress,26828,Cristine,McMurdo-Wallis
+actress,130632,Crystal,Gaer White
+actress,1767,Jana,Bellan
+actor,142152,James,Jeter
+actress,103478,Rose,Alba
+actress,113875,Soraya,Garré

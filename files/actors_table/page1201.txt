@@ -1,0 +1,71 @@
+actor,98654,David (I),Kopp
+actress,49605,Angelica,Page
+actor,101905,Valeriy,Zolotukhin
+actor,36539,Gustave,Johnson
+actor,46853,Corey (I),Sullivan
+actress,129426,Kathy (I),Collins
+actor,104045,Lionel Anthony,Cook
+actor,13828,Fred D. (I),Scott
+actor,122936,Bruno,Fleury
+actor,9677,Cassius,Willis
+actor,106681,Declan,Bennett
+actress,8630,Fran,Drescher
+actor,18531,David,Bittick
+actor,105347,Paul (I),Austin
+actress,83434,Birce,Akalay
+actor,4458,Bruce (I),Fleischer
+actress,2171,Claudia,Zaccari
+actor,48351,Travis,Bobbitt
+actress,34509,Alexis,Fowlkes
+actor,45306,István,Kléh-Reinle
+actress,137657,Stacey,Pickren
+actor,41995,Bill (II),Maynard
+actress,62029,Frida,Lundby
+actress,44466,Michaela,Clavell
+actress,137324,Penny-Jane,Swift
+actor,27361,Edward G. (I),Robinson
+actor,81165,Clive,Riche
+actor,131777,Geoffrey (I),Lewis
+actor,28368,Keii,Johnston
+actress,111293,Eve (III),Gordon
+actor,30456,Norm,Bacchiocchi
+actress,69862,Lavinia,Lang
+actress,5780,Leah,Kahn
+actress,61988,Shushila,Devi
+actress,134502,Sue-Ellen,Shook
+actress,45535,Hitomi (IV),Ishihara
+actress,68464,Kerry,Friend
+actor,140092,Ling Lin,Wang
+actor,1944,George,Dvorsky
+actor,22313,James Terry,McIlvain
+actor,115844,Stanley (I),Morgan
+actor,28979,James,Trevena-Brown
+actor,22280,Chas,Mastin
+actress,60783,Yolonda,Williams
+actor,117906,Kiwi,White
+actor,117889,Ryan (XVII),Morris
+actor,59603,William (XIX),Walker
+actor,93988,Mike,Karban
+actor,109959,Tommy,Clowers
+actor,37841,John (II),Gagné
+actress,54182,Taylor,Banks
+actor,15705,Lloyd (I),Berman
+actress,100339,Cherrilene,Cardinal
+actor,12487,D. Stanton,Miranda
+actor,24271,Lee (I),Shepherd
+actor,122600,Mathias,Gnädinger
+actor,81601,Jayson,Talbert
+actress,111862,Tracy,Spiridakos
+actress,78157,Angelique,Rickhoff
+actor,11171,Geoffrey,Hinsliff
+actress,55640,Claudine,Robitaille
+actor,119759,Brian (I),Jarvis
+actress,24784,Nikki,Granatell
+actor,110278,Matt (II),Robertson
+actress,29866,Karen,St. Pierre
+actor,138518,Tony (I),Gilroy
+actor,106158,Eugene,Brotto
+actor,48187,Fernando C.,Moreno
+actor,72551,Robert,Dorfman
+actor,98175,Philip (III),Morris
+actress,130248,Janis,Schmitt

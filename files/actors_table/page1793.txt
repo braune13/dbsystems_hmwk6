@@ -1,0 +1,71 @@
+actor,52151,George,Nannarello
+actor,133038,Herb (I),Rice
+actor,25694,Desmond,Daly
+actress,3081,Cathryn,Croft
+actor,122483,Gary,Peabody
+actor,149171,Nicholas,Gibeault
+actor,84205,Robert F.,Fanto
+actor,40744,Guillermo (I),Navarro
+actor,128666,Lafayette R.,Dorsey Sr.
+actor,120899,Carlos (XII),Campos
+actor,108780,Fernando,Sarfatti
+actress,125319,Aemilia,Robinson
+actress,11241,Dana,Hee
+actor,116735,Will Morris,Hannis
+actor,133733,Henry (III),Faber
+actor,55300,William (I),McConnell
+actor,117521,Lu,Gay
+actress,47602,Joan,Patti
+actor,64383,Prince Eugenio,Ruspoli di Poggio Suasa
+actor,20235,Mick (II),Gallagher
+actress,139301,Chary,O'Dea
+actor,34318,Timothy,Matson
+actress,36285,Corinne,Barton
+actress,3187,L'Aube,Janet
+actor,149023,Jean-Marc,Vauthier
+actor,133593,Ed,Viesturs
+actor,127399,Geoff,McKnight
+actor,79864,Rick,Merring
+actress,88665,Kristina,Hewitt
+actress,121558,Raven,Lexy
+actor,78409,Robert (III),Dutton
+actor,87202,Danny,Erskine
+actress,113653,Ann,Castle
+actor,88129,Jett,Dunlap
+actor,66864,Ken,Moran
+actress,115799,Stephanie,Moseley
+actor,91779,Shaun,Wainwright-Branigan
+actress,91349,Ashley,Muzek
+actor,37866,Wesley (I),Walker
+actor,140716,Rick (I),Chambers
+actor,116641,Gian,Ganziano
+actress,54087,Monica (I),Acosta
+actor,63689,Romano,Orzari
+actor,61762,Jake,Fairbrother
+actress,17700,Nichole,Ambriz
+actor,12304,Brian,Hemenway
+actor,124045,Gord,Rand
+actress,91574,Stacy Lynn,Austin
+actress,98444,Brenda,Cooney
+actress,52015,Suzie,Payne
+actress,116352,Angel (V),Garcia
+actor,82761,Bonzo (IV),
+actress,6174,Sandra,Dorsey
+actress,115944,Chloe (I),Webb
+actor,37166,Peter (I),Henderson
+actress,77723,Chloe (I),Bailey
+actor,47107,Stephen,Kue
+actress,112912,Nancy (I),Murphy
+actor,97357,Cory,Rasmussen
+actress,41100,Sophina,Saggau
+actress,24703,Liliana,Berardocco
+actor,1572,Tony,Westerfield
+actress,52429,Roxanne,Benjamin
+actor,65075,John (I),Martineau
+actor,29574,Gordon,Needham
+actress,86270,Nikki (I),Reed
+actor,5967,Cliff,Rakerd
+actress,126414,Hitomi,Hyuga
+actress,34909,Inbal,Amirav
+actor,99686,Adam (I),Rose
+actor,51058,Shan,Brisendine

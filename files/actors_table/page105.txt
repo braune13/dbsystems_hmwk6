@@ -1,0 +1,71 @@
+actor,13230,Anthony R.,Duncan
+actress,71652,Lara,Goldie
+actress,127314,Yoshiko,Yamaguchi
+actor,23275,Bill,Luhrs
+actor,23829,Russell,Takaki
+actor,39028,Tomas,Dryburgh
+actress,90831,Maria,Juani
+actress,20427,Laura,Beckner
+actor,23694,Eric (V),Martinez
+actor,75648,Fran,Capitanelli
+actor,124884,Spencer,Breslin
+actor,137448,Geoffrey,Moon
+actress,118787,Jen,Steele
+actor,136386,Jandy,Hassan
+actor,44051,Joseph,Pollard
+actor,5683,Michael (I),Rosales
+actor,87901,Peter,Ruocco
+actor,125100,Danny (III),Gray
+actress,133483,Tarah,McDaniel
+actor,114552,Pedro,Altamirano
+actor,18178,John (I),Donovan
+actor,15835,Oliver,Wadsworth
+actor,42591,Illie,Dawson
+actor,123147,Felino,Dolloso
+actor,144462,Joseph (II),Winter
+actor,111552,Horacio,Nin Uria
+actor,35020,Aaron,Jais
+actor,135870,Scott (I),St. James
+actor,13649,Torsten,Brescanu
+actress,11825,Sophie,Porley
+actor,95654,Marcelino,Sánchez
+actor,112846,William,Hamel
+actor,32099,Robert Lyon,Rasner
+actor,182,Henry,Jaderlund
+actress,3788,Lucy (I),Ramos
+actor,34911,Des,Rodgers
+actor,58781,David (I),Huband
+actress,109810,June,Melby
+actress,48588,Patricia,Kilgarriff
+actor,19219,Mark,Majetti
+actor,22324,Nick,Hodaly
+actress,122673,Kirsty,McKay
+actor,22795,Chen Min,Kao
+actor,68530,Richard,Robitaille
+actor,124178,Mark,Mothersbaugh
+actress,109095,Vivienne,Hartman
+actor,90945,Vincent,Jerman-Jerosa
+actor,12897,Nick (VII),Bailey
+actress,137291,Elisabetta,Fantone
+actor,20511,Ron (II),Paul
+actress,145799,Sheila,Gish
+actress,125349,Kahlia,Greksa
+actress,104514,Colleen June,McQuaide
+actress,19417,Loretta (I),Higgins
+actor,3320,Michael,Haughey
+actor,62100,Luke,Trevisan
+actor,85048,Troy,Poret
+actor,49410,Aaron Patrick,Freeman
+actor,130148,John (L),Howard
+actress,66960,Alice,Cannon
+actor,107076,Aloise,Duponcheel
+actor,39719,Tom,Cumler
+actor,49197,David (I),Katz
+actress,112857,Ethel,Gerstein
+actor,31922,John (I),Considine
+actress,114042,Joelle (I),Carter
+actress,126971,Shirane,Haas
+actress,39949,Sarah (I),Duca
+actor,26507,Stuart (I),Ellis
+actor,122680,Bobby 'Slim',Jones
+actor,39522,Chad,Hessler

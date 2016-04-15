@@ -1,0 +1,71 @@
+actor,23666,Jim (VI),Wright
+actor,112954,Hugh B.,Holub
+actress,7295,Corinna,Harney
+actor,8726,Pablo,Bracho
+actress,14874,Jiehae,Park
+actor,87318,John (I),Kavanagh
+actor,114287,Felix,Williamson
+actor,98424,Heinrich,George
+actor,123482,Marcelo António,Santos
+actor,14325,John,Saba
+actress,59119,Nikki,Hart
+actor,128923,Johann,Heisey
+actress,39255,Marie,Irwin
+actor,31823,Taek-ha,Hwang
+actor,115821,Mike (I),Lally
+actor,137683,Danny,Tamberelli
+actress,70808,Zofia,Moreno
+actor,118554,Maxim,Volchek
+actor,101522,José,Taitano
+actor,5310,Søren,Søgreni
+actor,92513,Arun,Sakpal
+actress,89179,Monica,Keena
+actor,122618,Simon,Chin
+actor,116797,Michael,Colyar
+actor,51979,Jefferson,Mays
+actor,107235,Quantae,Love
+actress,125314,Meg (II),Smith
+actor,84038,Mike,Burnside
+actor,21232,Phil,Rowson
+actress,32245,Amanda (II),Rosario
+actor,127859,Gilbert,Mares
+actor,90558,Rainer,Staudhammer
+actor,44840,Steven (IV),Ritchie
+actor,123278,Terry,Rendell
+actor,139091,Jora,Senane
+actor,44356,Víctor,Sierra
+actor,45321,Wallace,Langham
+actor,116134,Dev,Modi
+actor,130718,Ron,Maestri
+actor,12142,Billy,Horton
+actress,41067,Julie,Zelman
+actor,7241,Tumbleweed (I),
+actor,60797,Matthew,Radway
+actress,53198,Jakki,Degg
+actress,839,Traylor,Howard
+actress,15997,Cathy,Blood
+actress,96725,Ivonne,Quinteros
+actress,43348,Lydia,Rattei
+actress,122729,Annie,Park
+actor,118383,Leon,'Vietnam'Carswell
+actress,132359,Sarah (I),Marshall
+actor,77184,Darryl,Quon
+actor,48744,Jack,Eagle
+actor,9429,Alex (I),Maizuss
+actor,34347,Vin,Scialla
+actress,125281,Desamie,Keydel
+actress,73017,Shelly Chee Chee,Hall
+actress,874,Amber,Doyle
+actress,135250,Gina (I),
+actress,47137,Regina,Rice
+actor,44770,Primo,Allon
+actor,127287,Joseph,Charboneau
+actor,38693,Karel (I),Roden
+actor,34736,Joseph,Bianchi-Coppola
+actor,82307,Seann William,Scott
+actor,106325,Zak,Shukor
+actor,134341,Michael (I),Lawrence
+actor,106648,Klee,Bragger
+actor,113443,James,Maley
+actor,111514,Wolf-Dirk,Vogeley
+actor,128993,Keith (I),Jardine

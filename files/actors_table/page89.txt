@@ -1,0 +1,71 @@
+actor,63268,Duncan (I),McLeod
+actor,1055,Emperor Frederick,Von Seidl
+actor,50392,Michael,Bertenshaw
+actress,127907,Angela,Curran
+actor,53006,William (I),Powell
+actor,25514,Tzvet,Lazar
+actress,120601,Della,Reese
+actress,40966,Janette,Luu
+actor,85189,Grant (I),Wild
+actor,90301,Hirofumi,Arai
+actor,75869,Yves,Montand
+actor,134783,Brian Keith,Russell
+actress,95996,Sandra,Seeling
+actor,90623,George (I),Baxter
+actress,66415,Nikki,Frazer
+actress,144955,June Griffin,Garcia
+actor,93101,Chidi,Ajufo
+actor,57321,Georges,Marchal
+actor,14453,Ronald L.,Schwary
+actor,33070,Ray,Kurut
+actor,24148,Adam (II),Richardson
+actress,72930,Jessica (II),Joffe
+actor,131265,Noah,Baumbach
+actress,102755,Kimberly,Begon
+actress,102745,Lara (I),Apponyi
+actor,63077,Mark (I),Mahoney
+actor,60746,Alex (I),Reznik
+actress,123198,Melissa,McCarthy
+actor,41212,Daniel Brunnemer,Hall
+actor,100669,Robert,Laconi
+actress,18199,Angelica,Salek
+actor,74828,Ron,Ostrow
+actor,10929,Rocco,Vienhage
+actor,132964,Billy D.,Lucas
+actor,115435,Jason (I),Seitz
+actor,127361,Brennan,Brown
+actress,110570,Corinna,Russo
+actor,66442,Nicholas,Lanier
+actress,44125,Brittany,Weber
+actress,40413,Sharon,Haight
+actor,25439,Nicholas,Ratlou
+actress,107322,Dagmar,Stanec
+actor,30587,Morgan,Raque
+actor,128676,Jared,Raia
+actor,93066,Adam (I),McNinch
+actress,45281,Trisha M.,Sky
+actress,86033,Lisa Roberts,Gillan
+actress,8949,Emily,Fortunato
+actor,76394,Gene,Mueller
+actor,119806,Willie,Amakye
+actor,56758,Lee (VI),Wilson
+actress,50198,Sif,Ruud
+actress,53682,Puja,Mohindra
+actor,64935,Timothy,Olyphant
+actor,142871,Brent (I),Joseph
+actor,38282,James,Chirbas
+actor,135526,Sean (I),Eden
+actor,5517,Paul (II),Hansen
+actress,120586,Joy (I),Richardson
+actress,86360,Julianne,Waters
+actor,9826,Steve (I),Burton
+actor,34677,Hamit,Perezic
+actor,142448,Justin,Kalvari
+actress,30655,Marie,Malocco
+actress,35562,Beth,Toussaint
+actress,1518,Helen (I),Shaw
+actor,42338,James (I),Bacon
+actor,44751,Warren J.,Kemmerling
+actress,25926,Alexandra,Kerry
+actor,119076,Macon,McCalman
+actor,51455,Giuseppe,Sulfaro

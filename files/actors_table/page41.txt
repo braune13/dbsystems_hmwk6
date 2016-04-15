@@ -1,0 +1,71 @@
+actress,107440,Laura,Benanti
+actor,21050,Lucien (I),Douglas
+actor,47911,Derek (I),Medina
+actor,106727,Bernie,Passeltiner
+actor,97940,Jack (V),Patterson
+actor,96960,Heath,Kizzier
+actor,81568,Léon,Larive
+actor,144819,Cy,Fahrenholtz
+actor,66364,Allen,Gerbino
+actor,45712,Leroy E.,Hollis
+actor,121914,August,Ragone
+actress,85504,Samantha,Beaulieu
+actor,129196,Edward,Bunker
+actor,76151,Robert,Fraisse
+actress,56629,Margaret,Mazzola
+actress,25132,Alaina,Reed-Hall
+actor,70061,David,Feiss
+actress,135815,Tiffany (I),Díaz
+actor,85069,Kevin g,Fyfe
+actress,122218,Emily,Blunt
+actor,100937,Eddie,Troy
+actor,140974,Rafael (II),Trujillo
+actor,46747,Patrick,McDade
+actor,84893,Kevin,Eckhardt
+actor,129500,Deem,Bristow
+actor,81650,Velizar,Peev
+actor,124636,Bill (IV),Gentry
+actor,102685,Julian,Firth
+actor,11520,Rodd,Redwing
+actor,83727,Rick,Tae
+actor,73501,Rodney,Wiseman
+actor,56751,Chris (I),Friend
+actress,24904,Meave,Cunningham
+actor,136864,Theo,Breaux
+actor,38425,Harold,Entwistle
+actor,35723,Bob J.,Leary
+actress,117892,Montserrat (I),Lombard
+actor,109709,Sean T.,James
+actor,64576,Trevor (I),Eve
+actress,102859,Lydia (I),Green
+actor,96174,John (II),Horton
+actress,45201,Veronica,Segura
+actor,84048,Tetsuo,Mizutori
+actor,65865,Blake,Hightower
+actor,25318,Harvey J.,Alperin
+actress,118111,Maria,Arita
+actor,24865,Bob,Hiller
+actress,91911,Jessie,Flower
+actor,34157,Nick,Daniels III
+actress,25491,Barbara,Bel Geddes
+actress,78187,Jeannine (I),Wagner
+actor,143533,Yan,Regis
+actor,126356,Richard (I),Grieco
+actor,1112,Hans-Matthias,Glassmann
+actor,134206,Billy (I),Connolly
+actor,148073,Philip (II),Hoffman
+actor,52147,Tom,Anfinsen
+actress,144725,Jeanette (I),Hain
+actor,42598,Jeremy,Applegate
+actor,95845,Hubert,Tran
+actor,17981,Frank,Aderias
+actor,143495,Dharmendra (I),
+actor,95398,Vernon,Steel
+actress,57420,Patricia,Healy
+actress,98204,Manuela,Velasco
+actor,17288,Dick,Langdon
+actress,116931,Janis,Ahern
+actor,12014,Jean Pierre,Viale
+actress,102603,Carrie,Quinn Dolin
+actress,22585,Siv,Aleros
+actress,127611,Sylvia (II),Froman

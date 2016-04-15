@@ -1,0 +1,71 @@
+actress,45001,Karri,Davis
+actor,72983,Hugh,Bonneville
+actor,49633,Willie 'Big Eyes',Smith
+actor,10651,J.,Gains
+actor,70978,Dale,Kipling
+actor,50803,Jae-young,Kwak
+actor,50601,Robert (XXIV),Mitchell
+actor,106935,Shiek (I),Mahmud-Bey
+actress,58731,Laurence,Deschênes
+actress,34291,Marianne (I),Girard
+actress,127190,Claudia Gabriella,Colin
+actress,142310,Ashley,Crow
+actor,28664,B.B.,King
+actor,126049,Jimmy,Buffett
+actor,95263,Mark,Fleischmann
+actor,59649,Drew,Seltzer
+actress,102746,Susan,Rossitto
+actor,82345,Leonard (I),Jackson
+actor,63906,John,Sloss
+actress,86011,Tara,Tovarek
+actress,37049,Shalom,Harlow
+actor,72785,Bryon,Fear
+actor,143293,Gert,van den Bergh
+actor,1660,Leon Skyhorse,Thomas
+actor,40038,Steve,Larese
+actor,129347,Hugh,Farrington
+actress,119617,Roxanne,Laborde-Couvillion
+actress,20278,Karen E.,Wright
+actress,35749,Crystal,Shade
+actor,6086,Michael,Shunnarah
+actress,88863,Glenda,Morton
+actor,128033,Riccardo,Pellegrino
+actress,15520,Mia (II),Lee
+actor,105120,Gerard F.,Yates
+actress,36977,Anne (I),Jacques
+actor,21387,Scott (IX),Miller
+actress,62328,Lesley,Bevan
+actor,147815,Michael Louis (I),Johnson
+actor,102474,Crusoe,Kurddal
+actor,107237,Johnny (I),Russell
+actor,50230,Jeffrey,Zubernis
+actress,87436,Sydney,McCallister
+actress,41447,Mo (I),Collins
+actor,27671,Iain (I),Mitchell
+actor,132806,Gary (I),Long
+actor,70764,Jason (I),Kim
+actress,100856,Emma,Handy
+actor,55095,Darryl (II),Pittman
+actress,25124,Ann (I),Turnbull
+actor,59811,Barry (I),Martin
+actress,75130,Kathryn Briggs,Hobbs
+actor,40779,James,Babbin
+actress,13382,Colette,Bergé
+actor,55768,Edward,Butron
+actor,12098,Michael,Vartan
+actress,100177,Brigitta,Lauren
+actor,45187,Murat,Karatas
+actor,146848,Pedro (II),Sabino
+actor,83365,Pete (I),Meads
+actor,100180,James,Ciesielski
+actor,141835,Turron Kofi,Alleyne
+actor,127451,Tom,Sye
+actor,38738,Vaughn,Armstrong
+actress,12708,Helen,Holman
+actress,75890,Gabrielle,Popa
+actor,149226,Ken (I),Gutstein
+actor,101202,Ugo,Barbone
+actor,61331,David,Michie
+actor,101089,Luigi,Laguna
+actress,10458,Jennifer (I),Iacono
+actress,51359,Paulina,Gálvez

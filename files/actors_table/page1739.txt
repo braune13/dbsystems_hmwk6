@@ -1,0 +1,71 @@
+actor,102756,Mehmet Ali,Nuroglu
+actor,29901,Mike,Bowis
+actress,128975,Natalija,Bibic
+actor,59361,Thomas,Kidd
+actress,58003,Jessica (I),Boone
+actress,109393,Meredith,Zinner
+actor,57016,James,Migliore
+actor,26624,Paul,Linkson
+actor,55055,Bram,Heidinger
+actor,48037,Artur,Cybulski
+actress,94390,Cynthia,Leon De Mendoza-Hanna
+actor,123446,Ivan Truol,Troncoso
+actress,61845,Liana,Orfei
+actor,47751,Brad,Langford
+actor,115118,Bryan,Radtke
+actor,50434,Coati,Mundi
+actor,52524,Péter,Kálloy Molnár
+actor,60755,Bruce,Moriarty
+actor,128631,Adam (II),Hamilton
+actor,131692,Samuel (I),Tucker
+actor,12716,Dario,Tanzini
+actor,5545,Steve,Kniesel
+actor,120974,Elliott J.,Brown
+actor,128924,Christian,Oliver
+actress,99726,Yan (I),Hai
+actor,71997,Erik,Townsend
+actor,32815,Nyasha,Hatendi
+actor,125361,Youri,Obryvtchenko
+actor,49455,Vito,Genovese
+actor,107524,Stephen A.,Pope
+actress,103883,Delaine,Yates
+actor,94632,Satch,Huizenga
+actress,27444,Juana,Sutton
+actor,48145,Neil,Kopit
+actress,30631,Tracy,Melhorn
+actress,94694,Jennifer,Eatz
+actor,75719,David (I),Atrakchi
+actor,13993,Chris (III),Shaffer
+actress,112743,Nina,Kripas
+actor,139250,James (II),Forrester
+actor,40745,Leslie,Woolf
+actor,21937,Vasanth,Santosham
+actor,50517,Charles (XII),West
+actor,139443,Alan (I),Hansen
+actress,76415,Zoe Margaret,Colletti
+actor,91314,Tim (I),Blanchard
+actress,9727,Hyam,Zaytoun
+actor,14553,Christian,Higgins
+actress,49639,Rina,Franchetti
+actor,53231,Louis,Etergineoso
+actor,138495,Justin (V),Robertson
+actor,39469,Gary Kent,James
+actor,125508,Jimmy,Nail
+actor,147573,Haraldo,Alvarez
+actor,29391,Stu,Klitsner
+actor,132849,Trevor (II),Duncan
+actor,8419,Ballard,Berkeley
+actress,121218,Gwen,Cochanski
+actress,4237,Hélène-Manon,Poudrette
+actor,22632,Daniel,Jarvie
+actress,39631,Alex,Rush
+actor,32872,Daniel (XV),Smith
+actress,122493,Natalie,Strong
+actor,95812,Lance,Balding
+actress,91743,Julia Scarpa,Saldanha
+actor,95793,Bradley,Bowen
+actor,62399,David A. (I),Goodman
+actor,15803,J. Bruce,Eckert
+actor,67745,Trevor,St. John
+actor,56834,Michael,Kilcullen
+actor,45724,Robert J.,Pared

@@ -1,0 +1,71 @@
+actor,109994,Ryan (I),Cross
+actor,85083,Peter Michael,Escovedo
+actor,68424,Tom,Nagel
+actor,63885,Kent A.,Gallegos
+actress,124535,Jordana,DePaula
+actor,18908,Mike,Robichaud
+actor,67894,Christopher,Stadulis
+actor,145697,Ulrich,Beiger
+actor,27716,Ulf,Friberg
+actress,18057,Laura (IV),Webster
+actress,102798,Helena,Humann
+actor,77300,David (V),Blair
+actress,68879,Jitka,Vesselá
+actress,116456,Karen,Holness
+actor,46178,Collin,Hymes
+actor,124126,Rick,Rossovich
+actress,62906,Polly,Craig
+actor,113576,Matt (I),Cooke
+actor,64144,Trevor,Fahnstrom
+actor,44287,Ian (XXV),Smith
+actor,79891,Mike (VII),Barry
+actress,13621,Katherine (II),Sparks
+actor,66083,Josh,Roush
+actor,75279,Pat,Proft
+actor,108675,Bobb'e J.,Thompson
+actor,68400,Kellen,Sampson
+actor,94488,Stuart,Mager
+actor,74552,Rudy,Del Campo
+actor,34006,David,Karave
+actress,37667,Sally (I),Berman
+actor,108047,Paul (IV),Reynolds
+actor,89462,C.C.,Bilham
+actress,102703,Afa,Thompson
+actor,40755,Sam,Easton
+actor,110776,Joe (VI),Pierce
+actress,26741,Rondi,Reed
+actor,146188,Sam (I),Stone
+actress,39375,Jade,Boragno
+actress,120666,Stefanie,Marco
+actor,112918,Bob (I),Neal
+actor,139757,William (II),Huntley
+actor,114756,John (XVII),Fuller
+actress,28116,Samantha (I),Noble
+actor,142930,John,Derbyshire
+actor,55581,Eddie,Boland
+actress,57236,Gail,Bennington
+actress,147703,Brigid (I),Duffy
+actor,21913,Luke (I),Parry
+actor,7791,Tim,Snay
+actress,51441,Dana (I),Andersen
+actress,141705,Gabriella,Di Labio
+actress,118895,Ana Maria,Majalca
+actor,15720,Jasper (IX),
+actor,140385,Baron,Vaughn
+actor,91781,Story,Musgrave
+actor,5312,Anthony (II),St. John
+actor,37934,Earle,Hyman
+actress,49765,Maria Pia,Calzone
+actor,59309,Peter (III),Madsen
+actor,106169,Rafael,d'Avila
+actress,32911,Stephanie Kraft,Song
+actor,5454,Detlef,Bothe
+actress,133333,Ann (II),Hu
+actor,9643,Seth William,Meier
+actor,121085,Quinn,Gasaway
+actor,73821,J. T.,O'Connor
+actress,40816,Susan A.,Burig
+actor,99054,Peter Jonathan,Moore
+actor,114048,Parker Dane,Conti
+actress,135761,Gioianna,DiGiorgio
+actress,82794,Bettina,Kenney

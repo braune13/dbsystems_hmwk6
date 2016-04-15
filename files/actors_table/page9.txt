@@ -1,0 +1,71 @@
+actor,103184,Franco,Gulà
+actor,62588,Lambool,Dtangpaibool
+actress,33798,Sam (I),Phillips
+actor,41609,Jeffery,Kissoon
+actor,128305,Terry Lee,Swarts
+actor,112423,Fred J.,Lauver
+actor,135704,Frank,Cappuccino
+actor,124067,Aaron (I),Hendry
+actress,69014,Clea,DuVall
+actor,21831,Tadek,Lokcinski
+actress,83890,Mary Jo,McGrath
+actor,120868,Patrick (I),Wayne
+actor,123819,Gary (I),Gold
+actor,32288,Taddeo,Harbutt
+actor,113150,Ron,Causey
+actor,112347,Krassimir (I),Simeonov
+actress,119650,Windle,Bourg
+actress,104612,Isabelle (I),Walker
+actor,69230,David,McCurley
+actor,44366,Peter,Colvey
+actress,92961,Erica (I),Edwards
+actor,47257,Derick,Qaqish
+actor,9463,Jonathan (I),Maxwell
+actor,16097,Geoffrey M.,Reeves
+actor,31506,Josh,Pence
+actor,112762,King (II),Kong
+actor,80222,Jonathan,Jaynes
+actor,73791,Gary,LeVox
+actor,91981,Michael A.,Russo
+actress,139976,Keeley,Hawes
+actor,31987,Rick,Sawaya
+actor,5143,Wolframio,Sinué
+actress,142271,Akane,Kasuga
+actor,109534,Stan (I),Ward
+actress,112067,Jemma,O'Brien
+actor,51075,Conor,McGrath
+actress,90617,Laura (I),Duguid
+actor,136264,Roy (I),Luthringer
+actor,91598,Jerry,Priele
+actress,133867,Ella Jane,New
+actor,128452,Mark,Simich
+actress,146694,Liz (II),Smith
+actress,54622,Rita Rani,Ahuja
+actor,118857,Michael (III),Small
+actress,79382,Latifa,Ouaou
+actor,78825,Jimmy,Jue
+actor,65297,Dennis (I),Tan
+actor,104055,Brent,Roam
+actor,140684,Ti,West
+actor,145442,Andreas (I),Schmidt
+actor,1460,Spiro,Papas
+actress,134875,Susana,Miraño
+actor,137627,Krzysztos,Tlotka
+actress,104098,Diana,Rein
+actress,51896,Cherie,Lunghi
+actor,19773,Corbin,Bernsen
+actress,25841,Heather,McHenry
+actor,86986,Gary 'Buddy',Boe
+actor,147605,Barton,MacLane
+actress,68337,Monika,Krüger
+actor,12293,Yat-Fei,Wong
+actress,13865,Mayra,Serbulo
+actor,26765,Paul (II),Oliver
+actress,130775,Alya,Nikulina
+actor,93127,Ash,Barnett
+actor,96691,Tom (III),Rooney
+actress,115437,Elain R.,Graham
+actress,69318,Tracey (I),Toomey
+actor,65234,Montant,Telman
+actress,90615,Minami,Takayama
+actress,141066,Cicely Kuehl,Shank

@@ -1,0 +1,71 @@
+actress,51742,Beverly,Burke
+actor,23958,Anthony (I),Allison
+actor,103851,Benjamin,Chontos
+actor,12232,Kim Marko,Germar
+actress,140232,Judi,Beecher
+actor,30729,Adrian (I),Annis
+actor,75538,Mayur,Puri
+actor,42366,Paul,Mantee
+actress,71369,Heather,Sconyers
+actress,69936,Senta Dorothea,Kirschner
+actor,6468,Michel,Perron
+actress,36633,Jessica (I),Page
+actor,40792,Alec (I),Mann
+actress,1890,Arlin,Alcala
+actress,94248,Shanda,Renee
+actress,62145,Ashlyn,McEvers
+actress,147478,Anaïs,Frenette
+actor,65427,Michael (II),Geiger
+actor,64762,Simon,Billig
+actor,107689,Joshua,Bitton
+actress,43159,Valeria,Sabel
+actor,113400,Makoto,Hashiba
+actress,12364,Rachael (I),Markarian
+actor,92706,Stefano,Santospago
+actor,59184,Joseph P.,Kennedy
+actress,127555,Kate (II),Sullivan
+actor,75886,Sérgio,Bispo
+actor,29948,Bernie,Hiller
+actor,86921,Will (I),Denton
+actor,5712,Nathan,Kershaw
+actress,62453,Bonnie,Witney
+actor,98740,Adam,Linke
+actress,144192,Joy (I),Mulligan
+actor,145702,Val,Almendarez
+actress,20221,Hayley,Podschun
+actor,40351,Don,Pirl
+actress,69174,Sarah (XIII),Campbell
+actor,97927,Junius,Matthews
+actor,124702,Gavin,Forbis
+actor,74536,William,Shimell
+actor,130986,Tony,Machine
+actor,69042,Adam (VI),Wood
+actress,98531,Meredith,Landman
+actress,148867,Krista,Tunnell
+actor,37628,Lawrence (II),Duffy
+actor,11996,Naaman,Brown
+actor,74524,Gazouz,Azelarab
+actor,74220,Fabien,L'Allain
+actor,67120,Ted,Neeley
+actress,11092,Kerry (I),Fox
+actor,43507,Milton,Crosby
+actor,100723,Fritz,Rulli
+actress,70732,Sumi,Haru
+actress,37092,Mindy,Hester
+actor,26206,Freddie,Stroma
+actor,60479,Bill,Handel
+actress,127724,Elise,Richmond
+actress,3500,Ilka,Grüning
+actress,3486,Yvette,Thuot
+actor,26329,Robert (VII),Christian
+actor,116074,Larry (I),King
+actress,69689,Kelli,Barrett
+actor,63662,Edwin,Jay
+actress,74090,Angela (I),Trimbur
+actor,79340,LJ,McDonald
+actor,147928,Cliff B.,Howard
+actor,111440,Duane,Cawthon
+actor,71422,Mohammad Aman,Joya
+actor,89432,John (IV),Blackwood
+actress,99237,Emily (I),Martin
+actress,46050,Ellen Hamilton,Latzen

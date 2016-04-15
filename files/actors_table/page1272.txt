@@ -1,0 +1,71 @@
+actor,28943,Michael,Buttimer
+actor,92901,Michael Keith Ashton,Hastings
+actress,94628,Ann Rita,Davies
+actor,21060,Ady,Brock
+actor,62308,Hüseyin,Kasif
+actor,53111,Lawrence (I),Lambert
+actor,101344,Edmond Kato,Wong
+actor,85082,Wolf,Trutz
+actor,137222,Klaus,Voormann
+actor,137055,Dan,St. Paul
+actor,113508,Paul,Dufrene IV
+actor,3895,Eric,Murdoch
+actor,146686,Cameron Caldwell,Thorpe
+actor,84191,York R.,Griffith
+actor,117664,Mark (VI),Williams
+actor,79437,Paul (II),Smits
+actor,48545,Lawrence,Hecht
+actor,91569,Carlos M.,Gonzalez
+actor,73672,Roy E.,Harrison
+actress,10800,Sabrina,Iaschevici
+actress,130512,Claudia,Openkelder
+actor,16386,Xavier Joe,Wilcher
+actor,122492,Harry (I),Campbell
+actress,24760,Bouraouïa,Marzouk
+actor,28226,Dan (XXVI),Adams
+actor,50526,Jeppe Beck,Laursen
+actor,40173,Paul (II),Douglas
+actor,23450,John,Falch
+actress,25387,Beau,Garrett
+actor,130194,Brandon (I),Hendricks
+actor,53214,KJ,Lodge
+actress,97038,Mary (II),Mackey
+actor,71927,Georges,Bigot
+actor,116886,Patrik,Ström
+actor,35583,Chris (IV),Patton
+actor,69964,Paul (VIII),Grant
+actor,4269,Bel,Jordan
+actor,55093,Jack,Orend
+actor,101155,Juan Carlos,Mangas
+actress,27183,Debbi,Clarke
+actor,117367,Mokshad,Dodwani
+actress,81701,Dina,Spybey-Waters
+actor,113859,Owen (II),Sullivan
+actress,18985,Amanda,Mealing
+actor,22426,Lee (I),Christian
+actor,29225,Frédéric,Alhinho
+actor,130604,Harmage Singh,Kalirai
+actor,147097,Dave,Corsile
+actor,108150,Predrag,Brestovac
+actress,134480,Valerie (I),O'Brian
+actress,86690,Providence,Wissel
+actor,101469,Akuoko,Albert
+actress,99883,Stephanie Katherine,Grant
+actress,19472,Meddy,Ford
+actress,92217,Suesie,Eejima
+actress,111477,Susan,Browning
+actor,67977,Andreas,Wolmuth
+actor,142540,Blue,Deckert
+actor,41401,B.J.,Clinkscales
+actress,48867,Anna,Zsíros
+actor,5435,Hunter,Carson
+actress,141890,Bailey (I),Grey
+actor,103706,Peter (I),Pauli
+actress,58891,Wendy,Miklovic
+actor,55499,John (V),Hopkins
+actor,44976,Bruno,Iannone
+actor,31496,Colin,Egglesfield
+actor,81011,Frank,Oz
+actor,34965,Eli,Bleiler
+actress,103037,Jayne,Broughton
+actor,23712,Harold,Dyrenforth

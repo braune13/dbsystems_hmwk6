@@ -1,0 +1,71 @@
+actor,100082,Dedy,Djunaedi
+actor,148280,Arthur 'II Sweet',Lesure
+actor,115101,Guy,Repp
+actor,78636,Bill,DeWild
+actress,3044,Catherine (I),Hansard
+actor,101733,Blaine (I),Anderson
+actor,131468,Stuart (I),Cooper
+actor,68267,Ramón,Agirre
+actor,45451,Eddie,Marrero
+actor,90861,Stephen,Dexter
+actor,42408,Jonathan,Devred
+actor,132157,Ash,McNair
+actor,76702,Gary,Faga
+actress,37962,Montana,Marks
+actor,120007,Thomas,Snowdon
+actor,89467,Curt (I),Darwin
+actress,93090,Danielle,Kay
+actress,6665,Jennifer (I),Locke
+actor,132032,William,Darke
+actor,33541,John (I),Grillo
+actress,125087,Francesca,Messinese
+actor,75217,Mark (XIII),Adams
+actor,90720,Anthony,Bergeron
+actor,53403,Michel (II),Voyer
+actor,20016,Lennin,Pena
+actress,71126,Dulcie,Day
+actor,65194,Rénos,Mandis
+actor,11616,Bjorg,Lovstad
+actress,34745,Margaret,Lenzey
+actor,120417,Steffen,Groth
+actor,138829,David (I),Elliott
+actress,78659,Assly,Zandry
+actress,119177,Edna,Stirling
+actor,115757,Karl,Willetts
+actor,132529,Leon,Alton
+actor,75304,Holland,Broggie
+actor,66574,Daniel (I),Dupont
+actress,12470,Kelli,Garner
+actor,125595,Darren,Tunstall
+actress,52157,Judith,Benezra
+actor,129856,Woody (I),Brown
+actor,48320,Damir,Skovrlj
+actor,14867,Curtis,Gove
+actor,37895,Glynn,Davies
+actor,143532,Keith,McErlean
+actor,44965,Ted,Napolitano
+actor,4087,Richard (I),Dillard
+actor,52184,Frank (II),Kelly
+actress,78854,Haruko,Tôgô
+actor,71115,Barry (I),Sloane
+actor,20255,Hunter,Bodine
+actor,107371,Dennis,McCave
+actor,127861,Steve,McManaman
+actor,38629,Jack (I),Carroll
+actress,95934,Andrea (I),Harper
+actress,113571,Lorna,Dallas
+actress,28660,Jennifer (I),Starr
+actor,148150,Dave (I),Neal
+actor,123187,T.J.,Villarrubia Jr.
+actress,85288,Rachael,Dantin
+actress,139635,Deborah,DeMille
+actress,43865,Michelle,Benes
+actor,97762,Daniel (II),McGraw
+actor,83931,Neil Alexander,Smith
+actor,138230,Ryan,Seacrest
+actress,142234,Caroline (VII),Thomas
+actress,147367,Marika,Daciuk
+actress,115614,Mia Rose,Colona
+actor,113604,Alexander (III),Cooper
+actress,143999,Juli,Staap
+actor,81581,Martin,Ewen

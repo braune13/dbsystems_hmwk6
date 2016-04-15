@@ -1,0 +1,66 @@
+147684,,,2896075,[Franciszek]
+148252,(as Sara Glaser),,2896075,[Script Supervisor Ellen Thomas]
+148345,,,2896075,[3rd A.D. Sally Irwin]
+3661,(voice),(as Go Aoba),2896313,
+7843,(voice),,2896313,
+11258,(voice),,2896313,
+12752,(voice: English version),,2896313,[Kim]
+13825,(voice),,2896313,[On'na no ko]
+15362,(voice),,2896313,[Ishikawa]
+21587,(voice: English version),,2896313,[Togusa]
+21860,(voice: English version),,2896313,[Cyborg Arm Doctor (Animaze Dub)]
+22933,(voice),,2896313,
+25469,(voice),,2896313,
+32305,(voice),,2896313,[Kim]
+32321,(voice: English version),,2896313,[Ishikawa]
+32871,(voice),(as Hiroyuki Kinoshita),2896313,
+33104,(voice),,2896313,
+36104,(voice: English version),,2896313,[Locus Solus PA System #1 (Animaze Dub)]
+36334,(voice: English version),(as Mr. X),2896313,[Yakuza 4]
+36944,(voice),,2896313,[Kim (Animaze Dub)]
+37469,(voice: English version),,2896313,[Crab Man/Cyborg Dr./Underwater Cyborg/Yakuza 2]
+39862,(voice: English version),,2896313,[Lin (Animaze Dub)]
+41469,(voice: English version),,2896313,[Gynoid/Rescued Girl]
+42259,(voice: English version),,2896313,[Forensics Chief (Animaze Dub)]
+50673,(voice),,2896313,
+51352,(voice),,2896313,
+51760,(voice),,2896313,[Azuma]
+52158,(voice: English version),,2896313,[Crab Man/Undersea Cyborg Escort (Animaze Dub)]
+54674,(voice: English version),,2896313,[Koga/Lin]
+55274,(voice: English version),,2896313,[Rescued Girl (Animaze Dub)]
+61725,(voice),,2896313,
+62266,(voice),,2896313,[Guard/Terrorist]
+63557,(voice),,2896313,
+71647,(voice: English version),(as William Frederick Knight),2896313,[Aramaki]
+71889,(voice: English version),,2896313,[Forensics Chief/Pilot/Security 2/Shop Owner/Yakuza 3]
+73473,(voice),,2896313,[Haraway]
+73526,(voice: English version),,2896313,[Haraway]
+74417,(voice),,2896313,[Koga]
+80145,(voice: English version),,2896313,[Dispatcher/Girl]
+98992,(voice: English version),,2896313,[Batou]
+100365,(voice: English version),,2896313,[Locus Solus PA System #2 (Animaze Dub)]
+103729,(voice),,2896313,[Section 9 Department Chief Aramaki]
+104260,(voice: English version),,2896313,[Sect. 9 Briefing Voice/Yamadori Transport Pilot (Animaze Dub)]
+106058,(voice: English version),,2896313,[Detective/Security 4/Security 5]
+107708,(voice: English version),,2896313,[Detective (Animaze Dub)]
+108105,(voice),,2896313,
+108134,(voice),,2896313,
+110411,(voice: English version),,2896313,[Motoko Kusanagi]
+111764,(voice: English version),,2896313,[Detective/Security 1/Wakabayashi/Yakuza 1]
+116322,(voice),,2896313,[Batô]
+127442,(voice: English version),,2896313,[Koga (Animaze Dub)]
+129877,(voice),,2896313,[Major Motoko Kusanagi]
+130446,(voice: English version),,2896313,[Togusa's Daughter]
+131086,(voice),,2896313,
+133093,(voice),,2896313,
+133278,(voice),,2896313,
+139758,(voice),,2896313,[Togusa]
+140392,(voice: English version),(as David Earnest),2896313,[Detective/909 Dispatcher/Yakuza 1 (Animaze Dub)]
+141240,(voice: English version),,2896313,[Azuma]
+144838,(voice),,2896313,
+146147,(voice),,2896313,
+146706,(voice: English version),,2896313,[Coroner Haraway (Animaze Dub)]
+148169,(voice: English version),,2896313,[Forensics Man/Forensics Staff/Section 9 Member/Security 3]
+1984,,,2897467,[Bud Grossman]
+6817,,,2897467,[Danny]
+8338,,,2897467,[Elevator Attendant]

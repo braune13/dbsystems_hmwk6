@@ -1,0 +1,71 @@
+actor,89111,Jason,Verner
+actor,51381,James (I),Daly
+actor,109207,James Kirk,Sparks
+actor,78624,Ken,Vieira
+actor,122955,Josh (II),Elliott
+actress,25114,Shivani,Thakkar
+actress,52651,Alyson,Court
+actor,129977,Jamie,Harrold
+actor,77363,Joy,Palmer
+actor,88236,Graham (I),Norris
+actress,61318,Ashton,Leigh
+actress,30518,Rengin,Altay
+actress,94968,Eleonore,Weisgerber
+actor,94344,Brian (III),Ashley
+actor,59023,Nathan,Udall
+actress,3266,Lynn,Cartwright
+actress,35487,Olivia,Hussey
+actor,87915,Andrew C.,Mullins
+actor,139706,Bernardo (I),Santos
+actor,85218,Blas,Elias
+actress,97380,Sinead,O'Keeffe
+actor,53538,Ed (I),Jackson
+actress,143263,Zoë,Belkin
+actor,136767,Steve (III),Martin
+actor,122007,Bruce,Snowdon
+actor,131909,Dieter,Witting
+actor,112944,Damien,Atkins
+actor,138223,J.,Bloomrosen
+actor,56058,Philippe,Haussmann
+actress,28197,Michelle (II),Taylor
+actor,70967,Darron,Dunbar
+actress,39943,Deirdre (I),O'Brien
+actor,98920,Landers,Stevens
+actress,18996,Victoria,Koestler
+actor,147871,Richard,Kuhlman
+actress,34071,Andrea,Alcorn
+actress,120993,Kristin (I),Quinn
+actress,126383,Valisha Jean,Malin
+actress,90208,Tamla,Kari
+actor,10242,Ray,Légaré
+actor,54920,Pathik,Desai
+actress,15900,Catherine,Meunier
+actor,96620,Rob (I),Lowe
+actor,7976,Joshua (IV),Peters
+actor,5051,Allan (IV),Murray
+actor,122405,Johnny,Ahn
+actress,64464,Sarah,Sinclair
+actor,75801,David,Rossmer
+actor,103681,Jordan (I),Keller
+actor,120553,Glenn,Fryatt
+actor,54256,Andrey,Barshchevskiy
+actor,13473,James,Rish
+actor,63582,Denny James,Smith
+actor,97461,Steven,Lyon
+actor,39042,Shi Zi,Yun
+actress,133606,Lee,Remick
+actress,81618,Ana (I),Sáez
+actor,140011,Bill (XV),Miller
+actor,59572,Benjamin,Rosenshein
+actor,132900,Jeff,Bredt
+actor,17318,Abdul,Popoola
+actor,86780,Travis (I),Martin
+actor,74634,Daniel,Merwicer
+actor,487,Aron,Freeman
+actor,71855,Smaïl,Mekki
+actress,55559,AnnMarie,Arcuri
+actress,88603,Susan,Malerstein
+actor,98414,Ron (I),Mathews
+actress,60196,Dorothy (I),McCabe
+actor,75355,Gary,Beeson
+actor,90657,Carl S.,Redding

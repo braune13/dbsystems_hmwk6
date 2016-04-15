@@ -1,0 +1,71 @@
+actor,148971,Pharaoh,Kingsley
+actor,45200,Fred (XXVII),
+actor,78921,Ryoji,Ishiguro
+actress,130724,Maria,Gough
+actor,110942,Derek (I),Luke
+actor,100279,Kevin,Jarre
+actor,136151,Joshua,Elrod
+actor,52144,Donovan (I),McCrary
+actress,440,Hyo-ju,Park
+actor,106511,Yasuomi,Sano
+actor,74431,Ewan,Roberts
+actor,142954,Mike,Wachs
+actor,143851,Billy,Redden
+actor,35359,Joshua D.,Safran
+actress,126038,Marianne,McGill
+actor,33954,Alex,Knoll
+actor,42820,Edmund,Lyndeck
+actress,15742,Ann,Ducati
+actor,88360,Kamal,Temal
+actress,102531,Ploy,Jindachote
+actor,137712,Michael,Mantas
+actor,63014,Petr,Semerád
+actress,48416,Libby,Brien
+actress,36062,Jennifer,Gagliano
+actress,85551,Mika,Nakashima
+actor,7858,Zach (I),Tyler
+actor,122044,Clarence (II),Thomas
+actor,134507,Albert 'Sumo',Lee
+actress,86887,Chloé,Malih
+actor,67399,Michael D.,Layden
+actress,49581,Corinne,van den Heuvel
+actor,34476,Carlos (I),Saldanha
+actress,87637,Laina,Schwarz
+actor,94918,Rodney,Syaranamual
+actor,21718,Ato,Essandoh
+actress,118273,Angela,Featherstone
+actress,105358,Zelda,Cleaver
+actor,65010,Kenneth (I),Franklin
+actor,98726,Jeff,LeBeau
+actress,131296,Anne,Nabors
+actor,46147,John (II),Scanlan
+actress,23187,Belinda,Beatty
+actress,124755,Vera,Nova
+actor,108548,Fernando (I),Guillén
+actor,147602,Chuck,Mobley
+actor,112704,Petr,Vlasak
+actor,113541,Bruce,Plasket
+actress,2468,Sabrina (II),Lott
+actor,134299,Albert,Fry Jr.
+actor,26310,Marty,York
+actress,51466,Nicole,Tubbs
+actress,22057,Celeste,Cartier
+actor,54377,Dennis,Watlington
+actor,139936,Woo-hyuk,Choi
+actor,13142,Hong-suk,Lee
+actor,68379,Marcelo,Biju
+actor,86860,Chip,Harrison
+actor,26233,Tilo,Prückner
+actor,144651,Burn,Gorman
+actress,110513,Anna,Gelman
+actor,111327,Matthew,Seadon-Young
+actor,10182,Zhen Wei,Cheng
+actor,45134,Marvin,Winton
+actor,140593,Emelise (I),Aleandri
+actor,81617,Timothy,Hutton
+actress,21537,Margo,Kostelina
+actress,31057,Themie,Zgonis
+actor,40059,Scott (II),Douglas
+actor,105721,Jonah,Grunsell
+actor,142116,Andrew,Stehlin
+actor,58125,Andrew (I),Nason

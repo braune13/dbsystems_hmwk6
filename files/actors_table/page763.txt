@@ -1,0 +1,71 @@
+actor,79409,Kawan,Kean
+actor,141380,James (I),Edwards
+actress,91045,Devika,Parikh
+actor,112187,Michel,Ruben
+actress,49389,Marie,Ardell
+actor,44985,David (III),Horton
+actor,107918,John A.,Neris
+actor,142240,Bill (I),Polk
+actor,49822,Takashi (II),Yamaguchi
+actress,82970,Elizabeth,Popovich
+actor,67369,Chi (I),Ma
+actor,117900,Seth,MacFarlane
+actress,137522,Linda (I),Carlson
+actor,14614,David Leong,Fie
+actress,10775,Judy,Preece
+actor,71916,David (III),Burr
+actress,123162,Gloria,Talbot
+actor,60063,Kris (II),Wilson
+actor,40115,Stephen,Chomko
+actor,3492,Sean (I),Haggerty
+actor,70997,Vance S.,Bjorklund
+actor,15157,Carl (II),Low
+actor,66728,Mike,Carrera
+actor,5049,Frankie,Sullivan
+actress,131872,Natalie,Barish
+actress,112773,Kyas,Sherriff
+actor,83524,Ron (I),Veto
+actor,148008,Lyle,Kennedy
+actor,147099,Jim (I),High
+actor,39616,Seth F.,Miller
+actress,94453,Tami,Prengler
+actor,37265,Larry,Santori
+actor,69844,Alan (I),Close
+actress,42537,Judit,Kuchta
+actress,113778,Eve,Pearce
+actor,76251,Richard (I),Blackburn
+actor,107188,David,Freer
+actor,32641,Bob (IV),O'Brien
+actress,137371,Jacqueline,Guillory
+actress,135663,Taina (I),
+actor,49355,Chris,Chelios
+actor,104866,Ramón (I),Franco
+actor,97485,Jon,Saraceno
+actor,91975,Warren (I),Stevens
+actor,11156,Patrick (III),Bishop
+actor,7120,Nicholas,Huttloff
+actor,9701,George (I),Perez
+actor,77792,Brandon (I),Bordelon
+actor,144853,Dick,Simmons
+actor,147498,Edward,Grundy
+actor,38345,Eduardo,Corral
+actor,18101,Eric (II),Parker
+actress,140381,Nancy L.,Russell
+actor,23755,Wally (III),Michaels
+actor,44291,Albert Grabuleda,Capdevila
+actor,36590,José Luis (I),Ferrer
+actress,47556,Rhona,Croker
+actor,125179,Robert (I),Haley
+actor,98959,Michael Cody,Gilbert
+actress,146432,Sara (I),Stewart
+actor,70535,Mohamad,Al-Jalahma
+actress,11414,Ciara (I),
+actor,141713,Gregory L.,Williams
+actor,87970,Jim,Centofanti
+actor,136246,Scott,Seidman
+actress,67809,Angelica,Alejandro
+actress,65316,Lisa (I),Montgomery
+actor,91735,James,O'Kane
+actor,122721,Jim J.,Poslof
+actress,94577,Janine,Mossuz-Lavau
+actress,116162,Nicole,Mandich

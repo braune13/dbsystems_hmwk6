@@ -1,0 +1,71 @@
+actor,103713,Bob,Ruggiero
+actor,14621,Sang-kyung,Kim
+actor,63353,Dan (I),Holland
+actress,40978,Joyce,Molleur
+actress,142350,Sabree,
+actor,113233,Eric B.,Sindon
+actor,98547,John,Polce
+actor,25773,Nicholas Antonio,Nelson
+actress,141916,Sophiah,Koikas
+actress,129741,Christina,Sheldon
+actress,11280,Shannon,Walshe
+actor,18181,Petr,Vancura
+actor,113737,Matthew (III),Hoffman
+actress,70432,Karen (I),Goeller
+actress,86142,Marjorie,Crump-Shears
+actor,92291,Mike,Butters
+actor,58919,Donny,Caicedo
+actress,36936,Renee,Darmiento
+actress,130263,Heidi (I),Keller
+actor,87695,Douglas,Sheridan
+actor,70542,Bradley (III),Roberts
+actor,101003,Damien,Gomes
+actress,85010,Sylvia (I),Sidney
+actor,6753,Lincoln (II),Lewis
+actor,91283,Mark E.,Corry
+actor,34030,Steve,Godin
+actress,75790,Tess Grimshaw,Lloyd
+actress,3270,Darien,Takle
+actor,99170,Shaun (I),Allen
+actor,146813,Phillip (I),Brock
+actor,12243,Gerry,Ellison
+actor,107320,Edwin (IV),Perez
+actor,89512,Jack,Creley
+actor,55224,Shaunte (I),Knight
+actor,28020,Holger,Schober
+actor,43160,Skipper,Huerta
+actor,137095,Robert,Forte Shannon III
+actor,42073,Loyd Keith,Salter
+actor,12003,Rendra,
+actor,47118,Daniel (I),Faraldo
+actor,48769,Eugene Robert,Glazer
+actor,29822,Chris,Huse
+actor,14711,Lazaro,Galarraga
+actor,103757,Dario,Dukah
+actor,67350,Christopher,Darden
+actor,18107,Christian,Elizondo
+actor,32961,Karel,Vávrovec
+actor,132733,Michael A.,Collins
+actor,80120,Pasquale,Dalessio
+actor,41154,Joel,Coen
+actor,50116,Jae-eung,Lee
+actor,83040,Ashley,Stinnett
+actor,68652,Jean,Pigozzi
+actor,78360,Pawel,Burczyk
+actor,24441,King,Lau
+actress,11507,Ruth (I),Gordon
+actor,113013,Kimberly,Madsen-Thomas
+actor,43060,Adam,Scorgie
+actor,21218,Laurence,Anthony
+actor,42455,Dell,Maara
+actress,65397,Ames,Asbell
+actress,60517,Sakura,Sugihara
+actress,76135,Gabriela (I),Rivas
+actress,63460,Stephanie,Spruill
+actor,32952,Jermain,Hollman
+actor,136570,Roger,Vagnoid
+actor,131452,Eddie (I),Albert
+actress,70069,Kendal,Rae
+actor,17080,Jake T.,Austin
+actress,133049,Twanee,Butterfield
+actor,107385,Mike (VI),Knox

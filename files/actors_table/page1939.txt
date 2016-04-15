@@ -1,0 +1,71 @@
+actor,139573,Taylor (I),Fenech
+actress,92261,Clare,Morpurgo
+actor,84089,Michael T.,Mikler
+actor,61220,Sam 'Kid',Hogan
+actress,18884,Abha,Parmar
+actor,128887,John (I),Basco
+actor,120486,Ameet,Chana
+actor,140123,Ronald,Guttman
+actor,8168,Glen (I),Davies
+actress,148627,Florica,Vlad
+actor,110761,Brady,Stanley
+actress,5453,Sarah (V),Schmidt
+actress,143340,Linda (I),Wylie
+actor,148026,Jeremy,Zook
+actress,85353,Ingrid,Walters
+actress,105496,Mary Ellen (I),Shaw
+actress,51964,Lauren,Waggoner
+actress,109091,Naida,Buckingham
+actress,87413,Jude,Beny
+actor,14952,Jindai,Joseph
+actress,101669,Susan Eileen,Simpson
+actor,111296,Jonathan (I),Bailey
+actor,148001,Roland,Burris
+actress,92368,Ingeborg,Kjeldsen
+actor,68574,Tracy (II),Morgan
+actor,46409,William,Tomlin
+actor,46962,Rich (II),Rose
+actress,104667,Marrisa,Kaye
+actor,101008,Graig Brees,Couton
+actor,142034,Bernard,Fernández
+actress,15945,Jennifer Bean,Alverson
+actor,48231,Matthew G.,Taylor
+actor,117029,Don (IV),Wilson
+actress,134243,Nadia,Fairfax
+actor,108401,Charles (I),Weldon
+actress,113207,Suzie,Steen
+actor,4174,Shadner,Ifrene
+actress,58291,Karen (III),Cole
+actress,29546,Dominique,Davray
+actor,44536,Nigel,Fan
+actor,106488,Juan (III),Gamero
+actor,135047,Mohamed,Dirani
+actor,25249,Philippe (I),Bergeron
+actor,48527,Curt,Applegate
+actor,47188,Russell,Fung
+actor,130860,Anthony L.,Fuller Jr.
+actress,25653,Nancy,Bach
+actress,19798,Feather,
+actor,124773,Vincent,Kiala
+actor,111817,Mickey (I),Martin
+actor,143295,Brian (XVIII),Clarke
+actor,7606,Aaron,LaPlante
+actor,23006,Marc (II),Epstein
+actress,116503,Socorro,Santiago
+actor,66780,Chris (VII),Henderson
+actor,16670,Maxwell,Caulfield
+actor,54845,Bill,Haughland
+actress,23319,Marie (I),Michaels
+actor,129168,Gary 'G. Thang',Johnson
+actor,148298,Aldo (I),Miranda
+actress,80886,Micky,Hoogendijk
+actor,1261,Ken (II),Weiner
+actor,49191,Mathieu,Amalric
+actor,103312,T.,Monaghan
+actress,69913,Carol,McEvoy
+actor,129398,Chad (I),Morton
+actor,81001,Addison,Richards
+actor,3853,Shirô,Tsuchiya
+actor,90782,Bill W.,Curry
+actor,18781,Ian (X),Allen
+actor,56775,John,Lovingood

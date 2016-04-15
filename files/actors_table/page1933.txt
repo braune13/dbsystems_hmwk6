@@ -1,0 +1,71 @@
+actor,31132,Jetsada,Yuktabutra
+actress,102095,Peggy Ann,Clifford
+actor,11226,Georges,Terryn
+actress,144729,Shana,Passman
+actor,77886,Siegfried,Rauch
+actress,55800,Paige (II),Segal
+actor,30337,Jon,Briddell
+actor,136819,Elliot,Goldenthal
+actress,8188,Ruth,Annesi
+actor,36228,Jack (I),Mueller
+actor,120973,Robert Alexander,Baer
+actress,133082,Gina,Rados
+actor,47725,Johnathan,Staci Kim
+actor,110015,Neil,Bonnett
+actress,30290,Agathe,Bodin
+actor,21544,Mark (I),Blum
+actor,43679,John (I),Garson
+actor,55735,Nathan,Mutter
+actor,114141,Phillip,Trammel
+actor,10761,Jung-man,Son
+actress,100351,Jean,Canha
+actor,47757,Jerry,Randall
+actress,118528,Elena,De Jose
+actor,121849,Jim,Van Wyck
+actor,94105,Greg (I),Hicks
+actor,145187,Spencer,DaSilva
+actor,43858,Asen (I),Asenov
+actor,31077,Ming-Tsai,Wu
+actor,99052,Nick (I),Cannon
+actor,145276,Arnar Valur,Halldórsson
+actor,7255,Tucker,Wells
+actress,141932,Nancy,Hopewell
+actress,46565,Sally,Kinghorn
+actor,119655,Somrak,Khamsing
+actor,49385,Fred (III),Meyers
+actor,52187,Joe,Namath
+actress,30726,Marilyn,Jacobs
+actor,1165,John (VII),Jett
+actress,56293,Diane (I),Hall
+actor,21183,Henry (I),Harris
+actress,94387,Deb,Macatumpag
+actor,87747,Carmine,Giovinazzo
+actress,103639,Courtenay (I),Taylor
+actress,71181,Jacquelyn,Dowsett
+actor,145198,Mark Todd,Bruner
+actor,122901,Nabil,Elouahabi
+actor,18300,Chuck David,Willis
+actor,11517,Daniel (IV),Romero
+actor,145494,Suhaas,Khandke
+actress,22872,Prunella,Scales
+actor,107094,Michael Joseph,Materi
+actor,145328,Murray,Jack
+actress,138443,Ann (VIII),Davies
+actress,106011,Janie,Paris
+actor,113201,Ted,Kotcheff
+actor,101715,Karl,Lukas
+actor,43164,Andy (I),Owen
+actor,5816,Ray,Santiago
+actress,51902,Valerie,Mahaffey
+actor,63207,Mitchell,Ingraham
+actress,9368,Kasie,Sage
+actress,81190,Valerie,Winn
+actor,65745,Skylar (III),
+actor,128394,Aleksandr,Misharin
+actor,129656,Steve B.,Harris
+actress,109521,Pamela,Croydon
+actor,128200,Ricky Paull,Goldin
+actor,127886,Widowmaker,
+actress,76086,Pamela Figueiredo,Wilcox
+actor,33172,Ara,Anton
+actress,34822,Grace,Gummer

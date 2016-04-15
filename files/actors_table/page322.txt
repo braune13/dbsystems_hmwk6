@@ -1,0 +1,71 @@
+actor,1215,Kristofer,Dayne
+actor,91809,Sergio (I),Calderón
+actor,39268,Bruce,Connelly
+actor,1399,Jean Antoine,Charest
+actress,11861,Hui-Ling,Wang
+actor,92072,Todd (I),Boyce
+actor,430,Snehal,Dabi
+actor,12995,Mick,Roughan
+actor,122458,David (IX),Lyons
+actor,24110,Duncan,Keller
+actor,86063,John,Stepanian
+actress,10431,Valerie,Dane
+actor,101999,Jose,Caro
+actress,143468,Sorana,Black
+actor,137166,Kerry,Valderrama
+actor,119122,David,De Mering
+actor,79263,James,Le Gros
+actress,148138,Elizabeth,Unda
+actor,142327,Bill,Mazer
+actress,75466,Niki,Redmond
+actor,108249,The Bishop Don Magic,Juan
+actor,132439,Floyd W.,Vaughn
+actress,135818,Alicia Rachel,Marek
+actor,84985,Kliment,Voroshilov
+actress,140804,Anna,Sigalevitch
+actor,148995,Ing-Sik,Whang
+actress,77466,Madaleine,Bassett
+actress,120046,Brittany Alyse,Smith
+actress,88380,Marlene,Warfield
+actress,82314,Chanelle,Lyn
+actor,108476,Billy,Khoury
+actor,139621,Kenneth,Graymez
+actor,101801,Tye,Edwards
+actor,140965,Óscar (II),Lara
+actor,124991,Prince Tylot,Khumaho
+actor,81290,S.J.,Spinali
+actor,40255,Sergio (I),Díaz
+actor,5515,Borf,
+actress,79167,Cynthia,Daddona
+actor,39314,Cass (II),Franklin
+actor,13975,Bruce (I),Wang
+actor,24356,Aftab,Shivdasani
+actor,43486,Lenny,Citrano
+actor,64774,Ryan (I),Hebert
+actor,47972,Danny L.,Martin
+actor,26262,Jerome,Flynn
+actor,34887,P.J.,Kerr
+actress,88104,Juliet,Stevenson
+actor,102641,David (I),Copperfield
+actress,124510,Nikola,Clark
+actress,89235,Micheline,Van de Velde
+actress,140647,Deborah,Fishman
+actor,90869,Tieh-Cheng,Lin
+actress,39337,Margaret,Avery
+actor,86506,Michael (II),Eisenstein
+actress,45519,Sareeya,McNally
+actor,98079,Ikia,Walker
+actor,123814,Mitchell,Falk
+actor,113546,Alex,Chivra
+actor,1571,Dick (III),Jensen
+actor,35249,J.V.,Goodman
+actor,147590,Fred (I),Walton
+actor,42662,Ken'ichi,Suzumura
+actor,63554,Michael (I),Parker
+actor,57923,T.S.,Morgan
+actress,119350,Philomena,Bankston
+actor,12456,Miguel G.,Borda
+actor,19578,Robert,Stoltenberg
+actress,25837,Sian Grace,Phillips
+actor,57105,Brian,McGlaughlin
+actress,136098,Kate,Layden

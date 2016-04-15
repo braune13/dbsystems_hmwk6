@@ -1,0 +1,71 @@
+actor,52270,Frank (I),Cooper
+actor,112435,Dan,Ziskie
+actress,28015,Lois,Brandt
+actress,28303,Lucia M.,Aguirre
+actor,52897,Luis (I),Villegas
+actor,115391,Richard (I),Hollis
+actress,91417,Herta,Ware
+actress,114668,Laura (II),Warner
+actor,103377,River,Thompson
+actor,71198,David M.,Tran
+actor,34105,Geoffroy,Morange
+actress,33679,Ljiljana,Jovanovic
+actor,31572,Ronald (I),Lacey
+actress,116775,Kate,McClafferty
+actor,120192,Roland (I),Wolf
+actress,63203,Andrea (I),Sandell
+actress,42582,Jennifer (I),Johns
+actor,42923,James Badge,Dale
+actress,136323,Julia,Prud'homme
+actor,89067,Jackson (I),Beck
+actor,4199,Gordon,Signer
+actor,99409,Ernst-Georg,Schwill
+actor,110183,Slim,Khezri
+actress,133679,Georgette,Pasare
+actor,94312,Jeremiah,Bagley
+actress,6658,Jacquie,Palisi
+actress,119582,Josie,Iller
+actor,118131,Murray,Nicholson
+actor,38807,Lars-Åke,Gustavsson
+actor,4101,Joserra,Cadiñanos
+actor,52874,Augustus,Oicle
+actress,122222,Kate Rees,Davies
+actress,44131,Judy (I),Durning
+actress,114107,Ella,Thomas
+actor,144529,Bill,Minkin
+actress,51367,Michelle (II),Thomas
+actor,123507,David,Fresco
+actor,117345,William Jay,Marshall
+actress,20974,Ge-Nye,Robinson
+actor,60512,Kit (I),Carson
+actor,2299,Marcos,Woinsky
+actress,65264,Daniela,Lebang
+actor,126022,Carlos,Compean
+actress,121032,Rebekah,Kennedy
+actor,54157,Jaroslaw,Kopaczewski
+actor,138051,Eric 'Babyface',Walsh
+actress,52926,Rebecca,Frohlinger
+actress,45288,Rachelle,Short
+actress,73792,Amelie (I),Litwin
+actress,77255,Patti,Deutsch
+actress,20212,Mary,Woronov
+actor,147737,Nipon,Chaisirikul
+actor,54663,Petr,Strnad
+actress,132246,Frédérique,Feder
+actor,120160,Johnny (I),Cash
+actor,51924,Richard Daniel,Williams
+actor,32220,Dennis (I),Romero
+actress,69039,Juanita J.P.,Taylor
+actor,7652,Fred (VII),Anderson
+actor,81745,Jason (X),Ferguson
+actor,144690,Jascha,Washington
+actor,55730,Fabio,Armiliato
+actor,26437,François,Dieudonné
+actor,60885,Rick (I),Rosenthal
+actor,124403,Carlos (X),Ramos
+actor,62825,Jack (I),Carpenter
+actor,103646,Jan,Nemejovský
+actor,123047,Brett R.,Miller
+actor,97093,Jackson,Gitonga
+actor,28168,Oleg,Hill
+actress,28255,Stephanie,Domini

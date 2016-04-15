@@ -1,0 +1,71 @@
+actor,2086,Peter (I),Macdissi
+actor,145722,Mark,Joy
+actress,86223,Sushma,Reddy
+actor,54156,Jerry,Della Salla
+actress,33608,Tracy (I),Shields
+actor,133787,Eddie (I),Davis
+actor,128058,Tony (I),Clark
+actor,86489,Al (I),Foster
+actor,104737,Howie,Rose
+actor,44170,Stuart,Schreiber
+actress,10050,Cassie,Creasy
+actress,20869,Talia,Lanning
+actress,98067,Courtney,Kling
+actor,122275,Peter (I),Hudson
+actress,112887,Anika,Poitier
+actor,145002,Brian,Wightman
+actor,15488,John (XVIII),Baker
+actor,42166,Richard (I),Ridings
+actress,60792,Alexis,Raich
+actor,122420,Jessie,Pham
+actor,5673,Martin,Lovick
+actor,38691,Robin,Wilcock
+actor,83276,Sonam,Wangchuk
+actor,70478,David (I),Cavendish
+actor,83050,Ray,Stoddard
+actress,103217,Karin,Syz
+actor,105647,Chris,Cound
+actor,52697,Ethan,Carpenter
+actress,26179,Ali,Chen
+actress,117549,Barbara L.,Southern
+actor,90105,Ulysses E.,Campbell
+actor,97618,Shervin,Davatgar
+actor,143703,Steven,Calcote
+actress,56873,Patricia (II),Allison
+actor,52760,Jaroslav,Misek
+actress,1743,Dina,Merrill
+actor,53617,J.D.,Dawodu
+actress,39865,Sally,Kishbaugh
+actress,134749,Grace,Aronds
+actor,77409,Sava,Rapic
+actor,34738,R. David,Stephens
+actor,34500,Andrew (V),Dawson
+actress,142160,Chelsea,Lagos
+actress,78492,Jade,Marx-Berti
+actor,133513,John,Junkin
+actor,89189,Jaime,Powers
+actor,106397,Dylan (II),Hoffman
+actor,112230,Ryan (XV),Ford
+actor,125160,Masaaki (I),Tachibana
+actress,30612,Yuemin (I),Li
+actor,107247,David (V),Conley
+actor,19357,Michael (I),Hartnett
+actor,44605,John (I),Robb
+actor,54612,Ken (II),Taylor
+actor,70687,Bryan (V),Fox
+actor,137130,Joshua (I),Carver
+actor,659,Adam (XLVI),Jones
+actress,115495,Talulah,Riley
+actor,30052,Dennis (I),Fischer
+actor,47552,Joshua,Shalikar
+actor,132110,Nicholas (I),Hutchison
+actress,81035,Janet,Varney
+actor,84239,William,DeMeo
+actor,31454,Jeffrey,Voorhees
+actress,119086,Tanya (I),Roberts
+actor,115392,Roy,Nesvold
+actor,11804,Lorenz,Hasler
+actress,96798,Kim,Kauffman
+actor,22915,Ufuk,Karaali
+actor,87820,Gustav,von Wangenheim
+actor,137141,Marshall,Crenshaw

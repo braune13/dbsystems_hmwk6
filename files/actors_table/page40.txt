@@ -1,0 +1,71 @@
+actress,126025,Hannah,Killingsworth
+actress,16122,Sandy Gwen,Smith
+actor,192,Peter,Killy
+actor,46036,Francesco,Bovino
+actor,97055,George,Pellegrino
+actress,36794,Melody,Garcia
+actress,110595,Laci,Broussard
+actor,139391,Rick (I),Levy
+actress,97827,Elisabeth,Matheson
+actor,42084,Blake (I),Ellis
+actor,96944,Manuel E.,Santiago
+actor,47611,Kevin,Cacy
+actor,41086,Jeffrey (I),Rogers
+actress,77738,Katie,Boggs
+actor,131322,Nino,Castelnuovo
+actor,146228,Jean-Louis,Roux
+actor,14965,Abraham,Rubio
+actress,47466,Louison,Blivet
+actor,147150,James (V),Gill
+actor,30760,Vernon,Nurse
+actress,2304,Gem,Collingwood
+actor,64110,Noel,Manchan
+actor,144217,Gerard,Espert
+actor,33874,Frederick,Walker
+actor,73317,Dabney,Coleman
+actor,56042,Rupam,Maxwell
+actress,40926,Natasha,Yi
+actor,143448,Dominic Paolo,Testa
+actor,140124,Tianyuan,Huang
+actress,102621,Beulah,Archuletta
+actor,76654,Joe (VIII),Thompson
+actor,9173,Dylan,Sprayberry
+actor,74993,Jeroen,Willems
+actress,40797,Diana,Parros
+actor,19015,Nat,Watts
+actor,19816,Tim (I),Davis
+actress,89936,Yvette,Petit
+actor,15783,Harry (I),Cody
+actor,9997,Ben,Loderhose
+actor,13799,Rob Leo,Roy
+actress,71853,Christine,Chiem
+actress,50047,Claudia,Choi
+actor,84379,Akihiro (II),Nishida
+actor,43845,Tim,Pilleri
+actor,25770,Mark,Lockyer
+actor,70829,Michael,Barbaro
+actor,41712,Richard (I),Dysart
+actor,36826,Lawrence,Barth
+actor,145178,Vern,Taylor
+actress,8307,Paige (VII),Anderson
+actor,106632,Billy (III),Jackson
+actor,134342,James (II),McElroy
+actress,118393,Wanda (I),Cannon
+actress,64791,Lynne,Langdon
+actor,59841,Tony (I),Griffin
+actor,55895,Pierre (I),Forest
+actor,109261,Arliss,Howard
+actor,125833,Daniel,Kargieman
+actress,69653,Amy (I),Hill
+actor,31341,Brian (XV),King
+actor,87104,Heihachirô,Ôkawa
+actor,54962,Jan,Spanbauer
+actor,16042,Terry (II),Stewart
+actress,35550,Jenilee,Deal
+actress,114920,Kiralee,
+actor,18599,David (VII),Rosenberg
+actor,68966,Chorn,Solyda
+actor,81649,Tommy,Blaze
+actor,119532,Jerome,Bethea
+actor,17298,Jose Pablo,Cantillo
+actor,66871,Yuri (II),Lemeshev

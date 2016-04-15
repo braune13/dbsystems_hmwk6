@@ -1,0 +1,71 @@
+actor,70075,Brian (II),Ho
+actor,69071,Roy,Esplin
+actress,2951,Kimberley,Rampersad
+actress,72454,Judith,Barsi
+actor,105033,Martin (I),O'Malley
+actor,22062,Bobby Jon,Drinkard
+actor,81949,Roberto (I),Huerta
+actor,127402,John (VI),Andersen
+actor,88139,Jonathan (II),Adler
+actor,55426,Michael (I),Chieffo
+actress,10841,Nicole,Lovince
+actor,87219,Daniel,Schlusser
+actor,128103,John (I),Anton
+actor,54936,Cordell,King
+actor,4851,Walter,Cots
+actress,55720,Tatjana,Patitz
+actor,61996,Claus,Biederstaedt
+actor,116741,Rolandas,Hendricks
+actress,3164,Lorraine,Bahr
+actress,73526,Ellyn,Stern
+actress,19013,Amber-Lee,Campbell
+actor,92906,Jaan,Padda
+actor,60087,Steve,Bisley
+actor,16249,Johnny (VII),Flynn
+actress,12610,Elena,Ayala
+actress,4545,Insia,Lacewalla
+actress,140588,Sharon (I),Peters
+actor,134534,Michael (IX),Diaz
+actor,84185,Fred,Bessa
+actor,118631,Stefan,Sauk
+actor,15330,Christian,Stolte
+actress,57021,Rose,Parenti
+actress,55349,Meenakshi (VI),
+actor,49594,Edward,Toro
+actor,3229,Hassan,Allawati
+actor,141336,Jacob,Ericksson
+actor,6031,Leon,Palamarciuc
+actor,146929,Marshall,Lefcourt
+actor,79269,Vincent,Carella
+actress,109511,Amanda,Columbus
+actress,38875,Charlotte,Melen
+actress,50210,Connie,Valenzuela
+actress,82847,Jodi,Knotts
+actor,90592,Àaron,Brewster
+actress,14670,Addison,Timlin
+actor,35400,James (VII),Stewart
+actress,14275,Melanie Angelique,Moyer
+actor,116839,Minosuke,Yamada
+actress,453,Brittany Dawn,Beall
+actor,12907,Martin,Lawton
+actor,111863,Joseph,Repoff
+actor,2500,Kevin (I),Thoms
+actor,136644,Clark Heathcliff,Brolly
+actor,97264,Jack (II),Cunningham
+actor,136104,Byron,Shores
+actress,33856,Melorine,Adler
+actress,120444,Julie,Maher
+actress,41942,Ronny,Hallin
+actress,65230,Kiersten,Hall
+actress,107443,Anne,Marineau
+actress,23033,Emily,Seaman
+actor,82844,Eric (I),Porter
+actress,96056,Brilane,Bowman
+actor,91442,Pasquale,Cajano
+actor,143731,Gary (III),Yates
+actor,113513,Jon Robert,Hall
+actor,46053,Sam,Keeley
+actor,35638,Daniel V.,Trefts
+actor,54919,Hassan (VIII),Ahmed
+actor,100385,Rob,Darren
+actor,127511,Barry,Sobel

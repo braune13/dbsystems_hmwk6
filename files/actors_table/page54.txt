@@ -1,0 +1,71 @@
+actor,33155,Roger,Léger
+actor,134066,Percy,Hutchison
+actor,134987,Tyrell,Kemlo
+actor,145037,Craig (I),Berry
+actor,81938,Terrance,Harkless
+actor,61779,William,DeMeritt
+actor,16028,Will,Reiser
+actor,57817,Zoltan,Zilai
+actor,94204,Evert,Hallmarken
+actress,37529,Alexandra,Apjarova
+actress,75633,Delfina,Paredes
+actor,18760,Dominic,Condon
+actor,30021,Kerry,Winchester
+actress,69832,María (II),Valverde
+actress,67862,Catherine E.,Coulson
+actress,69106,Amy,Parrish
+actor,104540,Lee (VIII),Thomas
+actor,94131,Michael (I),Dyson
+actor,91507,Toney,Tutini
+actor,1050,Eric (I),Kent
+actress,114523,Adrianne,Palicki
+actor,140858,Donald,Korte
+actor,144291,David (XLIV),Williams
+actress,99854,Katrina (I),Fisher
+actor,144371,Robert (I),Bartley
+actor,109811,Dave,Eiland
+actress,126743,Etta Mae,Allen
+actor,81604,Juan Carlos,Arvelo
+actor,93514,Alejandro,Espesp
+actor,75657,Brandon,Tamburri
+actor,115711,Bedrettin Sina,Kilinç
+actress,30982,Lindsay,Beamish
+actress,17818,The Fat Lady,Stripper
+actor,867,Michael (I),Showers
+actor,98523,Barry R.,White
+actress,84733,Nisha (I),Nair
+actor,102758,Pavel,Simcík
+actress,127193,Geena,Davis
+actress,119039,Jenna (I),Emery
+actor,122528,Dan,McCrory
+actor,132789,Ho Wing,Ling
+actor,112129,Masachika,Ichimura
+actor,13225,Ben,Fiore
+actress,9481,Robin,Menken
+actor,102522,Derek (I),Boyes
+actor,82207,Portis,Hershey
+actress,45435,Maya,Van Horn
+actor,22720,Abhay,Deol
+actor,66059,Terrence (I),Sullivan
+actor,15958,Big Ben,Kennedy
+actor,16544,Ron (I),Goss
+actor,64221,Paul,Humpoletz
+actress,19061,Mary Beth,Tapert
+actor,132869,Rhett (I),Smith
+actor,128468,Dennis,Bagneris
+actor,94345,Christopher (IV),Plummer
+actor,69534,Rene,Bontana
+actor,75492,Jon (II),Barry
+actor,113731,Rob (I),Arbogast
+actress,108365,Bader,Howar
+actor,47320,James (XCII),Williams
+actor,103924,Christopher,Chabot
+actor,120175,Lee,Hartley
+actor,8952,Luke,Bracey
+actor,48496,The,Reverend
+actress,28118,Ruth,Clifford
+actor,23438,Christopher S.,Porter
+actor,72407,Barack,Obama
+actor,37875,Julian,Curelop
+actress,59354,Hannah,Rosenberg
+actress,13989,Erin Elizabeth,Reed

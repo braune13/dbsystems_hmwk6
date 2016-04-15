@@ -1,0 +1,66 @@
+79758,,,3548644,"[Father (segment ""Safe Haven"")]"
+83061,(as Andrew Lincoln Suleiman),,3548644,"[Joni (segment ""Safe Haven"")]"
+83228,,,3548644,"[Zack's Friend (segment ""Slumber Party Alien Abduction"")]"
+85242,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+86059,,,3548644,"[Shotgun Dude (segment ""A Ride in the Park"")]"
+87910,,,3548644,"[Zack (segment ""Slumber Party Alien Abduction"")]"
+91448,,,3548644,"[Demon (segment ""Safe Haven"")]"
+92442,,,3548644,"[Ibu Sri (segment ""Safe Haven"")]"
+94021,,,3548644,"[Young Girl (segment ""Phase I Clinical Trials"")]"
+94097,,,3548644,"[New Guard (segment ""Safe Haven"")]"
+94679,,,3548644,"[Alien No. 3 (segment ""Slumber Party Alien Abduction"")]"
+94879,,,3548644,"[Guard 2 (segment ""Safe Haven"")]"
+98049,,,3548644,"[Lena (segment ""Safe Haven"")]"
+99404,,,3548644,"[Uncle (segment ""Phase I Clinical Trials"")]"
+101154,,,3548644,"[Dead Boyfriend (segment ""A Ride in the Park"")]"
+102287,,,3548644,"[Larry (segment ""Tape 49"")]"
+102323,,,3548644,"[Hotel Maid (segment ""Tape 49"")]"
+104548,,,3548644,"[Bloody Man (segment ""Phase I Clinical Trials"")]"
+106136,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+106335,,,3548644,"[Shawn (segment ""Slumber Party Alien Abduction"")]"
+106575,,,3548644,"[Model (segment ""Slumber Party Alien Abduction"")]"
+108331,,,3548644,"[Ayesha (segment ""Tape 49"")]"
+108592,,,3548644,"[Tank (segment ""Slumber Party Alien Abduction"")]"
+110085,,,3548644,"[Guard 1 (segment ""Safe Haven"")]"
+111186,,,3548644,"[Gary (segment ""Slumber Party Alien Abduction"")]"
+111306,,,3548644,"[Zombie (segment ""A Ride in the Park"")]"
+113423,,,3548644,"[Randy (segment ""Slumber Party Alien Abduction"")]"
+113512,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+113819,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+114595,,,3548644,"[Guard 4 (segment ""Safe Haven"")]"
+114993,,,3548644,"[Demon (segment ""Safe Haven"")]"
+115248,,,3548644,"[Biker (segment ""A Ride in the Park"")]"
+115303,,,3548644,"[Alien No. 1 (segment ""Slumber Party Alien Abduction"")]"
+116460,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+117753,,,3548644,"[Good Samaritan Girl (segment ""A Ride in the Park"")]"
+122934,,,3548644,"[Teacher (segment ""Safe Haven"")]"
+123629,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+123729,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+125931,,,3548644,"[Jen (segment ""Slumber Party Alien Abduction"")]"
+127512,,,3548644,"[Soccer Dad (segment ""A Ride in the Park"")]"
+129024,,,3548644,"[Spiderwoman/Dead Lady (segment ""Safe Haven"")]"
+132937,,,3548644,"[Zombie (segment ""A Ride in the Park"")]"
+133617,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+133717,,,3548644,"[Steve (segment ""Tape 49"")]"
+134784,,,3548644,"[Justin (segment ""Phase I Clinical Trials"")]"
+136269,,,3548644,"[Wife (segment ""Safe Haven"")]"
+136370,,,3548644,"[iPhone Filming Kid (segment ""A Ride in the Park"")]"
+139809,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+141153,,,3548644,"[Screaming Girl (segment ""A Ride in the Park"")]"
+23,,,3548929,[Audrey Crandall]
+809,(uncredited),,3548929,[EMT]
+2780,(uncredited),,3548929,[Park Visitor]
+3351,,,3548929,[Clark Griswold]
+3622,,,3548929,[Jake]
+5315,(uncredited),,3548929,[Police Officer]
+6148,,,3548929,[Ellen Griswold]
+9878,(uncredited),,3548929,[Park Ranger]
+10726,(uncredited),,3548929,[Speedo Gigolo]
+11223,,,3548929,[Terry]
+11672,,,3548929,[Husky Lady at Monument]
+12092,(uncredited),,3548929,[Disappointed Family]
+16272,,,3548929,[Harry Co-Pilot]
+16306,(uncredited),,3548929,[Wally World Mom]
+21116,(uncredited),,3548929,[Airport Traveler]
+22171,(uncredited),,3548929,[Raver Chick]
+22363,,,3548929,[Kevin Griswold]

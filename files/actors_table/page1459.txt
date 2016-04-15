@@ -1,0 +1,71 @@
+actor,52111,Edward (I),McNamara
+actor,110075,Rick,Wooley
+actor,60034,Benj,Thall
+actress,31770,Lori,Lezama
+actress,109700,Suaundra,Black
+actor,15514,Tristan,Laurence
+actress,17025,Ciça,Meirelles
+actor,144179,Johnny,Raaen
+actor,71490,Kamran,Usluer
+actor,22511,Anatoliy,Obukhov
+actor,123163,James (I),Staley
+actor,43771,Troy (II),Williams
+actor,84080,Suraj,Partha
+actor,111098,Richard (XV),Stanley
+actor,112098,Tin Shing,Hoh
+actor,105316,Akram,Allie
+actor,13805,Michael,Kroeker
+actor,48976,Troy,Coulon
+actor,93890,Victor,McGuire
+actress,107282,Ruth,Fanchon
+actor,77537,Mark,Keyloun
+actor,103902,Paul A.,Brown
+actress,87287,Raffiella,Chapman
+actress,76405,Lyubov,Kazakova
+actor,123895,Jon,Seda
+actress,118743,Shaun,Rylee
+actress,3119,Jo,Farkas
+actress,32833,Mary Ann,Coles
+actress,81767,Stephanie (I),Moore
+actress,60223,Valerie,Karasek
+actor,53649,Seth R.,Williamson
+actress,97109,Teresa,Shaughnessy
+actor,83661,Patrick,Languzzi
+actress,28771,Kamela,Peart
+actress,94128,Susan,Boehm
+actress,71450,Yui,Miura
+actor,47873,Jeshurun,Howard
+actor,138089,Ali (I),Nazari
+actress,84478,Danielle (I),Spencer
+actor,117209,Roger,Schueller
+actor,108012,John Paul,DeJoria
+actor,83431,Scott,Burkholder
+actress,124454,Eleanor,Tomlinson
+actor,122664,Mykell,Barlow
+actress,60192,Sarifa,Salanga
+actor,135944,Herbert,Butterfield
+actor,143915,Kevin (V),Hudson
+actor,107181,Aldous,Davidson
+actress,134640,Seong-mi,Im
+actress,81010,Lindsay,Leese
+actor,33358,Don,Woodard
+actor,35429,Frank,Lackteen
+actor,38138,Chris,Loew
+actor,265,Tim,Grimm
+actor,21289,Philip M.,Potempa
+actor,99671,Glenn,Gerner
+actor,114328,Joshua,Mikel
+actress,21128,Irene Olga,López
+actor,32469,Adom,Osei
+actor,149193,Damon,Standifer
+actress,38981,Paige,Lehnert
+actress,26181,Cammie,King Conlon
+actress,102793,Leslie,Ayvazian
+actor,119690,Bill (V),Clark
+actor,58512,Billy D.,Washington
+actor,145311,David (I),Stanford
+actress,10426,Louise,Stratten
+actor,57715,Jack,Gwaltney
+actress,140375,Jane,Belson
+actor,134444,Cosmo,Sardo
+actress,49792,Sasha,Azevedo

@@ -1,0 +1,71 @@
+actress,80101,Marie,Joelyn
+actor,73267,Léon,Dussault-Gagné
+actress,67051,Phuong (VIII),Nguyen
+actor,93193,Lee,Wilkof
+actor,82801,Richie,Mac
+actress,40021,Natacha,Jeantet
+actress,70561,Augustine,Flint-Hartle
+actor,10076,Clark,Smithson
+actor,68117,Robert Scott,Wilson
+actor,68520,David (I),Morse
+actress,52491,Angela (I),Walsh
+actor,87847,Waydon,Croft
+actor,99253,Phil,Wilkinson
+actor,106879,David,Goryl
+actor,115883,Andrea,Tilli
+actress,98886,Teresa,Lin
+actress,140254,Vanessa,Smythe
+actor,137097,Colm,Feore
+actor,5038,Sakchai,Jairatsamee
+actress,123836,Kristina,Madericova
+actor,21931,Scott Michael,Campbell
+actress,79698,Bo-ra,Nam
+actor,27875,Danny (I),Smith
+actor,79240,Atsushi (II),Sato
+actor,24831,Greg,Hindsley
+actor,5817,Tyler,Shackelford
+actor,61734,Ben,Dova
+actress,90185,Janet,Henfrey
+actor,7877,Billy,Corgan
+actor,58545,Morgan (I),Ward
+actress,1506,Davina,Whitehouse
+actor,3225,Randee,Barnes
+actor,49852,Vincent,Roxburgh
+actor,70828,Roman,Radov
+actor,77557,Chris (III),Robson
+actor,13287,Curtis,Wayne
+actor,10817,Derek (XIV),Miller
+actress,57162,Constance,Dasse
+actor,127888,John (V),McCarthy
+actor,97854,Taylor,Warden
+actress,711,Sunni,Boswell
+actor,24635,Andrew,Ableson
+actress,98791,Lichelli,Lazar-Lea
+actor,101979,Rod C.,Rich
+actor,118332,Patou (I),
+actor,144820,Spencer,Brillanceau-Lewis
+actor,90030,Aleks,Paunovic
+actress,9432,Victoria (I),Brooks
+actress,17482,Brandy,Ledford
+actor,37288,Fred (I),Clark
+actor,117921,Maxwell,Terlecki
+actor,143270,Bernie (II),Jones
+actress,44612,Brenda,Goodbread
+actress,119800,Camille,Bright
+actor,36777,Eric (I),Oakes
+actor,96112,Rene,Gube
+actor,116897,Steven Chester,Prince
+actor,105921,Kevin,Senn
+actor,129884,Scott (I),Brent
+actor,116907,Pete,Talton
+actor,142146,Rodney (I),Shelton
+actor,98369,Hugh,Gillin
+actress,138409,Sarah,Yee
+actor,116532,Tony (IX),Taylor
+actor,101057,Tony,Marsico
+actress,46596,Carolyn (I),McCormick
+actress,12845,Glenn,Close
+actor,46080,Gary,Zahakos
+actor,130635,James D.,Brubaker
+actor,44258,Tony,Jayawardena
+actress,107299,Zuzana,Kadlecova

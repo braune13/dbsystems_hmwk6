@@ -1,0 +1,71 @@
+actor,136347,Ethem,Temizkanoglu
+actor,113710,Peter,Bartfay
+actress,132340,Celia (I),Xavier
+actor,99535,George,Takei
+actor,18562,Cason,Richter
+actress,130369,Julia (II),Bauer
+actor,22860,Joe,Adebe
+actor,47058,Albert,Finney
+actor,39304,Habib,Hamdane
+actor,122714,Greg,Holliday
+actor,148005,Moti,Makan
+actor,146507,Tim,Steed
+actress,15582,Sarah,Wyatt
+actor,9756,Dylan,Kingwell
+actor,41188,Thomas Jefferson,Byrd
+actress,85095,Ricardia,Bramley
+actor,24136,Ted,Neustadt
+actor,109746,Darcy,Laurie
+actor,59147,Antonio (I),Vargas
+actor,117337,William,Cranford
+actor,145578,Gig,Young
+actress,90447,Melissa (VII),Jackson
+actor,26893,Andrew (I),Carmichael
+actress,145787,Sue,Thies
+actress,24681,Charlotte,Rinnooy Kan
+actor,73587,Lassiter,Holmes
+actor,120896,Bill,Lunn
+actor,105261,Christopher P.,Beale
+actor,39354,Eric,Delcourt
+actress,64671,Pamela,Shaddock
+actor,61425,Cristóbal,Blanco García
+actor,95823,Navrotem,Bain
+actor,68175,Phil,Miler
+actress,113290,Elaina,Horne
+actor,113232,David (II),Harcourt
+actress,97781,Laura Lizer,Sommers
+actor,66907,Pete,Dicecco
+actor,139985,Nicolas (I),Bro
+actor,139136,John,Karlsen
+actress,9409,Amila,Terzimehic
+actor,2051,Charles,Haugk
+actor,119254,Sheriff,Kargbo
+actor,30283,Dyrk,Ashton
+actress,1080,Georgia,Craig
+actor,139104,Ryan Patrick,Williams
+actress,25845,Retta (I),
+actor,64299,Douglas,Chapman
+actor,135254,Dave,DeAngelis
+actress,1065,Danijela,Vranjes
+actor,27609,Joseph (II),Esposito
+actor,41970,Lance (II),Patrick
+actor,12621,Jon,Ingrassia
+actress,17308,Kathryn,Weisbeck
+actor,71481,Spain,Logue
+actress,45976,Signe,Berger
+actress,45448,Martha,Bamattre
+actor,107015,Koji,Morisawa
+actor,662,Mike,McCutchen
+actress,97911,Beverly (I),Andrews
+actress,73582,Anna,Chancellor
+actor,125342,Kamel,Ferrat
+actress,2275,Shauna,Richardson
+actor,96678,Tom,Kinzer
+actor,22320,Tim (I),McIntyre
+actor,19630,Tony,Di Mitri
+actress,35120,Emily (I),Goode
+actor,93236,Adam,Druxman
+actor,131027,Walter (I),Miller
+actor,20035,Jun'ichi (II),Okada
+actor,72682,Ryan Allen,Carrillo
+actress,144053,Maxine,Gates

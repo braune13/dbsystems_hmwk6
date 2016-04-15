@@ -1,0 +1,71 @@
+actor,36573,Sheldon Peters,Wolfchild
+actor,38496,Barry,Seltzer
+actor,128584,Paul (II),Giovanni
+actor,22469,Young-min (I),Kim
+actor,92209,Inigo,Jackson
+actor,125409,Tony,Leete
+actor,81890,Brent,Gorcie
+actor,36385,Mark (IV),Brady
+actress,97330,Robyn,Malcolm
+actor,127390,David L.,McMillan
+actor,139831,Jim (IV),King
+actor,18928,James (III),Rawlings
+actor,113887,Jenei,Attila
+actor,102151,Kit,Cope
+actress,82104,Leigh,Mahoney
+actor,138461,Scott,Ganyo
+actor,66769,Michael,D'Ascenzo
+actor,98843,Aaron (I),Henry
+actress,82480,Myrna,Cabello
+actor,116743,Damian,Branica
+actress,74562,Virginia (I),Allee
+actress,103581,Teri,Black
+actress,65724,Claire (I),Fox
+actor,119515,Guillermo,Valedon
+actress,143083,Sara,Magdalin
+actor,112560,Roberto (IV),Carlos
+actor,18179,Takashi,Ebata
+actress,110172,GloZell,Green
+actress,67997,Lindsey,Howell
+actor,104120,Matthew W.,Tate
+actor,122904,Gary R.,Pike
+actress,74019,Faith,Craig
+actress,90337,Mackenzie,Fitzgerald
+actor,19890,Morton,Downey Jr.
+actor,44961,Yu,Nagasaka
+actor,830,Joe,Herndon
+actress,56356,Margarita,Álvarez
+actress,58017,Vera,Havelková
+actor,29853,Danny,Hansford
+actor,138393,Jon,Schueler
+actor,25973,Rossif,Sutherland
+actor,128229,Nicholas J.,Coleman
+actor,58867,Philip,Moon
+actor,7352,Michael,Siberry
+actor,91952,Fabrizio,Brienza
+actor,96437,William,Graeff Jr.
+actress,26251,Fernelle,Edmund
+actor,56075,Christian (I),Perry
+actor,33463,E. Lee,Smith
+actor,137090,Kojo (I),Asiedu
+actress,60836,Betina,Hershey
+actor,142380,Sai Tang,Yu
+actor,56689,David (I),Adkins
+actor,23976,Jesse,Lunsford
+actor,6231,Pal,Aron
+actor,25940,Richard,Ranta
+actress,32847,Barbe,LaPierre
+actor,145658,Eduardo (I),Calvo
+actor,140760,John,Wengraf
+actor,141700,Paul,Mikhail
+actress,147308,Kailin,See
+actor,65742,Percy,Herbert
+actor,106328,Paul (XV),Davies
+actress,47685,Sheila (I),McCarthy
+actress,72438,Jasmin Barbara,Mairhofer
+actor,131426,Martín (IV),Hernández
+actress,60096,Stela,Piskic
+actor,122709,Rick (I),Collins
+actor,41803,Devin (II),Allen
+actor,49983,Charles 'Skip',Pitts
+actress,76171,Stefania,Marcone

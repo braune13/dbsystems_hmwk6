@@ -1,0 +1,71 @@
+actor,82762,Barry (I),Greco
+actress,10976,Karin,Calabro
+actress,25425,Jana,Bittnerova
+actor,53362,Steve (XV),Schmidt
+actor,64030,Kevin,Wiggins
+actor,92265,Stefan,Rasporich
+actress,81482,Josephine,Byrnes
+actor,69426,Dean,Dittman
+actor,126882,Yulian,Díaz
+actor,31141,Jonathan (I),Harvey
+actor,59350,John H.,Tobin
+actor,111612,Honey,Chhaya
+actor,27604,Patricio Almeida,Rodriguez
+actor,86900,Thomas Noel,Smith
+actor,38704,Albert,Carrier
+actress,35127,Ariel,Waller
+actor,30280,Tommy,MacLuckie
+actor,139940,Alberto,Amarilla
+actress,79663,Kira (I),Verrastro
+actress,98089,Cindy,Winsor
+actress,130765,Britney,Chisholm
+actor,8136,Mario (I),Griego
+actress,29772,Kathy (I),Martin
+actor,100453,Al,Lettieri
+actor,100977,Doug E.,Doug
+actor,131514,Michiya,Higuchi
+actress,11445,Mika,Yokoyama
+actress,124149,Rebecca,Dandeniya
+actor,101318,Gary L.,Minix
+actress,28786,Diane,Franklin
+actress,116523,Mairi,Babb
+actor,27511,Troy (XI),Davis
+actor,38384,Scott,Bellefeville
+actress,36108,Alexa,Kuve
+actor,74256,Lexington,Steele
+actor,65221,Tex,Duffy
+actor,134129,Paul L.,Nolan
+actor,138819,Marijan,Zoric
+actress,122135,Megan,Lusk
+actor,22866,Stephen (III),Spencer
+actress,28703,Lisa (I),Stahl
+actress,90189,Bunty,Webb
+actor,101486,Kelly-Anne,Gower
+actress,144929,Marea,Lambert Barker
+actor,19921,Maurice (II),Morgan
+actor,563,Vasiliy,Domrachyov
+actor,126546,Christopher (XIV),Payne
+actor,135455,Matt,Considine
+actress,120372,Heidi Kathy,Bradhurt
+actress,46214,Nancy,Steen
+actor,19735,Bernard-Pierre,Donnadieu
+actor,62012,David (XII),Kirby
+actor,3867,Edgar,Sherrod
+actor,104627,Lazaro,Solares
+actor,8552,Salim (III),
+actor,71333,Vasi,Vangelos
+actress,142264,Tatyana,Shchankina
+actor,128753,Stephen (II),Bishop
+actor,128049,Tony,Luke Jr.
+actor,36705,Larry E.,Lundy Jr.
+actor,66045,Lonnie,Henderson
+actor,10402,P.J.,Marshall
+actress,18669,Rose Mary,Campos
+actor,131533,Wendell,Kinney
+actress,120976,Joan,Greenwood
+actor,91979,Joey,Ghinelli
+actor,40418,Rick (I),Overton
+actor,147484,Vince,Deadrick Jr.
+actor,41702,David Lloyd,Meredith
+actress,84561,Kimberly (I),Crawford
+actress,112010,Graciela,Marin

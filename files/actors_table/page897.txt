@@ -1,0 +1,71 @@
+actress,135550,Ellie,Hyams
+actress,18087,Dixie,Tymitz
+actor,42187,Donald,Warnock
+actress,145973,Teresa,May
+actor,56438,John J. (I),Fox
+actor,56026,Peter,Plusch
+actor,103676,Damon,Charles
+actor,123125,Gene,Farber
+actress,74557,Alina,Kaufman
+actor,135220,Suli,McCullough
+actor,138317,Noah Lee,Margetts
+actress,69165,Karen,Bankhead
+actress,126273,Cece,King
+actor,10197,Atmen,Kelif
+actress,557,Gina A.,Duran
+actress,108945,Desi,Lydic
+actor,22376,Philip (II),Roth
+actor,141461,Sputzy Sparacino,
+actor,62006,Victor,Gotti
+actor,23948,Norman,Reedus
+actor,54293,Mike,Randleman
+actor,31592,Paul,Bosche
+actor,44597,Shaka (IV),
+actor,60255,Michael,Tabone
+actor,6818,Francisco,Marán
+actor,82220,Scott (I),Cordts
+actor,3758,Chet,Grissom
+actress,112767,Sondra,Locke
+actress,45307,Myrna,Moretti
+actress,89378,Antonette,Saftler
+actor,19935,Arthur,Taxier
+actor,85536,Roshawn,Franklin
+actress,5875,Amy,Sacco
+actor,80972,Osami,Kawano
+actress,28871,Megan,Galiber
+actor,126384,Gôshi,Matsuhara
+actress,6332,Sophiya,Haque
+actor,65940,Mark (II),Beesley
+actress,9566,Millie,Tirelli
+actress,45950,Sandra,Shipley
+actress,103262,Angelyna,Martinez
+actor,109168,John (IV),Collier
+actor,119229,Xander,Merciers
+actor,26256,Riley,Paton
+actor,24066,Chris (V),Tomlinson
+actress,127121,Diana Elizabeth,Torres
+actor,4906,Marq,Speck
+actor,51162,Guillermo (V),Ruiz
+actor,116556,Nick (II),Albanese
+actor,127656,Michael (I),Brandon
+actor,129421,Dilip,Angre
+actress,140140,Sarah (VIII),Marshall
+actor,45567,Travis (I),Nicholson
+actor,9018,Sonny (II),Allen
+actor,61447,Wally,Friedrichs
+actor,81013,Jasbir,Mann
+actress,92281,Rue,McClanahan
+actress,148834,Sonia,Belley
+actor,27776,Keith (I),Allen
+actress,75182,Phyllis (I),Douglas
+actor,88743,Martin (I),Mason
+actor,26790,Brian,Rogalski
+actress,78821,Rayisa,Kondracki
+actress,46444,Molly (I),Urquhart
+actor,140697,Albert,Murphy Sr.
+actress,130412,Ann,Druyan
+actor,81374,Yaroslav,Romashenko
+actor,147859,Alexander,Diamandi
+actor,146721,Jerry L.,Durham
+actor,145992,James J.,Ghang
+actress,147833,Alexa,Davalos

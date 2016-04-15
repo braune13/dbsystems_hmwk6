@@ -1,0 +1,71 @@
+actor,22731,Tony,D'Amario
+actress,140809,Capucine (I),
+actress,13017,Laura,MacKillop
+actor,90624,John,Boyega
+actor,65932,Jesse (I),Owens
+actor,30434,Jeff,Draheim
+actor,125999,Tyler (I),Perry
+actress,46260,Peggy (I),O'Neal
+actor,138174,Philip (II),Harvey
+actor,142996,Jason C.,West
+actress,56408,Sarah,Dandashy
+actor,92162,Li Bin,Hong
+actor,111309,Michael,Metta
+actor,45665,Jack (III),Stanley
+actor,145571,Seth,Carr
+actor,33410,Drew (I),Wicks
+actress,91082,Yvonne,Valdez
+actor,79563,Cyril,Chaussivert
+actress,90423,Rosalyn,Thomson
+actor,93806,Phillip,Earl
+actor,97418,Manny,Sosa
+actress,26044,Lauren,Gallagher
+actor,32974,Michael (I),MacKenzie
+actor,57888,Charles Henry,Smith
+actress,49611,Ruth,Leah
+actress,123105,Lisa,Sparrman
+actress,142854,Erica,DiMarzo
+actress,42621,Trina,Parks
+actor,35377,Ryan (I),Kowalske
+actress,109389,Audrey,Pawl
+actor,31563,John,Cassavetes
+actor,4875,Dan (I),Shea
+actress,8621,Stephanie (I),Williams
+actress,25743,Nadja,Minyon
+actor,11316,James,Wasiloff
+actor,141613,Peter,Spears
+actress,38729,Bonnie,Perlman
+actor,51853,R.H.,Thomson
+actor,56731,Ron,Underdahl
+actress,59583,Claire Seely,Fedoruk
+actor,95605,Jess (I),King
+actor,8499,Troy,Dalton
+actor,69086,Christopher,Lawford
+actor,129509,Les (I),Perkins
+actress,86744,Sandra (II),Silvestri
+actor,74952,Curtis,Plagge
+actor,10676,The,Beringhaus Family
+actor,115060,Andy (VI),Lee
+actress,29589,Jen (I),Osorio
+actress,132500,Marjorie,Irving
+actor,63468,Lester,Kills Crow
+actress,6617,Alexandra (V),Fraser
+actor,77133,Jimmy,DeGrasso
+actor,4306,Massimiliano,Belsito
+actor,12312,Norm,Compton
+actor,107069,Dan,Ferro
+actress,104096,Gloria,Crist
+actor,143865,Nelson,Mandela
+actress,137678,Maria,De Fortis Nadi
+actress,70359,Esther (I),García
+actor,49785,Pierre,Vaneck
+actor,112491,David (I),Tabor
+actress,22973,Susie,Lindeman
+actor,33394,Ronn,Moss
+actor,47745,Piero,Antonini
+actor,122821,Jeffrey 'Machine',McCann
+actress,31670,Shannon,Brokaw
+actor,79221,Konstantin,Shayne
+actor,52989,Danny the,Wonder Pony
+actor,135645,Robert,Winley
+actor,82041,Paul,Jene

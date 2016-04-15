@@ -1,0 +1,71 @@
+actor,113069,Jonathan (I),Cook
+actress,112343,Ji (I),Wang
+actor,72459,Nathan,George
+actor,132622,Brandon (I),Smiley
+actor,116681,Riccardo,Bacigalupo
+actor,94089,Martin (I),Speer
+actor,22113,Billy (II),Campbell
+actor,47363,Ron,Kennell
+actress,315,Pilar (I),Ortega
+actress,115655,Amanda,Van Roberts
+actor,91603,Nick (I),Uhas
+actress,139004,Margo,Melancon
+actor,33254,Zooey,Greif
+actress,2376,Sachiko (I),Kobayashi
+actress,35213,Lyn,Kennington
+actor,8236,Albie,Woodington
+actor,11271,Ben,Naylor
+actress,30009,Corinna,Laszlo
+actor,60814,Noel,Blanc
+actor,137246,Peter (XII),Watson
+actress,142184,Hiroko (II),Kawasaki
+actor,142738,Michael,Haboush
+actor,139581,Edwin,August
+actor,26440,Lonnie (I),Plaxico
+actress,73060,Venus,Terzo
+actor,99025,Fidel,Vicioso
+actor,142322,Harold,Olofsson
+actress,84536,Miyoshi,Jingu
+actor,80266,Ian (I),McIntyre
+actress,31430,Sheryl,Benko
+actor,96962,Carl,McDowell
+actress,84990,Tredessa,Dalton
+actor,131354,Vitalijus,Cololo
+actor,103293,Doug,Nicholas
+actor,24951,Dietmar,Schönherr
+actor,27797,Mandy,Patinkin
+actor,66025,Terrell,Owens
+actress,2794,Susan (I),Sarandon
+actress,135504,Concha (II),Galán
+actor,62190,Richard,Jollymore
+actor,93932,Kevin,Haberer
+actress,59986,Joan,Goloboy
+actress,112408,Katherine Krapum,Chey
+actor,117722,Trey,McGriff
+actor,133711,Josh (VI),Heller
+actress,2157,Hebe,Beardsall
+actor,66826,Andrew P.,Banuelos
+actor,1481,Ben,Dimmock
+actor,53697,Katsuhiro,Kitagawa
+actress,71297,Michaela,Pereira
+actor,119752,Stefan,Nelet
+actor,132399,Nathan (I),Corbett
+actress,43208,Kim,Ashdown
+actress,45705,Gina,Sestak
+actor,130325,Mpho,Molao
+actor,95994,Andrew Gray,McDonnell
+actor,21873,Jordan (I),Rubin
+actress,126853,Sharon (I),Rice
+actor,98966,Manny (II),Jimenez
+actress,69867,Jenifer Rebecca,Foster
+actress,52051,Colette,Squires
+actor,17696,Jedidiah,Goodacre
+actor,135919,William,Maltz
+actor,17213,Rudy,Hornish
+actor,102924,Brad,David
+actor,100990,Joseph Quinn,Simpkins
+actor,116769,Mark Lewis,Jones
+actor,142006,Reggie,Miller
+actor,113711,Mitch,Pileggi
+actress,117178,Jennifer Pearl,Childers
+actress,27684,Mary (I),Bailey

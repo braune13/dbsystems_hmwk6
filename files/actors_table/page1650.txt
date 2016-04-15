@@ -1,0 +1,71 @@
+actor,14604,Anthony (I),O'Neill
+actor,105208,Bob (XXII),Jones
+actress,139246,Rebecca (V),Price
+actor,123946,Vladimir,Tatosov
+actress,12319,Lisa-Lou,Rosenberg
+actress,97647,Corrina (I),Lyons
+actor,137696,William,Fix
+actress,140923,Nikita,Francois
+actor,4823,Mobin,Khan
+actor,133825,Simon (II),Barr
+actress,81874,Patti,Negri
+actor,27307,Erik (I),Holland
+actor,24863,Earl,Finn
+actress,72510,Dartenea,Bryant
+actress,47493,Cyndi,Lauper
+actress,40531,Katie (XL),
+actor,115460,Yuri,Klimov
+actor,73621,Parker,Contreras
+actor,141156,Greg (II),Ingram
+actor,138162,Buster,Verbraeken
+actor,115186,Michael,McNab
+actress,42698,Beverly,Bayzik
+actress,128900,Anya,Avaeva
+actor,35559,Masayuki (I),Katô
+actress,108347,Patricia,Clarkson
+actor,85920,Antonio,Padin
+actor,46014,Dennis (I),Miller
+actor,85528,Graham,Bardsley
+actress,56204,María Isabel,Díaz
+actor,6315,Jonah,Keyes
+actor,138020,Kevin,Csolak
+actor,76541,Nikolay,Kutuzov
+actor,67780,Mike G.,Yohannes
+actress,145772,Jonez,Cain
+actor,35582,Nick,Sandow
+actress,51551,Wendy,Tobias
+actor,73322,Malcolm,Simpson
+actor,75451,Andrew (VII),Collins
+actor,52436,Thamonwan,Srinatsomsuk
+actor,100217,Marcus,Callender
+actress,125621,Dawn Marie,Anderson
+actress,67156,Bette,Shoor
+actor,25777,Ronnie,Smollet
+actor,57917,José María,Mendiola
+actor,87408,Charles,Hallahan
+actor,6985,Riley (I),Hill
+actor,42091,William E.,Kilson
+actor,56798,Mike (II),Patton
+actor,118482,Derek,Larthey
+actress,134336,Emily,Goldwyn
+actor,86255,Clifton,Guterman
+actor,116618,Kevin,Ruf
+actor,83516,Travis (III),Nelson
+actor,16594,Theo,Rossi
+actor,93329,Christopher,Midkiff
+actress,98477,Nicole G.,Leier
+actor,114563,Don S. (I),Davis
+actress,60620,Joanne,Kruse
+actor,57104,Kent,Sublette
+actress,13650,Allison,Caetano
+actress,36607,Fran (II),Bennett
+actress,148619,Elizabeth (I),Pan
+actor,132415,Juan (I),Guerra
+actor,19802,Donnie (I),Smith
+actress,68148,Aleida,Guevara
+actress,41448,Hilary,Kennedy
+actress,86644,Debbee,Hinchcliffe
+actor,15971,Gordon,Masten
+actor,55054,Charles,Croughwell
+actor,6587,Trenton L.,Culkin
+actress,37701,Margie,Duncan

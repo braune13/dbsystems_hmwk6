@@ -1,0 +1,71 @@
+actor,116853,John,Pankow
+actor,146260,Stephen,Bise
+actor,28736,Michel,Vuillermoz
+actress,141875,Carol,Cardwell
+actor,95902,Shaun,Adler
+actor,34256,Toa,Waaka
+actor,70943,Noah,Shaffer
+actress,116069,Imogene,Coca
+actress,139838,Tarri,Markel
+actress,127099,Julie (I),Marcus
+actor,126894,Yvan,Chiffre
+actor,104286,Antonio (VI),Gil
+actress,119551,Katherine Elizabeth,McLean
+actor,127076,Chris (V),Walker
+actor,48878,Jake M.,Smith
+actress,115684,Elen,Bober
+actor,88346,Tommy (XV),Brown
+actor,36354,Achmad,Supriatno
+actor,129002,Paul,Chevreau
+actress,31898,Susan,Mechsner
+actor,30099,Jermaine,Montell
+actor,59595,Nick,Eversman
+actor,139584,Sedat,Mert
+actor,17410,Berk,Nelson
+actor,122104,Steve,Kelso
+actress,132914,Maureen,Mendoza
+actor,111074,Bedri,Çavusoglu
+actor,19279,Iang,Darmawan
+actress,71985,Melissa,Grimmond
+actor,5436,Karey,Kirkpatrick
+actress,5254,Ora,Rubinstein
+actor,39504,Michael (XXIII),Doherty
+actress,140674,Jacqueline,Barrymore
+actor,59204,Charlie,Garber
+actress,55714,Kelly,Cramer
+actress,141382,Marilyn (I),Cooper
+actress,61906,Jenna,Milton
+actor,108464,Jeremy (II),Meyer
+actress,7953,Grace (II),Kelley
+actor,4945,Triton,King
+actor,105198,C. Xavier,Drayton
+actress,44948,Julie (III),Payne
+actor,39252,Michael J.,Patterson
+actress,48618,Alisen,Down
+actor,28735,Ronald Lou,Edwards
+actress,30230,Chele,André
+actress,85731,Karlyn (I),Michelson
+actor,88374,Takuzô,Kumagai
+actress,64832,Lynn,Filusch
+actress,143670,Maliah,Hudson
+actor,94635,Hiroshi (II),Mori
+actress,51940,Tiara,Ramos
+actor,16305,Todd (I),Thompson
+actress,52310,Susan,Stroh
+actress,105049,Lisa (I),Morgan
+actor,85943,Mickey,Cottrell
+actress,13760,Danai,Gurira
+actor,22059,Yuriy,Vorotyntsev
+actor,99382,Olivier,Bauchet
+actress,35688,Amy,Casey
+actor,63686,Derek Mark,Lochran
+actress,24707,Cari,Champion
+actor,5686,Abdu Rahim,Kashmir
+actress,81554,Kobe,Tai
+actress,82724,Donna,Chetty
+actor,128667,Matthieu,Eeckeleers
+actor,37215,Jason,Gatti
+actor,63445,Jonathan (II),Tripp
+actor,136136,Alex (I),Romero
+actor,4078,Fabian,Gujral
+actor,88608,Day,Golfin

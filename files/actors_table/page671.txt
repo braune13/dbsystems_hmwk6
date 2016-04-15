@@ -1,0 +1,71 @@
+actor,117693,Jehan-Pierre 'The Preacher',Vassau
+actress,56302,Joy,de la Paz
+actor,128252,Robert (II),Chapman
+actor,110930,Rod,Haase
+actress,49113,Sam (I),Stevenson
+actor,127303,Eric,Ambriz
+actor,123840,David (III),Fowler
+actor,92257,Cody,Linley
+actor,98954,Kermit,Maynard
+actress,136809,Yûko (I),Kobayashi
+actor,3247,Adrian,Curran
+actress,139632,Maria (I),Semenova
+actress,135647,Jenny,Powers
+actor,121332,Benny,Hinn
+actor,99642,Geoffrey,Streatfeild
+actor,2047,Paul (IX),Carr
+actor,124109,Robert (VI),Thorne
+actor,149303,Leon,Askin
+actor,15840,Andi,Sherrill
+actor,124038,Shamu (II),
+actor,100507,Narsingh,Balwantsingh
+actor,82708,Philip,Lamey
+actor,20807,Kenneth A.,MacDonald
+actress,114080,Trudi,Forristal
+actor,145743,Norman,Barbera
+actress,77106,Alexandra,Pascalidou
+actress,73710,Olga,Sosnovska
+actress,95483,Barbara (I),Beck
+actor,64291,Carl,Ciarfalio
+actress,116105,Ashley Dru,Douglass
+actor,101278,Patrick (II),McLoughney
+actor,5740,Gavin,Grazer
+actor,141293,Tom (III),McNulty
+actor,86863,John Shade,Vick
+actor,101940,Maxime (I),Tremblay
+actor,139808,Jace,Alexander
+actress,5234,Michelle (IV),Clark
+actor,26357,Mike,Zehr
+actress,38720,Lavelle,Roby
+actor,62391,Kid,Richmond
+actor,25528,Tony (II),Ionno
+actor,64497,Leonard,Kirby
+actor,89718,Mark J.,Parker
+actress,121757,Cassia Gladys,Peman-Cadan
+actress,8877,Natalia (I),Torres
+actor,66806,Michael,Burca
+actor,90628,Ralph,Easton
+actor,90028,E. Daniel,Corte Jr.
+actor,28074,William Jøhnk,Nielsen
+actor,122853,Bob (II),Barr
+actress,36237,Susan,Haskell
+actress,127767,Annika,Strandberg
+actor,15263,Bernie,Yao
+actor,112607,Raoul,Bova
+actor,135142,Wilson,Bethel
+actress,1297,Mairead,Armstrong
+actor,148552,Philip,Yamaguchi
+actress,75674,Judyth,Daley
+actor,105213,Marcel,Rouzé
+actress,128523,Rebecca,Lawrence Levy
+actor,62160,Kelvin,Hale
+actor,13261,Clarence,Moore
+actor,61053,Ashwin,Mushran
+actor,78954,Romeo,Akrawi
+actress,94826,Mary (I),Donohue
+actress,119686,Anita,Briem
+actress,104952,Jessica Ivy,Distad
+actress,33478,Lisa,Datz
+actress,10971,Katie,McGovern
+actor,45117,Richard,Side
+actor,53822,Mackenzie,Trainor

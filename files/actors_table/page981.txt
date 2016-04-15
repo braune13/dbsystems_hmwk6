@@ -1,0 +1,71 @@
+actress,71696,Karen (I),Harrison
+actress,29237,Satu,Runa
+actor,1041,T'y,Brown
+actress,125459,Leslie,Hippensteel
+actress,127667,Erna,Boas
+actor,12759,Jody (II),Burch
+actor,66884,Jeffrey (I),Hunter
+actor,22964,David,Longworth
+actor,87894,Stephen 'Sugar',Segerman
+actor,44099,Christy,Alcroft
+actor,111127,Christopher,Basile
+actress,56414,Laura,Fortier
+actor,22944,Matt,Samson
+actor,103479,Robert,Henny
+actor,51006,Ricardo,Chacon
+actor,134452,David (I),Graf
+actor,142389,Robert (VIII),Jones
+actress,137742,Pernilla,Göst
+actress,125623,Yangzom,Brauen
+actor,76442,David (I),Berman
+actor,51766,Tom (I),Becker
+actor,23960,Richard A. (I),Roth
+actress,51372,Kathleen (II),Mackey
+actor,47168,Rio,Ahn
+actress,45758,Jordan,Todosey
+actor,52889,Jonathan,Linsley
+actor,34106,Stuart (I),Scott
+actress,57082,Valerie,Morgan
+actress,102560,Jocelyn,Blue
+actress,96117,Bridgette,Wilson-Sampras
+actor,77926,Brett Lee,Clark
+actor,40143,Fred,Zanolino
+actor,104474,David (I),Lea
+actor,5176,Michael (I),Washington
+actor,115459,Roman,Arabia
+actor,29009,Nick,Dong-Sik
+actor,5509,Ralph,Drischell
+actor,15505,Manny,Petruzzelli
+actor,115024,Jeffrey M. (II),Miller
+actress,56874,Kiki Della,Vecchia
+actor,67796,Darryl,Sivad
+actor,89252,Eric (V),Schmidt
+actor,134959,Richard (I),Woo
+actress,42625,Ethel L.,Mayes
+actor,8189,Jonathan (I),Munk
+actor,42471,Patrick (II),Gilmore
+actor,130440,M. Emmet,Walsh
+actor,84624,Oz,Noori
+actor,100564,Eduardo,Parisi
+actor,100359,Willie,Onafesso
+actor,43748,Stephen (I),Occhipinti
+actor,24855,Umar (I),Khan
+actress,91185,Yael,Barnatán
+actor,3642,Takamitsu,Ôkubo
+actor,52066,Kim Hoan,Nguyen
+actress,49341,Renee,Krieg
+actor,63400,Maurice,Barthélémy
+actor,51470,Satyendra,Kapoor
+actress,133030,Ilana (I),Miller
+actor,66823,Larry (II),Lalonde
+actor,35109,Nick (III),Salter
+actor,14043,Inca,
+actress,12466,Rachel (I),Melvin
+actor,72060,Leon (II),Turner
+actor,115354,Khalio,Walker
+actor,100967,Alan,Turkington
+actress,101005,Roberta,Quaresima
+actor,146836,Corey (I),Burton
+actress,83398,Mona (I),Marshall
+actor,80299,Grady,Holder
+actress,84026,Kelly,Hare

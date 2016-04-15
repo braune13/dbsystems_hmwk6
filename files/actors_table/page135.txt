@@ -1,0 +1,71 @@
+actress,21584,Vicki (I),Hunter
+actor,5845,Charles,Guardino
+actress,14866,Stéphanie (I),Durand
+actress,10425,Barbara,Babbin
+actor,51063,Phillip,MacKenzie
+actor,65152,Christopher,Fennell
+actress,100731,Maria,Latour
+actor,120103,Brent,Godek
+actor,28833,Juan Carlos (I),González
+actor,99104,Samuel,Ornitz
+actor,115472,Antal,Kalik
+actor,115052,Robert (I),Richardson
+actress,19120,Laura,Robling
+actress,102502,Corri,English
+actor,82351,Grady,Bowman
+actress,10592,Robin,Duke
+actor,109301,Ken (I),Tran
+actress,119375,Beverly,Todd
+actor,143303,Tom (I),Hutchinson
+actor,74767,J. Alan,Davidson
+actress,142549,Rosy,Clayton
+actor,143535,Tomas,Andrisiunas
+actor,138952,Joseph,Otimi
+actor,144047,Akut,Metin
+actor,46225,Sam (I),Weisman
+actress,86001,Nichola,Sequeira
+actress,103341,Sally-Jane,Heit
+actor,134319,Turbo (I),
+actor,29062,DaJuan,Rippy
+actress,95817,Debby,Bishop
+actor,47990,John (II),Paxton
+actor,20702,Dennis Neil,Henderson
+actress,85944,Roxana,Benseman
+actor,35119,Jason,Yorker
+actor,110766,Ian,Downie
+actress,13714,Brandi,Vergow
+actor,89150,Philip,Buch
+actress,37798,Marina,Budovsky
+actor,46599,P.,Jairaj
+actor,101690,Alexis,Rangheard
+actress,40468,Etienne,Vick
+actor,64521,Bruce,Blain
+actor,111718,Sonny Carl,Davis
+actress,139618,Yuki,Kazamatsuri
+actor,147913,Keith,Oney
+actor,60958,Johnny,Lai
+actress,141796,Véronique,Balme
+actor,79644,Rick,Mischke
+actor,53772,Garret,Noël
+actor,31951,Bryan (IX),Lee
+actress,117460,Lesley,Dunlop
+actress,52596,Meredith Scott,Lynn
+actress,71374,Laura,Tracy
+actress,16481,Jennifer,Swirtz
+actress,90421,Venera,Torti
+actor,131655,Mark,Powley
+actor,46510,Lidet,Viravong
+actor,121212,Edmondo,Tieghi
+actor,120491,Giancarlo,Romani
+actor,8955,Bill (I),Moody
+actor,30309,Craig,Veroni
+actress,32000,Diane,Daniels
+actress,133858,Marie,Keefe
+actress,104207,Jennifer,Aniston
+actress,72405,Kim,Basinger
+actor,35175,Michael (II),Baez
+actor,70382,Gurdial,Sira
+actor,77481,Brian,Dennehy
+actor,50587,Paul (V),Grace
+actress,7028,Lettie,Ibarra
+actor,36627,Phil,Shelly

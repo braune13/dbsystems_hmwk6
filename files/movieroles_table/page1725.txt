@@ -1,0 +1,66 @@
+139347,,,2975014,[Norma joven]
+140976,,,2975014,[Fulgencio]
+143521,,,2975014,[Cristina]
+13800,,,2977851,[Widow]
+26584,,,2977851,[Gelsomina]
+38744,(uncredited),,2977851,[Waiter]
+39648,(uncredited),,2977851,[Prostitute]
+53547,,,2977851,[Zampanò]
+72483,(uncredited),,2977851,[Bartender]
+114367,(uncredited),,2977851,[Man Restraining Zampano from Attacking]
+115078,(uncredited),,2977851,
+116824,(uncredited),,2977851,[Gelsomina's Mother]
+117688,,,2977851,[Giraffa]
+123538,,,2977851,[Nun]
+129135,(uncredited),,2977851,[Man Restraining Zampano from Attacking]
+143290,,,2977851,[The Fool]
+145939,(uncredited),,2977851,[Prostitute]
+49785,,,2977058,[Monsieur Pouchet]
+51729,,,2977058,[Christine Miroux]
+56197,,,2977058,[Martine]
+58254,,,2977058,[Zoé]
+62820,,,2977058,[Stéphanie]
+70017,,,2977058,[Serge]
+89936,,,2977058,[Ivana]
+93829,,,2977058,[Stéphane Miroux]
+103104,(as Decourt Moyen),,2977058,[Gérard]
+111520,,,2977058,[Monsieur Persinnet]
+121391,,,2977058,[Piano-playing Policeman]
+127172,,,2977058,[Présentateur JT]
+130162,,,2977058,[Sylvain]
+133274,,,2977058,[Policeman]
+145817,,,2977058,[Guy]
+1924,,,2979568,[Piou-Piou]
+11025,,,2979568,[Samir]
+11562,,,2979568,
+11908,,,2979568,[Thomas]
+12987,,,2979568,
+16085,,,2979568,[Lucie]
+19761,,,2979568,[Camille]
+20048,,,2979568,[Prof de français 'Antigone']
+24213,,,2979568,
+24760,,,2979568,
+27414,,,2979568,[Samir]
+28350,,,2979568,
+28547,,,2979568,
+30423,,,2979568,[Emma]
+30710,,,2979568,[Manon]
+33877,,,2979568,
+36733,,,2979568,[Wisdom]
+39233,(as Leila D'Isserno),,2979568,
+40153,,,2979568,
+41250,,,2979568,[Lise]
+42653,,,2979568,
+50578,,,2979568,[Pierre]
+52624,,,2979568,
+59568,,,2979568,[Antoine]
+65697,,,2979568,
+66026,,,2979568,[Flavie]
+66149,,,2979568,[Sabine]
+67630,,,2979568,[Elizabeth]
+72721,,,2979568,
+73224,,,2979568,[Mère Adèle]
+74140,,,2979568,[Justine]
+75539,,,2979568,
+75625,,,2979568,
+76357,,,2979568,[Béatrice]

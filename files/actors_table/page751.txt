@@ -1,0 +1,71 @@
+actor,21006,John,Lasseter
+actor,84243,Michael J.,McAlister
+actress,80182,Rosemary,Annabella
+actor,129445,Matthew (I),Benjamin
+actor,1609,Harald,Doornbos
+actor,50631,Andrew,Pierno
+actor,16483,Jonathan B. (I),Wright
+actor,110879,Vance,DeGeneres
+actor,32014,Stevie Ray,Anthony
+actor,142267,Corey,Maher
+actor,59548,Gerard,Armstrong
+actress,55210,Cera Rose,Pickering
+actor,35574,Shishir,Kurup
+actress,142188,Sophia,Myles
+actress,37536,Kathy (II),Reese
+actor,103289,Jorgos,Makrakis
+actor,136160,Henry,Roosevelt
+actor,129646,Homer G.,McCready
+actress,47853,Janet (I),Scott
+actor,99293,Britt (I),Swenson
+actress,147432,April (V),Lawrence
+actor,86787,Tom (II),Cox
+actor,9569,Andres,Faucher
+actor,123800,Bryant,Woodert
+actress,47187,Kipling,Rowe
+actor,45070,Patrick,McKernan
+actor,98232,Chung Chi,Li
+actor,137063,Marc,Mouchet
+actor,93831,Stu 'Large',Riley
+actress,34029,Karen,Grassle
+actress,101860,Donna (I),Perry
+actor,12259,Virendra,Razdan
+actress,19340,Stephanie Dawn,Wood
+actor,91823,David,Strohschein
+actor,26858,Jan,Petrik
+actor,78362,Seamus,Foley
+actor,114333,Lewis,Tan
+actress,42388,Francesca (I),Ellana
+actor,41071,Paul K.,Haje
+actor,101500,Lenny,Widegren
+actress,136155,Lauren,Sanchez
+actor,145633,Flex (I),Alexander
+actress,13305,Marguerite,Cazin
+actress,43833,Beth (II),Kennedy
+actor,9991,Alberto (II),Reyes
+actor,31274,Joey,Jordison
+actor,139875,Billy,Atchison
+actor,142818,Patrick,Massieu
+actor,106775,Liam,Gallagher
+actor,121831,Caleb,Peterson
+actor,111632,Frank,Hagney
+actor,129470,Cj.,Mackey
+actor,40859,George,Farish
+actor,65811,Charl (I),Engelbrecht
+actor,49549,Yuk-San,Cheung
+actress,66484,Anastasia,Rojas
+actor,9509,Simon (I),Girard
+actress,98549,Cassie,Denslow
+actor,38859,Nate,Hartley
+actor,97855,Vladimír,Hrbek
+actor,63725,Norichika,Iimori
+actress,74196,Molly,Gottlieb
+actress,145357,Sheila (I),Moore
+actress,101186,Romy,Dushoff
+actress,2740,Liz,Strange
+actor,19669,Kurt (I),Zimmerman
+actor,39006,Michael C.,Pommier
+actress,57786,Belinda,Archer
+actor,84596,Terry (IV),Young
+actor,105210,B.,Matysik
+actor,79374,Ian,McLarnon

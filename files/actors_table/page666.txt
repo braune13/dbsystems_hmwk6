@@ -1,0 +1,71 @@
+actor,105649,Manuel (VI),González
+actor,11902,Sandy (I),Welch
+actor,100332,Brian M.,Wixson
+actor,67440,Darrell L.,Connerton
+actor,127500,Greg (VII),Williams
+actor,145165,Scott,Sparrow
+actress,80240,Meggan,Lennon
+actor,20889,Toby,Messiter
+actor,111364,Austin (I),Craig
+actor,60761,Maurice (I),Costello
+actress,3328,Lori Simone,Wilkerson
+actor,73768,Gino,Anganda
+actor,139779,Austin,Drage
+actress,24775,LisaGay,Hamilton
+actor,28232,Johnny,Pulcinella
+actress,45589,Dorothea,Swiac
+actress,97192,Sanela,Seferagic
+actress,78759,Loretta,Marsh
+actor,68639,Trevor,Stevenson
+actress,148438,Ariane,Pellicer
+actress,78723,Mercey,Campbell
+actor,116711,Daniel,Ings
+actor,12432,James,Schram
+actress,3956,Antonia,Frering
+actor,24265,Vincent,Smith Jr.
+actor,85145,Inos,Phungula
+actor,143143,Victor,Koliacos
+actor,78511,Yoshi,Oida
+actress,74365,Tommie,Baxter
+actress,26134,Tammy,Dugen
+actor,124474,Ross (I),Hutchinson
+actor,79719,Fui-On,Shing
+actor,38787,Hugh,Lampman
+actress,65237,Lissette,Espaillat
+actor,101337,John Sanford,Moore
+actor,66597,Brian (I),Rice
+actor,14470,Bob (II),Joyce
+actor,82659,Dillon,Hines
+actor,42214,Jim,Steinpreis
+actor,100413,Sean,McNabb
+actor,65161,James P.,Dunnigan
+actress,42233,Carlena,Gower
+actor,11651,Martin,Broome
+actor,128117,Ravi,Khemu
+actor,51602,Richard Rekow,
+actor,110688,Will (II),McAllister
+actress,70352,Karen,Giordano
+actor,66677,Roger,Caccia
+actor,145009,David,Follosco
+actor,30267,Hashim,Lafond
+actress,33498,Sara Jennifer,Sharp
+actor,55558,Alexander,Telles
+actress,92538,Carlee,McManus
+actor,81524,William (I),Manning
+actor,57353,Leopold,Rosner
+actress,20307,Glenda,Pannell
+actor,92591,Mason (I),Jones
+actor,58803,Thomas M.,Tolan
+actor,117977,Mark,Bedell
+actress,118354,Erin,Simms
+actress,110749,Ellen,Wroe
+actress,108142,Jessica (I),Hecht
+actor,34619,Cody,Gomes
+actor,110026,Anthony W.,Johnson
+actor,125612,Chuck (I),Norman
+actor,106138,Jean,Frenette
+actress,6176,Eden,Estrella
+actor,6780,Jerry (I),Walsh
+actor,113106,Jamie,Gliddon
+actress,17477,Joan,Riegert
+actor,109819,Matt,Birman

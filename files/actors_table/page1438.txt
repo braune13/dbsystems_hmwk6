@@ -1,0 +1,71 @@
+actor,96173,Gregory,Poudevigne
+actress,26643,Joyce,Pollner
+actor,27705,Clive (I),Walton
+actress,101307,Laura,Payne-Gabriel
+actor,100842,Derek J.,Finnik
+actress,139074,Jiali (II),Xu
+actor,65921,Jake,Grace
+actor,9336,Jim (I),Hyde
+actor,64154,Tino,Monte
+actor,96428,Neil (III),Gregory
+actor,74227,Zenaido,Avendaño
+actress,106222,Paola,Hinojos
+actress,137722,Toni,Holt
+actor,33052,John,Trejo
+actor,119476,Paul (I),Sadot
+actor,99757,Octavio Guadelupe,Zabala Xitamul
+actress,136408,Charlotte (I),Knight
+actor,67671,Marco,Pérez
+actress,26431,Cristina,Burbuz
+actor,138765,Field,Norton
+actress,99847,Agnieszka,Korzeniowska
+actor,42770,Michiel,Huisman
+actor,110392,Hirotaka,Suzuoki
+actor,90882,Mario,Andretti
+actor,79304,Jürgen G.H. (I),Hoppmann
+actress,106404,Greta,Martin
+actor,79521,Ted,Thorpe
+actor,71893,William (I),Dunlop
+actor,112099,Raff,Law
+actress,27990,Sherry,Proctor
+actress,20929,Kayti,Moran
+actor,134500,Stanley (III),Taylor
+actor,124080,Connie (III),Mack
+actor,68438,Brendan,Jeffers
+actor,107185,Tyler (VI),Stone
+actor,147037,Hillel Michael,Shamam
+actress,139891,Courtney,Goodell
+actress,29990,Rachel,McDowall
+actor,63939,James V.,Shore
+actor,133512,Butch (X),
+actor,99040,Archie,Rye
+actress,124711,Vicky Preston,Brown
+actress,50123,Holly,O'Quin
+actress,16123,Françoise,Bush
+actress,20236,Laurie (II),Mann
+actor,130990,Collin,Chou
+actor,8456,Martin (I),Tucker
+actor,65877,Jeremy (II),Tuttle
+actress,60840,Carla (I),Sanchez
+actor,109000,Robert (II),Bruce
+actor,67841,Brett Joseph,Cohen
+actress,131010,Audrey,Sternberg
+actor,57466,Alexander,Morton
+actor,124465,Ted,Monte
+actor,102527,David,Cropman
+actor,123643,Allen (II),Adams
+actress,93209,Joyce,Lakin
+actor,107751,Jason,Gedrick
+actor,22593,Sonny,Hurst
+actor,3974,Regino,Montes
+actor,109788,William S.,Graves
+actor,92248,John (IV),Todd
+actor,17003,Clint,Eastwood
+actress,120533,Ruby E.,Crawford
+actress,89820,Florence,Ruprecht
+actor,56906,Michael (III),Tunnell
+actor,27499,Dave,Moro
+actor,123388,Michael,Durrell
+actress,37563,Emma (VII),Murphy
+actor,99827,Lloyd,Bass
+actor,134856,John,Britten

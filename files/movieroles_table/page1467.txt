@@ -1,0 +1,66 @@
+18367,(voice),,2878353,[Mrs. Start]
+21587,(voice),,2878353,[Additional Voices]
+21968,(voice),,2878353,
+24025,(voice),,2878353,[Mr. Start]
+26155,(voice),,2878353,[Aardvark Mom]
+29299,(voice),,2878353,[Sid]
+30758,(voice),(as Brian McFadden),2878353,[Glyptodon]
+34476,(voice),,2878353,[Dodo]
+35644,(voice),,2878353,[Molehog Grandpa/Shovelmouth Male]
+36801,(voice),,2878353,
+41469,(voice),,2878353,
+43151,(voice),,2878353,
+45515,(voice),,2878353,[Traffic Vulture]
+47522,(voice),,2878353,[James]
+49479,(voice),,2878353,[Lone Gunslinger Vulture]
+49739,(voice),,2878353,
+50231,(voice),,2878353,
+57933,(voice),,2878353,
+58969,(voice),,2878353,
+64743,(voice),,2878353,[Glypto Boy Billy/Beaver Girl]
+65820,(voice),,2878353,[Freaky Male]
+67248,(voice),,2878353,
+68950,(voice),,2878353,[Molehog Kid 2]
+72770,(voice),,2878353,[Aardvark Dad]
+75507,(voice),,2878353,[Fast Tony]
+76899,(voice),(as Matthew P. McCarthy),2878353,
+80485,(voice),,2878353,[Condor Chick]
+80709,(voice),,2878353,
+81066,(voice),,2878353,
+82307,(voice),,2878353,[Crash]
+89610,(voice),,2878353,
+94703,(voice),,2878353,[Shovelmouth Boy]
+98271,(voice),,2878353,[Elk Boy]
+99410,(voice),,2878353,[Scrat]
+99456,(voice),,2878353,[Molehog Kid 1]
+100734,(voice),,2878353,[Beaver Dad]
+102081,(voice),,2878353,[Stu/Male Ox]
+102999,(voice),,2878353,[Female Ox]
+103724,(voice),,2878353,
+104170,(voice),,2878353,[Start Boy 1]
+105379,(voice),,2878353,[Dung Beetle Dad]
+107054,(voice),,2878353,
+108870,(voice),,2878353,[Start Boy 2]
+110485,(voice),,2878353,
+113665,(voice),,2878353,[Diatryma Mom]
+120090,(voice),,2878353,
+120184,(voice),,2878353,
+125661,(voice),,2878353,[Eddie]
+125748,(voice),,2878353,
+126522,(voice),,2878353,
+127945,(voice),,2878353,[Ellie]
+128125,(voice),,2878353,
+129015,(voice),,2878353,
+135512,(voice),,2878353,
+137612,(voice),,2878353,[Rhino Boy/Beaver Boy]
+137822,(voice),,2878353,[Diego]
+138753,(voice),,2878353,[Female Mini Sloth/Dung Beetle Mom]
+140174,(voice),,2878353,
+143538,(voice),,2878353,
+143891,(voice),(as Rachel Stand),2878353,
+146794,(voice),,2878353,
+148656,(voice),,2878353,
+5721,(voice),,2878344,[Milton/Hunky Siren]
+8099,(voice),,2878344,[Additional Voices]
+8883,(voice),,2878344,[Additional Voices]
+10185,(voice),,2878344,[Manny]

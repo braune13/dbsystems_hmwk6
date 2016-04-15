@@ -1,0 +1,71 @@
+actress,67272,Manette,LaChance
+actor,116752,Michael H.,Cole
+actor,70324,Palmer (II),Brown
+actor,8241,Chris (V),Love
+actor,102147,Calvin,Trillin
+actress,84937,Louise,Volding
+actor,20627,Danny,Wynands
+actor,102069,Jimmy,Federico
+actor,30856,Dominic (I),Burgess
+actor,58780,John (I),Stockwell
+actress,112717,Miki (I),Ishikawa
+actor,58472,Charlie,Luke
+actress,146468,Candice,Harrison
+actor,13414,Fred (VII),Smith
+actor,15510,Marcel,Engels
+actor,20253,Charles,Lewis III
+actor,141555,Craig Richard,Nelson
+actor,59270,Liam,Eagan
+actor,85674,William,Bornkessel
+actor,41038,Ginzô,Matsuo
+actor,48753,Michael (I),Albanese
+actor,84314,Lee J.,Campbell
+actress,103189,Bianca,Molnar
+actress,27498,Nikki,Milican Bedwell
+actor,39369,'Big' Jack,Little
+actor,84697,Brian,Kimmet
+actress,59823,Victoria (II),Murphy
+actor,47994,Donny,Alamsyah
+actress,54627,Donna,Spangler
+actor,95790,Arnaud,Henriet
+actress,17845,Lesley,Scoble
+actress,101607,Glynis,Davies
+actor,45053,Michel,Smolianoff
+actor,49673,James (IV),Furlong
+actress,9533,Kaja,Gjesdal
+actor,96270,Tadanobu,Asano
+actress,146716,Gillian,Libbert
+actor,42830,Rosendude,
+actor,53579,David Alex,Ruiz
+actress,26590,Lene Laub,Oksen
+actor,32701,Jean,Mollier
+actor,72513,Leonard (II),Johnson
+actor,33640,Brad,Dourif
+actor,52533,Siegfried,Fischbacher
+actress,32660,Pauline,Collins
+actor,32200,Louis,Chirillo
+actor,28818,Mike (XXIV),Wood
+actress,55589,Jennifer,Roberts Smith
+actor,14757,Christopher,Gehrman
+actor,122479,Raul S.,Brewster
+actress,41636,Kimberlee,Kidd
+actor,74741,Brian,McGrail
+actor,54706,James,Furey
+actress,101615,Laura (II),Fisher
+actress,105968,Pia,Miranda
+actor,121265,Akshay,Sachdev
+actress,143558,Kellie,Cockrell
+actress,69791,Radica,Jovicic
+actor,37754,Lea,Coco
+actor,81383,Gregory,Barbon
+actor,37696,William (I),Brand
+actor,123549,Ciccio,Barbi
+actress,68878,Megan (I),Murphy
+actress,504,Shelley,Illmensee
+actor,63292,Thomas,Sobel
+actress,1132,Summer Kylie,Remington
+actor,20167,Chip,Love
+actress,138403,Delanie,Fitzpatrick
+actor,35703,Billy,Wickman
+actor,114705,Tim,Neeley
+actor,74131,Tom,Lenk

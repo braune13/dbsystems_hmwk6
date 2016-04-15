@@ -1,0 +1,71 @@
+actor,37622,Stephen,Conteh
+actor,47793,Kevin (VII),Watkins
+actress,111502,Anne (I),Randall
+actress,4080,Helen,Ayres
+actor,52853,Christopher (I),Murray
+actress,124977,Aleksandra,Grdic
+actress,105234,Yvonne,Gidden
+actor,59317,Dau (III),Yang
+actor,84137,Naci,Adigüzel
+actress,111967,Tara,DiGiore
+actor,63136,Kaoru (I),Kobayashi
+actor,96007,Satoshi (I),Niizuma
+actor,24322,Ricky,Titus-Lam
+actor,88629,Vitaly,Petrov
+actor,40919,Robert,Desiderio
+actor,16223,Ben,Whishaw
+actress,45881,Afton,Delgrosso
+actor,71144,James,Judice
+actor,6660,Florentino,Sainz
+actor,72032,Dingani,Beza
+actor,65668,Chris,Threader
+actor,109251,Charlie,Sungkawess
+actor,104980,John (VI),Gillespie
+actress,70060,Natraya,Rotthirawanit
+actor,1188,Mark,Krysko
+actress,143693,Jennifer (I),Lin
+actor,98227,Kevin (I),Dobson
+actor,113792,Robert,Stromberg
+actor,116814,Shaun,Williamson
+actress,23437,Julia,Faye
+actress,212,Leatrice,Leigh
+actor,88277,Lee Yip,Kin
+actress,97497,Crystal,Verge
+actor,67691,Tony (I),Roper
+actress,123694,Philippa,Fordham
+actress,128743,Kristin (II),Reeves
+actor,83921,Brian D.,Kline
+actress,2596,Angela Dawn,Atchley
+actress,80349,Clover (II),
+actor,97087,Lanny,Rethaber
+actor,72337,Ted (I),Davis
+actress,102506,Satomi,Kôrogi
+actress,136932,Michelle (I),Branch
+actor,44664,Stephen,Monas
+actress,11279,Felicia (I),Tang
+actor,78913,Charles W.,Davidson
+actress,133506,Joyce,Mandel
+actress,140411,Mari,Mori
+actress,146706,Barbara (I),Goodson
+actor,26920,Eugene,Varos
+actor,140849,Al,Nakauchi
+actor,12631,Cokey,Falkow
+actress,7369,Sarah,Blakley-Cartwright
+actor,59644,Patrik,Plenk
+actor,74811,Walter,Huston
+actor,27198,John C.,Becher
+actor,110662,Gino,Galento
+actress,110170,Sue,Sammon
+actress,15172,Mabel,Lockridge
+actress,15687,Sonia,Saviange
+actor,87910,Jeremie,Saunders
+actress,58123,Rosie,Moss
+actress,38718,Lisa,Liberati
+actor,88430,Joseph,Narducci
+actor,24899,Paul (I),Kumar
+actor,73037,Jon (I),Snow
+actress,56268,Beth R.,Johnson
+actor,22894,Conrad,Ricamora
+actor,24685,Brian J.,Cohen
+actor,89308,Wolfgang,Zilzer
+actor,65120,Tony,Yayo

@@ -1,0 +1,71 @@
+actor,1190,Stuart K.,Robinson
+actor,30754,Wolfgang (I),Müller
+actor,57961,Tom,Welling
+actress,130153,Julia (I),Stephens
+actor,115652,Vincent,Paterson
+actor,47989,Armon,Stover
+actor,65782,Richard (I),Kipling
+actor,133756,Nicholas (I),Rich
+actress,138530,Sara (I),West
+actress,37129,Terry (I),Ellis
+actor,129903,Whitman,Mayo
+actress,61639,Ruth,Milo
+actress,148394,Maris,Black
+actor,11217,Timothy,Simons
+actress,132036,Laura (I),Ferri
+actress,35025,Fiona,Watts
+actress,141746,Amelia,Marshall
+actress,141364,Melanie (I),Reese
+actor,51813,Kevin (I),Phan
+actor,36766,Wyatt,Bowen
+actor,69622,Gary (V),Jones
+actor,29905,Adam-Victor,Linkowski
+actor,141233,Patrick,Salerno
+actor,86817,Chase (I),Ellison
+actor,89817,Ewen,Leslie
+actress,142517,Kena,Allen
+actor,75396,George,Newbern
+actor,86418,Larry (II),Goldstein
+actor,49010,Bobby (I),Cooper
+actor,58477,Donald,Ewer
+actress,85758,Liza,Binkley
+actress,40412,Elizabeth,Connolly
+actress,92988,Derya,Alabora
+actress,48186,Chelsea (II),O'Connor
+actor,149011,Aman,Johal
+actor,9090,Charles,Nguyen
+actor,145988,Christopher (I),Glover
+actor,96829,Chukwudi,Iwuji
+actor,110121,Lee (II),Bolton
+actor,135009,Rainer,Bock
+actor,148826,Bertrand,Merignac
+actor,51952,Trevor,Crouch
+actor,131630,David,La Haye
+actor,123328,Robert (I),Fyfe
+actress,114341,Jaci,LeJeune
+actor,66129,Eamonn,Olwill
+actor,140456,Joey (I),Nelson
+actor,12959,Todd (V),Bradley
+actor,97440,Martin,Malota
+actor,84274,Kevin (II),Drew
+actor,110674,Jingchun (II),Wang
+actress,68919,Alonda,Shevette
+actor,141638,Mark,Ullod
+actor,138855,Gerry,Slevin
+actor,1492,Luke,Pendlebury
+actor,63773,Donald V.,Allen
+actor,148597,Frank,Miroddi
+actress,67402,Madeleine,Arthur
+actress,7313,Kirsten deLohr,Helland
+actor,129267,Tanay,Chheda
+actress,90900,Valerie,Leeper
+actor,78479,Bobby,Tisdale
+actor,21015,Hugh (III),Thompson
+actress,50971,Kimberly,Carvalho
+actor,112705,Michael (II),Mark
+actor,109760,Craig,Eldridge
+actress,43273,Jana,Sommers
+actor,76003,Christopher (II),Lilly
+actor,139872,Ken (I),Strong
+actress,101256,Jessica (I),Huang
+actor,83619,Mark (X),Evans

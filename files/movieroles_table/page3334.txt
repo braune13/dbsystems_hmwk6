@@ -1,0 +1,66 @@
+882,,,3434952,
+4287,,,3434952,[Mustachioed Red Hood Cloaked Customer at Inn]
+4575,(voice),,3434952,[Lady Galadriel of Lothlorien]
+6469,,,3434952,[Bilbo/Sam]
+9798,(voice),(as Andre Morell),3434952,[Lord Elrond]
+9835,,,3434952,
+12968,,,3434952,
+13238,,,3434952,[Bald Customer at Inn]
+15326,(as Walt Robles),,3434952,
+21771,,,3434952,
+25709,(voice),,3434952,[Frodo Baggins/Mr. Underhill]
+28280,(voice),,3434952,[King Theoden/Uglúk - Uruk-Hai Captain]
+33842,,,3434952,[2nd Lady at Inn]
+35374,,,3434952,
+36619,,,3434952,
+37833,,,3434952,
+39181,(voice),(uncredited),3434952,[Additional Voices]
+39447,,,3434952,
+42905,,,3434952,
+43898,(as Eddy Fay),,3434952,
+44549,,,3434952,
+47592,,,3434952,[Prince Isildur - Son of Elendil]
+51461,(voice),,3434952,"[Saruman The White Sorcerer/Narrator (segment ""Epilogue"")]"
+51574,,,3434952,
+54324,(voice),,3434952,[Gimli - Son of Gloin]
+54540,(voice),,3434952,[Meriadoc 'Merry' Brandybuck]
+58390,,,3434952,
+59347,(voice),,3434952,[Gollum/Smeagol]
+59913,,,3434952,
+60428,(as Pete Risch),,3434952,
+61688,,,3434952,[Aragorn 'Strider' - Son of Arathorn]
+67403,(as Harriett Gibson),,3434952,
+70355,(voice),,3434952,[Samwise 'Sam' Gamgee]
+72676,,,3434952,
+72716,,,3434952,
+75094,(as Gregg Walker),,3434952,
+76657,(voice),,3434952,[Peregrin 'Pippin' Took]
+78663,,,3434952,
+79227,(voice),,3434952,[Gandalf The Grey/Gandalf The White/Narrator/Dwimmerlaik - The Witch-King of Angmar]
+82543,,,3434952,
+84254,(as Russ Earnest),,3434952,
+84980,,,3434952,[Marshal Eomer - Theoden's Nephew]
+85665,,,3434952,
+86355,,,3434952,
+89619,(as Lenny Gear),,3434952,
+98706,(as Jeri Lea Ray),,3434952,[Lady at Inn]
+99553,(voice),,3434952,[Treebeard - Ent Leader/Lord Celeborn of Lothlorien]
+101868,,,3434952,
+104013,(voice),,3434952,[Legolas Greenleaf - Son of Thranduil/Déagol - Smeagol's Cousin]
+107918,,,3434952,[Gandalf The Grey/Gandalf The White]
+109510,(voice),(as Michael Graham-Cox),3434952,[Boromir - Son of Denethor]
+110074,(voice),,3434952,[Grima Wormtongue - Saruman's Spy/Grishnákh - Mordor Orc Captain]
+110349,,,3434952,
+115756,,,3434952,[5th Dwarf Customer at Inn]
+115765,,,3434952,
+117501,,,3434952,
+119981,,,3434952,[Frodo Baggins]
+125394,(as Albert Cirimele),,3434952,
+126697,,,3434952,
+130939,(voice),,3434952,[Aragorn 'Strider' - Son of Arathorn]
+137105,,,3434952,
+139455,(voice),(uncredited),3434952,[Additional Voices]
+141379,(as Herb Braha),,3434952,
+144543,(as Eddy Hice),,3434952,
+144721,,,3434952,
+146808,(voice),,3434952,[Mr. Barliman Butterbur - Innkeeper/Odo Proudfoot]

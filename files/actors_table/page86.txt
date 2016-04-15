@@ -1,0 +1,71 @@
+actor,98442,Bobby,Troup
+actor,135169,John,Fecek
+actor,139054,Yves,O'Hara
+actor,120251,Tony,Roux
+actor,95060,Frank,Cucksey
+actor,137144,Jeff,Rendell
+actor,43586,Cody,Sanders
+actress,59819,Katy (I),Murphy
+actor,95713,Mark,McKeel
+actor,146453,Norman,Lehnert
+actor,28492,Stephen B.,White
+actress,40175,Sarah Kate,Jackson
+actor,15468,Bengt,Bylund
+actor,72766,Joseph,Angelette
+actor,17266,Alan (XIV),Davis
+actor,2989,Larry,Sellers
+actress,41867,Jyn,Hall
+actor,131831,Rhett Ashley,Crosby
+actress,118844,Chinere,Parry
+actress,131129,Geraldine,Leslie
+actor,56547,Patrick (I),Morin
+actor,95063,David,Resnik
+actor,130868,Oliver,Burbage
+actor,28142,Matt (X),Smith
+actress,109434,Belinda (I),Bauer
+actor,123306,Mário Luiz Costa,Oliveira
+actress,87550,Kris,Sidberry
+actor,86476,Daniel,Ceren
+actor,94604,Kenny,Morrison
+actor,52877,Duccio,Camerini
+actress,5295,Erin (IV),Baldwin
+actor,50779,Jake,Milkovich
+actor,75584,Shichinosuke,Nakamura
+actor,82153,Michael (XXVI),Knight
+actress,12978,Greta Galisch,de Palma
+actress,68618,Carolina,Lancaster
+actor,147025,Harris,Krofchick
+actor,114322,Steven (I),Brill
+actor,81928,Pietro,Ragusa
+actor,16781,Gerard,Heinz
+actress,14692,Stacey (II),Turner
+actor,3833,Robert,Handler
+actress,61466,Morjana,Alaoui
+actor,7854,Wah,Yuen
+actor,119360,Roy,Wetzel
+actress,87162,Kristin,Rae
+actress,75002,Dodie,Demme
+actress,137465,Monique (I),Edwards
+actor,28527,Joseph X.,Flaherty
+actress,56463,Aileen,Pringle
+actress,94442,Gabrielle,Pelucco
+actor,148726,Remo,Benedetti
+actor,40082,Peter,Collingwood
+actor,11703,Tom (I),Carver
+actor,37150,CoCo,LaChine
+actor,53656,Mak,Takano
+actor,65864,Silas Weir (I),Mitchell
+actor,17321,Karl,Ravech
+actor,36882,Ken (II),Baker
+actor,116842,Sutin,Rodnuch
+actor,112149,Nobushige,Suematsu
+actor,87871,Brian,Palermo
+actor,108718,David (XI),Silverman
+actor,77205,Al,Jourgensen
+actor,1472,Patrick G. (I),Burns
+actor,106057,Philip (I),Chan
+actress,78555,Beatrice,Rosen
+actor,129526,Fred,Hettle
+actor,52002,Steve (IV),Powers
+actor,105972,Julius,Schaub
+actress,125052,Adrienne,Canterna

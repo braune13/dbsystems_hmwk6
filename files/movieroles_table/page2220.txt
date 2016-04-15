@@ -1,0 +1,66 @@
+51407,,,3158812,[Hughes]
+52368,,,3158812,[Ballard]
+54871,,,3158812,[Morton]
+56013,,,3158812,[Paul O'Niel]
+57180,,,3158812,[Leisure Club Dancer]
+64193,,,3158812,[Leisure Club Dancer]
+71407,(as Judith Alderson),,3158812,[Female Prostitute in Leisure Club]
+72714,,,3158812,[Leisure Club Dancer]
+83088,,,3158812,[Caldwell]
+87830,,,3158812,[Dr. Lazarus]
+90159,,,3158812,[Flo Spector]
+92172,,,3158812,[Man No. 2]
+93897,,,3158812,[Hill]
+97689,,,3158812,[Tarlow]
+103195,,,3158812,[Security Officer Fanning]
+103955,,,3158812,[Nelson]
+104436,(uncredited),,3158812,[First Victim]
+108248,,,3158812,[Mark Sheppard]
+108262,,,3158812,[Male Prostitute in Leisure Club]
+115032,,,3158812,[Man No. 1]
+130120,(as Richard Hammat),,3158812,[Russel Yario]
+136239,,,3158812,[Nicholas Spota]
+139928,,,3158812,[Rudd]
+145146,,,3158812,[Leisure Club Dancer]
+146612,,,3158812,[Walters]
+14353,(voice),(as Jessica Di Cicco),3159581,[Shelby]
+17927,(voice),,3159581,[Police Officer]
+18226,(voice),(uncredited),3159581,[Spike]
+23325,(voice),,3159581,
+25631,(voice),,3159581,
+26454,(voice),,3159581,[Nugent the Dog]
+26542,(voice),(as Jordan Orr),3159581,
+37750,(voice),,3159581,
+38140,(voice),,3159581,
+40065,(voice),,3159581,
+41669,(voice),,3159581,[Vincent]
+45616,(voice),,3159581,
+47040,(voice),,3159581,[BBQ Barry]
+48399,(voice),,3159581,[Gladys]
+52324,(voice),,3159581,[Quillo]
+57933,(voice),,3159581,[Skeeter]
+59915,(voice),,3159581,[Dr. Dennis]
+71887,(voice),,3159581,[Lunch Table Larry]
+75300,(voice),,3159581,[Timmy]
+76102,(voice),,3159581,[Bucky]
+76427,(voice),,3159581,[Tiger]
+78793,(voice),,3159581,[Heather]
+83444,(voice),,3159581,[Dwayne]
+84636,(voice),,3159581,[Lou]
+91911,(voice),,3159581,
+94044,(voice),,3159581,[Ozzie]
+94941,(voice),,3159581,[Verne]
+102883,(voice),,3159581,[Ranger]
+103665,(voice),(uncredited),3159581,[Heather]
+103724,(voice),,3159581,
+104466,(voice),,3159581,[Stella]
+105140,(voice),,3159581,[Debbie]
+105501,(voice),,3159581,
+107599,(voice),,3159581,
+119145,(voice),,3159581,
+121606,(voice),,3159581,[Penny]
+122743,(voice),,3159581,[Janis]
+122834,(voice),,3159581,[Mackenzie]
+129855,(voice),,3159581,
+134558,(voice),,3159581,[Hammy]
+135512,(voice),,3159581,[Spike]

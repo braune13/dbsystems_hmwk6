@@ -1,0 +1,66 @@
+79507,,,3168365,[Screaming Co-ed]
+83776,,,3168365,[Larry Buckman]
+85181,,,3168365,[Barbara Rice]
+93103,,,3168365,[Dwarf]
+95516,,,3168365,[Dwarf]
+97640,,,3168365,[Helen Buckman]
+97869,(uncredited),,3168365,[Baseball Fan]
+98305,,,3168365,[Amy]
+100876,,,3168365,[Cool Buckman]
+101746,,,3168365,[Kevin Buckman]
+105608,,,3168365,[Student in Hallway]
+106705,,,3168365,[Miles]
+116726,,,3168365,[Irate Woman in Audience]
+124315,,,3168365,[Audrey]
+128178,(unconfirmed),,3168365,[Redheaded Audience Girl]
+130558,,,3168365,[George Bowman]
+133042,,,3168365,[Young Gil Buckman]
+134904,,,3168365,[Matt]
+146076,,,3168365,[Eddie]
+146728,,,3168365,[Woman Teacher #2]
+147464,,,3168365,[Lou]
+147871,,,3168365,[Young Frank Buckman]
+148031,(as Brittany Bouck),,3168365,[Dwarf]
+148645,,,3168365,[Student 1 at College]
+2213,,,3168792,"[Liz (segment ""Quartier des Enfants Rouges"")]"
+3249,,,3168792,"[Le garçon (segment ""Quartier de la Madeleine"")]"
+3338,,,3168792,"[La jeune fille en rouge (segment ""Bastille"")]"
+4763,,,3168792,"[Jeff (segment ""Quartier des Enfants Rouges"")]"
+4902,,,3168792,"[La femme café #2 (segment ""Tour Eiffel"")]"
+5508,,,3168792,"[Claire (segment ""Parc Monceau"")]"
+9660,,,3168792,"[Bob (segment ""Pigalle"")]"
+10016,,,3168792,"[Le père (segment ""Place des Victoires"")]"
+10332,,,3168792,"[Le gérant du parking (segment ""Place des Fetes"")]"
+11827,(as Laëtitia Spigarelli),,3168792,"[La costumière (segment ""Quartier des Enfants Rouges"")]"
+15091,,,3168792,"[Sara (segment ""Parc Monceau"")]"
+18213,,,3168792,"[La victime de la vampire (segment ""Quartier de la Madeleine"")]"
+18320,,,3168792,"[Le moine bouddhiste (segment ""Porte de Choisy"")]"
+18952,,,3168792,"[Le cowboy (segment ""Place des Victoires"")]"
+19959,(uncredited),,3168792,"[Le contrebassiste Pigalle (segment ""Pigalle"")]"
+19989,,,3168792,"[Isis (segment ""Place des Victoires"")]"
+20750,,,3168792,"[Le mari (segment ""Bastille"")]"
+20957,,,3168792,"[William (segment ""Pere-Lachaise"")]"
+21200,(uncredited),,3168792,[Smoking Guy]
+22056,,,3168792,"[L' imprimeur (segment ""Le Marais"")]"
+23722,,,3168792,"[François (segment ""Quais de Seine"")]"
+25919,(uncredited),,3168792,"[Prisoner (segment ""Tour Eiffel"")]"
+31367,,,3168792,"[La femme chinoise âgée (segment ""Porte de Choisy"")]"
+33045,,,3168792,"[La mère bourgeoise (segment ""Loin du 16e"")]"
+34153,(voice),,3168792,"[Voix-off professeur (segment ""14e Arrondissement"")]"
+38021,,,3168792,"[La contractuelle (segment ""Tour Eiffel"")]"
+40178,(uncredited),,3168792,"[Le chanteur Pigalle (segment ""Pigalle"")]"
+41434,,,3168792,"[La vampire (segment ""Quartier de la Madeleine"")]"
+41669,,,3168792,"[Vincent (segment ""Parc Monceau"")]"
+41951,,,3168792,"[Le garçon de café (segment ""Tour Eiffel"")]"
+42089,(as Franckie Pain),,3168792,"[La mère dans le métro (segment ""Tuileries"")]"
+42609,,,3168792,"[Hassan (segment ""Place des Fetes"")]"
+42871,,,3168792,"[Le clochard (segment ""Tour Eiffel"")]"
+45656,,,3168792,"[Francine (segment ""Faubourg Saint-Denis"")]"
+49716,,,3168792,"[Oscar Wilde (segment ""Pere-Lachaise"")]"
+52684,,,3168792,"[Elie (segment ""Le Marais"")]"
+52719,(as Chani Sabaty),,3168792,"[La strip-teaseuse (segment ""Pigalle"")]"
+53438,,,3168792,"[Gaspard (segment ""Le Marais"")]"
+53456,,,3168792,"[Manu (segment ""Quais de Seine"")]"
+55177,,,3168792,"[Maryse (segment ""Quartier des Enfants Rouges"")]"
+56377,(as Dinara Droukarova),,3168792,[La jolie fille du bar #2]
+62013,,,3168792,"[Julie (segment ""Tuileries"")]"

@@ -1,0 +1,71 @@
+actress,89047,Rob Lawrence,Brown
+actor,116370,Lambert,Tóth
+actress,107721,Hannah (I),Davis
+actor,83525,Chanduram,Bishnoi
+actor,140226,Rodrigo,Avitt
+actor,81002,A. Jay,Radcliff
+actor,7532,Mark Robert,Ellis
+actress,54771,Susannah (II),Julien
+actress,5107,Tracie,Thoms
+actress,101552,Rebecca,Cullinan
+actor,142119,Rhein,Matlack
+actor,133636,Rick (I),Pantera
+actor,72449,Scott (I),Evers
+actor,137974,Daniel,Arrias
+actress,41997,Lieve (I),Carchon
+actor,149022,Stephen J.,Eads
+actress,27860,Dawn,Kursinczy
+actor,126811,John (II),Scheer
+actor,11455,Paul,Soles
+actress,37912,Katia,Sereno
+actress,57645,Erin,Marino
+actress,103831,Kristi,Pearce
+actress,132295,Nina,Totenberg
+actor,112536,George (I),Adrian
+actor,62618,Paul,Eckstein
+actor,114546,Anthony (I),Mingilino
+actress,124622,Bethany,Muir
+actress,41977,Kate-Lynn,Hocking
+actor,137395,Carlos (XV),Gonzalez
+actor,72942,Brian,Oerly
+actor,9171,Carl (II),Anderson
+actor,105717,Aaron,Spann
+actress,68828,Rebecca (I),Parisi
+actor,134815,Charles,Shufford
+actress,43151,Mickie,McGowan
+actor,42277,Bill,Christ
+actor,21434,Ryan (III),Young
+actress,123175,Khursheed,Khurody
+actor,138718,Salam (II),Sangi
+actor,146230,Emmanuel,Guez
+actress,43147,Katherine,Conklin
+actor,82272,John,Bartha
+actor,112772,Adrian,Sicari
+actress,85611,Treasure,White
+actor,14392,Ken,Korach
+actor,50005,Curtis,Ricks
+actor,15661,Sparky (XXII),
+actress,7973,Angela Torrez,Parker
+actress,68312,Celeste,Holm
+actor,52106,Dharmadasa,Kuruppu
+actress,55360,Victoria,Guenther
+actor,17698,James,Liautaud
+actor,1938,Anderson,Chee
+actor,143500,Jimmy Mel,Green
+actor,2711,Brett A.,Haworth
+actress,12041,Stella,Stark
+actor,78528,Gerry,Becker
+actor,65343,Jean (II),Emile
+actor,50258,Bernard (I),Pellegrinetti
+actor,126688,The,Chodorow Family
+actor,13758,Miguel (VII),Rivera
+actor,72469,Te,Ba
+actor,17851,Thayer,McClanahan
+actor,125939,Elijah,Runcorn
+actor,117899,Dan,Charles
+actor,33132,Terry J.,Scarlatos
+actress,36093,Christina (I),Ricci
+actor,126844,James (XV),Lloyd
+actor,14413,Domingo,Ambriz
+actor,127884,Vince,McGahon
+actor,100791,Lou,Tiano

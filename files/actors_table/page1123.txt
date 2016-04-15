@@ -1,0 +1,71 @@
+actor,36280,Stefan,Langel
+actress,34788,Joan,Bayley
+actor,101769,Harold,Gordon
+actor,3716,Eric,Steppe
+actor,34259,James 'Sporty',Ahern
+actor,143248,Thomas,Mattice
+actor,90483,Mana,Sen-Mi
+actor,10965,Aaron C.,Shang
+actor,97968,Zao Lai,Wang
+actor,74670,Alex,Rafalowicz
+actor,19984,Tom (I),Mason
+actor,11153,Jon (I),Davison
+actress,121646,Sarah (II),Hayward
+actress,136480,Cicely (II),Giddings
+actor,128683,George,Landkas-Coronas
+actor,53363,Jeff (I),Silverman
+actress,67606,Rebecca,Raphaelson
+actor,16180,Ronnie,Sperling
+actress,55363,Nelly (I),Imame
+actor,35349,Marston,Daley
+actor,62467,Ring,Lardner Jr.
+actor,122601,Peter,Bláha
+actor,97267,Javed (I),Khan
+actor,46162,Antonello,Venditti
+actor,119731,B.J.,Cyrus
+actress,34482,Amber,Kroner
+actor,25651,Daniel Everett,Watson
+actress,7990,Anna (I),Massey
+actor,67175,Colin,Crosby
+actress,148319,Frances,Brady-Stewart
+actor,133351,Sahitya,Gupta
+actress,18750,Eula,Guy
+actor,33232,Steve (III),Cruz
+actor,30598,Walter,Breaux
+actor,136702,Taylor,Kowalski
+actor,3855,Evans,Forlidas
+actress,90134,Pamela (II),Shaw
+actor,56961,Nicholas,Kusiba
+actress,148901,Anne (I),Bancroft
+actor,116303,Mark W.,Madison
+actress,25454,Ann,Whitney
+actor,76274,Thomas 'Doc',Boguski
+actor,24618,Rúaidhrí,Conroy
+actor,107555,Jon,Imparato
+actor,136046,Jean-Pierre,Agius
+actor,83561,Jeff (XVIII),Carter
+actor,125147,Jeff (VII),Norton
+actress,35301,Angie,Marino-Smith
+actress,60916,Fatima,Alonzo
+actress,30423,Léa,Seydoux
+actress,852,Natalie (I),Burn
+actress,19001,Amy,Van Nostrand
+actress,144769,Anne,Leveille
+actress,100902,Cici,Carmen
+actor,124964,Régis,Romele
+actor,91489,Martin,Coulter
+actor,55027,Alex (I),Peterson
+actress,87324,Janet (II),Lopez
+actor,109382,Gabriel,Currington
+actress,117243,Angela,Cartwright
+actor,78572,Carl,York
+actor,127197,Cliff (I),Teinert
+actor,128363,Harris,Warren
+actor,59965,Robert,Uricola
+actor,39317,John P. (I),Russo
+actor,74245,Jonathan (II),O'Hara
+actor,38215,Ken (I),Lerner
+actress,133765,Alexis,Knapp
+actress,32196,Margery,Withers
+actor,92707,Travell Lee,Toulson
+actor,10554,Matt,Yuan

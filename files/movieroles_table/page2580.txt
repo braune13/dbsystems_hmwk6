@@ -1,0 +1,66 @@
+148802,,,3279465,[Himself]
+906,(voice),,3279086,[Kaonashi]
+3868,(voice),,3279086,
+5741,(voice: English version),,3279086,[Kamaji]
+6453,(voice),,3279086,[Bô]
+7234,(voice),,3279086,
+14339,(voice),,3279086,
+14762,(voice: English version),,3279086,[Chihiro's Mother]
+17743,(voice),,3279086,
+18104,(voice),,3279086,
+18310,(voice),,3279086,
+19133,(voice: English version),,3279086,
+20872,(voice: English version),,3279086,[Boh (Baby)]
+21960,(voice: English version),,3279086,[Chihiro]
+22065,(voice),,3279086,[Aogaeru]
+22708,(voice),,3279086,
+24550,(voice: English version),,3279086,
+26174,(voice: English version),,3279086,[Chihiro's Father]
+28406,(voice: English version),,3279086,[Chichiyaku]
+29245,(voice),,3279086,
+31088,(voice),,3279086,
+36038,(voice),,3279086,
+41469,(voice: English version),,3279086,
+42517,(voice),,3279086,
+42659,(voice: English version),,3279086,[Haku]
+43151,(voice: English version),,3279086,
+49133,(voice),,3279086,
+49518,(voice),,3279086,[Kawa no Kami]
+56575,(voice),,3279086,[Yubaba/Zeniba]
+58486,(voice),,3279086,
+60500,(voice),,3279086,
+60979,(voice),,3279086,
+64200,(voice),,3279086,[Oshirasama]
+67248,(voice: English version),,3279086,[Foreman (Bandai-gaeru)]
+75848,(voice),,3279086,
+76821,(voice),,3279086,
+78930,(voice: English version),,3279086,[Yubaba/Zeniba]
+83398,(voice: English version),,3279086,
+84812,(voice),,3279086,[Rin]
+86382,(voice),,3279086,
+86623,(voice),,3279086,
+89426,(voice),,3279086,[Aniyaku]
+92102,(voice),,3279086,
+94541,(voice),,3279086,
+95647,(voice),,3279086,
+97689,(voice: English version),,3279086,[Assistant Manager]
+102244,(voice),,3279086,[Kamajî]
+103585,(voice),,3279086,
+105539,(voice),,3279086,
+107054,(voice: English version),,3279086,
+108109,(voice),,3279086,[Akio Ogino]
+108234,(voice: English version),,3279086,
+108276,(voice),,3279086,
+108622,(voice),,3279086,
+113763,(voice),,3279086,
+115033,(voice),,3279086,[Haku]
+120090,(voice: English version),,3279086,[Radish Spirit (Oshira-sama)]
+124158,(voice),,3279086,[Yûko Ogino]
+125727,(voice),,3279086,
+127028,(voice),,3279086,[Bandai-gaeru]
+128602,(voice),,3279086,[Chichiyaku]
+131660,(voice: English version),,3279086,
+135975,(voice),,3279086,
+140454,(voice: English version),,3279086,[Lin]
+141825,(voice),(as Shigeyuki Satô),3279086,
+143538,(voice: English version),,3279086,[No-Face/Frog]

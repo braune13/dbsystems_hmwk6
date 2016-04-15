@@ -1,0 +1,71 @@
+actor,18428,Monty,Stuart
+actor,54655,Tiahni,Wilton
+actor,12410,Dennis,Cockrum
+actress,5268,Alexandra,Bartee
+actor,36952,Óscar (I),Carrillo
+actor,95464,Greg,Plitt
+actor,47218,Bill (III),Miller
+actor,986,Clark (I),Hunter
+actor,102722,David G.,Baker
+actress,100557,Amber,Beattie
+actress,40763,Allison (II),Miller
+actress,115273,Brooke,Bonder
+actor,7197,Hubert,Koundé
+actress,79338,Sharon (I),Washington
+actor,97238,David Lee,Casey
+actor,53926,Greg (XXVIII),Johnson
+actor,129234,Johnny,Weissmuller Jr.
+actor,88575,Sekhar,Chandra
+actor,23962,James R.,Baylis
+actor,24468,Chris (I),Ackerman
+actress,120427,Susan,Fordham
+actress,146008,Deborah (III),Wise
+actress,49115,Lita S.,Bowman
+actor,104940,Mike (II),Goldberg
+actor,60448,Venant,Wong
+actor,32232,Essra,Vischon
+actor,70294,Dan (I),Gunther
+actor,63911,Kent,Staines
+actor,10221,Tony,Brafa
+actor,54728,Julian,Bleach
+actor,88801,Frank (II),Leslie
+actor,3749,George (VII),Green
+actor,126401,Mario,Joyner
+actor,84648,Zak,Holland
+actor,129413,Bryan,Moss
+actor,17805,Arnold,Vosloo
+actress,108758,Kimberly,Adler
+actress,81069,Sharlene,Garcia
+actress,58822,Pamela,Wilsey
+actress,22592,Michaela,Gallo
+actor,25888,Koji,Koike
+actor,58524,Stephen (II),Holland
+actress,103674,Simone,Turkington
+actress,79504,Charlotte (I),Asprey
+actor,113131,Baudelio,Alva
+actor,69368,Percy,Helton
+actor,143096,Michael (I),Cline
+actress,145015,Caroline (II),Wilson
+actor,110296,Abhi,Sinha
+actress,142700,Marie-Christine,Adam
+actress,129882,Carol,Gossler
+actor,36075,Jerry,Stovin
+actor,90874,Roger,McGee
+actor,79220,Anthony,Desergio
+actress,133173,Julia,Ervin
+actress,115553,Rita,Cammarano
+actor,51073,Adam (I),Cagley
+actor,79339,Dan,Burkarth
+actress,97375,Sarah,Lucht
+actor,45252,Çetin,Tekindor
+actress,66252,Gina,Trikonis
+actress,112927,Claudia,DiBiccari
+actor,113733,Walter (III),Harris
+actor,104333,Nick,Principe
+actor,109661,Jean-Claude,Croes
+actor,84622,Bryce Chandler,Hill
+actor,74293,John,Meillon
+actor,144146,Oscar,Balmaseda Villoslada
+actor,144845,Jeff (III),Duke
+actor,76882,Michael,Terrace
+actor,58771,Robert Barry,Fleming

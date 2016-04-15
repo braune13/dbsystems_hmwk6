@@ -1,0 +1,71 @@
+actress,48137,Lisa,Ratzin
+actor,108048,Eric,Gauchy
+actress,35564,Gypsy,Hart
+actor,130517,David,Eisner
+actor,79557,Ren,Urano
+actor,134524,Eric (I),Jepson
+actor,72824,José,Abdala
+actress,136761,Erica (II),Sullivan
+actor,55660,Mike,Bedmiston
+actor,96783,Tristan,Zombi
+actress,108954,Olga (II),Sokolova
+actress,31184,Elinor,Johansson
+actor,67173,Michael (I),Cullen
+actress,105504,Jana,Berengel
+actor,36546,David,Raiport
+actor,132709,Michael (X),Norman
+actor,3459,David J.,Garfield
+actor,12447,Chris,Jenkinson
+actor,125597,Daniel (I),Howat
+actor,84582,Indianern der Kooperative Lauramarca,
+actress,80511,Casey,Strand
+actress,116947,Désirée,Cyganek
+actor,64841,Shepherd,Frankel
+actress,37735,Caya,Wickström
+actress,40878,Alison (I),Woods
+actor,58171,Rich,Manley
+actor,148356,Kerry (I),Corcoran
+actor,18814,Mike (II),Malone
+actress,5916,Dyan,Bell
+actress,27795,Zoe,Wilkens
+actor,124986,Sean,Wing
+actress,105780,Julie (I),Austin
+actor,4799,Michael C. (I),Hall
+actor,111714,Allen,Garfield
+actor,2606,Gregory,Richardson
+actor,100876,Alex,Burrall
+actor,96235,Duane (I),Allen
+actress,72286,Deborah,Nishimura
+actor,139916,Herbert,Stevens
+actress,48619,Kim,Fasano
+actor,116908,Joseph (I),Will
+actor,99415,Dan,Aykroyd
+actor,142622,Ji Ri Mu,Tu
+actress,30838,Sheila (I),Shah
+actor,59500,Frank J.,Falvo
+actor,124072,Xavier,Marc
+actress,692,Krista,Kalmus
+actor,5141,Grahame,Fox
+actor,85401,Ed (I),Davis
+actor,147296,John (XXIV),Bell
+actress,108598,Melissa Maria,Gonzalez
+actor,42184,Chris (VI),Barnes
+actor,124332,Greg,Zach
+actor,141260,Adam (X),Morris
+actor,66084,Frank (I),Licari
+actress,118299,Prudence,Drage
+actor,112329,Brian,Blondell
+actor,10908,Alois,Moyo
+actress,58090,Lesley,Ewen
+actress,114736,Martha,Purvis
+actress,28998,Florence,Paterson
+actor,121296,Johnny Traber's Troupe,
+actor,61300,Berit,Francis
+actress,66475,Elise (I),Wilson
+actor,33316,Germaine,De Leon
+actress,100383,Danielle (I),Cox
+actor,36718,Charles,Techman
+actor,28405,Dan,Rudert
+actor,133843,Brett,Yoder
+actor,90244,Jesper,Salén
+actor,128752,Brad,Pyner

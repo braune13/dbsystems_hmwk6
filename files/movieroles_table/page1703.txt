@@ -1,0 +1,66 @@
+84852,,,2954630,[Triceracop]
+93776,(uncredited),,2954630,[Street Thug]
+96175,(uncredited),,2954630,[Guy Playing Gauntlet]
+98516,,,2954630,[Barbarianna]
+102589,,,2954630,[Extra and Runner]
+109456,(voice),,2954630,[Hoff 9000]
+124010,,,2954630,[Boombox Guy and Runner]
+124267,,,2954630,[Colonel Reichstache]
+130797,,,2954630,[Street Thug with Skateboard]
+142795,,,2954630,[Boombox Dude]
+114,,,2954372,[Guard killed by Washizu]
+2227,,,2954372,
+3853,,,2954372,[Commander]
+6234,,,2954372,[Yoshiteru Miki]
+9489,,,2954372,[Miki party member]
+13919,,,2954372,[Washizu soldier]
+17724,,,2954372,[Commander]
+18414,,,2954372,[Commander]
+29652,,,2954372,[Washizu samurai]
+32103,,,2954372,[Phantom samurai]
+32905,,,2954372,[Phantom samurai]
+33325,,,2954372,[Taketoki Washizu]
+34389,,,2954372,[Yoshiaki Miki]
+40723,,,2954372,[Second Miki party member]
+42920,,,2954372,[Washizu's workman]
+47451,,,2954372,[Servant]
+47917,,,2954372,[Military Commander]
+50350,(as Yôichi Tachikawa),,2954372,[Kunimaru Tsuzuki]
+64966,,,2954372,[Lady Asaji Washizu]
+68533,,,2954372,[Washizu samurai]
+78755,,,2954372,[Tsuzuki guard]
+79544,,,2954372,[Washizu soldier]
+81475,,,2954372,[Noriyasu Odagura]
+84926,,,2954372,[Second Military Commander]
+85739,,,2954372,[Washizu samurai]
+86918,,,2954372,[Commander]
+89323,,,2954372,[Washizu samurai]
+91150,,,2954372,
+93908,,,2954372,
+94760,,,2954372,[Washizu samurai]
+97310,,,2954372,[Washizu samurai]
+102444,,,2954372,[Old Ghost Woman]
+107066,,,2954372,[Old Woman at castle]
+131514,,,2954372,[Tsuki guard]
+132775,,,2954372,[Samurai]
+137036,,,2954372,[Servant]
+137052,,,2954372,[Commander]
+142597,,,2954372,[Third Military Commander]
+143574,,,2954372,[Kuniharu Tsuzuki]
+143839,,,2954372,[Phantom samurai]
+147759,,,2954372,[Servant]
+1873,(voice: English version),,2955065,
+5741,(voice: English version),,2955065,[Grandpa Piccolo]
+9103,(voice),,2955065,
+13997,(voice: English version),,2955065,[Mamma Aiuto Gang]
+19133,(voice: English version),,2955065,
+21578,(voice: English version),,2955065,[Gas Boy]
+24267,(voice: English version),,2955065,
+28406,(voice: English version),,2955065,
+28483,(voice: English version),,2955065,[Mamma Aiuto Gang]
+32630,(voice),,2955065,[Jina-sama]
+33164,(voice: English version),,2955065,
+41469,(voice: English version),,2955065,
+43151,(voice: English version),,2955065,
+43469,(voice: English version),,2955065,
+43922,(voice),,2955065,[Kurenai no Buta]

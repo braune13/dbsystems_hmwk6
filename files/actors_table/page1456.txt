@@ -1,0 +1,71 @@
+actor,52291,Bjarne,Thomsen
+actress,47325,Tita,Colorado
+actor,117224,Volkan,Ay
+actor,32392,Chris,Dedman
+actor,123581,Yves,Degryse
+actress,5919,April (I),Crisafulli
+actress,135638,Mitsuyo,Hoshino
+actress,128456,Fumie,Kikuchi
+actor,62744,Thomas,Thoroe
+actor,125989,Randy,Godwin
+actor,138220,Mackenzie,Green
+actor,86957,Max,Fomitchev
+actress,125579,Pat (I),Carroll
+actress,98454,Robyn Jean,Springer
+actor,137498,Billy,Stephenson
+actor,32979,Kenneth Keith,Kallenbach
+actor,117596,Jonas,Laleman
+actress,84273,Laurie (I),Hendricks
+actor,22169,Mason,Lucero
+actress,59191,Gita,Reddy
+actor,127250,Victor,Steinbach
+actor,489,Francesco,De Simone
+actor,8094,Richard (V),Cohen
+actor,27771,Henry,Mason Jr.
+actress,30316,Yvonne,Furneaux
+actor,120356,Shawn,Beaton
+actor,23661,Hajjoujou,Haijjoujou
+actor,83437,Tony (III),Fish
+actor,123114,Suryono,
+actress,131902,Hayden Gael,Barnes
+actor,58879,Tarek,Arafat
+actress,134880,Yolanda,Whittaker
+actor,86551,Baby (II),Boy
+actor,90451,J. Scott,Shonka
+actor,101755,Cameron (I),Moore
+actress,143611,Wendy,Mogel
+actor,137923,Robert Roy,Hofmo
+actress,86853,Diane,Chamberlain
+actor,116144,Andrei,Lenart
+actor,37694,Juan Pablo,Colombo
+actress,91463,Pina,Bausch
+actress,78298,Pauline S.,Lewis
+actor,128337,Junior,Oliphant
+actress,44791,Amy,Ferguson
+actress,135527,Daphne,Pe'a
+actor,6593,Rayo,Rojas
+actor,145517,Billy,Crudup
+actor,28224,Ty (II),Miller
+actor,75458,Tom,Sponberg
+actress,26501,Elaine (I),May
+actress,119147,Amy,Raudenbush
+actor,67234,Robert,D'Arensbourg
+actor,38061,Jade,Griffiths
+actor,144491,Rhys,Bond
+actor,149365,Adrian (I),Morales
+actress,114194,Antonietta,De Lorenzo
+actor,55539,Robert (I),Brubaker
+actor,132362,Jimmie F.,Skaggs
+actor,82274,F. Marcus,Casper
+actress,105078,Sunny,Maddrix
+actor,76048,Johnny,Ferrara
+actor,14291,Gianluca,Guarrera
+actor,124605,Chun,Sun
+actor,7237,Marc,Shelton
+actor,108368,Paul,Norell
+actor,13095,Jonathan,Demme
+actor,47477,Martin,Ruben
+actor,48628,Daniel,Sauli
+actor,124118,David (II),Light
+actress,81900,Irina,Gavra
+actor,103734,Adrià,Collado

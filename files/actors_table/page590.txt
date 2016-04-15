@@ -1,0 +1,71 @@
+actor,11657,D.W.,Kann
+actress,87437,Colleen (I),McDermott
+actress,78078,Genevieve,Westcott
+actor,136857,Kumar Veer,Singh
+actor,116239,Sargon,Yelda
+actor,76350,Marcel,Bosonnet
+actress,145977,Tuba,Büyüküstün
+actor,105630,James H.,Russell
+actor,40965,Kean,
+actor,61095,Nejat,Isler
+actor,118443,Robert,Vahey
+actress,111596,Minna (I),Aaltonen
+actor,128057,David,Keats
+actor,148260,Mike,Whyte
+actress,31232,Kate,Beahan
+actor,67835,Todd,Cosgrove
+actor,143709,Jose,Byers
+actor,140224,Rich,Petrelli
+actor,8384,Jeff,Zabel
+actor,66829,Minal,Lavingia
+actress,69069,Montse,Pla
+actor,117275,Michael,Jamorski
+actor,51474,Ben,Sliney
+actor,26629,Joe,Masino Jr.
+actress,50153,Claudia,Soundy
+actress,22753,Victoria (I),Hall
+actor,131258,Steve (I),Rifkin
+actor,31692,John (II),Sheehan
+actress,82755,Andrea,Langi
+actress,108310,Melissa Joan,Hart
+actor,40539,John,Fontana
+actress,86859,Tiffany (IX),Smith
+actor,83855,Christian,Pagh
+actor,84993,Jonathan,Brandis
+actor,32884,Tobi,Eshelman
+actor,8980,Chris,Viteychuk
+actor,114988,Lubos,Pospísil
+actor,78111,John Mitchell,Fultz
+actress,37602,Loredana,Cannata
+actor,50024,Jeff,Cesario
+actress,64664,Anouk,Aimée
+actor,61342,François,Paquette
+actor,113220,David (IV),Breen
+actor,118288,Frank,Garvin
+actor,4247,Studio,Gutierrez
+actor,43103,John,Hawkinson
+actor,132437,Michael (XI),Morris
+actress,10938,Candace (I),Thompson
+actress,120498,Mecca,Brunson
+actor,59181,Malin,Krastev
+actor,96598,Scott,Prensor
+actor,103832,Brad,Bingham
+actor,25640,Denis,Luposo
+actor,38199,Jeffrey Scott,Jensen
+actress,90819,Ator,Tamras
+actor,21685,Tommy,Smeltzer
+actor,144272,Pete,Lynch
+actor,85583,Joe,Matheson
+actress,90456,Lesley,Mackie
+actress,47680,Annie,Morgan
+actor,84518,Toby,Grear
+actress,81099,Cheryl,MacInnis
+actor,83195,Morgan,Zimmerle III
+actor,69471,Trestin,George
+actress,103516,Solana,Talbot
+actress,42378,Tety,Kalafati
+actor,116111,Michael,Edward-Stevens
+actor,497,Ron,Baratono
+actor,55306,Lenny,Solomon
+actress,132113,Iris,Burton
+actor,109775,Tony,Hoy

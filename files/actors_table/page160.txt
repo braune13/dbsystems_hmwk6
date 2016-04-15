@@ -1,0 +1,71 @@
+actor,135421,Toshio,Ariki
+actress,132267,Georgette,Anys
+actor,102068,Richard,Fancy
+actor,83713,Christian,Sloan
+actor,112810,Oliver (I),Stone
+actor,58422,Kevin (I),O'Grady
+actress,116292,Lorna,Patterson
+actress,142475,Ni (II),Ni
+actress,91905,Eva,De Viveiros
+actor,67995,Charles,Singh
+actor,6209,Thomas,Szekeres
+actress,20315,Rochelle,Forland
+actress,131333,Anastasia,Corbett
+actor,59289,Graham,Hawkes
+actor,120892,Massimo,Bianchi
+actor,116636,Gus,Lewis
+actor,22053,Frank (II),Andrade
+actor,71868,Laurent (I),Imbault
+actor,147847,Wayne E.,Brown
+actress,115994,Vickie,Eng
+actor,60549,Russell,Halley
+actor,122137,Jacques Henri,Lartigue
+actor,59498,Ron (I),Charles
+actor,29049,Leo,Geter
+actress,91055,Sonia Iris,Lozada
+actress,84642,Rachelle,Lefevre
+actress,85068,Christina,Wun
+actress,109074,Cierra,Talbot
+actor,28711,Jim,Croft
+actor,60022,Russell (XI),Brown
+actress,137646,Jessica (I),Gomes
+actress,106523,Mona,Malm
+actress,83303,Deborah,Overes
+actor,133919,Wangdu,Dorjee
+actor,146391,John,Medici
+actor,76773,Nick,Saban
+actor,57556,Derek,Horsham
+actress,140658,Jacquelyn,Bickle
+actor,104855,William (III),Roberts
+actress,47528,Emily,Malin
+actor,124915,Darren,Pettie
+actor,41078,Cord,Newman
+actress,84177,Dena,DeCola
+actress,109416,Lauree,Bradway
+actress,29442,Dorothy,Meyer
+actor,72746,Bill,Timoney
+actor,140726,Sergei,Levtsuk
+actor,112816,Dirk,Marks
+actor,86436,Hiroshi (I),Takagi
+actor,66802,Robert (I),Pine
+actor,142660,Sidney,Chankin
+actress,50729,Sissi,Duparc
+actress,44451,Renn,Reed
+actress,111561,Allison,Boyd
+actor,65469,Richie,Nathanson
+actor,80252,Jason,Aranui
+actor,14332,Tyler Sean,Palmer
+actress,86970,Sandra (I),Steier
+actor,105756,Marco (I),Roy
+actress,134975,Danni,Lang
+actress,37318,Gina,LaMarca
+actress,112144,Elsebeth,Steentoft
+actress,129129,Tonjha,Richardson
+actor,8698,Loucas,Minchillo
+actress,32860,Heaven Lee Porteous,Jent
+actress,52170,Joan,Marsh
+actor,11218,Alex,Amaral
+actress,132234,Sahrah,Zarei
+actress,49233,Lily,Kann
+actress,80460,Yi (I),Huang
+actor,135961,Jack (I),Wallace

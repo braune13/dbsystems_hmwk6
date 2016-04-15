@@ -1,0 +1,66 @@
+89899,,,3091015,[Male Nurse]
+90652,,,3091015,[Miller]
+94158,,,3091015,[King]
+95274,,,3091015,[Tom]
+110105,,,3091015,[Galen]
+112860,,,3091015,[Carver]
+133354,,,3091015,[Neckbone]
+134340,,,3091015,[Kyle]
+147732,,,3091015,[Older Kid at Food King]
+482,(singing voice),,3091982,[Mushu]
+1944,(voice),(uncredited),3091982,
+5416,(voice),,3091982,
+10657,(voice),(as Edie Lehmann-Boddicker),3091982,
+11157,(voice),(as Jerry S. Tondo),3091982,[Chien-Po]
+13719,,,3091982,
+15969,(singing voice),,3091982,[Shang]
+19814,(voice),,3091982,[Hun]
+21769,(voice),,3091982,[Grandmother Fa]
+24692,(voice),,3091982,
+27611,(voice),(as Maurita Thornburg-Phillips),3091982,
+28483,(voice),,3091982,[Khan/Cri-Kee]
+29095,(voice),,3091982,[The Emperor]
+32269,(voice),,3091982,
+34245,(voice),,3091982,
+34380,(voice),,3091982,
+35169,(voice),,3091982,
+35696,(singing voice),(uncredited),3091982,
+36597,(voice),,3091982,[Bather]
+43053,(singing voice),,3091982,[Mulan]
+43614,(voice),,3091982,
+44192,(voice),,3091982,[General Li]
+46969,(voice),(as Richard S. Horvitz),3091982,[Chinese Soldier]
+49756,(voice),,3091982,
+53344,(singing voice),,3091982,[Ling]
+53493,(singing voice),,3091982,[Grandmother Fa]
+61352,(uncredited),,3091982,[Xiao-En]
+74613,(voice),,3091982,
+76011,(voice),,3091982,
+77592,(voice),,3091982,
+80112,(voice),,3091982,[Shang]
+83470,(voice),,3091982,[Fa Li]
+93424,(voice),,3091982,[Mushu]
+93491,(voice),,3091982,
+95416,(voice),,3091982,[Mulan]
+99342,(voice),,3091982,
+99535,(voice),,3091982,[First Ancestor]
+100539,(voice),(uncredited),3091982,[Little Brother]
+103085,(voice),(as Don Fullilove),3091982,
+105317,(voice),,3091982,
+106887,(voice),,3091982,
+107946,(voice),,3091982,
+108328,(voice),,3091982,[Ling]
+112910,(voice),,3091982,[The Matchmaker]
+113717,(voice),,3091982,
+115735,(voice),,3091982,
+116901,(voice),,3091982,[Ancestor]
+119343,(voice),,3091982,
+119571,(voice),,3091982,
+129873,(voice),,3091982,[Yao]
+133486,(voice),(uncredited),3091982,[Additional Voices]
+135163,(voice),,3091982,
+138509,(voice),,3091982,
+138933,(voice),,3091982,[Shan-Yu]
+140611,(voice),,3091982,[Fa Zhou]
+142591,(voice),,3091982,[Chi Fu]
+143277,(singing voice),,3091982,[Young Bride]

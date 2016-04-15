@@ -1,0 +1,71 @@
+actor,93619,Ted (II),Sims
+actress,62964,Trudy,Perkins
+actor,29218,Warren,Christie
+actress,109176,Sharon (I),Brown
+actress,86740,Michelle,Parylak
+actor,88760,Eugenin,Marandic
+actress,128755,Jalaine,Gallion
+actor,116838,Nicki,Nevlin
+actor,143987,Theo,Greenly
+actor,46282,John (XXXIII),Carroll
+actor,123433,Vladimir,Zamanskiy
+actress,1401,Jennifer (I),Manley
+actress,38686,Jane Anne,Thomas
+actor,134304,Peter (I),Hermann
+actor,97788,Claude,Dauphin
+actor,148748,Chris (VI),Connor
+actress,126698,Lisa Marie,Panagos
+actress,116085,Carme,Capdet
+actor,41923,Edward,Rissien
+actor,89399,Domenico,D'Ambrosio
+actor,85594,Curt,Sobel
+actress,145446,Elvira,Tricás
+actor,129955,Hatcher,Flaschen
+actress,62224,Herma,Koehn
+actress,139347,Ana,Mena
+actor,103366,Jason DarkChocolate,Dyer
+actor,40362,Wilhelm,Brückner
+actor,21889,Anthony,Cross-Thomas
+actor,62053,Yoshinori,Fukushige
+actor,132139,Johnathan (I),Thomas
+actor,49253,Charlie,Frye
+actress,45996,Samantha,McCoy
+actor,149258,Nicholas,Bearde
+actress,63346,Shila,Wattamwar
+actor,49259,Lee,Boquet
+actor,84427,Chris (I),Williams
+actress,78924,Lisa Marie (I),Fernandez
+actor,87828,Ryûshi,Mizukami
+actor,33167,Erwin,Simsensohn
+actress,6552,Candice,Briese
+actor,98555,Jorge (II),Ramirez
+actor,72576,David,Walliams
+actress,73579,Anne,Ives
+actress,91524,Sophia (I),Choi
+actress,78346,Jolie,Jenkins
+actor,38380,Eliel,Swinton
+actress,136732,Dallas,Travers
+actor,29191,Jay (V),Ward
+actor,53361,Stephen Mackenzie,Brown
+actress,25924,Gretchen,MacLane
+actor,118548,Nanami,Ohta
+actor,32957,Josh (III),Greenberg
+actor,99773,Rey-Phillip,Santos
+actor,47414,Kelvin,Lieu
+actress,126872,Libby,Skala
+actor,68690,Richard,Katanga
+actor,96690,Andy,LaCombe
+actor,64555,Scott William,Winters
+actor,127712,Raymond,Forestier
+actor,23552,Joel (II),Edwards
+actor,21747,Jon,DeCelles
+actress,141231,Marly,Coronel
+actor,76615,Cole,Currin
+actor,24393,Jonas,Michel
+actor,96122,Joseph,Gordon-Levitt
+actress,31541,Laurel,Gans
+actor,139732,Sam (XLVII),
+actor,117316,Darryl (I),Smith
+actor,22571,William (I),Hardy
+actor,144661,Michael (XXII),Chapman
+actor,68161,Bryant,Fraser

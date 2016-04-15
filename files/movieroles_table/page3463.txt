@@ -1,0 +1,66 @@
+86786,,,3456141,[The Assistant Brute]
+88727,,,3456141,[Yellin]
+89680,(uncredited),,3456141,[The Balladeer's Keyboardist]
+91091,,,3456141,[The Ancient Booer]
+106183,,,3456141,[Valerie]
+112791,,,3456141,[Miracle Max]
+119008,,,3456141,[The King]
+126955,(uncredited),,3456141,[The Balladeer's Drummer]
+129880,(uncredited),,3456141,
+129927,,,3456141,[The Grandfather/Narrator]
+130404,(voice),(uncredited),3456141,[The Balladeer]
+148483,,,3456141,[The Princess Bride]
+986,(uncredited),,3456942,[Psycho Killer]
+3696,,,3456942,[Novice Deacon]
+10076,(uncredited),,3456942,"[Thomas, 7 Years]"
+17269,,,3456942,[Grave Keeper]
+20328,,,3456942,[Indian Healer]
+25506,,,3456942,[Jerry]
+28308,,,3456942,[High School Kid]
+35290,(uncredited),,3456942,[Jerry's Girlfriend]
+37990,,,3456942,[Usiel]
+43650,,,3456942,[Novice Priest]
+45009,,,3456942,[Lucifer]
+47170,,,3456942,[Sandra]
+55435,(uncredited),,3456942,[Colonel Arnold Hawthorne]
+59858,,,3456942,[Katherine]
+70178,,,3456942,[Grey Horse]
+76274,(scenes deleted),(as Thomas 'Doc' Bugoski),3456942,[Security Officer]
+80570,,,3456942,[Rachael]
+85248,(as Nicholas Gomez),,3456942,[Jason]
+87376,,,3456942,[Burrows]
+88538,,,3456942,[Joseph]
+93768,,,3456942,[Nurse]
+94242,(as Sandra Lafferty),,3456942,[Madge]
+96504,,,3456942,[Deputy #1]
+101248,,,3456942,[Deputy #2]
+104375,,,3456942,[Simon]
+109014,,,3456942,[Gabriel]
+111198,,,3456942,[Brian]
+128212,,,3456942,[Thomas Dagget]
+128626,,,3456942,[Grandmother]
+131332,,,3456942,[Allison]
+138710,(as Moriah Shining Dove Snyder),,3456942,[Mary]
+1707,(voice),,3456119,
+2871,(voice),,3456119,
+3060,(voice),,3456119,
+4393,(voice),,3456119,[Marlon the Gator]
+4919,(voice),,3456119,[Prince Naveen]
+13997,(voice),,3456119,[Ian the Gator]
+16756,(voice),,3456119,[Mama Odie]
+19133,(voice),(as Philip Proctor),3456119,
+21460,(voice),,3456119,[James]
+21483,(voice),,3456119,
+22316,(voice),,3456119,
+27900,(voice),,3456119,
+30434,(voice),,3456119,
+31892,(voice),,3456119,
+32269,(voice),,3456119,
+33619,(voice),,3456119,
+35895,(voice),,3456119,
+39036,(voice),,3456119,[Young Charlotte]
+41821,(voice),,3456119,[Georgia]
+45379,(voice),,3456119,
+46880,(voice),,3456119,[Reggie]
+51059,(voice),,3456119,
+52124,(voice),,3456119,[Tiana]

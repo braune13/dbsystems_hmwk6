@@ -1,0 +1,71 @@
+actor,96655,Al (III),Lewis
+actress,50939,Teodora,Uveric
+actor,137109,Gustavo,Engrácia
+actor,75809,Mark (I),Healy
+actress,26908,Synnøve Macody,Lund
+actor,67726,Oren,Michaeli
+actor,138086,Taylor,Hayle
+actor,78962,John Leslie,Wolfe
+actor,120496,Connor,David
+actor,98826,Carlo,Simi
+actor,59130,Mike (I),McGill
+actor,121695,Richard,Ruyle
+actress,51170,Melody,Weintraub
+actor,26726,Jonathan Teague,Cook
+actor,25107,Alexis,Poindexter
+actor,133161,Allen (I),Payne
+actor,70739,Mark,Atteberry
+actor,23070,Luis Alberto (III),Martínez
+actress,110501,Halina,Skoczynska
+actor,93366,Bill (V),Robinson
+actor,85865,Del,Rager
+actor,116356,Scott,Baldyga
+actor,99702,Paul,Bazely
+actor,131950,Peter,Tuinstra
+actress,72391,Rebecca,Hester
+actor,60351,Don (I),Moss
+actress,140943,Shaela,Luter
+actor,8071,Doug,Trapp
+actress,101768,Odessa,Munroe
+actress,128530,Tara,Battani
+actor,44740,Douglas,Gawoski
+actor,121230,Joe (V),Bravo
+actor,50242,Jeff,Moldovan
+actor,48098,Yuri,Borienko
+actor,35868,Alan,Landers
+actor,36196,Craig (I),Stevens
+actor,109718,Deon,Lewis
+actor,71166,Brendan (II),Hill
+actor,50677,Walter (I),Perez
+actress,149208,Nancy,Beatty
+actor,17161,Cameron (IV),Bell
+actor,36591,Harold (I),Goodwin
+actor,96108,Justin (II),McEwen
+actor,25183,Michael (I),Shapiro
+actress,137917,Alexandra (III),Paul
+actor,23404,Bobby,Walsh
+actress,143279,Nicole (III),Russell
+actor,26198,Hiroshi (IV),Watanabe
+actor,18949,William Lawrence,Mack
+actress,70333,June,Chandler
+actor,18517,Freddie,Rose
+actor,6663,Sam,Shamshak
+actress,86661,Denisse,Fitzgerald
+actor,110348,Charlotte,Gulezian
+actor,82118,Pat (I),Cooper
+actor,118679,George,Hine
+actor,20646,Shimen,Ruskin
+actor,85205,Richard,Coca
+actor,20639,Peñarandam Felix,
+actress,73725,Dana,Delany
+actor,31388,William L.,Arance
+actress,136769,Vivian,Vanderwerd
+actress,96421,Shannon,Floyd
+actor,128440,Baoan,Coleman
+actor,133027,Robert (X),Shaw
+actress,81932,Christina,Cindrich
+actress,46446,Roberta,Gotti
+actress,105540,Lauren,Ingram
+actress,70212,Ella Mae,Smith
+actress,30164,Bridget,Shergalis
+actor,54806,Peter,Lonstrup

@@ -1,0 +1,71 @@
+actress,95183,Audrey,Dwyer
+actress,90435,Tania,Rodger
+actor,80993,George (I),Hall
+actress,59333,Erica K.,Evans
+actor,121043,Kapil,Parikh
+actor,99136,Francisco 'Coqui',Taveras
+actor,56174,Eric,Schweig
+actor,104177,Christopher,Aydon
+actor,81049,Mark (I),O'Leary
+actor,79693,Corey (I),Johnson
+actor,81499,Coolie,Ranx
+actress,133289,Michelle E.,Thomas
+actor,106975,Robert (III),Kirkland
+actor,71420,Thomas,Repp
+actor,28446,Tom,Dahlgren
+actor,21645,Gene (I),Collins
+actor,120034,Fred (I),Wood
+actor,135245,Takayuki (II),Matsumoto
+actress,30212,Carla,Rodrigo
+actor,30284,Clifton,Collins Jr.
+actress,22253,Yvonne (I),Dick
+actress,89522,Sherry (II),Stone
+actress,15290,Hee-ra,Mun
+actor,17246,Brian (II),Jamieson
+actor,96132,James Edward,Shippy
+actor,105583,John (II),Tully
+actress,117101,Holiday,Hadley
+actress,17302,Nidhi,Subbaiah
+actress,67757,Heather (III),Lilly
+actor,17130,Elsayed,Mohamed
+actress,100276,Lisa (XVIII),Stewart
+actor,100750,Michael (II),Bentele
+actor,120653,Sirius (I),Hu
+actor,18547,Jim (II),Wisniewski
+actor,105310,Tommy,Abbott
+actress,78791,Marian,Sing
+actress,80921,Anne,McVey
+actor,94521,Vernon R.,DeVinney
+actor,127573,Scott Francis,Russell
+actress,111131,Katherine,Helmond
+actor,146755,Trampas,Warman
+actor,59905,Giulio,Calì
+actor,5099,Andrew,Heald
+actor,1294,Will (XVII),Harris
+actor,17757,Mark,Falvo
+actress,23911,Cylia,Malki
+actress,529,Laura (I),Rush
+actress,141549,Kathy,Kinney
+actor,50307,Jacob (I),Adams
+actor,72443,Thomas,Garner
+actress,130059,Lola,Kittay
+actor,116379,Ümit,Karatay
+actress,87278,Hana,Dibelkova
+actor,17185,Alex Michael,Stoll
+actor,41019,Jack (II),Neary
+actor,42994,Hugo (I),Garcia
+actress,108530,Jenna,Ortega
+actress,120215,Michelle,Macera
+actor,78348,Brian (I),Price
+actor,123037,J.T.,Horenstein
+actress,44431,Noel (II),Delgado
+actor,119148,Anthony (I),Holland
+actress,9906,Katie A.,Rustowicz
+actress,42788,Rimma,Markova
+actor,137460,Miklós,Kapácsy
+actor,142637,Brendan Patrick,Connor
+actor,115009,Luca (I),Rossi
+actor,26421,Blake,Lena
+actor,83488,Todd (I),Gordon
+actor,117574,Herbert,Corthell
+actor,416,George,Birt

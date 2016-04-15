@@ -1,0 +1,71 @@
+actress,85908,Sophie,McShera
+actor,7022,Steven Jon,Nichols
+actress,134802,Aimee,Bernard
+actor,138366,Simon (II),Holmes
+actor,31928,Jay,Duplass
+actor,131769,Sidney,Cox
+actress,46508,Sandra (I),Borgmann
+actor,115474,Dashaun,Young
+actor,132570,Edward,Hardwicke
+actress,110094,Marie (II),Lacroix
+actor,127841,Theodore (II),Lawrence
+actor,19751,John K.,Vanvalkenburg
+actor,32362,John,McTiernan Sr.
+actor,25253,Francois,Chanut
+actor,91299,Mark (XIV),Simmons
+actor,53648,Frank,Langella
+actor,40961,Ken,Ohara
+actor,56492,Craig,Glenday
+actress,118522,Angela,Bettis
+actor,21371,Dexter,Tillis
+actor,42592,Elmer,Licciardello
+actress,128170,C.C.,Loveheart
+actress,17782,Tammy (I),Gillis
+actress,50919,Lymari,Graciano
+actor,97464,Michael James,Levy
+actor,45447,J. Dean,Lindsay
+actor,108402,Germain,Williams
+actress,73945,Cortney,Osborn
+actress,63194,Sonya,Hedenbratt
+actress,20658,Ariela,Arnon
+actress,72343,Olga,Kostritzky
+actress,45012,Isabelle,Nanty
+actor,10695,Victor,Calero
+actor,96407,Mason,Spielman
+actress,15745,Wendy,Schaal
+actor,11368,Paulo 'Jacaré',César
+actor,142940,Garrick,Hagon
+actor,86658,Justin (I),Page
+actor,75462,Jack,Hanlon
+actor,28575,Noah,Visconti
+actor,11069,Clem (I),So
+actor,82361,Kevin,Cater
+actress,92836,Kendall,Draughn
+actress,52497,Amanda,Posner
+actress,33072,Melanie,Paxson
+actor,77902,Constantine,Vardalos
+actor,25857,Donald,Symington
+actress,38528,Jessica,McNamee
+actor,87301,Joe,Jagatic
+actor,73313,Richard S.,Castellano
+actress,80984,Heather (V),Rose
+actress,124643,Hélène,Genet
+actress,87703,Ginny,Taylor
+actor,16056,Danny,DeVito
+actress,64353,Marta (IV),Martí
+actor,69907,Bruce (II),James
+actor,29761,Apl.de.Ap,
+actor,19919,Brian,Gallivan
+actor,122283,Wolf,Christian
+actor,145269,Bryan,Barter
+actor,67520,Ken,Muggleston
+actor,146338,Scott (I),Paul
+actor,98613,Arsène,Wenger
+actress,64801,Jasmine,Fletcher
+actress,28459,Deborah,Rosencrans
+actress,31118,Cara,Mantella
+actor,73958,Julian,Chagrin
+actor,74935,Javier,Gonzalez Traba
+actress,9119,LaVerne,Anderson
+actress,42231,Henrietta,Siodmak
+actor,116955,Michael (VI),Patrick

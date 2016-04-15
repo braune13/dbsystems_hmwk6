@@ -1,0 +1,71 @@
+actor,43190,Jeffrey,Poitier
+actor,13355,Michael,Viscusi
+actor,64547,Rob (I),Ellis
+actor,4821,Pip,Torrens
+actor,8803,Vincent (I),Price
+actress,69194,Ozlem,Erol
+actor,28247,Bradley,Wentworth
+actor,148379,Charles (I),Burrell
+actor,112301,Brent,Crozier
+actor,22946,Antoine-Olivier,Pilon
+actress,17560,Jackie,Hagley
+actress,82689,Marie,Jansová
+actor,45862,Mike (II),Morrell
+actress,81230,Jennifer,Mendenhall
+actor,73220,Kolja,Liquette
+actor,35754,Jordan (XVI),Davis
+actor,54884,Jack (I),Haley
+actor,54468,Robin,Weisse
+actress,32229,Kim,Falkinburg
+actor,48965,Otto,Granillo
+actor,73459,Edward (I),Moss
+actor,29164,Blake,Benitez
+actress,103458,Aline,Stinus
+actress,4683,Lynn,Golden
+actor,17285,Ryan,Arnel
+actor,123127,Devraj,Dasgupta
+actor,79280,Adam Jamal (I),Craig
+actor,131775,Bruno,Cadillon
+actor,15437,S.S.,Simon
+actress,117450,Marta (I),Velasco
+actress,89440,Marina,Franklin
+actress,47390,Dunia,Saldívar
+actor,97733,Daylon Micah,Othello
+actress,85905,Eva,Burkley
+actor,23232,Claudius,Freyer
+actress,58627,Rusty,O'Hara
+actor,141467,Ron (IV),Gibson
+actor,114855,Yao,Xu
+actor,139317,Russell (I),Costen
+actor,92184,Cristian (I),Cruz
+actor,129746,Lemmy,Constantine
+actor,147523,Michael,Wajacs
+actor,46464,Jason,Bostridge
+actor,54781,Dave,Bender
+actor,145719,Brad,Blaisdell
+actor,57987,Bud,Harrelson
+actor,54847,Lucas,Yashere
+actress,34444,Stephanie,Pond-Smith
+actress,147054,Amy,Wiles
+actress,115069,Kuniko,Narai
+actor,99297,Anton (I),Yakovlev
+actor,22992,Nicholas,Chalupa
+actor,83338,Nathan,Lytle-Pinhey
+actress,142101,Rita,Cortese
+actor,83733,Cooper,Gore
+actress,43520,Mackenzie,Lintz
+actor,130899,Berg,Lee
+actor,131868,Ian,Ruskin
+actor,108129,Joe,Abby
+actor,55465,George,Fourniotis
+actor,133043,Jesse,Iwanonkiw
+actress,38529,María Alfonsa,Rosso
+actress,78416,Wenting,He
+actor,12648,Stephen,Borrello IV
+actress,66221,Paulina,Gaitan
+actor,73385,Alexander,Sovronsky
+actor,132367,George,Savalas
+actress,102806,Margaret,Barton
+actor,123094,Roger (I),Miller
+actor,129249,Kenny G.,Krauss
+actress,74907,Denise,DuBarry

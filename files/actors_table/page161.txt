@@ -1,0 +1,71 @@
+actor,1451,Eric (I),Leighton
+actor,39130,Gary (II),Nicholson
+actor,11394,Galen,Head
+actor,49527,Nye,Heron
+actor,13996,Michael (I),Lohan
+actor,90852,John (I),Marley
+actor,98659,Rick,Crachy
+actor,94818,Grant,Whitacre
+actor,54749,Ken (I),Fritz
+actor,125642,Armand,Triller
+actor,81407,Eddie,Wren
+actor,112795,Aaron (XXIII),Jackson
+actor,68555,Brendyn,Bell
+actress,141654,Kitty,Kreidler
+actress,26317,Jeanette,Kloppe
+actor,55819,Anders Baasmo,Christiansen
+actor,5772,Joel,Keller
+actress,64487,Michele,Cummins
+actor,76018,Tomas,Wooler
+actor,142133,Trevor,Peacock
+actor,37682,Don,Amendolia
+actor,74567,Straid,Samuel Duncan
+actor,75308,Brocton,Pierce
+actor,74738,Jacek,Wójcicki
+actor,99148,Alfred,Jones
+actress,33984,Joanna,Heimbold
+actor,84774,Seong-ho,Nam
+actress,33743,Elizabeth,Bank
+actor,100575,Frank,Dillane
+actor,80013,Adam (II),Dalton
+actress,28398,Francesca,Mari
+actress,26090,Elizabeth (III),Law
+actor,133720,Jeff,Doucett
+actor,69484,Leo,Moctezuma
+actor,70538,Jw,Wiseman
+actor,22976,Terrence,Houlihan
+actor,115037,Calo,Rodriguez
+actress,75421,Briana,Marin
+actress,12145,Vivienne,Soan
+actress,107081,Virginia (III),Lee
+actor,38706,Mike (II),Murdock
+actor,116077,Phil,Tang
+actor,73790,Stephen J.,Lattanzi
+actor,100491,Roland (I),Young
+actor,118337,Thomas (II),Pickard
+actor,23076,Luciano Acuna,Jr.
+actor,126636,Brian Oswald,Talbot
+actor,83458,James,Haggis
+actress,22123,Marlene,Lawston
+actress,58849,Kirstie,Alley
+actor,38510,Steven (I),Hilton
+actor,31617,Frank (I),Wills
+actor,118279,Andy,Mottesheard
+actor,65708,Pablo (I),Machado
+actor,135683,Robert 'Bernie',Esquivel
+actress,114950,Sarah (I),Edwards
+actor,113423,Cohen,King
+actress,42657,Whitney,Goin
+actor,99339,David,Walsman
+actor,29027,Justin,Ciambelli
+actor,132182,Mingus,Johnston
+actor,64148,Charles R.,Moore
+actor,65504,Sam,Houli
+actor,131677,Liam (I),James
+actress,58101,Kelsey,Deanne
+actor,119818,Kellan,Patrick
+actor,105097,Rich (II),Hill
+actor,113190,Tank,Dong
+actor,130939,John,Hurt
+actor,73007,Ted,Kramer
+actor,59826,Bruce (I),Wright

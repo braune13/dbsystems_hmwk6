@@ -1,0 +1,71 @@
+actor,125333,Jack (I),Marks
+actor,79778,Chris (XIV),Frank
+actor,124767,Lloyd,Le Vasseur
+actor,5732,Jakob,Oftebro
+actor,14933,Yoon C.,Joyce
+actor,108952,Stephen,Sapienza
+actor,29438,Daniel,Dame
+actress,31107,Shabana,Azmi
+actor,91550,Joseph,Meissner
+actor,111500,Cameron,Brinkman
+actress,139887,Paula,Pizzi
+actor,92004,Suresh,John
+actor,106996,Carlo,Jachino
+actress,59074,Nilyne,Fields
+actress,66160,Aimee,Roldan
+actor,30023,Mackenzie,Falcombridge
+actress,55540,Karron,Graves
+actor,22927,Gerry,Loew
+actor,88186,Steven,Goldsmith
+actor,42409,Michael (I),Wyle
+actor,144143,Dame,Lee
+actor,59869,Derrick,Webster
+actor,75552,Barrett,Rakestraw
+actress,4206,Kerry,Sandomirsky
+actor,25536,Leaford,Lewis
+actor,87369,Lalo,Schifrin
+actor,3334,Michael (I),Trotter
+actress,83418,Purva,Parag
+actor,85966,Brandon (II),Bates
+actor,140552,Quinn,Lord
+actor,83795,Brian,Cobby
+actor,62227,Hengky,Maukar
+actor,1057,Desmond Lai,Lan
+actor,82251,A.P.,George
+actor,24498,Arien,Boey
+actress,144892,Jan (III),Williams
+actor,144543,Eddie,Hice
+actress,50766,Carly,Naples
+actor,86666,Robert (I),Walker Jr.
+actress,73312,Lily,Thorne
+actor,8226,Vernon,Weddle
+actor,31234,Jack,Fitzstephens
+actor,74449,Lindy (I),O'Connell
+actor,108090,Jun Wei,Feng
+actress,129463,Paula,Yeates
+actor,222,Bobby Holland,Hanton
+actor,83255,Thomas (I),Lange
+actor,80267,Martin,Salgo
+actress,133360,Gokce Isil,Tuna
+actor,140367,John (I),Case
+actress,134781,Anna (I),Levine
+actor,81253,Caleb,Grant
+actress,74723,Helga,Olofsson
+actress,87520,Nancy,La Scala
+actor,36068,Mitchell,Nguyen-McCormick
+actor,86932,Johnny,DeBrito
+actor,70257,Robert (IX),Kane
+actress,141778,Kelly (III),Cohen
+actor,122833,Alan,Pflueger
+actor,66395,Patrick,Boll
+actor,10570,Mike,Pniewski
+actress,80269,Norma Jean,Wick
+actor,145459,Andrew (I),Bailey
+actor,55780,Branko,Lustig
+actor,143586,Spencer,Conner
+actress,23044,Jill,Waterston
+actor,122746,Al (V),Lee
+actor,50816,Sem,Vanin
+actor,36612,Lo Hoi,Ying
+actor,125325,Boris,Brkic
+actor,64163,Stephane (I),Savoie

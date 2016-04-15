@@ -1,0 +1,71 @@
+actor,23794,Andy (VII),Allen
+actress,140517,Françoise,Yip
+actor,135255,Juan José (I),Rodríguez
+actor,45952,Justin,Isfeld
+actor,120262,Antonio (I),Saillant
+actor,85981,Osric,Chau
+actor,10601,Henry,Victor
+actor,54914,Rodney (I),Harvey
+actress,44652,Caroline,McNeil
+actor,26693,Michael (I),Shannon
+actor,137242,Desmond,McNamara
+actress,8806,Diane,Jonardi
+actor,2947,Alex,Tondowski
+actor,113260,Simon H.,Williams
+actor,2083,Jeffrey H.,Kaufman
+actor,108243,Steve,Dibben
+actress,148616,Brandi (I),Alexander
+actor,54617,Stephen (I),Hawkins
+actress,39939,Kelly (I),Leach
+actor,55003,Olly,Taylor
+actor,17303,Laurent (II),Bateau
+actor,118085,Benyahim,Ahed
+actor,54318,John (III),Taylor
+actress,109424,Renée,Jones
+actress,65701,Rebeca,Martinez
+actor,40938,Jhalaram,Bishnoi
+actress,20048,Virginie,Morgny
+actor,90578,Paxton,Johnson
+actress,69340,Diane,Rodriguez
+actress,79083,Janet,Denti
+actor,22401,Patrick,Laviosa
+actor,52629,Brett (II),Newton
+actor,2316,Paul J.,Schmidt
+actor,125165,Devin,Ratray
+actress,60984,Veronica,Cartwright
+actress,10607,Summer,Cain
+actor,47862,Felix,Manley
+actress,74010,Casey,Cipriani
+actor,98037,Ashraf (IV),Ali
+actor,137996,Edward Lewis,French
+actor,51425,Trece,Lambatan
+actor,116150,Mark (V),Fish
+actor,56274,Jonathan (II),Groff
+actress,76177,Rachel,Zeiger-Haag
+actor,19976,Raúl 'Pitín',Gómez
+actor,146446,Daryl,Stant
+actor,136624,Chris,Rourke
+actor,30717,David,Barrash
+actress,52868,Emilia,Graves
+actress,78540,Jennifer (I),Cohen
+actor,19912,Hearndon,Lackey
+actor,93786,Satish,Deshmukh
+actor,39578,David (I),Prowse
+actor,60347,Jamy,Woodbury
+actor,104621,Gene L.,Hamilton
+actor,116649,Brian (II),Lloyd
+actor,27494,Sydney (I),Morton
+actress,40472,Marian,Collins
+actor,131282,Frank,Crawshaw
+actor,117226,Danish (I),
+actress,40537,Jill (II),Meyers
+actress,92562,Ashley,Platz
+actor,37161,Jeremy,Parise
+actor,91527,William R.,Thompkins
+actress,100353,Marla,Sucharetza
+actress,139223,Jaime,Griffon
+actor,30679,Henry,Brahe
+actress,44122,Saundra,MacDonald
+actor,56124,Hakan,Sutluoglu
+actress,92468,Jordin,Sparks
+actor,2357,John (VII),Savage

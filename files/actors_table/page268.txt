@@ -1,0 +1,71 @@
+actress,25297,Tracy (I),Ashton
+actor,126035,Dom,Angelo
+actor,94272,Tony,Amoni
+actor,142584,Joachim,Schoenfeld
+actor,123465,Jan (III),Nilsson
+actor,3764,Louis,Leebe
+actor,140863,Neimus K.,Williams
+actor,132945,Garry (I),Little
+actress,138583,Kristen (I),Cloke
+actress,40486,Danielle (I),Watson
+actor,119538,Johnny,Eusebio
+actor,148080,Merryn,Owen
+actor,64727,Deepak (II),Sethi
+actor,62582,Mitchel,Spencer
+actress,138604,Lucita,Lijertwood
+actor,41543,Larry E.,Vann
+actor,60142,Ryan (I),Holly
+actress,124716,Shandra,Fallen
+actor,88734,Mario (I),Muñoz
+actor,110923,Vito,Carenzo
+actor,126756,Michael S.,Siegel
+actress,108210,Nadia,Litz
+actress,45003,Natalya,Rudakova
+actor,106534,Jean-François,Palaccio
+actress,82219,Tiffany,Romano
+actor,92141,Irone,Singleton
+actress,921,Teresa,La Rocca
+actor,101037,Lee (I),Majors
+actor,89651,Rodney (I),Wilson
+actress,11335,Joan Juliet,Buck
+actor,58890,George (I),Foster
+actress,42353,Lorna,Scott
+actress,51309,Jeanne,Vaughn
+actress,70415,Lisanne,Collett
+actor,149165,Vlade,Divac
+actor,51650,Irving,Krone
+actress,103,Karli,Rose
+actor,10164,Mike (I),Muir
+actor,107221,Münir,Özkul
+actress,104173,Natasha,Wanganeen
+actor,118083,Mark,Zak
+actress,110621,Majel,Barrett
+actor,127824,Ian,Alda
+actor,131636,Jerry,Bruno
+actor,65346,Sean,Ghazi
+actress,898,Vanna,Urbino
+actor,66877,Dick (I),Holland
+actor,103174,Oisin,Stack
+actor,91601,Collin,Knight
+actress,72602,Jezebel (VII),
+actor,145595,Shinpachi,Tsuji
+actor,51937,Arne,Gjelten
+actor,110890,Doug (II),Dale
+actor,148744,Qasim,Iqbal
+actor,74027,Robert,Foulk
+actor,136665,Boris Lee,Krutonog
+actress,50306,Alex,Morissen
+actor,25708,Dan (I),Chen
+actor,6564,Tomas,Milian
+actor,43944,Jason,Gutman
+actor,102415,Teerachai,Thobumrung
+actor,15996,Ezequiel (II),Díaz
+actress,6994,Rachel,Regulier
+actor,88204,Paitoon,Songubon
+actress,134670,Kristina,Oster
+actor,83101,Michael Patrick,Thornton
+actress,28960,Susane (I),Lee
+actor,131338,Thierry,Lawson
+actor,92081,Kristian Francis,Falkenstein
+actor,50523,Mark (III),Leahy
+actress,112062,Kayoko,Fujii

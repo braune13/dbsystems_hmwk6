@@ -1,0 +1,71 @@
+actor,1841,Steve (VII),Roche
+actor,54733,Wilson H.,Harris
+actor,104079,Jonas,Neal
+actress,142976,Birthe,Neumann
+actor,137365,Donald (I),Houston
+actor,88544,Bill (IX),Perkins
+actor,96024,Nicolas,Walier
+actor,25555,Manuel,Cucciardi
+actor,15688,Alonzo (I),Atkins
+actor,22003,Stan,Cahill
+actress,23046,Gina,Poli
+actor,81302,Rico,Elias
+actor,44906,Jeffrey,Koval
+actress,55283,Margiet van,Hartingsveld
+actor,20336,José Luis (II),Gioia
+actor,41122,Ricardo,Manson
+actor,80575,John (XXVIII),Lee
+actor,87290,David (II),Rose
+actor,96477,Steven,Rozic
+actor,113438,James E.,Cheek
+actor,46959,Bill,Rudick
+actor,15910,David,De Beck
+actor,107916,Jess,Nadelman
+actor,25642,Chris (III),Dodd
+actor,12260,Silvio,García Jr.
+actress,68294,Vanessa,Long
+actress,12803,Emily (I),Schweitz
+actor,138401,David Ross,Paterson
+actor,146760,Jaikishen,Bhatia
+actor,142903,Billy,Fane
+actor,135459,James,Wingrove
+actress,50319,Libby,Moyer
+actor,148303,Chris,Petschler
+actor,25571,Greg,Zajac
+actor,67094,Rene,Lemieux
+actor,124856,Zackry,Ayres
+actress,82566,Meg (I),Phillips
+actor,83124,Zach,Dulin
+actor,10010,Dean (I),Hammond
+actress,118366,Simone (I),Liebman
+actor,10922,Clément,Sageste
+actor,19857,Scott (I),Charles
+actor,88344,Walter (I),Perry
+actress,95507,Anna (I),Joyner
+actress,61994,Rachel (I),Stevens
+actor,73063,Chris,Hazenberg
+actor,41943,Anthony,Errington
+actor,113116,John,Scherp
+actor,41009,Warren (I),Jackson
+actor,18695,Alexandra,Cheves
+actress,24464,Chris (I),Evert
+actress,92317,Julie,Mendez
+actor,108462,Ramón (III),Moreno
+actor,108583,Les,Nash
+actress,121068,Darcy,Donavan
+actor,99835,Brian,Shoop
+actor,84070,Will (II),McFadden
+actor,94891,A.C.,Lyles
+actress,129962,Melissa (I),Leo
+actress,113635,Sandra,Rodriguez-Kennedy
+actress,45402,Yona,Prost
+actor,77367,Ego,Sensation
+actor,37916,Paul,Treadwell
+actor,144932,Gus,Aukuso Puluti
+actor,18040,John (I),Alderson
+actress,101692,Sophie (I),Lui
+actor,25695,Kevin (II),Lester
+actress,92686,Sharonlyn,Morrow
+actress,82880,Tracey,Miller-Zarneke
+actor,98423,Peter (I),Potter
+actress,146693,Anny,Hologne

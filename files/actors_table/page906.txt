@@ -1,0 +1,71 @@
+actor,102904,Igor (I),Burlov
+actress,113236,Sandra (VI),García
+actress,125780,Aitana,Sánchez-Gijón
+actress,119364,Sandra,Prinsloo
+actress,74476,Patti,Schellhaas
+actor,145756,Avery (I),Brooks
+actor,107736,Stephen (I),Buchanan
+actor,22818,Robert,Hotalen
+actor,57221,Randall Duk,Kim
+actor,107172,Matthew (V),Morgan
+actor,55584,Vladislav,Anufriev
+actress,138743,Kasia (V),
+actor,119338,Billy,Wagenseller
+actor,8030,Walter (I),Powell
+actor,4766,Kerry (I),Collins
+actress,94785,Kathleen,Stefano
+actor,45466,Peter,Szakacs
+actor,90116,Bill,Bohl
+actress,136814,Lynda,Hickey
+actor,67009,Eric T.,Schroeder
+actor,133969,Jeffrey (I),Vincent
+actor,147924,Temur,Babluani
+actress,105726,Kate (III),Frost
+actor,52778,Neil (I),Diamond
+actress,59250,Sue (I),Leonard
+actor,101392,Drew (II),Smith
+actress,41809,Gemita,Samarra
+actor,67266,Robert (I),Arden
+actress,13527,Tiffany,Claus
+actress,78662,Madeleine,Murden
+actor,122801,Daniel,Klisa
+actor,36458,Big,Mac
+actress,129221,Sistah,Lois
+actor,4791,Craig,Mazin
+actress,98181,Lulu,Brud
+actor,16405,Paul,Stitt
+actor,63548,Emmanuel,Manzanares
+actor,125569,Cihangir,Gaffari
+actor,139923,Lawrence,Varnado
+actor,142270,W. Glenn,Malmskog
+actor,119539,Christophe,Salengro
+actor,51546,Eric (II),Steinig
+actor,123996,Logan (I),Bennett
+actress,19344,Aimi,Aziz
+actor,74391,Frank-Michael,Köbe
+actor,140532,Tim,Hans
+actor,49878,Sam (I),Barnett
+actor,28718,Dustin J.,Reno
+actor,53852,William,Ward III
+actor,7961,Ho (I),Wu
+actress,5025,Julie (I),Dolan
+actor,22772,Paul,Loverde
+actress,108197,Magdalena,Dandourian
+actress,65778,Sally,Kimpton
+actor,8446,Charles,Jarrell
+actor,149284,Bill,Wohrman
+actor,93882,Ken (I),Hill
+actress,34002,Lara,Atalla
+actor,106676,Peter (XXIV),Smith
+actor,108174,Rick,Bolander
+actor,69036,Joseph,Richmond
+actor,80052,Floyd,Vivino
+actor,27309,Donny (I),Davis
+actor,145364,David,Arkin
+actress,108122,Eva,Gioia
+actor,64224,Matthew (I),Hodgson
+actress,31672,Noelle,Menard
+actress,24438,Cynthia,Powell
+actress,86377,Kanza,Omar
+actor,9231,Adam,Cannel
+actor,61856,Vaughn,Johseph

@@ -1,0 +1,71 @@
+actor,86072,Spencer (II),Aste
+actress,118087,Stephanie (I),Carey
+actor,126623,Michael (I),Doven
+actor,43954,Tex,Holden
+actor,81769,Jack,Desroches
+actor,140482,David (V),Michel
+actor,135630,Manuel (II),Molina
+actor,62948,Dennis L.A.,White
+actor,118853,Blaine,Hart
+actor,5829,Owen,Lay
+actress,31997,Tori (I),Davis
+actor,1531,Cico,Silva
+actress,28925,Stefanie,Auerbach
+actor,119815,George,Chakiris
+actor,81560,Steve,Sandfort
+actor,45298,Nicholas,Patel
+actor,1854,Stewart (II),Robertson
+actor,54564,Alex,Winston
+actor,24871,Nathaniel (I),Brown
+actor,6007,Kevin,Zwierzchaczewski
+actor,1406,Tarô,Itsumi
+actor,21010,Ashley (II),Charles
+actor,129086,Anthony (II),Welsh
+actor,74619,David,Vert
+actor,146045,Brad,Jeffries
+actor,20771,Richard,Münch
+actress,91182,Stephanie,Furst
+actor,15708,Michael,Malvesti
+actor,70815,Luis,Gonzaga Hernandez
+actor,77403,Earl,Liberty
+actor,66411,Ed (III),Hunt
+actor,35805,Mathias,Backhaus
+actor,81539,Blake,French
+actress,28152,Charmaine,Rae
+actor,138391,Graham (I),Evans
+actor,121294,Edmond,Ardisson
+actress,68617,Ellen (III),Wong
+actor,39119,Jack (I),Gordon
+actor,4444,Lino,Patruno
+actor,8824,Daniel,Celebre
+actor,84300,Chad,Bruce
+actress,58318,Regina Anne,Rizzo
+actor,92226,Wil,Willis
+actor,14881,Narucha,Chaimareung
+actress,79843,Clare,Stone
+actor,116945,Tom,Ewell
+actor,8228,Danny (II),Norton
+actor,113355,Trevor,Heins
+actor,76443,Jeff,Mash
+actress,21919,Tamara,Hoveling
+actor,36260,Scott Thomas,Miller
+actor,63370,David (III),Gale
+actor,24365,David,Faustino
+actor,129566,James,Grummitt
+actor,130792,Douglas (I),MacArthur
+actor,44629,Eric,Andris
+actor,94733,Daniel (I),Falconer
+actor,53699,Micke,Spreitz
+actor,26844,Dewi (I),Williams
+actress,80979,Sandi (I),Craig
+actor,104843,William (I),Jones
+actor,77058,C.O.,Erickson
+actress,147423,Candy Ann,Brown
+actress,26257,Toni,Herkert
+actor,122214,Subbaraya,Sarma
+actor,72042,Alex,Norca
+actor,63491,Victor,Tourjansky
+actress,114129,Stacy (I),Brown
+actor,78866,William (I),Paulson
+actor,80503,Tyler Cole,Malinger
+actor,1898,Marlon,Putzke

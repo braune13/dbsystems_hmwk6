@@ -1,0 +1,71 @@
+actor,39482,Frank,Vohs
+actor,109401,Dan (III),Green
+actor,13048,Paul B. (I),Brown
+actress,74671,Simone,Bargetze
+actress,11129,Kellie,Milner
+actor,146538,Scott,Colomby
+actor,144726,Talli,Clemons
+actor,129393,Sean (I),Bury
+actor,59799,Jon,Goracy
+actress,33823,Bobbi,Evors
+actress,116040,Anna,Upstrom
+actor,22254,Cannon (II),Smith
+actor,21058,Benito,Deotto
+actor,88379,Daniel (X),Olson
+actor,77892,Olof,Johnsson
+actress,23468,Kelly Jayne,Polkinghorn
+actor,142219,Thomas,Barg
+actor,10141,Dan,Whelton
+actress,100442,Ana Maria,Revnic
+actor,37771,Anthony,Arkin
+actor,15119,Buddy,Messinger
+actor,108038,Anthony (II),Harwood
+actor,148704,Paul (II),Ames
+actor,41603,Joe (I),Walls
+actor,61790,Steve,Harman
+actress,69679,Audrey,Diffley
+actor,30804,Ryland,Reamy
+actor,114086,Mick,Hoyle
+actor,91343,Donald,Moffat
+actor,48892,Ronald,McCall
+actress,143813,Catherine,Colvey
+actress,134753,Lilette,Wiens
+actor,106847,Geoffrey,Bateman
+actress,43809,Gina (I),Raymond
+actor,83466,Mattox,Gardner
+actress,96069,Leigh,Mashupye
+actor,90652,Stuart,Greer
+actor,40394,Frank,Renzulli
+actor,127999,Milt (I),Thompson
+actor,75897,Joe,Ploski
+actress,10226,Victoria,Jacob
+actress,39957,Sharon,Tay
+actress,117897,Megan,Sanderson
+actor,118881,Peter (II),Schmitz
+actress,131021,Nicole R.,Roberts
+actress,30100,Brooke (II),Stone
+actor,130523,Salim,Jaidi
+actor,13539,Mark,Asante
+actor,75247,Nehemiah,Persoff
+actress,138876,Betsy,Aidem
+actor,136017,Abu Bakaar,Fofanah
+actress,33390,Katja,Schuurman
+actor,74400,Michael (I),McAlpin
+actress,24820,Fania,Grigoriou
+actor,119695,Gabriel (I),Teixeira
+actor,17987,Gerard,Jamroz
+actress,64634,Marie,Guillard
+actor,42030,Shaun,Harding
+actor,40140,Greg,Crews
+actress,59458,Kokoa,Woodget Aubert
+actor,76507,Lubomír,Bukový
+actor,61885,Kenneth,Plunk
+actor,116415,Stu (I),Simone
+actor,99084,Kazuyoshi,Minamimagoe
+actor,125126,Shelton,McDonald
+actress,125848,Lindsey,Harden
+actor,53487,Michael (IV),Perez
+actor,123330,Nadir,Azni
+actor,136345,Jean-François,Wolff
+actor,86250,Mack,Altman
+actor,115791,Borden,Flanagan

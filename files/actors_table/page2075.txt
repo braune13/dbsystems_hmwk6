@@ -1,0 +1,71 @@
+actor,77619,Frank (I),Clem
+actor,121864,Sean (I),Simms
+actor,41958,Haig,Sutherland
+actress,63090,Ali,Hillis
+actor,57178,Leonard,Mudie
+actress,107723,Sara,Lowell
+actor,76339,Anthony B.,Cooper
+actress,59968,Viviana,Cardenas
+actor,92861,Peter (I),Cartwright
+actor,68583,Dash,Pomerantz
+actor,129810,Kenneth,Danziger
+actor,29656,Joe,Saenz
+actor,105173,Jeremy (I),Booth
+actress,75343,Vanessa,Babot
+actress,69394,Nichole,McAuley
+actor,71788,Laurence,Olivier
+actress,66946,Hope Elizabeth,Reeves
+actress,110973,Cassie,Powney
+actor,25173,Lino Ribeiro,de Sousa
+actor,12891,Pat (VII),Shea
+actor,56955,William (I),Calkins
+actor,138437,Fredrik Lindberg,Nielsen
+actor,134164,Robert (II),Walker
+actress,12087,Kimberly (I),Ross
+actor,21637,Griffin,Cleveland
+actor,57481,Atticus,Todd
+actor,118241,Rob (III),Wood
+actor,77153,Dave (I),Huber
+actor,11127,Sam,Friend
+actor,131240,Tim (II),Hickey
+actor,41377,Radka,Kucharova
+actress,80821,Maribeth,Monroe
+actress,74185,Yan (XI),Chen
+actress,11836,Audrina,Patridge
+actor,59453,Jean-Claude,Lezin
+actress,132562,Allison,Sarofim
+actor,92972,Al (I),Pacino
+actor,114421,Breymond,Leymar
+actor,65662,Tanoai,Reed
+actor,145411,Michael,Harkins
+actor,41107,Graham,Paul
+actress,130543,Amy (I),Carlson
+actor,132327,Colin,Lawless
+actor,97293,Andrew,Kerpelman
+actor,43959,Alan (II),Bennett
+actor,83876,Steven,Rotblatt
+actor,82646,Christian,Potenza
+actor,31562,Bert,Madrid
+actress,134543,Marilyn L.,Costello
+actor,140007,Frank,Nun
+actor,120750,Gregory Paul,Jackson
+actress,87623,Jodi,Applegate Kay
+actor,940,Jesse,Gooding
+actor,20804,Charles (I),Young
+actor,86695,Kirk,Raymond
+actress,122457,Maria Cristina,Heller
+actor,19325,Jack (I),Evans
+actor,67785,Paul (I),Keith
+actor,7726,Sal,Ozbay
+actress,115933,Lisa,Luze
+actor,5731,Tat-Kwong,Chan
+actor,70140,Kris,Reilly
+actress,63658,Tybee,Brascia
+actress,108453,Ever,Carradine
+actress,82510,Megan (I),James
+actress,108613,Heather,O'Rourke
+actor,2598,Jason (VI),Bernard
+actor,7767,Dan (II),Flood
+actress,131734,Dana,Wynter
+actor,135673,Reginald M.,Wallace
+actress,29850,Diana,Lotus

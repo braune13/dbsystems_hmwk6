@@ -1,0 +1,66 @@
+68232,,,3052319,[Étienne]
+68532,,,3052319,[Femme de main]
+69367,,,3052319,[Homme de main]
+69825,,,3052319,[1er homme de main]
+73752,,,3052319,[Homme de main]
+77186,(as Philippe Laugier),,3052319,[Inspecteur]
+79572,,,3052319,[Infirmier]
+79936,,,3052319,[Anna 10 ans]
+91704,,,3052319,[Chauffeur Mademoiselle]
+94251,(as Xavier Dolan-Tadros),,3052319,[Antoine]
+96704,,,3052319,[La femme bourreau]
+100928,,,3052319,[La suppliciée]
+111922,,,3052319,[Homme de main]
+122420,,,3052319,[Lucie 10 ans]
+127162,,,3052319,[Vieil arrivant]
+133318,(voice),,3052319,[Mère d'Anna]
+139897,,,3052319,[La mère]
+2680,,,3053888,"[Capt. Howard, Royal Marines]"
+8597,,,3053888,"[Calamy, Midshipman]"
+9736,,,3053888,"[Joe Plaice, Able Seaman]"
+11897,,,3053888,[1st Lt. Tom Pullings]
+16345,,,3053888,"[Awkward Davies, Able Seaman]"
+17990,(uncredited),,3053888,"[Pvt. Trollope, Royal Marines]"
+22236,,,3053888,"[Preserved Killick, Captain's Steward]"
+22575,,,3053888,"[Black Bill, Killick's Mate]"
+37471,,,3053888,"[Williamson, Midshipman]"
+39533,,,3053888,"[Hollom, Midshipman]"
+43359,,,3053888,[French Captain]
+54872,,,3053888,[Capt. Jack Aubrey]
+57579,,,3053888,"[Mr. Hollar, Boatswain]"
+60452,,,3053888,"[Dr. Stephen Maturin, Surgeon]"
+65544,,,3053888,"[Blakeney, Midshipman]"
+66002,,,3053888,"[Nehemiah Slade, Able Seaman]"
+69910,,,3053888,"[Faster Doudle, Able Seaman]"
+74816,,,3053888,"[Barrett Bonden, Coxswain]"
+83655,,,3053888,"[Mr. Allen, Master]"
+91689,,,3053888,"[Mr. Lamb, Carpenter]"
+92634,,,3053888,"[Boyle, Midshipman]"
+108424,,,3053888,"[Mr. Higgins, Surgeon's Mate]"
+110076,,,3053888,"[William Warley, Cpt. of Mizzentop]"
+116769,,,3053888,"[Mr. Hogg, Whaler]"
+117302,,,3053888,"[Joseph Nagle, Carpenter's Mate]"
+118017,,,3053888,"[Padeen, Loblolly Boy]"
+133524,,,3053888,[2nd Lt. William Mowett]
+136,(uncredited),,3053234,[Correspondent]
+2961,,,3053234,[Lt. Col. Henry Blake]
+3153,(uncredited),,3053234,[Football Player - 325th Evac.]
+3830,(uncredited),,3053234,[Football Player]
+5255,(uncredited),,3053234,[Cheerleader]
+8965,(uncredited),,3053234,[Football Player]
+10048,(uncredited),,3053234,[Football Player]
+10126,(uncredited),,3053234,[Football Player]
+10241,(uncredited),,3053234,[Football Player]
+11995,(uncredited),,3053234,[Minor Role]
+12781,(uncredited),,3053234,[Korean Doctor]
+14216,(uncredited),,3053234,[Football Player]
+15180,(uncredited),,3053234,[Football Player]
+15530,(uncredited),,3053234,[Football Player - 325th Evac.]
+19098,(uncredited),,3053234,[Minor Role]
+19352,,,3053234,[Trapper John McIntyre]
+20466,(uncredited),,3053234,[Football Player]
+22434,(uncredited),,3053234,[Football Player]
+23082,(uncredited),,3053234,[Nurse/Pin-up Model]
+25664,(uncredited),,3053234,[Pretty W.A.C. Receptionist]
+25850,,,3053234,[Father John Mulcahy]
+26986,(uncredited),,3053234,[Football Player - 325th Evac.]

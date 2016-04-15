@@ -1,0 +1,71 @@
+actress,72199,Norma,Gelose
+actor,47764,Walter (I),Scott
+actor,4597,Rafael,Zubizarreta
+actor,130114,Jeffrey,Stubblefield
+actor,5654,Javier (I),Escobar
+actor,23365,Jeff (I),Beck
+actor,142237,Jay (III),Payton
+actor,27750,Keith,McCready
+actress,26644,Christine,Tomlinson
+actor,106246,Rafael,Simón
+actress,64289,Alice,Grice
+actress,39838,Omahyra,
+actress,115056,Sabrina (II),Morris
+actress,140661,Amanda,Kingery
+actress,123837,Yôko,Ohshima
+actor,85090,Robert,Cavanah
+actor,131209,Andrew (III),Lin
+actor,4330,Anton,Obeid
+actress,73234,Goldie,Green
+actor,114968,Luca (I),Martini
+actor,77640,Tommy,Schooler
+actor,23017,Ethan,Gould
+actress,80415,Laura (I),Monaco
+actress,129327,Maria Cristina,Rivera
+actress,4896,Cristina,Pronzati
+actor,119340,David (XI),Pike
+actor,123225,Christopher,Druckman
+actress,13203,Jane (II),Wells
+actor,5337,Jackie (III),Mitchell
+actor,139162,Corbett,Redford
+actor,79569,Tom (XXII),Clark
+actor,79884,Vaughaligan,Walwyn
+actor,135699,Jordan,Marder
+actor,98503,Melanio Filiberto,Hebra
+actor,28766,Pete (VII),Peterson
+actor,90336,Parker,Lovein
+actor,99563,Glenn (I),King
+actor,24474,Ivan,Wanis-Ruiz
+actress,127864,Kathleen (I),Wilhoite
+actor,42720,Alexander,Abadzis
+actor,32680,Pietro,Tordi
+actress,57894,Abigail (I),Breslin
+actor,129624,Frank,Macetta
+actress,42152,Patricia,DeCou
+actress,13213,Kiruna,Stamell
+actress,82729,Emily Grace,Reaves
+actor,55126,Fred,Karno Jr.
+actress,6404,Saundra,Hall Hill
+actor,112374,Scott,Mirne
+actor,5165,Ernst,Walder
+actress,61075,Sharmagne,Leland-St. John
+actor,2544,Michael,Jannetta
+actor,2036,Robert (VIII),Gordon
+actor,56661,Will,Bethencourt
+actor,3628,Paul,Xiong
+actress,37559,Karen,Ichiuji-Ramone
+actor,90568,Demian,Slade
+actor,102959,Micheal,Fay
+actress,116951,Ellen,Savaria
+actor,101049,Jimmy,Grima
+actress,115267,Jillian,O'Neil
+actress,111694,Kaliko,Kauahi
+actress,79538,Melanie,Atmadja
+actor,70305,Johnnie C.,Ray
+actress,74166,Alanna,Reynolds
+actor,90166,Ray,Mond
+actor,129778,Kurt (I),Bonatz
+actor,56243,Liam (V),O'Brien
+actor,149323,Roy (I),Jenkins
+actor,100734,George (III),Jacobs
+actor,72673,Ted,Harvey

@@ -1,0 +1,71 @@
+actor,118230,John (I),Dennis
+actor,97168,Ruty,Rutenberg
+actor,91451,Dick,Cheney
+actor,120697,J.R.,Ashton
+actor,99645,Tucker (I),Smith
+actress,134860,Corelle,Banjoman
+actor,106194,Jalil Jay,Lynch
+actor,1560,Emmanuel,O.
+actor,112268,Keenan,Wynn
+actor,58073,James,Villiers
+actor,32853,Chuck (I),Liddell
+actor,50216,Mitch,Wojnowski
+actor,79103,Stanley,Anderson
+actress,33322,Olivia (I),Alexander
+actress,74812,Sheri G.,Feldman
+actress,103449,Denise (II),Bradley
+actress,4624,Margy (II),Stein
+actress,50618,Molly (I),Murphy
+actor,125811,Stephen,Tobolowsky
+actor,25188,Roman,Tissera
+actress,121571,Weina,Huang
+actress,49111,Wendy (I),Crawford
+actor,117017,Earl,Poitier
+actress,29136,Christa,Pasch
+actress,60225,Tanya,Sweet
+actor,15020,Simon (I),Armstrong
+actor,92030,Errol (I),Sack
+actor,15431,Hiro,Hayama
+actress,60923,Melissa (X),Black
+actress,27438,Adriana,Anderson
+actor,126459,Stasys,Baltakis
+actor,95463,Robert,Fleet
+actor,62657,Jeff (I),Rose
+actress,102725,Aditi,Jain
+actor,1220,Edgar (I),Small
+actress,85664,Julie,Tu
+actor,24032,Toddrick K.,Thomas
+actress,125687,Karina,Michel
+actor,49076,Eddy,Palerno
+actor,86144,Gray,Daniels
+actor,77414,Daniel (I),Wolf
+actor,60113,Jerome (II),Joyce
+actor,145401,Peter,Mansbridge
+actor,136739,Fred,Farrell
+actor,45721,Kenneth James,Dakan
+actress,139061,Lucia,Scarano
+actor,127847,Koichi,Kase
+actress,28915,Megan,Gallivan
+actor,91062,Nick,Settimi
+actress,31060,Michelle,Waterson
+actor,90029,Bree Dawn,Shannon
+actress,9381,Leslie,Feist
+actor,80167,Michael,Tezla
+actress,83277,Christine,Bruchalski
+actress,144712,Zoe (II),Schneider
+actor,140591,Nelson,Rockefeller
+actor,56634,Luke,Pasqualino
+actor,52303,Anthony J.,Gallo
+actor,94870,Charles (I),Burnham
+actor,110997,Phill,Lewis
+actress,130716,Joni,Flynn
+actor,15347,Jason,Horton
+actress,46000,Agnes NaDene,Baddoo
+actor,49666,Jarrad,Paul
+actor,83773,John P.,Ryan
+actor,46616,Garrett,Swann
+actress,134338,Annie (VIII),Chen
+actor,20575,Giovanni,Corporale
+actor,13499,Pascualito,
+actor,128302,Ismael,Archuleta
+actor,88354,Peter,Olejnik

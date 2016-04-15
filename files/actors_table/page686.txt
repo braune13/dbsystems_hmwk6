@@ -1,0 +1,71 @@
+actor,127442,Fred (I),Sanders
+actor,125196,Abe,Speller
+actress,24957,Sarah (II),Mahoney
+actor,72635,Andrew (II),Lyons
+actor,129974,Jerry (I),Green
+actor,65213,Terence,Mountain
+actress,149140,Brenda (I),Simmons
+actor,79234,Andrew,Schaff
+actor,104669,Al,Kitago
+actor,110158,Cliff (I),Carpenter
+actress,120965,Suzuka,Ohgo
+actor,4838,Marcus,Lynch
+actress,12598,Lisamarie,Costabile
+actor,17072,Ted,Gunderson
+actor,17100,Kusyantono,
+actor,95347,Georges,Rivière
+actress,123561,Shirin,Yazdanbakhsh
+actor,10264,Jeff (XXVIII),Lewis
+actress,4285,Maya,Zapata
+actress,68369,Laraia Ashley,Gribble
+actor,17779,Kyung-man,Choi
+actress,99611,Cayla,Moore
+actor,92573,Ray,Walston
+actress,139326,Anaita,Shroff
+actress,127661,Chelsey (I),Smith
+actor,62717,Marcus,Gorman
+actor,56826,Sydney,Greenstreet
+actress,110181,Louanne,Kelley
+actress,100086,Myriam (I),Cyr
+actor,22559,Ben (I),Shields
+actress,17777,Alissa,Collins
+actor,134238,David (VII),Mullen
+actor,55341,Wade,Woods
+actor,44032,D.,De Roseville
+actress,122073,Susanne,Zygmunt
+actress,90830,Kym (I),Jackson
+actor,70243,Jeremy,Palko
+actor,26814,Ferdinando,Poggi
+actor,6262,Colm,Coogan
+actress,42119,Leanne,Hong
+actor,80832,Mark J.,Maracle
+actor,103230,Brent,MacRae
+actor,33146,Rick (II),Holmes
+actress,27742,Christine,Potter
+actress,41403,Dorla,Bell
+actor,69298,Peter,Similuk
+actor,77811,Muharrem,Gürses
+actor,136684,Steve,Benvegna
+actor,20761,Jeremy (I),Breslau
+actor,35214,Karl,McMillan
+actor,54738,Sebastian,Stan
+actor,127184,Matt,Cinquanta
+actor,86038,Matt,Carmeci
+actress,47938,Amanda (X),Rose
+actor,132083,Robert (I),Taylor
+actress,104129,Firmine,Richard
+actress,98249,Laura,Stylez
+actor,49801,James,Gidea
+actress,99423,Pamela Gaye,Walker
+actor,4494,Simon,Hatt
+actor,90964,Hans,Söhnker
+actor,9184,Gordon,Starling Jr.
+actress,140091,Joy,Creel
+actress,53993,Lil,Rhee
+actor,28816,Dean (I),White
+actress,122076,Joleen,Neighbours
+actress,103349,Ruby (I),Dee
+actress,9778,Suzanna,Anderson
+actor,104464,James,Nuciforo
+actor,135268,Steve,Annan
+actress,20597,Cheryl,Bartel

@@ -1,0 +1,71 @@
+actor,4152,David (I),Kirkland
+actress,85313,Nicole,Deslauriers
+actor,4595,Clancy (I),Brown
+actor,71585,James L.,Bills
+actress,74124,Sharon,Bower
+actor,44982,Christopher Kien,Dao
+actor,22104,Atticus,Shaffer
+actor,140663,Todd A.,Johnston
+actor,126165,Greg,Cipes
+actor,87954,Tymell,Hubbard
+actress,122533,Kim (I),Rideout
+actress,45145,Kate (II),Sweeney
+actor,83422,Neil Alan,Taylor
+actress,10439,Anne Kathleen,Murphy
+actor,108639,Rob (I),Freeman
+actor,137402,Stewart,Howson
+actor,57458,Jean-Claude,Lecoq
+actress,6733,Anik,Jolicoeur
+actress,100046,Nancy,Mannigham
+actor,66414,Pat,Frey
+actor,60016,Courtney James,Stewart
+actor,81058,John (I),Chaney
+actor,86951,Greg,Hollimon
+actor,42329,'Diamond' Tim,Pleshaw
+actor,93663,John D.,Kim
+actor,1078,Milton,Cadman
+actress,98080,Ann E.,Fields
+actor,76842,Kirk (I),Hawkins
+actor,125688,Pedro,Damián
+actress,94726,Margot,Welch
+actor,28887,Dave (IX),Lawrence
+actor,11818,Andy,Horne
+actor,75848,Shigeru (II),Wakita
+actor,104459,Kurt,Schlachter
+actor,133559,Harish (I),Patel
+actress,87030,Diane,Erickson
+actor,119494,Razor,Rizzotti
+actor,56496,Bob,Rogerson
+actress,104849,Amanda,Donohoe
+actor,146036,Ryder,Bucaro
+actor,5622,Anthony,Cumia
+actor,97215,Brandon,Tully
+actor,123983,Daniel,Sobieray
+actor,46569,Nicholas (II),Brown
+actress,81240,Monique (I),Coleman
+actor,76981,Vladislav,Dvorzhetskiy
+actor,42780,Charles William,Cook
+actress,2216,Yukari,Komatsu
+actor,33402,Ben (II),Rosenfield
+actor,141864,Timo,Honsa
+actor,97369,Ian (X),Wallace
+actor,21688,Roy C.,Peterson
+actor,31730,Sean,Baek
+actor,33657,Mark 'Whitey',Cooper
+actress,42201,Antonia,Bennett
+actor,79364,Toni,Servillo
+actress,122418,Terry (II),Porter
+actor,136909,Justin (IV),Miles
+actor,109462,Ian,Crouch
+actor,4155,Joan,Hostench Martínez
+actress,97086,Apurva,Pranjape
+actor,67545,Anthony C.,Brown
+actress,63358,Alisa,Weilerstein
+actor,128822,Sonoko,Konishi
+actor,124557,Denis (IV),Michaud
+actor,149238,Greg,Cool
+actor,94957,Jim,Pacitti
+actor,136352,Peet,Montzingo
+actress,104350,Fernanda (I),Lima
+actress,12058,Nina,Arianda
+actor,42747,Antonie,Kamerling

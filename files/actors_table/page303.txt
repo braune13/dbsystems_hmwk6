@@ -1,0 +1,71 @@
+actor,113096,Mike,Berro
+actress,82911,Joanna,Numata
+actor,86601,Martin,Ferrero
+actor,104575,Brendan,Gleeson
+actor,98385,Kentaro,Matsuo
+actress,83737,Karen,Cliche
+actress,121532,Andrea,Sheldon
+actress,75757,Billie,Neal
+actress,76060,Sheila,Bader
+actor,66103,Andre,Kinney
+actress,62,Minna,Rose
+actress,11982,Susan,Wool-Rush
+actor,59477,Frank (I),Pereira
+actor,8346,Brian,Toth
+actor,7801,Walter (II),Flanagan
+actor,22922,Salim,Chaus
+actress,133999,Ellen,Geer
+actor,60335,Isaac,Durnford
+actor,36764,Rosario,Giuliuni
+actor,94593,Chris (IV),Edwards
+actor,65770,Mel,Berger
+actress,126270,Denise,Marek-Plumb
+actor,110709,Tony,Ledard
+actor,61043,Joseph (II),Kaiser
+actor,93576,Richard (II),Norris
+actor,18342,Richard,DeDomenico
+actor,119054,Ryou,Nitta
+actor,71180,L.G.,Ross
+actor,109711,Steve,Rockhold
+actor,10047,Alfred,Lot
+actress,52406,Marta,R. Mahou
+actress,117258,Jodi,Tabuchi
+actor,84750,David (XXXII),Hill
+actress,60156,Heather (II),Boyd
+actor,123270,Otto F.,Schulze
+actor,55755,Aarti,Rathod
+actor,147286,Nick,Dimitri
+actress,3137,Janice,Acquah
+actor,26717,Jan,Noack
+actor,141770,Mercé,Vidal
+actor,97365,Thom,Dobbin
+actor,6305,Matthew (XI),Jones
+actor,66024,Keith,Hallworth
+actor,77651,Eric (I),Clark
+actress,132409,Angela,Douglas
+actor,63122,August,Kincaid
+actor,93505,James (I),Mark
+actress,11399,Maureen,Mueller
+actress,34813,Alex 'Shorty',Welch
+actress,91175,Emaline,Green
+actor,113254,Kye,Palmer
+actress,58549,Lauren (I),Hastings
+actress,24759,Halli-Gray,Beasley
+actor,70701,Tony,Toscano
+actress,28437,Lynnanne,Zager
+actor,84479,Bill (I),Dobbins
+actor,30119,Thomas,Patrice
+actress,138564,Luanne,Gordon
+actress,66762,Gloria,Laino
+actor,105487,Paolo,Seganti
+actress,49876,Angela (I),Rago
+actress,48400,Danielle,Barnum
+actor,60353,Ray,Abbott
+actor,141953,Tunde,Adebimpe
+actor,62963,Jérôme,Kircher
+actor,107419,Scott Joel,Gizicki
+actor,112777,Stanley,Townsend
+actress,143011,Frances,Mitchell
+actress,136389,Kay,McConaughey
+actress,9716,Caitlin (I),Gold
+actor,56446,Jon (II),Allen

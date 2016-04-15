@@ -1,0 +1,71 @@
+actor,23574,Oliver,Herder
+actor,121195,Ludde,von Brömsen
+actress,45206,Lisa (I),Fulford
+actor,120339,Michael,Gempart
+actress,75867,Magda,Vavrusova
+actress,107009,Mary,Mitchel
+actor,131834,Adam (II),Levy
+actor,97565,Samuel (I),Davis
+actor,2629,James,Deuter
+actor,15552,Alexander (I),Goodwin
+actress,146564,Charlotte,Townsend
+actor,137910,Chang,Xiao Yang
+actress,60663,Zoe,Addams
+actor,59478,Richard (II),Rowlands
+actress,138170,Ai,Kuriki
+actor,76790,James (III),Clay
+actor,94610,Bill (I),Quinn
+actor,52496,Jean,Vincentelli
+actor,32813,Donald,Guideau
+actor,56533,Ron,McLarty
+actor,53327,Cody (I),Pettola
+actress,87116,Elise,Scarlott
+actor,148444,Joseph (I),Cotten
+actor,37201,Carsten,Hayes
+actress,128974,Mami,Koyama
+actor,86882,Mario,Cotone
+actor,44130,Dean (I),Robinson
+actress,107859,Sandra (I),Bernhard
+actress,88227,M'laah Kaur,Singh
+actress,46375,Coco,Sumner
+actor,106185,Dimitri,Radochevitch
+actress,46224,Kate,Mestitz
+actor,146274,Michael (II),Gallagher
+actress,79775,Jennifer,Felton
+actress,111762,Fadhia Carmelle,Marcelin
+actor,142820,Shiloh,Monaco
+actor,107868,Lea,Violette
+actress,84019,Jennifer (XXX),Lee
+actor,73747,Gustavo (I),Cunha
+actor,398,Adrien,Pinet
+actress,33214,Sarah,Klaren
+actor,45631,Stefano (II),Mazzeo
+actor,68034,Albert,Hardy
+actor,110317,Olek,Krupa
+actor,144293,Adam (I),Hunt
+actor,140300,Lorne,Cardinal
+actress,57812,Sarah Beth,Nelson
+actress,101803,Andee,Gray
+actress,10451,Esti,Ginzburg
+actor,102439,Ryan (II),Cameron
+actor,635,John (I),Compton
+actress,19575,Milica,Govich
+actress,27662,Helena,Mayhem
+actor,139538,Sammy (I),Choi
+actor,42831,Dawn (III),Young
+actress,29865,Misty,Insel
+actor,128845,John (I),Stuart
+actress,116429,Cheryl (I),Washington
+actress,123191,Lena,Gutschank
+actor,117026,Ronald E.,Hairston
+actress,26291,Larissa,Michieli
+actress,14252,Carol,Dexter
+actor,50092,Skippy,D
+actor,104761,Joe,Calvacca Jr.
+actor,55141,Mark (I),McPherson
+actress,103761,Sarah,Snook
+actress,10459,Carolyn,Kusian
+actor,70756,David,Amito
+actor,136943,Phil,Tait
+actor,96752,Michael,Haigney
+actor,79550,Stephen Kent,Jusick

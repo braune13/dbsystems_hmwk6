@@ -1,0 +1,66 @@
+48879,,,3548912,[Swat Leader]
+70503,,,3548912,[Dodge City Cashier]
+73757,,,3548912,[Roy Walley]
+79733,(voice),(uncredited),3548912,[Car salesman]
+84636,,,3548912,[Car Salesman]
+85502,,,3548912,[Neighbor]
+90264,,,3548912,[Camel Rider]
+98378,,,3548912,[Audrey Griswold]
+99413,,,3548912,[The Girl in the Ferrari]
+101835,,,3548912,[Cowboy]
+102921,(uncredited),,3548912,[Daisy Mabel]
+105473,(uncredited),,3548912,[Police Officer]
+106767,(as John Navin),,3548912,[Cousin Dale]
+107032,,,3548912,[Policeman]
+109694,,,3548912,[Cousin Vicki]
+111144,(uncredited),,3548912,[Dinky]
+114708,(uncredited),,3548912,[Pedestrian with Grocery Bags]
+115203,,,3548912,[Assistant Mechanic]
+116069,,,3548912,[Aunt Edna]
+122540,,,3548912,[Rusty Griswold]
+123163,,,3548912,[Motel Desk Clerk]
+132680,,,3548912,[Neighbor]
+133327,,,3548912,[Motel Guest]
+146301,(uncredited),,3548912,[Bar Piano Player]
+777,,,3548644,"[Lone Girl (segment ""A Ride in the Park"")]"
+5115,,,3548644,"[Adam (segment ""Safe Haven"")]"
+5941,,,3548644,"[Melissa (segment ""Slumber Party Alien Abduction"")]"
+10062,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+10754,,,3548644,"[Biker's Girlfriend (segment ""A Ride in the Park"")]"
+10998,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+15456,,,3548644,"[Herman (segment ""Phase I Clinical Trials"")]"
+16823,,,3548644,"[Good Samaritan Guy (segment ""A Ride in the Park"")]"
+17861,,,3548644,"[Female Party Victim (segment ""A Ride in the Park"")]"
+18297,,,3548644,"[Dad (segment ""Slumber Party Alien Abduction"")]"
+18761,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+18797,,,3548644,"[Zombie (segment ""A Ride in the Park"")]"
+20423,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+24718,,,3548644,"[Zombie (segment ""A Ride in the Park"")]"
+25830,,,3548644,"[Teacher Husband (segment ""Safe Haven"")]"
+30533,,,3548644,"[Guard 5 (segment ""Safe Haven"")]"
+32999,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+35585,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+37536,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+38497,,,3548644,"[Girl Filming Birthday Party (segment ""A Ride in the Park"")]"
+39237,,,3548644,"[Baseball Bat Dad (segment ""A Ride in the Park"")]"
+40253,,,3548644,"[Tabitha (segment ""Tape 49"")]"
+40957,,,3548644,"[Guard 3 (segment ""Safe Haven"")]"
+41081,,,3548644,"[Husband (segment ""Safe Haven"")]"
+43538,,,3548644,"[Kyle (segment ""Tape 49"")]"
+43707,,,3548644,"[Eye Bite Victim (segment ""A Ride in the Park"")]"
+44460,,,3548644,"[Dr. Fleischer (segment ""Phase I Clinical Trials"")]"
+44713,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+47546,,,3548644,"[Malik (segment ""Safe Haven"")]"
+48880,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+49922,,,3548644,"[Danny (segment ""Slumber Party Alien Abduction"")]"
+52315,,,3548644,"[Clarissa (segment ""Phase I Clinical Trials"")]"
+52429,,,3548644,"[Zombie (segment ""A Ride in the Park"")]"
+55468,,,3548644,"[Alien No. 2 (segment ""Slumber Party Alien Abduction"")]"
+56727,,,3548644,"[A Man (segment ""Safe Haven"")]"
+57161,,,3548644,"[Alien No. 4 (segment ""Slumber Party Alien Abduction"")]"
+61773,(as Rebecca Babcock),,3548644,"[Mom (segment ""Slumber Party Alien Abduction"")]"
+66575,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+69256,,,3548644,"[Party Guest (segment ""A Ride in the Park"")]"
+74620,,,3548644,"[Birthday Girl (segment ""A Ride in the Park"")]"
+75291,,,3548644,"[Girl 1 (segment ""Safe Haven"")]"
+76621,,,3548644,"[Model (segment ""Slumber Party Alien Abduction"")]"

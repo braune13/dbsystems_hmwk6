@@ -1,0 +1,71 @@
+actor,145068,Sage,Stallone
+actor,7476,Willy,Millowitsch
+actor,41798,Reggie,Baker
+actress,71107,Nicola (III),Barber
+actor,9298,James,Crisman
+actress,118847,Lynn,Mansbach
+actress,117940,Toni (II),Vitale
+actor,2958,Tony (I),Pena
+actor,137807,Tony (XXVI),White
+actress,28872,Joanna,Woodliffe
+actress,87500,Myrtle,Scotton
+actor,110918,Austin,Stowell
+actor,1442,Fabio,Testi
+actress,111156,Kathy (X),Kelly
+actress,97850,Blake,Newcomb
+actor,61079,Art,Gotisar
+actor,63217,Chad Michael,Murray
+actor,63011,Sean,Floyd
+actress,38927,Christina,Prostano
+actor,109047,Tomas,Jester
+actor,44516,Aaron,Nelms
+actor,133604,Andrew (IV),Greene
+actor,27127,Mike,Arotsky
+actress,72851,Léa,Thonus
+actor,20805,Peter (IV),Jordan
+actress,110440,Georgia,Treantafelles
+actress,29624,Sage,Porter
+actress,45750,Nongnuj,Timruang
+actor,140408,Blake,Garrett Rosenthal
+actor,110488,Dallas,Dorchester
+actor,105865,Matt (IV),Zimmerman
+actor,120010,Ted,Rusoff
+actor,97385,Tobias,Kasimirowicz
+actress,75747,Kan-hie,Lee
+actor,124674,Fernard,Dubois
+actor,56559,Dean,Payne
+actor,108172,Dwight Brad,Dyer
+actress,56104,Christine,Harnos
+actor,24396,Brett,Forbes
+actor,39154,Jason (III),Rice
+actor,83091,Nick,Thies
+actor,115719,Frank (II),Penny
+actor,47673,Sean,Astin
+actor,139608,Thomas (I),Barney
+actress,62673,Monica Anne,O'Malley
+actor,82135,Sharon Lee,Levine
+actress,50495,Kristen (I),Augenfeld
+actor,97174,Arthur,Bergman
+actor,63282,Al (I),Giordano
+actress,49225,Jan,Burrell
+actor,132322,Anson,Downes
+actor,10681,Todor (II),Jordanov
+actor,4546,Marvin,Krueger
+actress,81015,Andréa,Albuquerque
+actor,126479,Marc (I),Wilder
+actress,78367,Kim Morgan,Greene
+actress,11698,Susana (III),Rodriguez
+actor,18318,Henry,Luczkow
+actor,64876,Pierre (I),Leblanc
+actor,87588,Christian,Vezina
+actress,63740,Sarah (I),Hagan
+actor,147044,Joseph (I),Kearns
+actress,117118,Seli,Marset
+actress,44085,Danielle (I),Weeks
+actor,74962,William,Hoehne Jr.
+actor,142095,Jim,Kundig
+actor,129588,Storm Acheche,Sahlstrøm
+actor,86346,Tex C.C.,Gilmore
+actor,34839,Levin,Handy Jr.
+actor,102630,Gavin (I),Rolph
+actor,47000,Bruce,Norris

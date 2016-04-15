@@ -1,0 +1,66 @@
+42408,,,2993905,[Agent aéroport]
+49814,,,2993905,[Lucie]
+57622,,,2993905,[Naïma]
+63538,,,2993905,[Céline]
+69164,,,2993905,[Shahryar]
+71767,(uncredited),,2993905,[Une cliente de la brasserie]
+91930,,,2993905,[Marie Brisson]
+97622,,,2993905,[Ahmad]
+98918,(uncredited),,2993905,[Une cliente de la brasserie]
+106413,,,2993905,[Infirmière]
+116315,,,2993905,[Léa]
+131024,,,2993905,[Fouad]
+141587,,,2993905,[Collègue Marie]
+142512,,,2993905,[Valeria]
+145759,,,2993905,[Juge]
+147860,,,2993905,[Médecin]
+3003,,,2993593,[Jessy]
+4420,(uncredited),,2993593,
+6555,(uncredited),,2993593,
+17682,(uncredited),,2993593,
+20377,(uncredited),,2993593,[Giorgio]
+22095,(uncredited),,2993593,[Man in Black Suit at the Edge of the River]
+22454,(uncredited),,2993593,[Marisa]
+26584,,,2993593,[Maria 'Cabiria' Ceccarelli]
+31182,(uncredited),,2993593,
+32701,(uncredited),,2993593,
+38155,,,2993593,"[Amleto, 'il magnaccia']"
+38744,,,2993593,[Uncle of Amleto]
+43825,(uncredited),,2993593,
+44545,(uncredited),,2993593,
+47007,(uncredited),,2993593,[Man Eating in the Nightclub]
+49938,,,2993593,[Wanda]
+52412,(uncredited),,2993593,[Rosy]
+58468,(uncredited),,2993593,[La zia nana]
+63293,(uncredited),,2993593,[Priest with the Flag]
+67466,(uncredited),,2993593,[Friar]
+80169,(uncredited),,2993593,[Moretto]
+84639,(uncredited),,2993593,[Matilda]
+84969,(uncredited),,2993593,[Un papponcello]
+89691,,,2993593,
+97406,(as François Perier),,2993593,[Oscar D'Onofrio]
+98192,(uncredited),,2993593,
+98468,(uncredited),,2993593,
+108957,(uncredited),,2993593,[The Man with the Sack]
+111826,(uncredited),,2993593,[Spectator on the Stage of the Cinema]
+112271,(uncredited),,2993593,
+114938,,,2993593,[Alberto Lazzari]
+117688,,,2993593,[The wizard]
+123549,(uncredited),,2993593,[Man on the Stage]
+140669,(uncredited),,2993593,
+174,,,2995371,[Damolini]
+3839,,,2995371,[3ème inspecteur]
+11970,,,2995371,[Jane Lagrange]
+12816,,,2995371,[Wiener]
+20912,,,2995371,[Olivier Rey]
+48811,,,2995371,[2ème inspecteur]
+49671,,,2995371,[Policier speaker]
+59062,(as Catalano),,2995371,[Un inspecteur]
+59847,,,2995371,[La jeune fille du vestiaire]
+66013,,,2995371,[Jef Costello]
+66197,,,2995371,[Sosie Jef]
+76962,,,2995371,[1er client Night-Club]
+84141,,,2995371,[1er Policier de la visite nocturne]
+89791,(as Caty Rosier),,2995371,[La pianiste]
+92482,,,2995371,[Policier - chauffeur de taxi]
+97406,,,2995371,[Le Commissaire]

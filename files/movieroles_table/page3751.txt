@@ -1,0 +1,66 @@
+3181,,,3519757,[Le propriétaire du bureau de change (Bureau de Change Proprietor)]
+3276,,,3519757,
+4769,(as Z. Richter),,3519757,
+7206,,,3519757,[Monsieur Bronek]
+13277,,,3519757,[L'employée du Mariott (The Mariott Employee)]
+18455,,,3519757,[L'homme de haute taille (The Tall Man)]
+19892,(as S. Latek),,3519757,
+21620,,,3519757,[L'elégant (The Elegant Man)]
+22471,,,3519757,[L'interprète (The Interpreter)]
+23433,(as J. Dominik),,3519757,
+29002,,,3519757,[Le notaire (The Lawyer)]
+32920,,,3519757,[L'avocat de Dominique (Dominique's Lawyer)]
+34503,(as M. Kaczmarska),,3519757,
+36734,,,3519757,[Mikolaj]
+38752,(as J. Ladynska),,3519757,
+41988,,,3519757,[Dominique]
+57132,,,3519757,[L'employée du metro (The Metro Employee)]
+57898,(as M. Prazmowska),,3519757,
+60304,,,3519757,[Madame Jadwiga]
+63560,(as L. Okowity),,3519757,
+66667,(as A. Kalinowski),,3519757,
+68643,,,3519757,[La vieux payson (The Old Farmer)]
+69953,(as K. Bigelmajer),,3519757,
+71656,(uncredited),,3519757,
+73364,,,3519757,[L'employé de banque (The Bank Employee)]
+74193,(as B. Szymánska),,3519757,
+79307,,,3519757,
+80287,,,3519757,[La caissière (The Cashier)]
+84818,(as P. Zelt),,3519757,
+90232,(as W. Paszkowski),,3519757,
+96171,(as J. Grzegorek),,3519757,
+99256,(as B. Topa),,3519757,
+105307,,,3519757,[L'inspecteur (The Inspector)]
+107621,(as Philippe Morier Genoud),,3519757,[Le juge (The Judge)]
+115558,(as A. Paplinski),,3519757,
+122443,,,3519757,[Karol Karol]
+130760,(as W. Wróblewska),,3519757,
+135907,(uncredited),,3519757,
+137093,,,3519757,[Jurek]
+140489,(as J. Mayzel),,3519757,
+141029,(as M. Marciano),,3519757,
+145522,,,3519757,[Julie Vignon (de Courcy)]
+147644,(as M. Robaszkiewicz),,3519757,
+8536,(as Samuel Lebihan),,3519759,[Le photographe (Photographer)]
+9045,,,3519759,[Le Vétérinaire (Veterinary surgeon)]
+10373,(as Irene Jacob),,3519759,[Valentine]
+19852,,,3519759,
+35414,,,3519759,[Auguste]
+35450,,,3519759,[Le trafiquant (Drug dealer)]
+36480,,,3519759,[Le barman (Barman)]
+41988,,,3519759,[Dominique]
+47978,,,3519759,[Le voisin (Neighbour)]
+50651,,,3519759,[L'ami de Karin (Karen's friend)]
+55915,,,3519759,[Le juge]
+66271,,,3519759,[Le gardien du théâtre (Theatre manager)]
+68253,,,3519759,
+70711,,,3519759,
+84323,,,3519759,
+88373,,,3519759,
+109805,,,3519759,[La femme (Woman)]
+115715,(as Neige Dolski),,3519759,
+122443,,,3519759,[Karol Karol]
+126246,(as Cecile Tanner),,3519759,
+127027,,,3519759,[Le disquaire (Record dealer)]
+132246,(as Frederique Feder),,3519759,[Karin]
+141974,(as Benoit Regent),,3519759,[Olivier]

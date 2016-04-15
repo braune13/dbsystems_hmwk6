@@ -1,0 +1,71 @@
+actor,112510,Paul (II),Becker
+actor,127918,Bernie,Pock
+actor,13484,Brady,Bryson
+actress,142458,Lois,Winstone
+actor,148706,Allen Lee,Haff
+actor,16788,Jesse,Kristofferson
+actor,68625,Jose (XI),Zelaya
+actor,128385,Michael Thomas,Daniel
+actress,135273,Marie,Winters
+actor,100286,Donald R.,Jankiewicz
+actor,119999,Craig (I),Walker
+actor,52130,Eduardo N.T.,Andrade
+actress,148164,Alesandra,Alvarez
+actor,107249,Craig Lamar,Traylor
+actor,8829,Andy (V),Newman
+actor,128359,Jeremy (I),Wright
+actor,55029,Christopher,Judge
+actress,123420,Maria Ann,Hylton
+actress,45559,Nicaise,Jean-Louis
+actor,103910,Tony (I),Howard
+actor,133446,Joseph,Stiteler
+actor,66288,Dalibor,Jajcanin
+actor,137057,Peter (II),Kerwin
+actor,114815,Gabriel,Folse
+actress,58277,Julia (I),Nilsson
+actress,117283,Margaret (II),Bell
+actor,31931,Jon Paul,Jones
+actor,130280,Rémi,Dubien
+actress,96601,Julie (I),Hampton
+actor,84412,Ken,Keener
+actor,148653,Lloyd,Kaufman
+actress,69387,Ana,Sakic
+actor,1193,Aaron,Pearl
+actress,116316,Samantha (I),Warden
+actor,90080,Joseph R.,Porter
+actor,97604,Tim,Schuebel
+actor,94598,Joseph,Beddelem
+actress,111936,Hilda,Trevelyan
+actor,31779,Daniel (I),Valdez
+actor,84705,Jacques,Thébault
+actor,67475,Tony,Kaan
+actor,31202,Mervyn,Marriott
+actor,132041,Make,Glavas
+actress,1085,Kate,Bayley
+actor,5939,Ryan (IV),Parsons
+actress,126994,Izzy,Meikle-Small
+actor,70738,Neil,Rayment
+actor,59251,John (II),Ashbridge
+actress,41527,Melissa,Broughton
+actor,58262,Karl,Rhodes
+actor,107163,Robert 'Duckie',Carpenter
+actor,111524,Young,Ji
+actor,141753,Jerry (I),Sherman
+actress,71232,Abriel,Strachan
+actress,122411,Brendalyn,Richard
+actor,81580,Henry (I),Glovinsky
+actor,93523,Joseph,Golightly
+actress,64845,Karen,Mok
+actor,36626,Mark,Engelhardt
+actor,146793,Gilbert,De la Pena
+actor,42961,Andrew,Faulds
+actress,78966,Lisa (I),Berry
+actor,2418,J. Randolph,Harrison
+actor,33869,George,Kapetan
+actor,104481,John (II),Lowell
+actor,106773,Michael,Puzzo
+actor,139672,Tony (I),Sanford
+actor,111892,Mario,Henderson
+actress,47111,Ethel,Rosenberg
+actor,20648,Mike (II),Daily
+actor,44416,Eddie,Marsan

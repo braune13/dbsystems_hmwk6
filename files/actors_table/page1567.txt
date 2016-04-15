@@ -1,0 +1,71 @@
+actor,69927,John Takeshi,Ichikawa
+actor,81180,Rae,Haskins
+actor,135388,Ben (I),Hammer
+actor,69365,San,Shella
+actor,105579,Bean,Miller
+actor,142689,Christopher,Kaczmarek
+actress,105569,Shane,Adler
+actor,116822,Clayton,Snyder
+actor,44886,Tsutomu,Takeshige
+actor,27468,Ben,Hisoler
+actor,8878,Shane,Rimmer
+actor,33582,Todd (IV),Miller
+actress,104115,Abigail,Hawk
+actor,51743,Michael,Offei
+actor,79253,Yu-Hang,To
+actor,69744,Caskey,Swaim
+actor,136035,Kevin (I),Rushton
+actor,29282,Howard,Platt
+actor,107948,Rik,Parker
+actress,77163,Kathleen,Tripp
+actor,48691,Yanik,Ethier
+actor,133918,Simon (I),Hunter
+actor,76532,Ken (I),Kirby
+actress,79871,Shea,James
+actor,120094,Richard (IV),Foley
+actor,73599,Xola,Malik
+actor,46135,Gordie,Daniels
+actor,49184,Florent,Lavandeira
+actor,146150,Earl P.,McIntyre
+actor,88149,Quinn (V),Smith
+actor,25800,Stephen (VII),Powers
+actor,147884,Mark-Eugene,Garcia
+actress,142621,Kylie,Lenihan
+actress,90801,Laura Mayes,Byrnes
+actor,20305,William,Prael
+actress,26809,Amanda,Quaid
+actor,67540,Tony,Scruggs
+actor,48216,David (I),Reineke
+actor,127434,Tracy (I),Bennett
+actor,42829,Michael E.,Kurowski
+actor,87507,Armando,Annuale
+actor,63822,Danny (XV),Jackson
+actress,142502,Nancy (II),Blake
+actor,44609,Chris (I),Sung
+actor,96658,Stephen (I),Berger
+actor,142427,Pierre (II),Pichon
+actor,93475,Robert (I),Weil
+actor,126099,John Steven,Rocha
+actor,112100,Richard (III),Dominguez
+actress,100360,Hellyette,Bess
+actress,50145,Juanita,Romano
+actress,48001,Isidora,Goreshter
+actress,12480,Courtney,Drasner
+actor,13836,Tom,Benick
+actor,48106,Nathan Dana,Aldrich
+actor,84485,Tommy,Fager
+actor,43565,Carol (I),Reed
+actor,146714,Scott,LaRose
+actor,110259,Donald,Layne-Smith
+actor,26880,David (XII),Peters
+actor,105174,Tom,Heinz
+actor,96849,Angelo,Reno
+actor,133090,Radek,Entner
+actor,96204,Nicholas (I),Salgado
+actor,120038,Cheech,Marin
+actor,3464,Steve,Pascal
+actor,113655,John (II),Dickerson
+actor,57454,Claude,Starling
+actor,119486,Eugène,Berthier
+actor,149319,Izzet,Civril
+actor,84818,Piotr,Zelt

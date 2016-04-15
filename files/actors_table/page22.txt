@@ -1,0 +1,71 @@
+actor,28549,Darren Andrew,Nash
+actress,77508,Julie,Gudz
+actor,118518,Shigeru,Kôyama
+actor,56045,Bal,Jusar
+actor,38298,Luis Carlos,Gonzalez
+actress,12855,Heather Ashley,Boyd
+actress,22567,Tanisha,Harper
+actress,30674,Catherine (I),Berg
+actress,131410,Jayne,Violassi
+actor,101035,David,Hewlett
+actor,85892,James R.,Petix
+actor,99841,Frank,Coraci
+actor,40807,Burt,Caesar
+actor,98953,Steve P.,Pence
+actress,67944,Sari,Gagnon
+actor,24979,Francesco,Carnelutti
+actor,40702,Chiké,Okonkwo
+actor,132773,Paul,Slack
+actress,27412,Anna (I),Cahill
+actor,103874,Michael A.,Mendez
+actor,134549,Jerry,Rudden
+actress,135140,Mary,Bounphasaysonh
+actor,68035,Michel,Pitton
+actress,143041,Ikken,
+actress,123293,Carmen,Du Sautoy
+actor,27549,Martin Charles,Warner
+actress,36208,Linda (II),Stein
+actress,128956,Janet,Adderley
+actor,1436,Rod,Bedall
+actor,85830,Alain (I),Clément
+actor,116665,Chris (I),Sheffield
+actor,133311,Brian,Stuebe
+actress,87242,Kirsten (I),Nelson
+actor,147800,Lionel,Belmore
+actor,95662,Mark (VI),Thompson
+actress,109348,Christelle,Senechal
+actor,37262,Robert (I),Small
+actress,100799,Georgienne,Millen
+actress,49815,Charlotte,Armer
+actor,133524,Edward,Woodall
+actor,35882,Kathie,France
+actor,9608,Kevin R. (I),Kelly
+actor,84009,Jesus (XII),Lopez
+actress,57873,Leora,Dana
+actress,134776,Charmaine,Craig
+actress,75327,Jerri Rose,White
+actor,130076,Larry,Wansley
+actor,136899,Kaipo,Schwab
+actor,32811,Mihai,Ionita
+actress,141286,Rosemary (II),Howard
+actor,88725,Laurent,Fernandez
+actor,146875,Jaiden,Dervish
+actor,76551,Anthony,Cannata
+actor,116451,Bohdan,Graczyk
+actress,55554,Cheryl (I),Campbell
+actress,63322,Cheryl,Bermeo
+actor,113444,Mark Anthony,Williams
+actor,34174,Louis (I),Roth
+actor,85599,RonReaco,Lee
+actor,39769,Tim,Aas
+actor,87551,Alex (I),Diehl
+actor,5953,Eric,Yeckley
+actor,100433,Ricardo (VII),
+actress,138417,Samantha (I),Hughes
+actor,124162,Richard (X),Buckley
+actor,17520,Rob,Douglas
+actor,10888,Will (I),Clinger
+actress,74236,Risa,Odagiri
+actor,100591,Farrell,Sheridan
+actor,85562,John,Marmora
+actress,94656,Lucy (I),Martin

@@ -1,0 +1,66 @@
+109375,,,3007728,[Romka]
+111272,,,3007728,
+112512,,,3007728,
+113901,,,3007728,
+115648,,,3007728,[Operativnik]
+117004,,,3007728,
+118479,,,3007728,[Lilya]
+123113,(as Pavel Lebedev),,3007728,
+123619,,,3007728,
+125683,,,3007728,[Devochka v poezde]
+126127,,,3007728,
+127608,,,3007728,
+130360,,,3007728,[Anzhela]
+131389,,,3007728,
+132054,,,3007728,[Arkhierey]
+132673,,,3007728,
+133494,,,3007728,"[Yulya, sekretar mera]"
+133561,,,3007728,
+133920,,,3007728,
+134607,,,3007728,[Operativnik]
+135426,,,3007728,[Matushka]
+136025,,,3007728,
+137820,(as Natalya Garustovich),,3007728,[Posetitelnitsa suda]
+137919,,,3007728,[Ipodiakon]
+144375,,,3007728,
+144983,,,3007728,
+145404,,,3007728,
+10675,,,3007244,[Nozaki]
+12236,,,3007244,[Pilot]
+20994,,,3007244,[Cave Soldier #2]
+22759,,,3007244,[Tired Soldier]
+22911,,,3007244,[Ozawa]
+23538,(as Mitsu Kurokawa),,3007244,[Suicide Soldier]
+24295,(as Shidou Nakamura),,3007244,[Lieutenant Ito]
+26198,,,3007244,[Lieutenant Fujita]
+26843,,,3007244,[Ono]
+26854,,,3007244,[Japanese Soldier #4]
+30994,,,3007244,[Marine Lieutenant]
+44688,(as Skip Evans),,3007244,[Pilot]
+46863,,,3007244,[Admiral Ichimaru]
+47168,(uncredited),,3007244,[Wounded Japanese Soldier]
+49576,,,3007244,[Kid Marine]
+49822,,,3007244,[Kashiwara]
+50106,,,3007244,[Lead Woman]
+50252,,,3007244,[Hashimoto]
+50763,,,3007244,[Prisoner]
+52808,,,3007244,[Hanako]
+55091,,,3007244,[Marine #3]
+55551,,,3007244,[Cook]
+56254,,,3007244,[Marine #4]
+58832,,,3007244,[Japanese Soldier #3]
+64491,,,3007244,[Maj. General Hayashi]
+65875,,,3007244,[American Marine]
+67165,,,3007244,[Baron Nishi]
+69329,,,3007244,[Okubo's Soldier]
+70387,,,3007244,[Lt. Colonel Oiso]
+73156,(as Sonny Seiichi Saito),,3007244,[Medic Endo]
+74008,,,3007244,[Saigo]
+75976,,,3007244,[Admiral Ohsugi]
+78063,,,3007244,[Kuribayashi's Guard]
+78119,,,3007244,[Marine #2]
+79825,(as Akira Kaneda),,3007244,[Japanese Soldier #1]
+80826,,,3007244,[Marine at Clearing]
+84100,,,3007244,[Captain Tanida]
+84179,,,3007244,[Private Yamazaki]
+87280,,,3007244,[Marine at Clearing]

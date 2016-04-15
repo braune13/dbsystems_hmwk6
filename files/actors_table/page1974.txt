@@ -1,0 +1,71 @@
+actress,17152,Manuela,Sanchez
+actor,132370,Said,Talidi
+actor,75378,Dave,Mahr
+actor,13757,Larry,Nuñez
+actor,40621,Samuel (II),Brennan
+actor,57692,Somkuan 'Kuan',Siroon
+actor,6381,Allen,Danziger
+actor,41081,Deden (II),
+actress,34451,Elinor,Krueger
+actress,114134,Anna (I),Rappaport
+actress,2669,Frances,McDormand
+actor,111929,Curtis,Shumaker
+actor,90395,Stéphane,Pacheff
+actor,527,Edd,Scorpio
+actor,107254,Colin (I),Angus
+actor,70476,Alfonso (I),Delgado
+actor,37503,Kyle,Durant
+actor,95837,Anders,Van Haden
+actress,34341,Marta (I),Martin
+actress,1918,Lisa (II),Summers
+actor,134965,Mikhail,Gorbachev
+actor,3677,Kevin (I),Grover
+actor,107644,Lucio,Allocca
+actor,103923,Dale,Frye
+actor,106230,Edward,Jewesbury
+actor,131987,Fred,Livingstone
+actress,114505,Elaine,Britten
+actress,31294,Samantha,Frampton
+actor,31538,Siu Hun,Li
+actor,125472,Eduardo (I),Sapac
+actor,66036,Alex,Gil
+actor,120841,Hal,Jeffrin
+actress,109961,Cristiana,Porchiella
+actor,96035,Diego,Miró
+actor,100873,Jason (I),Naylor
+actor,21465,Padraic,Delaney
+actor,29925,George,Touliatos
+actress,116004,Linda,Perri
+actor,22988,Nathaniel,Ramabulana
+actor,129022,Daniel Lee,Harris
+actor,11713,Brin,Rosser
+actor,111207,Michael James,Barrett IV
+actor,50479,Chick,Hannan
+actor,5782,Peter,Jurasik
+actor,121121,Jesse,Emmett
+actor,43253,Harry (I),Woods
+actor,121562,Paul (III),Todd
+actor,88168,Joao,de Sousa
+actress,140054,Golde,Starger
+actress,72156,Allison (II),Clarke
+actor,19722,Neil (I),Hamilton
+actor,36832,James F.,Murray Jr.
+actress,115405,Martha,Greenhouse
+actress,83395,Paloma,Nuñez
+actress,94269,Katie (I),Adams
+actress,97436,Camille,Micelli
+actor,92336,Josh,Mostel
+actor,29179,Danny F,Smith
+actor,116484,Koushirou,Honda
+actress,12124,Olia,Voronkova
+actor,17368,David (I),Fitzsimmons
+actor,35839,Al (I),Santos
+actress,90626,Gina,Carano
+actor,97822,Kent (II),Lee
+actor,104284,Paul,Brinegar
+actress,122495,Rosa,Reyes
+actress,44235,Mary Beth,Hawkins
+actor,42790,Robert,Bagnell
+actor,132697,Edmund G.,Brown
+actor,12317,Jason (II),McKinnon
+actor,128001,Lyle,Kanouse

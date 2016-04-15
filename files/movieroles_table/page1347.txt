@@ -1,0 +1,66 @@
+1793,(voice: English version),,2836187,
+3520,(voice: English version),,2836187,
+6453,(voice),,2836187,[Marukuru]
+11679,(voice),,2836187,[Koshô]
+14851,(voice: English version),,2836187,
+15096,(voice: English version),,2836187,[Markl]
+21587,(voice: English version),,2836187,[Prince Turnip]
+22065,(voice),,2836187,[Karushifâ]
+23346,(voice),,2836187,[Sariman]
+24692,(voice: English version),,2836187,
+31809,(voice: English version),,2836187,
+32269,(voice: English version),(as Pete Renaday),2836187,
+37960,(voice: English version),(as Iake Eissinmann),2836187,
+44300,(voice),,2836187,[Hauru]
+45975,(voice: English version),,2836187,
+46969,(voice: English version),(as Richard Horvitz),2836187,
+47346,(voice: English version),,2836187,[Madame Suliman]
+54061,(voice: English version),,2836187,[Lettie]
+57066,(voice: English version),,2836187,[Grandma Sophie]
+59915,(voice: English version),,2836187,
+64200,,,2836187,[Soldier]
+64588,(voice: English version),,2836187,
+67852,(voice: English version),,2836187,
+95061,(voice: English version),,2836187,[Honey]
+100268,(voice),,2836187,[Arechi no Majo]
+100269,(voice),,2836187,[Lettie]
+100438,(voice: English version),,2836187,[Madge]
+105317,(voice: English version),,2836187,
+105814,(voice: English version),(uncredited),2836187,
+106887,(voice: English version),,2836187,
+112791,(voice: English version),,2836187,[Calcifer]
+116203,(voice: English version),,2836187,
+116322,(voice),,2836187,[Kokuô]
+116962,(voice: English version),,2836187,
+126526,(voice: English version),,2836187,
+127028,(voice),,2836187,[Kakashi no Kabu]
+127443,(voice: English version),,2836187,[King]
+135737,(voice: English version),,2836187,
+135846,(voice: English version),,2836187,[Howl]
+137738,(voice),,2836187,[Hin]
+140420,(voice: English version),,2836187,
+141428,(voice: English version),,2836187,[Witch of the Waste]
+141825,(voice),(as Shigeyuki Sato),2836187,
+143998,(voice: English version),,2836187,
+144132,(voice),,2836187,[Sofî]
+145182,(voice: English version),,2836187,
+145959,(voice: English version),,2836187,[Young Sophie]
+146616,(voice: English version),,2836187,
+9903,,,2837101,[Paul]
+12479,,,2837101,[Barroso]
+14186,,,2837101,[Hotel Clerk]
+15150,,,2837101,[Scott]
+22551,,,2837101,[Goatee]
+22692,,,2837101,[Victor]
+31415,,,2837101,[Jiang]
+41404,,,2837101,[Liliana]
+43361,,,2837101,[Kenneth's Henchman #2]
+44257,,,2837101,[Gomez]
+48153,,,2837101,[State Trooper #2]
+50657,,,2837101,[Rodrigo]
+62538,(uncredited),,2837101,[Scott's Friend]
+66910,,,2837101,[Sheriff #2]
+74207,,,2837101,[Alex Coblenz]
+74350,,,2837101,[State Trooper #1]
+82421,(as Bobby Andrew Burns),,2837101,[Sheriff #1]
+84050,(as Todd Thacher Cash),,2837101,[State Trooper #3]

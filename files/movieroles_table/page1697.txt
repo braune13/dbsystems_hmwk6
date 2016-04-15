@@ -1,0 +1,66 @@
+128090,,,2948127,[Army General]
+128445,,,2948127,[News Anchor]
+132423,(uncredited),,2948127,[Businessman]
+133197,,,2948127,[Kim]
+135568,(uncredited),,2948127,[Student]
+136036,,,2948127,[Kid with Glasses]
+136126,,,2948127,[Newscaster]
+136393,(uncredited),,2948127,[Train Passenger]
+137345,(uncredited),,2948127,[New York Artist]
+137501,,,2948127,[Transit Officer]
+138352,(uncredited),,2948127,[Student]
+142220,,,2948127,[Younger Caleb]
+144745,,,2948127,[Lucinda's Father]
+146520,(uncredited),,2948127,[New York Model]
+149081,,,2948127,[Jessica]
+149188,(uncredited),,2948127,[Lab Assistant]
+149273,(uncredited),,2948127,[New York model]
+16454,,,2949396,[1-nen B-kumi student]
+20311,,,2949396,[1-nen B-kumi student]
+23508,,,2949396,
+24714,,,2949396,[Professor Seguchi]
+31662,,,2949396,[Mr. Tokura]
+41555,,,2949396,[Mizuki Kitahara]
+45535,,,2949396,[Teacher]
+47309,,,2949396,[Shuya's Mother]
+53737,,,2949396,[Miyuko]
+54276,,,2949396,[Yuko Shimomura (Naoki's mother)]
+55325,,,2949396,[1-nen B-kumi student]
+55396,,,2949396,[Ayaka]
+57351,,,2949396,
+58282,,,2949396,[Manami Moriguchi (Yuko's Daughter)]
+62092,,,2949396,
+62721,,,2949396,
+64892,,,2949396,[Shuya Watanabe]
+67732,,,2949396,
+71450,,,2949396,
+75872,,,2949396,[Yoshiteru Terada]
+76832,,,2949396,[1-nen B-kumi student]
+81211,,,2949396,[Hoshino]
+90301,,,2949396,[Shuya's Father]
+94176,,,2949396,[Masayoshi Sakuranomiya]
+95636,,,2949396,[Takahiro]
+95875,,,2949396,[Yuko Moriguchi]
+98124,,,2949396,
+99981,,,2949396,
+100865,,,2949396,[College Pupil]
+102570,,,2949396,
+107728,,,2949396,[Naoki Shimomura]
+112920,,,2949396,[Saki]
+114097,,,2949396,[1-nen B-kumi student]
+117407,,,2949396,[1-nen B-kumi student]
+121056,,,2949396,[1-nen B-kumi student]
+126587,,,2949396,
+127228,,,2949396,
+132205,,,2949396,[hikita Wakei]
+132894,,,2949396,
+135489,,,2949396,[Yukari]
+137755,,,2949396,
+138170,,,2949396,
+1242,,,2950109,[Beautiful Senorita]
+2455,(as Kasper Ameberg Johnsen),,2950109,[Thor 6 yrs.]
+3562,(uncredited),,2950109,[Svensk äventyrare]
+5732,,,2950109,[Torstein Raaby]
+6367,,,2950109,[Knut Haugland]
+7343,,,2950109,[Erik Hesselberg]
+9121,,,2950109,[Liv Heyerdahl]

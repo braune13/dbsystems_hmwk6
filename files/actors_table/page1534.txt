@@ -1,0 +1,71 @@
+actor,125398,Paul,Tanksley Jr.
+actor,92346,Christopher Peter,Federico
+actor,36218,Noah,Craft
+actor,25432,Alan (I),Wade
+actor,56192,Frank (II),Crawford
+actress,70465,Chiara,Mastroianni
+actress,83196,Joanne,Genthon
+actress,42458,Melissa Anne,Young
+actor,119300,Todd (IV),Wilson
+actor,50615,Gulliver,Page
+actor,106809,Christopher (XVIII),Jackson
+actor,69767,Jonas,Stiklorius
+actor,78646,Patrick (I),Stewart
+actress,8601,Reamy,Hall
+actress,58726,Jessica (I),Lange
+actor,47702,Yuri,Lowenthal
+actor,49578,Jamal (I),Caesar
+actress,129696,Chloe,Thornton
+actor,128112,David,Boat
+actor,17306,Frank,Caserta Sr.
+actor,18598,Raf,Richard
+actor,96140,Michael (I),McCleery
+actor,87295,Robie,Alan
+actor,21038,Garry,Chalk
+actor,124382,Joseph (I),Marshall
+actress,59114,Tracey,Wilkinson
+actor,1345,Anthony (I),Rodriguez
+actress,40615,Shirley,Augustine
+actor,34425,Al,Rasho
+actor,80030,Tristan,Canning
+actor,147971,John (I),Ingle
+actress,81344,Beverly,Wiles
+actor,62003,Marcelo Alejandro,Auchelli
+actor,96679,Joshua,Zumhagen
+actor,9539,Frank (I),Alvarez
+actor,80416,Rich (I),Morris
+actor,12200,Daniele,Finizio
+actress,91815,Trista,Marchetto
+actor,97195,Sung-Mo,Um
+actress,48131,Sandrine (I),Dumas
+actress,133629,Elizabeth,Weinstein
+actor,44110,Joseph,Bova
+actor,7406,David (III),Zimmerman
+actor,92386,Hale,Appleman
+actor,72686,Kenny,Calderon
+actress,141501,Wieslawa,Wesolowska
+actor,122123,Mark (I),Phoenix
+actor,128351,Brian,Leffelman
+actress,36482,Anne (I),Francis
+actor,54131,Dennis,Tracy
+actor,77669,Sitka,
+actress,81279,Kaitlin,Borst
+actor,147173,Troy,Brenna
+actor,109195,Billy (II),Jenkins
+actor,135707,Chris (I),Fowler
+actor,52932,Clément,Chebli
+actor,141707,Iouri,Zagorski
+actress,120805,Victoria,Tengelis
+actress,21915,Lori,Mulligan
+actress,48981,Rionnie,Love
+actor,9685,Simon,Broadhurst
+actress,105708,Taeko,Kawata
+actress,119397,Robyn A.,Schneider
+actress,138972,Dona,Ellis
+actor,125344,Joe (I),Drago
+actor,28596,Peter,Stockbridge
+actor,127947,Jason (I),Heck
+actor,53451,Aliash,Tepina
+actor,90966,John (V),Barnes
+actor,67748,Robert,Wallhöfer
+actor,79825,Yoshi Tomo,Kaneda

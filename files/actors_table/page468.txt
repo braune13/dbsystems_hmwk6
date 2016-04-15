@@ -1,0 +1,71 @@
+actress,115343,LaFrazia D.,Knighten
+actor,66887,Don (I),Thompson
+actor,120927,Ferenc,Elek
+actor,65670,Paul,Kant
+actor,45350,Carlos,Mele
+actor,40769,Paul,Mwakutuya
+actor,53337,Frederic W.,Brost
+actress,45531,Giedre,Bond
+actor,30015,Kenneth (VI),Miller
+actress,81282,Cheryl,Craig
+actor,50673,Ryûji,Nakagi
+actor,104775,Stephen,Ferry
+actress,136815,Hanniyah,Muhammad
+actress,63890,Le Ann,Cheri'
+actor,144424,Esteban (II),Benito
+actor,3157,Charles (I),Sinclair
+actor,106724,Jacob,Latimore
+actor,84979,Bill (I),Welsh
+actor,89031,Kerry,Hoyt
+actress,17149,Karen,Placencia
+actor,92589,Jon,Arterton
+actor,122974,Erick,Vinther
+actress,16376,Li Li,Wang
+actress,129976,Chelsea,Chrostowski
+actor,14363,Michael,Breckley
+actor,68965,Sung,Kang
+actor,82299,Brett,Favre
+actor,9676,Uwe Dag,Berlin
+actress,106873,Olivia,de Havilland
+actor,56835,Lawrence,Sykkmon
+actress,135435,Shavonne,Kenyon
+actor,46528,Dante,Bruzzese
+actor,42197,Johnny,Thomas III
+actor,9636,Anthony,Giaimo
+actor,108660,Tony (I),Hague
+actor,72096,Alan,Muraoka
+actress,86609,Erin (I),Chambers
+actress,20904,Yolanda,Hughes-Heying
+actor,145461,Douglas L.,Cook
+actor,139425,Michael (V),O'Hara
+actress,118054,Ruth,Silveira
+actor,95255,Ryan,Van de Kamp Buchanan
+actress,3446,Grace (II),Sinclair
+actor,107417,Marston,Fobbs
+actress,136338,Taylor,Hardick
+actress,77170,Suzanne,Enslen
+actor,43561,Wenlong,Huang
+actor,91297,Jason,Hubbs
+actor,76696,Ted,Yudain
+actor,108686,Davide,Manganelli
+actor,72806,Dan (V),Richards
+actor,12008,Jack (XIII),White
+actor,61751,Caleb,Babcock
+actor,100470,Alexandr,Dvornikov
+actor,93011,Goldie,Kleban
+actor,67366,William T.,Deutschendorf
+actress,131022,Christine,Bellier
+actress,129975,Heather (I),Benna
+actor,96621,Chigozie,Orukwowu
+actress,34484,Braima,Moiwai
+actor,133456,Fabrice,Mantegna
+actor,21174,Paul (II),Wachter
+actress,31663,Florence,Foresti
+actress,35551,Angela,Storm
+actor,106517,Skyler,Holman
+actor,67111,Robin,Chalk
+actor,98937,Jimmy,Turkmani
+actor,34374,David,Ojakian
+actress,131461,Leonna,McGilligan
+actor,134242,Ross (I),Harris
+actor,73207,Scot,Denton

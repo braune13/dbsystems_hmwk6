@@ -1,0 +1,71 @@
+actor,10180,Anthony (V),Palmer
+actress,115959,Shea,Broom
+actor,16753,Tyler,Fagan
+actress,51144,Cat,Stone
+actor,100552,Russ,Price
+actress,49369,Candice,Azzara
+actor,127642,Billy Dee,Williams
+actress,38183,Eva,Tep
+actor,136712,Peter (I),Osborn
+actress,125407,Jessica,Rinalo
+actor,128517,Charles,Martinet
+actress,19126,Barbara,Durkin
+actor,29329,Brian (I),Spaeth
+actress,67530,Linda,Purl
+actor,59833,Bradley,Frishman
+actress,39646,Toshiko,Nakano
+actor,75094,Greg (I),Walker
+actor,3440,Ron (V),Anderson
+actress,50142,Bibi,Nerheim
+actor,67118,Sam (VII),Collins
+actor,127488,Nicholas,Bourdages
+actor,133314,Marcus,Gilmore
+actor,82474,Sergej,Merkusjev
+actor,141344,Don (I),Gordon
+actor,128647,Jay,Lembeck
+actress,25012,Beverly (II),Griffith
+actress,588,Daniela,Fedke
+actress,60265,Alexia,Filippeos
+actor,68049,Ric,Govea
+actress,147351,Stelianie,Tekmitchov
+actress,56228,Anna,Jacoby-Heron
+actor,99444,Gary (I),Douglas
+actor,137353,Jeremy,Bustin
+actor,110314,Peter,Berling
+actress,58720,Claudia (I),Cardinale
+actress,42631,Christie,Sanders
+actor,95903,Brian,Lonsdale
+actress,110599,Mary (II),St. John
+actor,133779,Mohamed Ait,Lahcen
+actor,124143,Brad,Krevoy
+actor,31969,Tony (I),Beck
+actor,11382,Roger D.,McCann
+actor,54933,Jay,Hemond
+actor,30286,Murray,Cruchley
+actress,18387,Rossy de,Palma
+actress,34316,Nao,Nojima
+actor,70679,Sumeet,Goradia
+actor,37401,Michael,Farez
+actor,17663,Jay P.,Work
+actor,35624,Govind,Namdeo
+actor,106209,Jonny,Fair
+actress,94418,Leslie,Silva
+actress,75531,Viktoria,Zavgorodnyaya
+actor,104155,Murray,Melvin
+actor,55297,Eamon,Behrens
+actor,93448,John,Awoods
+actor,109283,Josef (I),Powell
+actor,144416,Tenzin,Jangchub
+actor,17695,Patrick (I),Barr
+actor,65083,Raziel,Jordan
+actor,32364,Anthony (I),Alvarez
+actor,68234,Carlos (I),Pina
+actress,59666,Tanja,de Wendt
+actor,146307,Jonathan,Tisch
+actress,47598,Vanessa (V),Williams
+actor,44603,Robert Frank,Telfer
+actress,138555,Marisa,Lauren
+actor,64,Billy (I),Zoom
+actor,42913,Nele,Karajlic
+actress,38319,Barbara (II),Gordon
+actor,56456,John (I),Ruby

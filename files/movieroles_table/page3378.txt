@@ -1,0 +1,66 @@
+23269,,,3440867,[Dancer]
+24609,,,3440867,"[Cornered Executive who Jumps (segment ""The Crimson Permanent Assurance"")]"
+28048,,,3440867,[Dancer]
+28585,(as Gary Noakes),,3440867,[Dancer]
+32706,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+36061,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+36604,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+36716,,,3440867,[Victim #2/Troll Waiter/Guest #2]
+38517,,,3440867,[Brown's Son]
+38815,,,3440867,[Dancer]
+40107,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+40529,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+40555,,,3440867,[Dancer]
+41487,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+41730,,,3440867,[Window Washer/Harry/Fish #5/Mr. Pycroft/Dad/Narrator #1/Chaplain/Carter/Spadger/Regimental Sergeant Major/Pakenham-Walsh/Rear End/Female TV Presenter/Mr. Marvin Hendy/Governor/Leaf Son/Debbie Katzenberg]
+46554,,,3440867,[Dancer]
+46718,,,3440867,[Dancer]
+48386,,,3440867,[Nurse #1]
+52480,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+54031,,,3440867,[Dancer]
+55761,,,3440867,[Dancer]
+58848,,,3440867,[Dancer]
+60513,,,3440867,[Dancer]
+61380,,,3440867,[Mrs. Moore]
+62197,,,3440867,[Dancer]
+63310,(as Floyd Pearce),,3440867,[Dancer]
+64587,(uncredited),,3440867,[Restaurant Diner]
+64930,(as Tony Lang),,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+68401,,,3440867,[Dancer]
+70840,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+80408,,,3440867,[Dancer]
+86162,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+87054,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+87218,(as Roy Gayle),,3440867,[Dancer]
+88868,(uncredited),,3440867,[Dancer]
+89470,,,3440867,[Dancer]
+92635,(as Natasha Gilbrook),,3440867,[Dancer]
+94160,,,3440867,[Chadwick/Jeremy Portland-Smythe]
+98041,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+98165,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+100747,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+101987,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+102217,,,3440867,[Gunther/Fish #3/'Meaning of Life' Singer/Mr. Moore/Mrs. Blackitt/Watson/Blackitt/Atkinson/Perkins/Victim #3/Front End/Mrs. Hendy/Man in Pink/Noël Coward/Gaston/Angela]
+105169,(uncredited),,3440867,[Student Doctor]
+105202,,,3440867,[Dancer]
+108281,,,3440867,[Dancer]
+110014,(as Stephen Beagley),,3440867,[Dancer]
+113561,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+113680,,,3440867,[Dancer]
+114917,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+115160,,,3440867,
+115784,(as Imogen Bickford Smith),,3440867,[Nurse #2]
+116433,,,3440867,[Wife of Guest #2]
+117271,(uncredited),,3440867,[Topless Pursuer]
+117671,,,3440867,[Mrs. Williams]
+117797,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+117825,,,3440867,[Window Washer/Fish #4/Walters/Middle of the Film Announcer/M'Lady Joeline/Mr. Brown/Howard Katzenberg]
+122792,,,3440867,[Dancer]
+123278,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+124181,,,3440867,[Bert/Fish #6/Mum/Priest/Biggs/Sergeant/Man with Bendy Arms/Mrs. Brown/Mr. Creosote/Maria/Leaf Father/Fiona Portland-Smythe]
+124272,,,3440867,[Dancer]
+125826,,,3440867,[Diner Eating Howard the Fish]
+127281,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+129182,,,3440867,[Groom/Wycliff/Victim #1/Guest #3]
+129893,,,3440867,"[(segment ""The Crimson Permanent Assurance"")]"
+130668,,,3440867,[Dancer]

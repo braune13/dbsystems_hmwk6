@@ -1,0 +1,71 @@
+actor,83170,Martin (III),Wilde
+actor,116758,Tianmin (I),Zhang
+actor,86767,Tyler (I),Kimball
+actor,134909,Joao,Gamez
+actor,47340,Anthony (II),Reynolds
+actor,110631,John (II),Buchan
+actor,102588,Gino,Corrado
+actor,41257,Jacob,Davich
+actress,58968,Anna,Stiborová
+actor,130294,Dean H.,Huh
+actor,82771,Alvaro,Roque
+actor,98874,Edward (II),Lynch
+actor,51579,David (IV),Goodman
+actor,42704,Lord,Layton
+actor,147908,Art (II),Price
+actor,48929,Brad,Pitt
+actor,107265,Michael Eric,Strickland
+actor,80095,William,Demarest
+actress,87677,Christina,Vold
+actor,105892,Scott (I),Haven
+actress,38811,Diane,Behrens
+actor,73203,Jamal,Dennis
+actress,95245,Bonnie (I),Dixon
+actress,40396,Gerri,Bumbaugh
+actress,40263,Tamyra,Gray
+actor,122990,Carlton,Jarvis
+actress,25629,Louise,Gold
+actor,63204,Hannah,Henriques
+actor,147662,Teruyuki,Kagawa
+actor,110420,Stephen C.,Foster
+actress,108374,Debra,Donohue
+actor,561,Sébastien,Huberdeau
+actress,105357,Kim,Bubbs
+actor,13138,Bruno,Bilotta
+actor,14024,Tim,Bentinck
+actor,131392,William Hunter,Luther
+actress,86764,Shirley,Rumierk
+actor,19428,John W.,Momrow
+actor,14511,Jock,Armour
+actress,135682,Mei,Melançon
+actress,12046,Catherine (I),Dunne
+actor,138782,Hank,Amos
+actor,72599,John A.,Willingham
+actor,44559,Ron (II),Valdez
+actor,56652,David (I),Davila
+actress,146054,Elizabeth (II),Alvarez
+actor,49156,Dick (I),Hyman
+actor,53248,Adam (I),Rifkin
+actor,70957,Harold,Gary
+actor,125149,Chet,Zar
+actor,42451,Harry,Melling
+actor,88616,Frank T. (I),Wells
+actress,68376,Bobbie,Grace
+actress,74903,Ashley Green,Elizabeth
+actor,142966,Eric,Bernat
+actress,71278,Jennifer,Melander
+actor,133965,Lancelot,Evans
+actor,50568,Eric Michael,Zee
+actress,121970,Bindu (I),
+actor,121107,Michael,Chevalier
+actor,70753,Salvator,Xuereb
+actor,42561,Erron,Jay
+actor,26521,Jeffrey,Caine
+actress,133276,McKinley,Jones
+actor,84604,Christian,Wolf-La'Moy
+actor,115696,Jean,Saudray
+actress,134609,Summer,Hubbell
+actor,139902,Frans,Boyer
+actor,17548,Giuseppe,Tornatore
+actor,35740,Ralph,McQuarrie
+actress,141939,Kristel L.,Rose

@@ -1,0 +1,71 @@
+actor,80760,David,McSavage
+actress,149103,Galyn,Görg
+actor,80692,Rand,Harper
+actress,108542,Madeline S.,McEneney
+actress,18660,Elizabeth (III),Matthews
+actor,67749,Dustin,Demri-Burns
+actor,92060,Alphonse,Mouzon
+actor,101418,Dino,Marnika
+actor,116097,Ivaylo,Grancharov
+actress,121131,Vaja,
+actor,105305,Claude,Talpaert
+actor,48576,Sebastian,Rodgers
+actor,96893,Daniel,Roebuck
+actor,65825,Phillip,Ortiz
+actor,114716,Bud,Stout
+actress,133665,Carolyn,Valero
+actor,144862,Rob,Nilsson
+actor,70628,Pat,Kiernan
+actor,93557,Tony,Butala
+actor,125081,Mel,Stroik
+actor,11034,Adam,Ferrara
+actor,131658,Francis,Fernandez
+actor,42307,Vincent,Glo
+actor,133365,David (I),Fawcett
+actor,36026,Chris (I),Bass
+actress,40675,Carey,Lowell
+actor,36711,André,Holland
+actress,40760,Margaret,Ellery
+actor,56056,Hal,Smith-Reynolds
+actor,98925,Richard,Dorton
+actress,58561,Kirsten,Harrison
+actor,62866,Tsutomu,Tareki
+actor,119682,Dave (I),Donnelly
+actor,114514,Kelley-Jo,Roulusonis
+actress,21908,Joanne (II),McDonough
+actress,38544,Emily,Khazak
+actor,14062,Mickey,Nedimovic
+actor,86712,Tyler (XI),Cook
+actor,47959,Tighe (I),Barry
+actor,49892,Seth (I),Sanders
+actor,122619,Denis,Lacroix
+actress,130292,Edna,Rowe
+actor,32122,Ron (II),Levitt
+actor,10790,Morgan Peter,Brown
+actress,96052,Bo,Bene
+actor,8315,Kevin (I),McNulty
+actor,117266,Richard,Ommanney
+actor,14578,Zheng (XIII),Wang
+actor,128401,Chris,Biorn
+actor,61426,Jeff (I),Moeller
+actress,109115,Nanci M.,Harvey
+actor,3629,Garikayi,Mutambirwa
+actor,50932,John,Sabol
+actor,134420,Glen,Stanway
+actress,30110,Rachel,Ezra
+actor,75216,Chapman,To
+actress,110706,Robin,Reck
+actor,122730,Brandon,Hillock
+actor,102923,Harvesp Viraf,Chiniwala
+actor,40955,Kelsey,Paschich
+actress,17000,Sonoya,Mizuno
+actor,110753,Tom,Vanderkam
+actress,25930,Elisa (I),King
+actor,42608,Ikuji,Nakamura
+actress,122679,Aida,Bernardino
+actress,24664,Linda (I),Jensen
+actor,59095,Sang,Lui
+actor,4221,Qurais,Mohammed
+actor,43308,Robert H.,Fowler III
+actor,66266,Jeremy,Mohler
+actor,138370,Joe (I),Lando

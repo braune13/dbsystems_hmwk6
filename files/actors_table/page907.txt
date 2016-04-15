@@ -1,0 +1,71 @@
+actress,44096,Dee,Macaluso
+actress,140342,Katarina (III),Olsson
+actor,66381,Rickard,Mattila
+actress,135747,Onalee,Ames
+actor,134573,Glen,Kupier
+actor,64945,Roland,Manookian
+actor,114556,Walter,Vargas
+actor,104395,Brennan,Kotowich
+actor,66653,Roger,Rook
+actress,310,Taylor (I),Segal
+actor,81858,William (I),Luke
+actor,44310,Nick (II),Manning
+actress,113535,Lurene,Tuttle
+actor,90807,Brian (I),Carney
+actor,50951,Brent C.S.,O'Connor
+actor,37645,Richard V.,Vogt
+actor,39669,David (III),Steinberg
+actor,102590,Michael (V),Parsons
+actress,60682,Kristen,Kruchowski
+actress,118819,Carolyn,Guillet
+actor,73697,Michael (I),Brockman
+actress,60216,London,Hall
+actor,143427,Ric,Sarabia
+actor,113167,Mac (II),Miller
+actor,68466,Frankley,Singzilay
+actor,92271,Peter,Riegert
+actor,128852,Graham (I),Ashley
+actor,135656,Vincent (I),Piazza
+actor,8827,Dino,Macaluso
+actor,72998,Robert,Breslo
+actress,132392,Lucille,Patton
+actress,106817,Elizabeth,MacRae
+actor,10162,Guy,Hagi
+actor,102404,David,Daskal
+actress,105254,Clara (I),Reid
+actor,2372,Chesley,Wilson
+actress,68494,Natasha,Sarah
+actor,35893,Anthony Dean,Rubes
+actor,64891,Richard C.,Sarafian
+actress,113611,Yana,Nirvana
+actor,5565,Keb',Mo'
+actor,84954,Mark (IX),Lavery
+actress,124385,Andrea (I),Havens
+actor,99954,Dontrell,Griffin
+actress,90602,Ann,Sears
+actor,23022,Ciarán,Hinds
+actor,95821,John B.,Guptill
+actress,4811,Mary Davis,Duncan
+actor,59212,Nico,Woulard
+actor,97052,Vernon,Guichard II
+actress,103372,Gabourey,Sidibe
+actor,60044,Kevin (I),Watson
+actress,90877,Sylvia,Miles
+actress,113084,Livvy,Stubenrauch
+actor,145775,Noel,Appleby
+actor,147578,Newt,Gingrich
+actor,129301,Cheyenne,Buchanan
+actor,29084,Christopher,Pettiet
+actor,48834,Zenhu,Han
+actor,138761,Michael,Lovern
+actor,25856,Thom,Bierdz
+actor,109033,Nathanael,Cooper
+actor,69619,Peter,Pitofsky
+actor,108099,Joseph E.,Foy
+actor,116661,Ernest,Abuba
+actor,54459,Aurelien,Parent Koenig
+actor,16426,Shin (I),Shimizu
+actor,32263,Matt (I),Walton
+actress,146152,Deborah,Bassett
+actor,68744,James (I),Gonzalez
+actor,122085,Marshall Dancing Elk,Lucas

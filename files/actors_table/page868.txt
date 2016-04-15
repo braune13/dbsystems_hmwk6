@@ -1,0 +1,71 @@
+actress,85117,Angela,Greenblatt
+actress,109915,Danka,Dresner
+actress,35523,Grace,Stafford
+actor,512,Touché,Cornel
+actor,62691,Khris,Gibston
+actor,62414,Wallace (I),Wong
+actor,148792,Marqus,Bobesich
+actor,145086,Kelly,Ruble
+actor,53762,Patrick (I),Boylan
+actor,102617,Fuyuki,Murakami
+actor,25670,Martin,Bezener
+actress,44047,Sabrina (I),Morris
+actress,126079,Marion,Dugan
+actor,51240,Jonathan,Edward-Davis
+actor,118926,John Marshall,Jones
+actor,5850,Andrew (II),Zuckerman
+actor,131794,Alexander (I),Chance
+actor,122840,John (IV),Bolton
+actor,35852,Daniel,Day-Lewis
+actor,14075,Patton (I),Brantley
+actor,84200,Nicolas,Ng
+actor,110933,Gary (I),Lockwood
+actor,22198,Jeff (II),Evans
+actress,99573,Bailey Anne,Borders
+actor,66821,Jeep,Swenson
+actor,57960,Deva,Mahal
+actor,138423,Éric,Denize
+actress,132584,Jennifer,Kreuser
+actor,15260,George,Comando
+actor,134383,Jed,Bernard
+actor,95234,Rob (I),Watson
+actor,35645,Suwardi,
+actor,108666,Mike (I),G.
+actor,15774,Emme,Kemp
+actress,60848,Mai,Zetterling
+actor,89330,Mark (I),St. James
+actor,836,Tyler,Luban
+actress,8695,Bree,Butler
+actor,126628,Jerrad,Vunovich
+actor,131792,Andrey (I),Slabakov
+actor,5852,Alex,Trebek
+actor,6915,Howard (I),Porter
+actor,28273,Brad (I),Potts
+actor,41772,Eric (I),Conger
+actor,140489,Jan,Mayzel
+actor,20042,Chad,Hurley
+actor,142813,Eric,Moscoso Vertiz
+actress,104879,Niamh,Cusack
+actor,139115,Sonam (I),Wangmo
+actress,122756,Aris,Martinez
+actor,147828,Geoff,Gustafson
+actor,22820,Jesse Tyler,Ferguson
+actor,60607,Avery,Rosin
+actor,50415,Dickie,Stanley
+actress,110746,Katina (II),Crumpton
+actor,2280,Fausto,Costantino
+actor,39458,Raj (I),Kishore
+actor,29460,Mario,Pecqueur
+actor,13636,Robert (II),Greenberg
+actor,56485,Tanner,Blaze
+actor,82687,David,Leisure
+actor,50714,Ken,Costigan
+actor,98438,Rodrigo,Farrugia
+actor,44653,Richard,Rohrbough
+actress,58006,Trachel,Yvette
+actor,54427,Julian,Works
+actor,112970,Barry (I),Bell
+actor,4574,Whitney (I),Jones
+actress,86809,Katarzyna,Tlalka
+actress,127589,Lisa Arrindell,Anderson
+actor,28977,James,Intveld

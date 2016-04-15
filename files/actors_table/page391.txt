@@ -1,0 +1,71 @@
+actor,30503,Stephen William,Moore
+actor,122529,Bryant,Pearson
+actor,2568,Tetsuya (II),Endo
+actor,94154,Ira,Newborn
+actor,6787,Michael (I),Penn
+actress,109795,Marie-Annette,Sorrente
+actress,10710,Amanda,Rasberry
+actress,71397,Alexa,Benedetti
+actress,115206,Shobha,Jain
+actor,31576,Kelly,AuCoin
+actor,68031,Sean (I),Breen
+actor,87018,François,Rodrigue
+actor,109199,Adrián (I),Serna
+actor,17983,Matt,Lauer
+actress,136335,Kathy (II),Robinson
+actress,136717,Toneda,Laiwan
+actress,9167,Lori,McCoy-Bell
+actor,34173,Ivan,Cardona
+actor,11779,Kei (II),Kawai
+actress,109282,Marcy,Goldman
+actor,88511,Emena C.,Santiago
+actress,29355,Josie,Tweed
+actor,29481,Reese,Foster
+actress,45929,Sally Ann,Brooks
+actor,55632,Tadao,Tomomatsu
+actress,110073,Hannah,Westerfield
+actor,61107,Christopher (I),Morris
+actor,128018,Thomas J.,Post
+actor,39627,Tom,Beachene
+actor,50283,Nick (I),Ellison
+actor,78669,Robert,Carradine
+actor,6892,Robert (I),Ricks
+actor,59980,David,Yorston
+actress,136247,Susan (I),Mathewson
+actress,87606,Cathy,Murphy
+actress,55153,Yvonne (I),Ng
+actress,117113,Anna-Louise,Plowman
+actor,80410,Steve,Baldocchi
+actor,76414,Andre,Da Silva
+actor,28835,John,Heyenga
+actor,145397,James,Ent
+actor,103895,Eric Christian,Olsen
+actress,39008,Rebecca (I),Jordan
+actress,101189,Jeanie (I),Hackett
+actor,105999,Jake,Sorkin
+actor,38243,John,Hodgman
+actor,92652,Stephan,Möller-Titel
+actress,134249,Antonella,Attili
+actor,90933,Tom (I),Waits
+actor,31620,Donald (V),Taylor
+actor,107500,Darin L.,Frazier
+actress,129718,Shabai (II),Liu
+actor,52980,Aman,Bhogal
+actress,88503,Anna,Silk
+actor,85443,Lukas,Hötzel
+actor,38406,Danny,Mackin
+actress,47835,Sheri (I),Collins
+actor,116361,Eric,DaRe
+actor,110145,Tim (III),Bennett
+actress,9006,Kiyoko,Kitazawa
+actress,15808,Catarina,Hebbard
+actor,14846,Neil,Chapelhow
+actress,112867,Emma,Lockhart
+actor,84241,Philip,Zelikov
+actor,101289,James T.,Muir
+actress,74105,Anna (III),Rosenberg
+actor,36151,Shekhar,Kapur
+actor,138023,Ben (II),Wright
+actor,21676,Jerzy,Góralczyk
+actor,127705,Hugo,Armstrong
+actress,67754,Daisy,Tormé

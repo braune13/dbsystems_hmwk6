@@ -1,0 +1,71 @@
+actress,62401,Sarah Elizabeth,Parker
+actress,70674,Katie,Allred
+actor,79435,Robert,Warnack
+actor,31373,Ludger,Pistor
+actor,125067,Mr. (I),Chips
+actor,74735,Miguel (I),López
+actor,134254,Aaron,Chato
+actor,101316,Rich,Valliere
+actress,126462,Carolina,Virguez
+actor,93392,Hiroshi (II),Ôtake
+actor,17641,Martin (VIII),Fox
+actress,81060,Audrey,Gelfund
+actor,50922,Dave,Stettner
+actor,39016,Lee,Hollingsworth
+actor,9841,Richard,Donner
+actor,10166,Sidney,D'Albrook
+actor,14906,Hefa Leone,Tuita
+actress,93395,Gwen (I),Willson
+actor,7142,Shawn Michael (III),Stanziana
+actor,75460,Saurabh (I),Agarwal
+actress,134113,Lani,Nguyen
+actor,126721,Gene (X),Kelly
+actor,89385,Evan (V),Brown
+actor,49091,El Oualid,Mezouar
+actor,84068,Tony (III),Christian
+actress,12561,Rhiannon,Moller-Trotter
+actor,6195,Tucker,Albrizzi
+actor,94706,Seung-joon,Lee
+actor,53753,Barry,Sabath
+actor,12391,Edward J.,Thomas
+actor,2721,Eric (I),Roberts
+actor,98514,Jimmy (I),Gardner
+actor,92776,Robert,Smolley
+actor,60045,William,Burchinal
+actress,111573,Stacey,Ashmont
+actor,31415,Anthony Brandon,Wong
+actress,77144,Shauna (I),O'Brien
+actress,67055,Abby,Lavin
+actress,31943,Robin (I),Burrows
+actress,4479,Joanna (I),Reid
+actress,28785,Re,Debris
+actor,141090,Levi (I),Miller
+actor,91506,River,Phoenix
+actor,4308,John F.,Schaffer
+actress,21239,Adea,Lennox
+actor,57218,Marty & Elayne,
+actor,138371,David (I),Clyde
+actor,89707,George (III),Alvarez
+actor,112684,Masayoshi,Ohzeki
+actor,129541,Sigurd,Rachman
+actor,3075,Hugo,Ferro
+actor,94728,James,Baker III
+actor,143242,Gus,Kaprales
+actor,104793,Greyson Erik,Pendry
+actress,105037,Soraya,Butler
+actress,141926,Chelsea (II),Smith
+actress,83385,Linda Jean,Hess
+actor,91375,Stewart,Morgan
+actor,85026,Jovan,Clayton
+actress,33513,Margaret (XVI),Smith
+actor,75607,Steve,Altes
+actor,116987,Lee (I),Wong
+actress,125697,Alexandra (VII),Anthony
+actor,51941,Marcel,Mols
+actor,66962,Andrew,Greenough
+actress,21741,Brodie,Cornish
+actor,79444,Don,Jeffery
+actor,140523,Frédéric de,Pasquale
+actor,15028,Brian,Gilleece
+actor,85229,Calum,MacNab
+actor,27300,Bill (I),Bradley

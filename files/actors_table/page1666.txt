@@ -1,0 +1,71 @@
+actor,90446,Bob (I),Minor
+actress,8041,Kate (I),Benton
+actress,129739,Abigail (II),Adams
+actor,80524,Jon Josh,Chua
+actor,81965,Nathan (II),Andrews
+actor,148480,David (I),Caruso
+actress,56006,Si Lu,Ren
+actress,105386,Rosemary (I),Johnston
+actor,29195,Jon,Gunn
+actress,34849,Merrill,Markoe
+actor,36036,Fernando (I),Rivera
+actress,145823,Natalie,Sebastien
+actress,13655,Tracy,Daziz
+actor,122649,Nick,Bolin
+actress,33300,Caroline,Lee-Johnson
+actor,77283,Nickolai,Stoilov
+actor,39799,Miguel,Saboga
+actress,23691,Nancy,Carlsson-Paige
+actor,24866,Garrett,Simowitz
+actress,51626,Elisabeth Anne,Hughes
+actor,103102,Gerasimos,Xidias
+actor,29431,Grant,Gershon
+actor,110166,Aniket,Engineer
+actor,70722,Scott (X),Hill
+actress,106434,Gloria,Prince
+actor,8109,Robert (III),Enriquez
+actor,37698,Monty,Dog
+actor,79397,Brian,Pimental
+actor,13416,Roberto,Sánchez 'Luna'
+actress,134896,Emma (I),Amos
+actor,23400,Manuel L.,García
+actor,22913,Alon,Kleckner
+actress,125189,Paulle (I),Clark
+actress,44299,Jaime,Wallace
+actor,50708,Curtis,Harrison
+actress,96755,Michelle,Murdocca
+actor,26114,John,Tamaki
+actor,52239,Bruce,Monical
+actor,95701,Peter (I),Gingerich
+actor,130605,Al,Lampe
+actor,21843,Andy,Loot
+actor,37183,Henry (I),Rowland
+actor,5075,Dorian,Dixon
+actress,15590,Abigail,Green-Dove
+actress,58705,Rita,Conte
+actress,107965,Margarita Lucia,Krauss
+actor,142357,Dean,O'Gorman
+actor,32057,Robert,Kinar
+actress,101273,Lizzy,DeClement
+actor,77334,Gary (I),Stern
+actor,38835,Chris,Brinker
+actor,111968,Daniel (I),Hagen
+actor,100173,Lawrence,MacGowan
+actor,12279,Peter (I),McKenzie
+actor,140472,Dean,Haglund
+actor,79273,Gregor,Hesse
+actress,15072,Chloe,Roe
+actor,45762,Tyler (I),Dodge
+actress,101626,Filomena,Triscari
+actor,117850,Casey (I),Kasem
+actress,109351,Constance,Yelverton
+actor,120102,Ezio,Manni
+actress,130491,Agata,Buzek
+actress,28466,Elise,Avellan
+actor,103975,Harry,Attwell
+actress,55629,Berglind,Icey
+actor,30766,Jimmy,Scanlon
+actor,36818,Frank G.,Curcio
+actor,96349,Doug,Cowden
+actor,85213,Leo,Gorcey Jr.
+actress,43248,Umpy,Bechtol

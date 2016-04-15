@@ -1,0 +1,66 @@
+42274,,,3139533,[Brian - Chotchkie's Waiter]
+42602,(as Ruperto Reyes Jr.),,3139533,[Mexican Waiter]
+50084,,,3139533,[Steve - Magazine Salesman]
+66485,,,3139533,[Bob Slydell]
+72770,,,3139533,[Milton Waddams]
+75348,,,3139533,[Spectator]
+76439,,,3139533,[Tom Smykowski]
+78630,(uncredited),,3139533,[Initech Security Guard]
+80924,(uncredited),,3139533,[Jogger]
+83351,(uncredited),,3139533,[Pedestrian]
+87425,(uncredited),,3139533,[Initech Employee]
+92461,,,3139533,[Cop at Fire]
+97744,,,3139533,[Bob Porter]
+97872,,,3139533,[Peggy - Lumbergh's Secretary]
+98490,(uncredited),,3139533,[Driver in traffic]
+99333,,,3139533,[Michael Bolton]
+100701,,,3139533,[Drew]
+100881,(uncredited),,3139533,[Rush Hour Driver]
+103605,,,3139533,[Laura Smykowski]
+104207,,,3139533,[Joanna]
+112165,(uncredited),,3139533,[Spectator]
+114394,,,3139533,[Lawrence]
+114815,,,3139533,[Swanson's Patient #2]
+122353,,,3139533,[Rob Newhouse - Smykowski's Lawyer]
+122667,(uncredited),,3139533,[Initech Employee]
+126595,,,3139533,[Nina]
+129499,,,3139533,[Female Temp]
+139112,,,3139533,[Judge]
+142469,,,3139533,[Samir Nagheenanajar]
+145684,,,3139533,[Construction Foreman]
+2445,,,3141798,
+5055,,,3141798,[Mika Kobayashi]
+7290,,,3141798,[Togashi]
+7952,,,3141798,
+11779,,,3141798,
+16130,,,3141798,[Ikuei Sasaki]
+16534,,,3141798,[Yoshiki Kobayashi]
+21135,,,3141798,[Miyuki's Boyfriend]
+23274,,,3141798,[Grandmother]
+24955,,,3141798,[Togashi's Relative]
+34327,,,3141798,[Tomeo's father]
+35225,,,3141798,
+37799,,,3141798,
+43267,(as Yoko Imamoto),,3141798,
+47382,,,3141798,
+47910,,,3141798,[Tomeyo's Uncle]
+50278,,,3141798,[Shokichi Hirata]
+50503,,,3141798,[Yuriko Uemura]
+54692,,,3141798,[Yamashita]
+62192,,,3141798,[Assistant Director]
+62195,,,3141798,[Orchestra Manager]
+63725,,,3141798,
+67665,,,3141798,[Naomi Togashi]
+70786,,,3141798,
+74780,,,3141798,[Young Daigo]
+81498,,,3141798,
+86143,,,3141798,
+86681,,,3141798,
+91677,,,3141798,
+92999,,,3141798,[Tsuyako Yamashita]
+94837,(uncredited),,3141798,[Okuyamakenomusume]
+100484,,,3141798,
+102030,,,3141798,[Sonezaki]
+114396,,,3141798,
+114913,,,3141798,[Daigo Kobayashi]
+121272,,,3141798,

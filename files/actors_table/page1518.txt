@@ -1,0 +1,71 @@
+actor,106886,Rene,Naufahu
+actress,80448,Karyn,Malchus
+actor,5012,Shi Heng,Jiang
+actor,66182,Ike,Ononye
+actor,35029,Blake,Tierney
+actor,79258,Felipe,Dieppa
+actor,7776,David (II),Harman
+actor,35519,William J.,McKeon III
+actor,108483,Armand (I),Cerami
+actor,53220,Se-dong,Kim
+actress,128308,Ruth,McDevitt
+actor,119435,Dulé,Hill
+actress,87512,Victoria,Campean
+actress,92925,Tiffany,Reaves
+actor,13977,Doug C.,Cook
+actress,69283,Zinnini,Elkington
+actress,4372,Carole,Androsky
+actor,63488,Daniel,De'sioye
+actor,55767,Douglas,Banks
+actress,24183,Alenka,Rios
+actress,80307,Michelle,Du Bois
+actor,139855,Eric (I),Wong
+actor,95921,Alan,Gilmer
+actress,98739,Mala,Wright
+actor,58915,Peter G.,Reed
+actor,103558,Josh,Qualtieri
+actor,21464,Gordon,Frye
+actress,47138,Tamara Marie,Watson
+actress,37264,Stephanie J.,Bertenshaw
+actor,73396,Lawrence,Dane
+actress,63211,Sheryl,Underwood
+actor,104818,Argenis,Pirela
+actor,107174,Jida,Gulpilil
+actress,110491,Carolyn,Kessinger
+actor,82478,Anthony,Cefala
+actor,7829,Alexander,Cohen
+actress,102896,Lucy,Boynton
+actress,138388,Colleen,Reynolds
+actor,75257,Greg (II),Collins
+actor,85462,Alvin,Powell
+actress,121492,Josie,Keck
+actor,40802,Heinz,Fitz
+actress,89851,Betsy,Bottando
+actor,112176,Adrien,Brody
+actor,105251,Gene,Leverone
+actress,59565,Alice (II),Bird
+actor,18691,Dan,Desmond
+actress,146629,Cherilee,Taylor
+actor,62523,Patrick,Taverna
+actor,43856,Fernando (I),López
+actor,99669,Batica,Nikalic
+actor,54174,Jeffrey,Sudzin
+actor,141751,Kenneth,Rogoff
+actress,107590,Shelbi,Clarke
+actor,132922,Robert (III),Paradis
+actor,136771,Brett,Zimmerman
+actor,141830,Peter,Weinstein
+actor,131731,Chris,Chering
+actor,25761,Harry (I),Fielder
+actor,30476,Joshua,Lockhart
+actress,106369,Carol-Anne,Touchberry
+actor,34753,Wayne,Lawson
+actress,40383,Sharolyn,Sparrow
+actor,46575,Art,Wasem
+actress,69438,Lisby,Larson
+actor,13032,Tom (I),Beyer
+actor,41479,George (X),Cooper
+actor,85819,John Douglas,Thompson
+actor,90101,Cooper,Chow
+actress,69491,Haleigh,Ward
+actor,61789,Shane,Woolaston

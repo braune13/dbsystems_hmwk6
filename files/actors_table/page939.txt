@@ -1,0 +1,71 @@
+actor,95679,Nicholas R.,Grava
+actor,129703,Matthew,Martini
+actress,109185,Lisa Marie,Caruk
+actor,56418,Oliver,North
+actor,75756,Sean (I),Sullivan
+actor,63916,James (I),Chance
+actor,52131,Tony Chiu Wai,Leung
+actor,100213,Ryan,Northcott
+actress,115590,Lesley,Sharp
+actor,24286,John (XI),Cox
+actor,63221,Clayton T.,Stewart
+actor,83690,Ivan,Staff
+actress,135544,Kate (I),McManus
+actor,101535,Evan (III),Turner
+actor,35450,Roland,Carey
+actress,48609,Elizabeth (I),McCarthy
+actor,82846,Frank G.,Sullivan
+actress,125015,Justine,Cotsonas
+actor,18158,Anthony (I),Hemingway
+actor,90795,D A,Allen
+actress,38449,Betty (XIII),
+actor,64409,Gene,Borkan
+actor,70949,James (III),McHale
+actor,99752,Eddie,Dejean Sr.
+actor,20003,Austin,Pendleton
+actress,32834,Christine (I),Musset
+actor,136961,Jae,Head
+actor,64827,Joe (X),Ford
+actor,112038,Wade (I),Evans
+actress,28212,Lashondra,Phillips
+actor,20188,Vlado,Mihailov
+actress,139300,Misha,Highstead
+actor,102334,Chai,Peyawan
+actor,20194,Martin,Storåsen
+actress,118168,Anne Rocquigny,du Favel
+actor,46456,Jeff (I),Williams
+actress,108723,Mary (II),Smith
+actor,131168,Darren (II),McMullan
+actor,111506,Ronald W.,Gibbs
+actor,58862,Tony,Scoville
+actor,108790,Joe,Saulino
+actor,130011,J. Christopher,Sullivan
+actor,62986,Ronald (I),Taylor
+actor,53183,Terry,Keasler
+actor,47010,Antonio,Centa
+actress,3994,Filipa,Bleck
+actor,131613,Ne,Kaholokula
+actor,115657,Charles S.,Doucet
+actress,85184,Sujata,Sehgal
+actor,126848,John (III),Daniels
+actress,149017,Sarah (I),Riches
+actress,47407,Betty,Bobbitt
+actress,41624,Cong (V),Wang
+actor,2164,Michael (VI),Cassidy
+actor,95049,Kirk,LaSalle
+actor,15635,Brett (I),Harman
+actor,125841,James 'Poorman',Trenton
+actor,23298,Greg,Mayor
+actor,37159,Tim,Horoshok
+actor,145196,Herb,Muller
+actress,32986,Sarah-Jane,Redmond
+actress,87746,April,Sandmeyer
+actor,20847,Paul (IV),Kessler
+actor,1868,Shamar,Milton
+actress,62201,Stephanie,Chai
+actor,18905,Hans-Uwe,Bauer
+actress,143616,Casandra,Ashe
+actor,30897,Chaim,Jeraffi
+actress,85894,Megumi,Okina
+actress,105996,Diana,Douglas
+actor,136475,Raymond,Weber

@@ -1,0 +1,71 @@
+actor,110529,Roberto (II),Soto
+actor,88631,Ricky,Catter
+actor,98683,Stanley,Blystone
+actress,28941,Lene,Bausager
+actor,82690,Fred,Stromsoe
+actor,123258,James,Tillitt
+actor,118204,Ramsey,Ellis
+actress,29091,Nancy L.,Chlumsky
+actor,39877,Paul,Strathman
+actor,74357,William (I),Quigley
+actress,23182,Natalie,Hendrix
+actress,116780,Carrie (I),Collins
+actress,34851,Wenfei,Chen
+actor,39402,Guglielmo,Richards
+actress,41904,Andea,Volschenk
+actor,38620,Rashaud,Love
+actor,6484,Didier,Constant
+actor,18276,Rudolph,Silva
+actor,110294,Fred,Haggerty
+actor,143339,Jirô,Suzukawa
+actor,115286,Jonathan Tyler,Trevillyan
+actor,103595,Marlon,Flechtner
+actor,9286,Arnie,Breeveld
+actress,77264,Elle,LaMont
+actress,103155,Jennifer Neala,Page
+actor,131736,Romi,Siddique
+actor,84982,Toshiyuki,Amagasa
+actress,120436,Aymee,Garcia
+actor,52233,Graeme,Ford
+actress,56409,Shellee,Samuels
+actress,148468,Suzanne (I),Roquette
+actress,109727,Nefetari,Spencer
+actress,133913,Laura Muse,Jackson
+actor,8120,Marcus,Stenzel
+actor,67858,Joseph Benjamin,Stewart
+actor,80389,Scott (II),Mitchell
+actor,113582,Chris,Starkie
+actor,114188,Dominick,Riccardi
+actor,130937,Brett (I),Watson
+actor,60167,Per,Sjöstrand
+actress,114261,Milena,Bolouri
+actor,28093,Kirk (I),Hunter
+actress,48493,Tawny,Kitaen
+actor,34229,Matt (III),Lee
+actress,131774,Beth,Gosnell
+actress,68354,Andrea,Martynowski
+actor,18650,Rashid,Byrd
+actor,104828,Leroy (III),Harris
+actress,60294,Anne,Barton
+actress,57573,Mary Madeleine,Hitching
+actor,121314,Wendell,Sweda
+actor,38800,Cavassa,Ventura
+actress,115715,Neige,Dolsky
+actor,39225,Richard (VII),McDonald
+actress,77877,Rebecca,Broussard
+actor,144030,Teddy,Price
+actor,105643,Scotty,Morrow
+actor,32638,Jason (I),Lee
+actress,82712,Michelle,Brooke
+actor,119995,Charles Stan,Frazier
+actor,101458,Marius,Weyers
+actor,105311,Rick,Emmerson
+actor,55967,Tim (I),Capper
+actor,60098,Sergey (I),Trofimov
+actor,130944,Shea,Farrell
+actor,59342,Orri P.,Dyrason
+actor,26363,Pete,Seadon
+actor,58095,Willy,Petrovic
+actor,104271,Michael (I),McLachlan
+actor,48641,Roger,Hewlett
+actor,41111,Gabriele,Torrei
