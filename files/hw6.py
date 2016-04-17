@@ -17,7 +17,7 @@ class CostData:
         self.a_tab_p = 0
     
 #====================================================================================
-#Function to read through input file and parse search parameters into a dict of lists
+#Function to read through input file and parse search parameters into a list of lists
 
 def parseInputData():
     
@@ -32,23 +32,33 @@ def parseInputData():
         
         #Put this list of query parameters into the list of all query parameters
         queries_params.append(query_params)
-
         
-    print queries_params
-    
-    return queries_params
 #==================================================================================== 
-
 #First scan the movieroles_ma_idx index to find all actors, then actors_id_idx to find
 #the names of these actors and print
-def methodOne():
+
+def methodOne(movieid_low, movieid_high, actorid_low, actorid_high):
     #Create object to hold this method's cost information
     obj_1 = CostData()
+    
+    #Open root file
+    root_data = open('movieroles_ma_idx/root.txt', 'r')
+    
+    #Loop through lines in root.txt
+    for line in root_data:
+        if line[0] == 'i':
+            continue
+        
+        internal_array = [x.strip() for x in line.split(',')]
+        if movieid_low == '*'
+    
+    
+    return obj_1
 
     
 #====================================================================================
-
 #For each query, call each of the three search methods
+
 def runQuery():
     #---------------------------------------------------------------------------
     #Print out what the query is, result header
@@ -63,8 +73,8 @@ def runQuery():
         
         #Print out "Result:" and an extra newline
         print "Result:\n"
-    #---------------------------------------------------------------------------
-    methodOne()
+        #-----------------------------------------------------------------------
+        method_1_obj = methodOne(params[0], params[1], params[2], params[3])
     
 #===================================================================================
 #Main
