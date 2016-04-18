@@ -1,8 +1,9 @@
 #Created by Erica Braunschweig (braune)
 
 import sys
-import method_one_backup
-import method_three
+import method_one_backup as method_one
+import method_two
+#import method_three
 import cost_class
 
 #Global list to hold queries and their parameters (will be a list of lists)
@@ -26,11 +27,9 @@ def parseInputData():
         queries_params.append(query_params)
         
 #=======================================================================================================================
-
 #For each query, call each of the three search methods
 
 def runQuery():
-    #-------------------------------------------------------------------------------------------------------------------
     #Print out what the query is, result header
     for params in queries_params:
         output = "Query: "
@@ -42,7 +41,8 @@ def runQuery():
         print output
 
         #Run all three methods
-        method_1_obj = method_one_backup.methodOne(params[0], params[1], params[2], params[3])
+        method_1_obj = method_one.methodOne(params[0], params[1], params[2], params[3])
+        method_2_obj = method_two.methodTwo(params[0], params[1], params[2], params[3])
 
         #Print out actor names that query returned
         output_string = "Results: (" + str(len(method_1_obj.actor_names)) + " total):"
@@ -55,6 +55,8 @@ def runQuery():
         print str(method_1_obj.mr_idx_p) + " page movieroles_ma_idx index"
         print str(method_1_obj.a_idx_p) + " page actors_id_idx index"
         print str(method_1_obj.a_tab_p) + " page actors_table"
+        
+        
 
 
         print "\n\n\n"

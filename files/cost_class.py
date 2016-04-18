@@ -1,4 +1,4 @@
-# CostData class to hold cost information for each method run ... also holds list of actor names found
+# CostData class to hold cost information for each method run ... also holds set of actor names found from query
 
 class CostData:
     def __init__(self):

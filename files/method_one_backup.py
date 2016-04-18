@@ -85,6 +85,7 @@ def methodOne(movieid_low, movieid_high, actorid_low, actorid_high):
             leaf_location = "movieroles_ma_idx/" + line.strip()
             print leaf_location
             leaf_data = open(leaf_location, 'r')
+            leaf_data.seek(0)
 
             obj_1.total_cost_p += 1
             obj_1.mr_idx_p += 1
@@ -160,6 +161,7 @@ def methodOne(movieid_low, movieid_high, actorid_low, actorid_high):
         if line[0] == 'l' and line.strip() != "leaf":
             leaf_location = "actors_id_idx/" + line.strip()
             leaf_data = open(leaf_location, 'r')
+            leaf_data.seek(0)
 
             obj_1.total_cost_p += 1
             obj_1.a_idx_p += 1
