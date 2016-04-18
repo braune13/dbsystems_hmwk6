@@ -51,22 +51,22 @@ def runQuery():
         output_string = "Results (" + str(len(method_1_obj.actor_names)) + " total):"
         print output_string
         for name in method_1_obj.actor_names:
-            print "\t" + name
+            print " "*4 + name
         
         print ""
         
         print "Method 1 total cost: " + str(method_1_obj.total_cost_p) + " pages"
-        print "\t" + str(method_1_obj.mr_idx_p) + " page movieroles_ma_idx index"
-        print "\t" + str(method_1_obj.a_idx_p) + " page actors_id_idx index"
-        print "\t" + str(method_1_obj.a_tab_p) + " page actors_table\n"
+        print " "*4 + str(method_1_obj.mr_idx_p) + " page movieroles_ma_idx index"
+        print " "*4 + str(method_1_obj.a_idx_p) + " page actors_id_idx index"
+        print " "*4 + str(method_1_obj.a_tab_p) + " page actors_table\n"
 
         print "Method 2 total cost: " + str(method_2_obj.total_cost_p) + " pages"
-        print "\t" + str(method_2_obj.mr_idx_p) + " page movieroles_ma_idx index"
-        print "\t" + str(method_2_obj.a_tab_p) + " page actors_table\n"
+        print " "*4 + str(method_2_obj.mr_idx_p) + " page movieroles_ma_idx index"
+        print " "*4 + str(method_2_obj.a_tab_p) + " page actors_table\n"
         
         print "Method 3 total cost: " + str(method_3_obj.total_cost_p) + " pages"
-        print "\t" + str(method_3_obj.mr_tab_p) + " page movieroles_table"
-        print "\t" + str(method_3_obj.a_tab_p) + " page actors_table\n"
+        print " "*4 + str(method_3_obj.mr_tab_p) + " page movieroles_table"
+        print " "*4 + str(method_3_obj.a_tab_p) + " page actors_table\n"
         
 #=======================================================================================================================
 #Main
