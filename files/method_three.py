@@ -17,8 +17,8 @@ def methodThree(movieid_low, movieid_high, actorid_low, actorid_high):
         # try to see if a page at the current index exists
         try:
             # if the number of actors found is the max possible, break outer loop
-            if actorid_low != '*' and actorid_high != '*' and len(actor_ids) == int(actorid_high) - int(actorid_low) + 1:
-                break
+            # if actorid_low != '*' and actorid_high != '*' and len(actor_ids) == int(actorid_high) - int(actorid_low) + 1:
+                # break
             
             # open the file
             file = open('movieroles_table/page' + str(page_index) + '.txt', 'r')
@@ -54,8 +54,8 @@ def methodThree(movieid_low, movieid_high, actorid_low, actorid_high):
                         actor_ids.add(int(row_array[0]))
                         
                         # if the number of actors found is the max possible, break inner loop
-                        if actorid_low != '*' and actorid_high != '*' and len(actor_ids) == int(actorid_high) - int(actorid_low) + 1:
-                            break
+                        # if actorid_low != '*' and actorid_high != '*' and len(actor_ids) == int(actorid_high) - int(actorid_low) + 1:
+                            # break
             
             # increment index to next page
             page_index += 1

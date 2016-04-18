@@ -1,7 +1,7 @@
 #Created by Erica Braunschweig (braune) and Justin Etzine (etzinj)
 
 import sys
-import method_one_revamped as method_one
+import method_one
 import method_two
 import method_three
 import cost_class
