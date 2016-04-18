@@ -41,25 +41,33 @@ def runQuery():
         print output
 
         #Run all three methods
-        method_1_obj = method_one.methodOne(params[0], params[1], params[2], params[3])
+        #method_1_obj = method_one.methodOne(params[0], params[1], params[2], params[3])
         method_2_obj = method_two.methodTwo(params[0], params[1], params[2], params[3])
 
         #Print out actor names that query returned
-        output_string = "Results: (" + str(len(method_1_obj.actor_names)) + " total):"
+        output_string = "Results (" + str(len(method_2_obj.actor_names)) + " total):"
         print output_string
-        for name in method_1_obj.actor_names:
+        for name in method_2_obj.actor_names:
             print "\t" + name
-
+        
+        print "Method Two total cost: " + str(method_2_obj.total_cost_p) + " pages"
+        print str(method_2_obj.mr_idx_p) + " page movieroles_ma_idx index"
+        print str(method_2_obj.a_tab_p) + " page actors_table"
+        
+        print "\n\n\n"
+        
+'''
         #Print Method One cost details
         print "Method One total cost: " + str(method_1_obj.total_cost_p) + " pages"
         print str(method_1_obj.mr_idx_p) + " page movieroles_ma_idx index"
         print str(method_1_obj.a_idx_p) + " page actors_id_idx index"
         print str(method_1_obj.a_tab_p) + " page actors_table"
+'''      
+       
+
         
         
-
-
-        print "\n\n\n"
+        
 #=======================================================================================================================
 #Main
 parseInputData()

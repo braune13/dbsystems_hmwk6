@@ -31,8 +31,6 @@ def methodTwo(movieid_low, movieid_high, actorid_low, actorid_high):
             internal_location = "movieroles_ma_idx/" + root_array[2]
             internal_data = open(internal_location, 'r')
             internal_data.seek(0)
-            
-            print "No minimum movieid, picking first internal node: " + internal_location
 
             obj_1.total_cost_p += 1
             obj_1.mr_idx_p += 1
@@ -64,8 +62,6 @@ def methodTwo(movieid_low, movieid_high, actorid_low, actorid_high):
             leaf_location = "movieroles_ma_idx/" + internal_array[2].strip()
             leaf_data = open(leaf_location, 'r')
             leaf_data.seek(0)
-            
-            print "No minimum movieid, picking first internal node: " + leaf_location
 
             obj_1.total_cost_p += 1
             obj_1.mr_idx_p += 1
@@ -92,18 +88,17 @@ def methodTwo(movieid_low, movieid_high, actorid_low, actorid_high):
         #Set file to read through
         leaf_data.close()
         leaf_data = open(leaf_location_b, 'r')
-        #leaf_data.seek(0) 
         
         for line_two in leaf_data:
     
             if line_two.strip() == '':
                 should_break = True
-                continue
+                break
     
             if line_two.strip() == "leaf":
                 continue
     
-            #Reached end of file, go to next leaf file listed --- WHERE IT FUCKS UP
+            #Reached end of file, go to next leaf file listed
             if (line_two.strip())[0] == 'l' and line_two.strip() != "leaf":
                 leaf_location_b = "movieroles_ma_idx/" + line_two.strip()
     
@@ -121,11 +116,50 @@ def methodTwo(movieid_low, movieid_high, actorid_low, actorid_high):
     
             #If actorid is in specified range, add actorid to actorid_set
             if (actorid_low == '*' or (int(leaf_array[1]) >= int(actorid_low))) and (actorid_high == '*' or (int(leaf_array[1]) <= int(actorid_high))) and (movieid_low == '*' or (int(leaf_array[0]) >= int(movieid_low))) and (movieid_high == '*' or (int(leaf_array[0]) <= int(movieid_high))):
-                actorid_set.add(leaf_array[1])
+                actorid_set.add(leaf_array[1].strip())
             
         if should_break == True:
             break
-    print "NUMBER OF ACTOR_ID'S FOUND: " + str(len(actorid_set))
     #-------------------------------------------------------------------------------------------------------------------
+    #Loop through actor table files, add matching actor names to return set
+    
+    leaf_location_c = "actors_table/page1.txt"
+    leaf_data_c = open(leaf_location_c,'r')
+    should_break_c = False
+    file_num = 1
+    
+    while (True): 
+        if file_num != 2105:
+            #Set file to read through
+            leaf_data_c.close()
+            leaf_location_c = "actors_table/page" + str(file_num) + ".txt"
+            leaf_data_c = open(leaf_location_c, 'r')
+            
+            obj_1.total_cost_p += 1
+            obj_1.a_tab_p += 1
+        else:
+            break
+        
+        #Go through each line of actor table file
+        for line_three in leaf_data_c:
+            actor_array = [x.strip() for x in line_three.split(',')]
+            
+            if actor_array[1] in actorid_set:
+                if len(actor_array) == 3:
+                    name = actor_array[2]
+                else:
+                    name = actor_array[2] + " " + actor_array[3]
+                    
+                obj_1.actor_names.add(name)
+                actorid_set.discard(actor_array[1])
+                
+                if len(actorid_set) == 0:
+                    should_break_c = True
+                    break
+                
+        file_num += 1
+        if should_break_c == True:
+            break
+    
     return obj_1
     
