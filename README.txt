@@ -14,4 +14,4 @@ method_three.py - runs method three function and returns result in CostClass obj
 
 Known Issues:
 Program may not parse file lines with extra commas properly.  We mitigated the issue as best as we could,
-but we may not have caught a comma related issues.
+but we may not have caught all comma related issues.

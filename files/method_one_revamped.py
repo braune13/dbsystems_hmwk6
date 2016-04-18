@@ -45,8 +45,6 @@ def methodOne(movieid_low, movieid_high, actorid_low, actorid_high):
             obj_1.total_cost_p += 1
             obj_1.mr_idx_p += 1
             break
-
-
     #-------------------------------------------------------------------------------------------------------------------
     #Loop through lines in internal file, find leaf node that contains minimum movieid
     row_num = 0
@@ -161,21 +159,17 @@ def methodOne(movieid_low, movieid_high, actorid_low, actorid_high):
     obj_1.a_idx_p += 2 * (len(actorid_set))
     #-------------------------------------------------------------------------------------------------------------------
     #Loop through actor_id_idx files and get needed actor table pages
-
-    row_num_e = 0
-    should_break_e = False
-    
-    leaf_location_e = leaf_location_d
-    leaf_data_e = open(leaf_location_e, 'r')
-    
+    actor_table_pages = list()
     for actorid in actorid_set:
+        row_num_e = 0
+        should_break_e = False
+    
+        leaf_location_e = leaf_location_d
+        leaf_data_e = open(leaf_location_e, 'r')
+        
         while (True):
             leaf_data_e.close()
             leaf_data_e = open(leaf_location_e, 'r')
-            
-            #Add number of table pages needed to total cost and actor table cost
-            obj_1.total_cost_p += 1
-            obj_1.a_tab_p += 1
             
             for line_e in leaf_data_e:
                 row_num_e += 1
@@ -189,19 +183,17 @@ def methodOne(movieid_low, movieid_high, actorid_low, actorid_high):
                 #Open the file at the end of the page and loop on that instead
                 if line_e[0] == 'l' and line_e.strip() != "leaf":
                     leaf_location_e = "actors_id_idx/" + line_e.strip()
-        
-                    obj_1.total_cost_p += 1
-                    obj_1.a_idx_p += 1
+
                     break
         
                 leaf_array_e = [x.strip() for x in line_e.split(',')]
                 
                 if leaf_array_e[0] == actorid:
-                
+                    actor_table_pages.append(leaf_array_e[1])
+                    
                     #Finally go into actors table and save the chosen actor name
                     page_location_f = "actors_table/" + "page" + leaf_array_e[1] + ".txt"
                     page_data_f = open(page_location_f, 'r')
-                    obj_1.a_tab_p += 1
                     
                     for line_f in page_data_f:
                         leaf_array_f = [x.strip() for x in line_f.split(',')]
@@ -213,14 +205,20 @@ def methodOne(movieid_low, movieid_high, actorid_low, actorid_high):
                             break
                         
                     page_data_f.close()
+                    
                     should_break_e = True
                     break
+                    
         
-                elif leaf_array_e[0] > actorid_high:
+                if int(leaf_array_e[0]) > actorid_high:
                     should_break_e = True
                     break
-            
+           
             if should_break_e == True:
                 break
+            
+    obj_1.a_tab_p += len(actor_table_pages)
+    obj_1.total_cost_p += len(actor_table_pages)
+    obj_1.actor_names = sorted(obj_1.actor_names)
     
     return obj_1

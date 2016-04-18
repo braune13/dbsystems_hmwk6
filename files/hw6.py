@@ -48,14 +48,14 @@ def runQuery():
         print ""
         
         #Print out actor names that query returned
-        output_string = "Results (" + str(len(method_2_obj.actor_names)) + " total):"
+        output_string = "Results (" + str(len(method_1_obj.actor_names)) + " total):"
         print output_string
-        for name in method_2_obj.actor_names:
+        for name in method_1_obj.actor_names:
             print "\t" + name
         
         print ""
         
-        print "Method One total cost: " + str(method_1_obj.total_cost_p) + " pages"
+        print "Method 1 total cost: " + str(method_1_obj.total_cost_p) + " pages"
         print "\t" + str(method_1_obj.mr_idx_p) + " page movieroles_ma_idx index"
         print "\t" + str(method_1_obj.a_idx_p) + " page actors_id_idx index"
         print "\t" + str(method_1_obj.a_tab_p) + " page actors_table\n"
